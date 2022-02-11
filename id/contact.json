@@ -1,0 +1,52 @@
+{
+  "metaTitle": "Kontak kami | XCHscan",
+  "metaDescription": "Hubungi tim XCHscan untuk setiap pertanyaan yang terkait dengan situs web dan alat. Harap dipahami bahwa kami hanya dapat membantu dengan masalah terkait langsung dengan layanan blockchain explorer.",
+  "heading": "Kontak XCHscan",
+  "info": {
+    "heading": "Kirim pesan pada kami, tetapi perlu diketahui bahwa:",
+    "points": [
+      {
+        "heading": "Transaksi Tertunda",
+        "content": "Kami tidak dapat memproses transaksi dan karena itu transaksi tidak dapat dipercepat, dibatalkan atau digantikan. Jika Anda memiliki masalah dengan transaksi yang tertunda, silahkan lihat di sini."
+      },
+      {
+        "heading": "Chia Blok Explorer",
+        "content": "XCHscan adalah blockchain explore independen yang tidak terkait dengan penyedia layanan lainnya (kecuali dinyatakan secara eksplisit) dan karena itu tidak dapat memberikan tanggapan yang tepar untuk pertanyaan spesifik untuk penyedia layanan lain."
+      },
+      {
+        "heading": "Dompet / Bursa / Masalah terkait proyek",
+        "content": "Mohon hubungi penyedia layanan dompet, bursa atau proyek/pemilik kontrak untuk dukungan lebih lanjut karena mereka berada dalam posisi yang lebih baik untuk membantu Anda mengatasi masalah yang terkait dengan platform mereka."
+      }
+    ]
+  },
+  "form": {
+    "heading": "Formulir kontak:",
+    "name": {
+      "label": "Nama",
+      "placeholder": "Nama"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Email"
+    },
+    "subject": {
+      "label": "Subjek",
+      "placeholder": "Subjek",
+      "options": [
+        "Pertanyaan umum",
+        "Dukungan / Teknis",
+        "Kemitraan",
+        "API / Pengembangan",
+        "Penandaan nama / Label alamat",
+        "Advertise"
+      ]
+    },
+    "message": {
+      "label": "Pesan",
+      "placeholder": "Pesan"
+    },
+    "button": "Kirim Pesan",
+    "successMessage": "Terima kasih, kami akan segara mengabari Anda",
+    "errorMessage": "Ada sesuatu yang salah!"
+  }
+}

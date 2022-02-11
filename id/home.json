@@ -1,0 +1,24 @@
+{
+  "metaTitle": "Chia (XCH) Penjelajah Blockchain | XCHscan",
+  "metaDescription": "XCHscan adalah Blockchain Explorer dan Platform Analisis untuk jaringan CHIA (XCH), sebuah blockchain baru dan platform smart contract terdesentralisasi.",
+  "heroTitle": "Chia Blockchain Explorer",
+  "chiaPrice": "Harga Chia",
+  "xchFarmed": "XCH farmed",
+  "difficulty": "Kesulitan",
+  "mempoolSize": "Ukuran Mempool",
+  "currentBlock": "Blok Saat Ini",
+  "netspace": "Netspace",
+  "transactionHistory": "Riwayat Transaksi Chia dalam {{days}} hari",
+  "banner": {
+    "title": "Ekosistem Chia dimulai di sini",
+    "description": "Apakah Anda memiliki produk atau layanan terkiat Chia? Hubungi Kami dan tingkatkan tampilan untuk melihat nomor #1 Chia blockchain explorer for Chia."
+  },
+  "latestBlocks": "Blok Terbaru",
+  "latestTxns": "Transaksi Terbaru",
+  "error": "Error!",
+  "noBlocks": "Tidak ada blok!",
+  "noTxns": "Tidak ada transaksi!",
+  "blockMiner": "Miner",
+  "txnFrom": "Dari",
+  "txnTo": "Untuk"
+}

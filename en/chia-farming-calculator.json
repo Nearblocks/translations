@@ -1,0 +1,24 @@
+{
+  "metaTitle": "Near Ⓝ Farming Calculator Near Blocks",
+  "metaDescription": "Calculate how much Near Ⓝ you can earn from farming Chia cryptocurrency (Ⓝ) and what your setup costs will be. Hourly, daily and monthly estimated earnings.",
+  "heading": [
+    "Farming Calculator",
+    "Figure out if you'll be profitable farming Chia"
+  ],
+  "viewPools": "View Pools",
+  "calculator": {
+    "heading": "Farming Calculator",
+    "content": "Near provides a simple tool to help you figure out if you'll be profitable farming Chia.",
+    "plotSize": "Plot Size",
+    "noOfPlots": "Number of Plots",
+    "network": [
+      "Network",
+      "Total network space",
+      "Including your space",
+      "Owned network space",
+      "Expected time to win"
+    ],
+    "earnings": ["Estimated Earnings", "Hourly", "Daily", "Monthly"],
+    "chanceToWin": ["Chance to win", "Hourly", "Daily", "Monthly"]
+  }
+}

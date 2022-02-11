@@ -1,0 +1,24 @@
+{
+  "metaTitle": "Chia (XCH) Kalkulator Farming | XCHscan",
+  "metaDescription": "Hitung berapa Chia (XCH) yang bisa didapatkan dari farming cryptocurrrency Chia (XCH) adan berapa biaya pengaturan Anda. Perkiraan penghasilan per jam, harian dan bulanan.",
+  "heading": [
+    "Kalkulator Farming",
+    "Cari tahu apakah Anda akan mendapatkan keuntungan dari farming Chia"
+  ],
+  "viewPools": "Lihat Pools",
+  "calculator": {
+    "heading": "Kalkulator Farming",
+    "content": "XCHscan menyediakan alat sederhana untuk membantu Anda apakah Anda akan mendapatkan keuntungan farming Chia.",
+    "plotSize": "Ukuran Plot",
+    "noOfPlots": "Nomor Plot",
+    "network": [
+      "jaringan",
+      "Total ruang jaringan",
+      "Termasuk ruangan Anda",
+      "Ruang jaringan yang dimiliki",
+      "Waktu yang diharapkan untuk menang"
+    ],
+    "earnings": ["Perkiraan penghasilan", "Per Jam", "Per Hari", "Per Bulan"],
+    "chanceToWin": ["Kesempatan untuk menang", "Per Jam", "Per Hari", "Per Bulan"]
+  }
+}

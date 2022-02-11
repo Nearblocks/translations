@@ -1,0 +1,13 @@
+{
+  "metaTitle": "前 10,000 个 Chia (XCH) 账户 | XCHscan",
+  "metaDescription": "按 XCH 余额查找前 10,000 个 Chia (XCH) 帐户.",
+  "heading": "XCH 余额排名前列的账户",
+  "listing": "总计 > {{count}} 找到帐户 ({{sum}} XCH).",
+  "info": "仅显示前 10,000 个帐户",
+  "rank": "秩",
+  "address": "地址",
+  "balance": "平衡",
+  "percentage": "百分比",
+  "value": "价值",
+  "txns": "交易次数"
+}

@@ -1,0 +1,43 @@
+{
+  "metaTitle": "Claim Ⓝ Address | Near Blocks",
+  "metaDescription": "Claim your name, tag and other information.",
+  "heading": "Claim Ⓝ Address",
+  "form": {
+    "heading": "Claim your name, tag and other information",
+    "content": "Claim your Name Tag and add other information related to your Ⓝ address by filling in the form below. For each edit request, we will ask for a {{amount}} Ⓝ deposit to prove your address ownership.",
+    "address": {
+      "label": "Ⓝ Address"
+    },
+    "label": {
+      "label": "Name"
+    },
+    "tag": {
+      "label": "Tag"
+    },
+    "website": {
+      "label": "Website"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (Or Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Deposit {{amount}} Ⓝ to the following address to prove your ownership:",
+      "tooltip": "The sending address must be identical to the address you wish to add information to."
+    },
+    "button": "Submit",
+    "successMessage": "Thank you, we will review your application and list it after its been approved",
+    "errorMessage": "Something went wrong!"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "metaTitle": "Все последние блоки Chia (XCH) | XCHscan",
+  "metaDescription": "Все блоки Chia (XCH), которые включены в цепочку блоков Chia. Отображаются отметка времени, фармер, вознаграждение за блок, сложность и включенные транзакции.",
+  "heading": "Блоки",
+  "listing": "Блок № {{from}} по № {{to}} (Всего блоков {{count}})",
+  "blocks": "Блок",
+  "type": "Тип",
+  "typeBlock": "Блок",
+  "typeTxBlock": "Блок TX",
+  "age": "Время",
+  "txn": "Txn",
+  "miner": "Майнер",
+  "weight": "Вес",
+  "reward": "Вознаграждения Chia",
+  "volume": "Объем транзакции",
+  "block": {
+    "metaTitle": "Блок Chia (XCH) {{block}} | XCHscan",
+    "metaDescription": "Высота блока Chia (XCH) {{block}}. Время, вознаграждение за блок, сложность, комиссии, количество транзакций и вознаграждений в блоке подробно описаны на XCHscan.",
+    "heading": "Блок <0> # {{block}} </0>",
+    "height": "Высота блока",
+    "hash": "Хеш заголовка",
+    "timestamp": "Отметка времени",
+    "transactions": [
+      "Транзакции",
+      "<0> {{txns}} транзакций </0> и {{rewards}} вознаграждений"
+    ],
+    "farmer": "Фармер",
+    "pool": "Пул",
+    "poolReward": "Вознаграждение в пуле",
+    "farmerReward": "Вознаграждение фармерам",
+    "fees": "Комиссии",
+    "price": "Цена XCH",
+    "farmerHash": "Фармер Puzzlehash",
+    "poolHash": "Пул Puzzlehash",
+    "foliage": "foliage",
+    "rewardChain": "Блок цепочки вознаграждений",
+    "proof": "Пруф"
+  }
+}

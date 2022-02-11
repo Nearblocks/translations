@@ -1,0 +1,77 @@
+{
+  "metaTitle": "All Near Ⓝ  Latest Transactions | Near Blocks",
+  "metaDescription": "All Near Ⓝ  Transactions confirmed on Near Blockchain. The list consists of transactions from sending Near Ⓝ  and the transactions details for each transaction.",
+  "heading": "Transactions",
+  "listing": "More than > {{count}} transactions found",
+  "listingToken": "More than > {{count}} Token transfers found",
+  "hash": "Txn Hash",
+  "type": "Type",
+  "typeTxn": "Transaction",
+  "typePoolReward": "Pool Reward",
+  "typeFarmerReward": "Farmer Reward",
+  "typeToken": "Token transaction",
+  "age": "Age",
+  "ageDT": "Date Time (UTC)",
+  "confirmed": "Confirmed Block",
+  "from": "From",
+  "to": "To",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Amount",
+  "filter": {
+    "placeholder": "Search by address e.g. Ⓝ..",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
+  },
+  "txn": {
+    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
+    "heading": "Transaction Details",
+    "hash": {
+      "text": ["Txn Hash"],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+    },
+    "status": {
+      "text": ["Status", "Success", "Spent", "Unspent"],
+      "tooltip": "The status of the transaction."
+    },
+    "block": {
+      "text": ["Block"],
+      "tooltip": "The number of the block in which the transaction was recorded."
+    },
+    "timestamp": {
+      "text": ["Timestamp"],
+      "tooltip": "The date and time at which a transaction is mined."
+    },
+    "value": {
+      "text": ["Value"],
+      "tooltip": "The value being transacted in Ⓝ and fiat value"
+    },
+    "price": {
+      "text": ["Ⓝ Price"],
+      "tooltip": "Closing price of Ⓝ on date of transaction"
+    },
+    "from": {
+      "text": ["From"],
+      "tooltip": "The sending party of the transaction."
+    },
+    "to": {
+      "text": ["To"],
+      "tooltip": "The receiving party of the transaction."
+    },
+    "type": {
+      "text": ["Type", "Transaction", "Pool Reward", "Farmer Reward"],
+      "tooltip": "Type of transaction."
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"    
+  },
+  "info": "Showing the last {{count}} records only"
+}

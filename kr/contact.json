@@ -1,0 +1,52 @@
+{
+  "metaTitle": "문의하기 | XCHscan",
+  "metaDescription": "XCHscan 팀을 통해 웹사이트와 툴에 대한 질문을 할 수 있습니다. 치아 블록체인 익스프로러 서비스와 관련된 내용만 문의할 수 있습니다.",
+  "heading": "XCHscan에 연락하기",
+  "info": {
+    "heading": "메시지를 남겨주세요. 그 전에 이하의 내용을 확인하시기 바랍니다.:",
+    "points": [
+      {
+        "heading": "펜딩된 전송",
+        "content": "우리는 전송을 처리하거나 취소, 대체할 수 없습니다. 만약 당신이 펜딩된 전송과 관련된 문제가 있다면 여기를 참고하세요."
+      },
+      {
+        "heading": "치아 블록체인 익스프로러",
+        "content": "XCHscan은 다른 서비스들과 관련없는 개별적인 블록 익스프로러 서비스입니다. 따라서 XCHscan과 관련이 없는 다른 서비스에 대한 명쾌한 대답을 드릴 수 없습니다."
+      },
+      {
+        "heading": "지갑 / 거래소 / 프로젝트 관련 이슈",
+        "content": "지갑 서비스 제공자, 거래소, 프로젝트에 직접 컨택하셔서 도움을 요청해보세요. XCHscan은 그들이 제공하는 서비스에 대해 명쾌한 조언을 드릴 수 없습니다."
+      }
+    ]
+  },
+  "form": {
+    "heading": "컨택 폼:",
+    "name": {
+      "label": "이름",
+      "placeholder": "이름"
+    },
+    "email": {
+      "label": "이메일",
+      "placeholder": "이메일"
+    },
+    "subject": {
+      "label": "주제",
+      "placeholder": "주제",
+      "options": [
+        "일반적인 질문",
+        "도움요청 / 기술지원",
+        "파트너십",
+        "API / 개발",
+        "네임 태그 / 지갑 라벨",
+        "Advertise"
+      ]
+    },
+    "message": {
+      "label": "메시지",
+      "placeholder": "메시지"
+    },
+    "button": "메시지 보내기",
+    "successMessage": "감사합니다. 곧 연락드리겠습니다.",
+    "errorMessage": "에러가 발생하였습니다."
+  }
+}

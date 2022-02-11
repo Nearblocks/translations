@@ -1,0 +1,27 @@
+{
+  "metaTitle": "Chia (XCH) 顶级养殖池 | XCHscan",
+  "metaDescription": "最佳 Chia (XCH) 养殖池的完整列表. 此列表中的所有池都经过验证. 比较矿池费用、网络空间、区块高度和最后收到的奖励. ",
+  "heading": ["耕种池", "Chia池上市信息"],
+  "submitPool": "提交Chia池",
+  "table": {
+    "heading": "Chia耕种池一览表",
+    "pool": "池",
+    "verified": "已验证",
+    "fees": "池子费用",
+    "networkSpace": "网络空间",
+    "blockHeight": "区块高度",
+    "lastReward": "最后收到的奖励",
+    "history": "7 Day History",
+    "minPay": "Min Pay",
+    "farmers": "Farmers",
+    "status": "Status",
+    "uptime": "Uptime (24H)",
+    "address": "Pool address",
+    "statusWarning": "Missing Data in API",
+    "uptimeWarning": "For this pool, {{success}} of the last {{all}} checks were successful",
+    "netspaceWarning": "Netspace cannot be verified, missing pool address",
+    "netspaceError": "The reported pool netspace by {{name}} is less then the calculated pool netspace based on the number of rewards over the past 7 days.",
+    "netspaceSuccess": "Pool netspace is calculted and verified"
+  },
+  "notice": "我们显示的矿池统计数据基于矿池运营商提供的 API 数据，应谨慎对待."
+}

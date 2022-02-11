@@ -1,0 +1,39 @@
+{
+  "metaTitle": "所有 Chia (XCH) 最新区块 | XCHscan",
+  "metaDescription": "Chia 区块链中包含的所有 Chia (XCH) 块。显示时间戳、农民、区块奖励、难度和包含的交易。",
+  "heading": "区块",
+  "listing": "区块#{{from}}到#{{to}} (区块数{{count}})",
+  "blocks": "区块",
+  "type": "类型",
+  "typeBlock": "区块",
+  "typeTxBlock": "TX区块",
+  "age": "时期",
+  "txn": "Txn",
+  "miner": "矿工",
+  "weight": "重量",
+  "reward": "Chia奖励",
+  "volume": "交易量",
+  "block": {
+    "metaTitle": "Chia (XCH) Block {{block}} | XCHscan",
+    "metaDescription": "Chia (XCH) Block Height {{block}}. The timestamp, block reward, difficulty, fees, number of transactions and rewards in the block are detailed on XCHscan.",
+    "heading": "区块 <0>#{{block}}</0>",
+    "height": "区块高度",
+    "hash": "哈希",
+    "timestamp": "时间戳",
+    "transactions": [
+      "交易",
+      "<0>{{txns}} 交易和</0> {{rewards}} 奖励"
+    ],
+    "farmer": "耕种",
+    "pool": "池",
+    "poolReward": "池子奖励",
+    "farmerReward": "耕种奖励",
+    "fees": "费用",
+    "price": "XCH 价格",
+    "farmerHash": "Farmer Puzzlehash",
+    "poolHash": "Pool Puzzlehash",
+    "foliage": "Foliage",
+    "rewardChain": "Reward Chain Block",
+    "proof": "Proof"
+  }
+}

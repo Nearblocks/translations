@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Top 10,000 Near (XCH) Accounts | Near Blocks",
+  "metaDescription": "Find The top 10,000 Near (XCH) accounts by XCH balance.",
+  "heading": "Top Accounts by XCH Balance",
+  "listing": "A total of > {{count}} accounts found ({{sum}} XCH).",
+  "info": "Showing top 10,000 accounts only",
+  "rank": "Rank",
+  "address": "Address",
+  "balance": "Balance",
+  "percentage": "Percentage",
+  "value": "Value",
+  "txns": "Txns Count"
+}

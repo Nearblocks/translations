@@ -1,0 +1,33 @@
+{
+  "metaTitle": "Submit & Advertise your Near Ⓝ Farming Pool | Near Blocks",
+  "metaDescription": "Submit your Near Ⓝ farming pool to nearblocks.io  to feature on our pool listing page. You will need to comply to our API structure.",
+  "heading": "Submit a Community Chia Pool",
+  "form": {
+    "heading": "Get your pool listed on Near Blocks",
+    "content": "Fill out the details below to be published on our site. Your pool API URL needs to return the expected json format we've outlined below. API results which do not match our format will not be included automatically and will require a manual review.",
+    "name": {
+      "label": "Pool Name",
+      "placeholder": "Pool Name"
+    },
+    "website": {
+      "label": "Website",
+      "placeholder": "Website"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Email"
+    },
+    "api": {
+      "label": "Pool Api URL",
+      "placeholder": "Pool Api URL",
+      "tooltip": "The pool URL to get the pool info. e.g. https://nearblocks.io/pool_info. We use this API to fetch and verify information about your pool."
+    },
+    "fees": {
+      "label": "Fees",
+      "placeholder": "Fees"
+    },
+    "button": "Submit",
+    "successMessage": "Thank you, we will review your application and list it after its been approved",
+    "errorMessage": "Something went wrong!"
+  }
+}

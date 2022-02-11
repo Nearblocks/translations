@@ -1,0 +1,33 @@
+{
+  "metaTitle": "제출하기 & 치아 파밍풀 광고하기 | XCHscan",
+  "metaDescription": "",
+  "heading": "치아 풀 리스팅 신청하기",
+  "form": {
+    "heading": "XCHscan에 풀을 리스팅하세요",
+    "content": "풀 프로토콜은 2021년 6월 1일에 Live로 운영됩니다. 당신의 풀을 리스팅하기 위해서 지금 바로 메시지를 보내세요.",
+    "name": {
+      "label": "이름",
+      "placeholder": "이름"
+    },
+    "website": {
+      "label": "웹사이트",
+      "placeholder": "웹사이트"
+    },
+    "email": {
+      "label": "이메일",
+      "placeholder": "이메일"
+    },
+    "api": {
+      "label": "풀 API URL",
+      "placeholder": "풀 Api URL",
+      "tooltip": "풀 정보를 얻기 위한 풀 URL. 예를 들어 https://xchscan.com/pool_info. 우리는 이 API를 통해 당신의 풀에 대한 정보를 끌어올 수 있습니다."
+    },
+    "fees": {
+      "label": "수수료",
+      "placeholder": "수수료"
+    },
+    "button": "제출하기",
+    "successMessage": "감사합니다. 당신의 제출에 대한 검토가 끝나고 승인이 되면 풀이 리스팅 될 것입니다.",
+    "errorMessage": "오류가 발생하였습니다!"
+  }
+}

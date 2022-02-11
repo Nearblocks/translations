@@ -1,0 +1,83 @@
+{
+  "header": {
+    "menu": {
+      "home": "Главная",
+      "pools": "Пулы",
+      "pool": "Пул XCHscan",
+      "otherPools": "Список пулов Chia",
+      "farmingCalculator": "Калькулятор майнинга",
+      "blockchain": "Блокчейн",
+      "viewBlocks": "Просмотр блоков",
+      "viewTxns": "Просмотр транзакций",
+      "topFarmers": "Лучшие майнеры",
+      "languages": "Языки",
+      "charts": "Графики и статистика",
+      "topAccounts": "Топ аккаунты",
+      "tokens": "Жетоны",
+      "toptoken": "Лучшие токены",
+      "viewTokenTrasfers": "Просмотр переводов токенов"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Все фильтры",
+      "txns": "Транзакции",
+      "блоки": "Блоки",
+      "token": "Tokens"
+    },
+    "placeholder": "Поиск по адресу / Хэшу транзакции / Блоку",
+    "list": {
+      "address": "Адреса",
+      "txns": "Транзакции",
+      "blocks": "Блоки",
+      "tokens": "Tokens"
+    }
+  },
+  "footer": {
+    "description": "XCHscan - это платформа для просмотра и анализа блоков для Chia, нового блокчейна и платформы умных транзакций.",
+    "poweredBy": "Powered by",
+    "links": {
+      "pools": "Пулы",
+      "pool": "Пул XCHscan",
+      "otherPools": "Список пул Chia",
+      "farmingCalculator": "Калькулятор майнинга",
+      "explore": "Исследовать",
+      "blockExplorer": "Обозреватель блоков",
+      "latestBlocks": "Последние блоки",
+      "latestTxns": "Последние транзакции",
+      "company": "Компания",
+      "about": "О нас",
+      "advertise": "Реклама",
+      "contact": "Контакты",
+      "terms": "Условия",
+      "charts": "Графики и статистика",
+      "api": "API",
+      "submitPool": "Разместить пул",
+      "kb": "База знаний",
+      "основы": "Основы",
+      "buySell": "Купить, продать и обменять"
+    }
+  },
+  "sponsored": "Sponsored",
+  "pagination": {
+    "first": "Первая",
+    "last": "Последняя"
+  },
+  "validation": {
+    "required": "{{field}} обязательно",
+    "invalid": "Пожалуйста, укажите действительное {{field}}"
+  },
+  "chart": {
+    "source": "Источник: XCHscan.com"
+  },
+  "trademark": "XCHscan работает полностью и самостоятельно. Chia Network ™ и Chia Blockchain ™ являются товарными знаками или зарегистрированными товарными знаками Chia Network, Inc. в США и во всем мире, корпорации штата Делавэр. XCHscan не связан с Chia Network, Inc. и все зарегистрированные товарные знаки, представленные на этом веб-сайте, принадлежат их соответствующим владельцам. ",
+  "tags": {
+    "service": "Сервис",
+    "pool": "Пул",
+    "personal": "Персональный",
+    "shop": "Магазин",
+    "donation": "Пожертвование",
+    "centralisedExchange": "Централизованный обмен",
+    "decentralisedExchange": "Децентрализованная биржа"
+  }
+}

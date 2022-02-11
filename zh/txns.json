@@ -1,0 +1,77 @@
+{
+  "metaTitle": "所有 Chia (XCH) 交易 | XCHscan",
+  "metaDescription": "在 Chia 区块链上确认的所有 Chia (XCH) 交易。该列表由发送 Chia (XCH) 的交易和每笔交易的交易详情组成",
+  "heading": "交易",
+  "listing": "找到超过>{count}个交易",
+  "listingToken": "发现超过 {{count}} token 次转移",
+  "hash": "Txn哈希",
+  "type": "类型",
+  "typeTxn": "交易",
+  "typeToken": "代币交易",
+  "typePoolReward": "池奖励",
+  "typeFarmerReward": "耕种者奖励",
+  "age": "时期",
+  "ageDT": "日期时间（UTC）",
+  "confirmed": "已确认区块",
+  "from": "发送方",
+  "to": "接收方",
+  "txnIn": "收到",
+  "txnOut": "发出",
+  "amount": "金额",
+  "filter": {
+    "placeholder": "按地址搜索，例如xch..",
+    "filter": "筛选条件",
+    "clear": "清除",
+    "by": "筛选方式：",
+    "from": "发送方:",
+    "to": "接收方:"
+  },
+  "txn": {
+    "metaTitle": "Chia (XCH) 交易 {{txn}} | XCHscan",
+    "metaDescription": "Chia (XCH) 区块链交易详细信息 {{txn}}.",
+    "heading": "交易明细",
+    "hash": {
+      "text": ["Txn哈希"],
+      "tooltip": "Txn哈希或交易哈希是在执行交易时生成的唯一66个字符的标识符。"
+    },
+    "status": {
+      "text": ["状态", "成功", "已用", "未用"],
+      "tooltip": "交易状态。"
+    },
+    "block": {
+      "text": ["区块"],
+      "tooltip": "记录该交易的区块编号。"
+    },
+    "timestamp": {
+      "text": ["时间戳"],
+      "tooltip": "交易被开采的日期和时间。"
+    },
+    "value": {
+      "text": ["价值"],
+      "tooltip": "以XCH和法币价值进行交易的价值"
+    },
+    "price": {
+      "text": ["XCH 价格"],
+      "tooltip": "交易日XCH的收盘价"
+    },
+    "from": {
+      "text": ["发送方"],
+      "tooltip": "交易的发送方。"
+    },
+    "to": {
+      "text": ["接收方"],
+      "tooltip": "交易的接收方。"
+    },
+    "type": {
+      "text": ["类型", "交易", "池子奖励", "耕种者奖励"],
+      "tooltip": "交易类型。"
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "未知",
+    "claimToken": "申领令牌",
+    "token": "令牌"    
+  },
+  "info": "仅显示最后 {{count}} 条记录"
+}

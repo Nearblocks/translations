@@ -1,0 +1,19 @@
+{
+  "metaTitle": "상위 50개 XCH 지갑 주소 : 제네시스 혹은 10,000 블록 이후 | XCHscan",
+  "metaDescription": "지난 24시간 내, 최근 10,000블록 내 혹은 제네시스 이후 블록을 찾은 상위 50개 파머.",
+  "heading": "탑 파머",
+  "netspace": "넷스페이스",
+  "difficulty": "난이도",
+  "addressCount": "유니크한 지갑주소 갯수",
+  "powerUsage": "전력 사용량",
+  "feesXCH": "수수료 / 코인(XCH)",
+  "feesUSD": "수수료 / 코인(USD)",
+  "totalXCH": "총 XCH",
+  "farmedXCH": "파밍된 XCH",
+  "tabs": ["마지막 10,000 블록", "제네시스 이후"],
+  "description": "승리한 블록 기준으로 탑 50 주소. 파머는 직접 여러개의 주소로 받을 수도 있습니다.",
+  "rank": "랭크",
+  "blocksWon": "승리한 블록",
+  "blocksWon24H": "승리한 블록(24시간 내)",
+  "address": "주소"
+}

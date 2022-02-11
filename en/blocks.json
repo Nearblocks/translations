@@ -1,0 +1,39 @@
+{
+  "metaTitle": "All Near (Ⓝ) Latest Blocks | Near Blocks",
+  "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, farmer, block reward, difficulty and included transactions are shown.",
+  "heading": "Blocks",
+  "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
+  "blocks": "Block",
+  "type": "Type",
+  "typeBlock": "Block",
+  "typeTxBlock": "TX Block",
+  "age": "Age",
+  "txn": "Txn",
+  "miner": "Farmer",
+  "weight": "Weight",
+  "reward": "Rewards",
+  "volume": "Transaction Volume",
+  "block": {
+    "metaTitle": "Near (Ⓝ) Block {{block}} | Near Blocks",
+    "metaDescription": "Near (Ⓝ) Block Height {{block}}. The timestamp, block reward, difficulty, fees, number of transactions and rewards in the block are detailed on Near.",
+    "heading": "Block <0>#{{block}}</0>",
+    "height": "Block Height",
+    "hash": "Header Hash",
+    "timestamp": "Timestamp",
+    "transactions": [
+      "Transactions",
+      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
+    ],
+    "farmer": "Farmer",
+    "pool": "Pool",
+    "poolReward": "Pool Reward",
+    "farmerReward": "Farmer Reward",
+    "fees": "Fees",
+    "price": "Ⓝ Price",
+    "farmerHash": "Farmer Puzzlehash",
+    "poolHash": "Pool Puzzlehash",
+    "foliage": "Foliage",
+    "rewardChain": "Reward Chain Block",
+    "proof": "Proof"
+  }
+}

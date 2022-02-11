@@ -1,0 +1,83 @@
+{
+  "header": {
+    "menu": {
+      "home": "홈",
+      "pools": "치아 풀",
+      "pool": "XCHscan 풀",
+      "otherPools": "다른 풀 보기",
+      "farmingCalculator": "파밍 계산기",
+      "blockchain": "블록체인",
+      "viewBlocks": "블록 조회",
+      "viewTxns": "전송 조회",
+      "topFarmers": "파머 순위",
+      "languages": "언어",
+      "charts": "차트 & 통계",
+      "topAccounts": "상위 지갑",
+      "tokens": "토큰",
+      "toptoken": "상위 토큰",
+      "viewTokenTrasfers": "Lihat 전송 토큰"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "모든 필터",
+      "txns": "전송",
+      "blocks": "블록",
+      "token": "Tokens"
+    },
+    "placeholder": "지갑주소 / 전송 해시 / 블록",
+    "list": {
+      "address": "지갑주소",
+      "txns": "전송",
+      "blocks": "블록",
+      "tokens": "Tokens"
+    }
+  },
+  "footer": {
+    "description": "XCHscan는 선도적인 블록체인 익스프로러로써, 치아 네트워크 블록체인의 조회, API, 분석을 제공하는 플랫폼입니다.",
+    "poweredBy": "Powered by",
+    "links": {
+      "pools": "풀",
+      "pool": "XCHscan 풀",
+      "otherPools": "다른 풀",
+      "farmingCalculator": "파밍 계산기",
+      "explore": "익스프로러",
+      "blockExplorer": "블록 익스프로러",
+      "latestBlocks": "가장 최근 블록",
+      "latestTxns": "가장 최근 전송",
+      "company": "회사",
+      "about": "서비스 소개",
+      "advertise": "광고",
+      "contact": "연락하기",
+      "terms": "약관",
+      "charts": "차트 & 통계",
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
+    }
+  },
+  "sponsored": "협찬",
+  "pagination": {
+    "first": "처음",
+    "last": "끝"
+  },
+  "validation": {
+    "required": "{{field}} 가 필요합니다.",
+    "invalid": "유효한 {{field}}를 넣어주세요"
+  },
+  "chart": {
+    "source": "Source: XCHscan.com"
+  },
+  "trademark": "XCHscan is operated full and on its own. Chia Network™ and the Chia Blockchain™ are trademarks or registered trademarks of Chia Network, Inc. in the United States and worldwide, a Delaware corporation. XCHscan is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "tags": {
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personal",
+    "shop": "Shop",
+    "donation": "Donation",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
+  }
+}

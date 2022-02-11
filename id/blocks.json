@@ -1,0 +1,39 @@
+{
+  "metaTitle": "Semua Blok Terbaru Chia (XCH) | XCHscan",
+  "metaDescription": "Semua block Chia (XCH) yang termasuk dalam blockchain Chia. Stempel waktu, farmer, hadiah blok, kesulitan dan termasuk transaksi yang disertakan ditampilkan.",
+  "heading": "Blok",
+  "listing": "Blok #{{from}} untuk #{{to}} (Total of {{count}} blocks)",
+  "blocks": "Blok",
+  "type": "Tipe",
+  "typeBlock": "Blok",
+  "typeTxBlock": "TX Blok",
+  "age": "Usia",
+  "txn": "Txn",
+  "miner": "Miner",
+  "weight": "Berat",
+  "reward": "Hadiah Chia",
+  "volume": "Volumer Transaksi",
+  "block": {
+    "metaTitle": "Chia (XCH) Blok {{block}} | XCHscan",
+    "metaDescription": "Chia (XCH) Tinggi blok {{block}}. Stempel waktu, hadiah blok, kesulitan, biaya, nomor transaksi dan hadiah dalam transaksi dan hadiah di block dirinci di XCHscan.",
+    "heading": "Blok <0>#{{block}}</0>",
+    "height": "Tinggi blok",
+    "hash": "Judul Hash",
+    "timestamp": "Stempel Waktu",
+    "transactions": [
+      "Transaksi",
+      "<0>{{txns}} transaksi dan</0> {{rewards}} hadiah"
+    ],
+    "farmer": "Farmer",
+    "pool": "Pool",
+    "poolReward": "Hadiah pool",
+    "farmerReward": "Hadiah Farmer",
+    "fees": "Biaya",
+    "price": "Harga XCH",
+    "farmerHash": "Farmer Puzzlehash",
+    "poolHash": "Pool Puzzlehash",
+    "foliage": "Foliage",
+    "rewardChain": "Reward Chain Block",
+    "proof": "Proof"
+  }
+}

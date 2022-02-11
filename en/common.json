@@ -1,0 +1,83 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "pools": "Pools",
+      "pool": "Near Blocks Pool",
+      "otherPools": "List of Chia Pools",
+      "farmingCalculator": "Farming Calculator",
+      "blockchain": "Blockchain",
+      "viewBlocks": "View Blocks",
+      "viewTxns": "View Txns",
+      "topFarmers": "Top Farmers",
+      "languages": "Languages",
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens"
+    },
+    "placeholder": "Search by Address / Txn Hash / Block",
+    "list": {
+      "address": "Addresses",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
+    }
+  },
+  "footer": {
+    "description": "Near Blocks is a Block Explorer and Analytics Platform for Chia blockchain, a new blockchain and smart transaction platform.",
+    "poweredBy": "Powered by",
+    "links": {
+      "pools": "Pools",
+      "pool": "Near Blocks Pool",
+      "otherPools": "List of Chia Pools",
+      "farmingCalculator": "Farming Calculator",
+      "explore": "Explore",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms",
+      "charts": "Charts & Stats",
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
+    }
+  },
+  "sponsored": "Sponsored",
+  "pagination": {
+    "first": "First",
+    "last": "Last"
+  },
+  "validation": {
+    "required": "{{field}} is required",
+    "invalid": "Please provide a valid {{field}}"
+  },
+  "chart": {
+    "source": "Source: Near Blocks.com"
+  },
+  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "tags": {
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personal",
+    "shop": "Shop",
+    "donation": "Donation",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
+  }
+}

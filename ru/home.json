@@ -1,0 +1,24 @@
+{
+   "metaTitle": "Chia (XCH) Blockchain Explorer | XCHscan",
+   "metaDescription": "XCHscan - это платформа для анализа и анализа блоков для Chia (XCH), нового блокчейна и платформы умных транзакций",
+   "heroTitle": "Chia Blockchain Explorer",
+   "chiaPrice": "Цена Chia",
+   "xchFarmed": "XCH смайнено",
+   "difficulty": "Сложность",
+   "mempoolSize": "Размер мемпула",
+   "currentBlock": "Текущий блок",
+   "netspace": "Netspace",
+   "transactionHistory": "История транзакций Chia за {{days}} дн.",
+   "banner": {
+     "title": "Экосистема Chia начинается здесь",
+     "description": "У вас есть продукт или услуга, относящиеся к Chia? Свяжитесь с нами и узнайте больше о обозревателе блокчейнов №1 для Chia"
+   },
+   "latestBlocks": "Последние блоки",
+   "latestTxns": "Последние транзакции",
+   "error": "Ошибка!",
+   "noBlocks": "Нет блоков!",
+   "noTxns": "Транзакций нет!",
+   "blockMiner": "Майнер",
+   "txnFrom": "От",
+   "txnTo": "Кому"
+}

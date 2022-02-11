@@ -1,0 +1,77 @@
+{
+  "metaTitle": "치아(XCH)의 가장 최근 트랜잭션 | XCHscan",
+  "metaDescription": "모든 컨펌된 치아(XCH) 트랜잭션. 해당 목록은 치아 발송자와 개별 트랜잭션의 세부 내역을 보여줍니다.",
+  "heading": "전송",
+  "listing": "More than > {{count}} transactions found",
+  "listingToken": "More than > {{count}}  Token transfers found",
+  "hash": "전송 해시",
+  "type": "타입",
+  "typeTxn": "전송",
+  "typeToken": "토큰 거래",
+  "typePoolReward": "풀 보상",
+  "typeFarmerReward": "파밍 보상",
+  "age": "Age",
+  "ageDT": "일시(UTC)",
+  "confirmed": "컨펌된 블록",
+  "from": "발송자",
+  "to": "수신자",
+  "txnIn": "입금",
+  "txnOut": "출금",
+  "amount": "수량",
+  "filter": {
+    "placeholder": "주소로 검색하기",
+    "filter": "필터",
+    "clear": "삭제하기",
+    "by": "필터링:",
+    "from": "발송자:",
+    "to": "수신자:"
+  },
+  "txn": {
+    "metaTitle": "치아(XCH) 트랜잭션 {{txn}} | XCHscan",
+    "metaDescription": "치아(XCH) 블록체인의 트랜잭션 세부 내역 {{txn}}.",
+    "heading": "전송 세부내역",
+    "hash": {
+      "text": ["전송 해시"],
+      "tooltip": "전송 해시는 유니크한 66개의 문자로 전송이 완료되면 생성됩니다."
+    },
+    "status": {
+      "text": ["상태", "성공", "사용됨", "사용되지않음"],
+      "tooltip": "전송의 상태."
+    },
+    "block": {
+      "text": ["블록"],
+      "tooltip": "전송이 기록된 블록의 숫자."
+    },
+    "timestamp": {
+      "text": ["타임스탬프"],
+      "tooltip": "전송이 채굴된 일시."
+    },
+    "value": {
+      "text": ["가치"],
+      "tooltip": "전송된 XCH의 수량과 해당 시점의 법정화폐 기준 가치"
+    },
+    "price": {
+      "text": ["XCH 가격"],
+      "tooltip": "거래일시의 XCH의 종가"
+    },
+    "from": {
+      "text": ["발송자"],
+      "tooltip": "전송을 일으킨 발송자."
+    },
+    "to": {
+      "text": ["수신자"],
+      "tooltip": "전송을 수신받는 수신자."
+    },
+    "type": {
+      "text": ["타입", "전송", "풀 보상", "파밍 보상"],
+      "tooltip": "전송의 타입."
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "알려지지 않은",
+    "claimToken": "클레임 토큰",
+    "token": "Token"    
+  },
+  "info": "마지막 {{count}}개 레코드만 표시"
+}

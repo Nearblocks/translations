@@ -1,0 +1,10 @@
+{
+  "metaTitle": "404 - 找不到网页 | XCHscan",
+  "metaDescription": "我们没有找到您要找的东西，抱歉。请再试一次。",
+  "description": "<0>抱歉!</0>我们遇到了一个意外错误。",
+  "addressDescription": "<0>抱歉!</0> 未找到地址。",
+  "blockDescription": "<0>抱歉!</0> 未找到区块。",
+  "txnDescription": "<0>抱歉!</0> 未找到交易。",
+  "back": "返回到主页",
+  "tokenDescription": "<0>抱歉!</0> 找不到令牌"
+}

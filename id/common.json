@@ -1,0 +1,83 @@
+{
+  "header": {
+    "menu": {
+      "home": "Beranda",
+      "pools": "Pools",
+      "pool": "Pool XCHscan",
+      "otherPools": "Pools Lainnya",
+      "farmingCalculator": "Kalkulator Farming",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Lihat Blok",
+      "viewTxns": "Lihat Txns",
+      "topFarmers": "Top farmers",
+      "languages": "Bahasa",
+      "charts": "Grafik & Statistik",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Lihat Transfer Token"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Semua Filter",
+      "txns": "Txns",
+      "blocks": "Blok",
+      "token": "Tokens"
+    },
+    "placeholder": "Cari berdasarkan alamat / Txn Hash / Blok",
+    "list": {
+      "address": "Alamat",
+      "txns": "Txns",
+      "blocks": "Blok",
+      "tokens": "Tokens"
+    }
+  },
+  "footer": {
+    "description": "XCHscan adalah Blok Explorer dan Platform Analitik untuk Jaringan Chia blockchain, sebuah blockchain baru dan platform pintar untuk transaksi.",
+    "poweredBy": "Didukung oleh",
+    "links": {
+      "pools": "Pools",
+      "pool": "XCHscan Pool",
+      "otherPools": "Pools lain",
+      "farmingCalculator": "Kalkulator Farming",
+      "explore": "Explore",
+      "blockExplorer": "Blok Explorer",
+      "latestBlocks": "Blok Terbaru",
+      "latestTxns": "Transaksi Terbaru",
+      "company": "Perusahaan",
+      "about": "Tentang",
+      "advertise": "Mengiklankan",
+      "contact": "Kontak",
+      "terms": "Syarat",
+      "charts": "Grafik & Statistik",
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
+    }
+  },
+  "sponsored": "Sponsor",
+  "pagination": {
+    "first": "Pertama",
+    "last": "Terakhir"
+  },
+  "validation": {
+    "required": "{{field}} wajib disi",
+    "invalid": "Harap berikan yang valid {{field}}"
+  },
+  "chart": {
+    "source": "Sumber: XCHscan.com"
+  },
+  "trademark": "XCHscan is operated full and on its own. Chia Network™ and the Chia Blockchain™ are trademarks or registered trademarks of Chia Network, Inc. in the United States and worldwide, a Delaware corporation. XCHscan is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "tags": {
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personal",
+    "shop": "Shop",
+    "donation": "Donation",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
+  }
+}

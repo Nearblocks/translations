@@ -1,0 +1,24 @@
+{
+  "metaTitle": "Chia (XCH) 区块链浏览器 | XCHscan",
+  "metaDescription": "XCHscan 是 Chia blockchain (XCH) 的区块浏览器和分析平台，这是一个新的区块链和智能交易平台.",
+  "heroTitle": "Chia区块链资源管理器",
+  "chiaPrice": "Chia价格",
+  "xchFarmed": "XCH耕种",
+  "difficulty": "困难",
+  "mempoolSize": "记忆池大小",
+  "currentBlock": "当前区块",
+  "netspace": "网络空间",
+  "transactionHistory": "{{days}}天中的交易历史",
+  "banner": {
+    "title": "Chia的生态系统从这里开始",
+    "description": "你是否有Chia相关的产品或服务？请与我们联系并获取曝光量，查看1号Chia区块链资源管理器。"
+  },
+  "latestBlocks": "最新区块",
+  "latestTxns": "最新交易记录",
+  "error": "错误！",
+  "noBlocks": "没有区块！",
+  "noTxns": "没有交易！",
+  "blockMiner": "矿工",
+  "txnFrom": "发送方",
+  "txnTo": "接收方"
+}

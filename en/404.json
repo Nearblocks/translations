@@ -1,0 +1,10 @@
+{
+  "metaTitle": "404 - Page not Found | Near Blocks",
+  "metaDescription": "We didn't find what you were looking for, sorry. Please try again.",
+  "description": "<0>Sorry!</0> We encountered an unexpected error.",
+  "addressDescription": "<0>Sorry!</0> Address not found.",
+  "blockDescription": "<0>Sorry!</0> Block not found.",
+  "txnDescription": "<0>Sorry!</0> Transaction not found.",
+  "back": "Go back home",
+  "tokenDescription": "<0>Sorry!</0> Token not found."
+}

@@ -1,0 +1,24 @@
+{
+  "metaTitle": "Chia (XCH) 블록체인 익스플로러 | XCHscan",
+  "metaDescription": "XCHscan은 블록 익스프로러이자 스마트 친환경 블록체인인 치아 네트워크의 분석 툴을 제공하는 플랫폼입니다.",
+  "heroTitle": "치아 블록체인 익스프로러",
+  "chiaPrice": "치아 가격",
+  "xchFarmed": "파밍된 XCH",
+  "difficulty": "난이도",
+  "mempoolSize": "멤풀 사이즈",
+  "currentBlock": "현재 블록",
+  "netspace": "넷스페이스",
+  "transactionHistory": "최근 {{days}} 일간 치아 전송 내역 ",
+  "banner": {
+    "title": "여기에서 치아 생태계가 시작됩니다.",
+    "description": "치아 블록체인과 관련된 서비스나 프로덕트가 있으신가요? 1위 치아 블록체인 익스프로러인 XCHscan에 연락해서 홍보해보세요."
+  },
+  "latestBlocks": "가장 최근 블록",
+  "latestTxns": "가장 최근 전송",
+  "error": "에러",
+  "noBlocks": "블록 없음",
+  "noTxns": "거래 없음",
+  "blockMiner": "채굴자",
+  "txnFrom": "발송자",
+  "txnTo": "수신자"
+}
