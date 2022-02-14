@@ -83,5 +83,6 @@
   },
   "info": "Showing the last {{count}} records only",
   "depositValue": "Deposit value",
-  "txnFee": "Txn fee"
+  "txnFee": "Txn fee",
+  "txnSelf": "Self"
 }
