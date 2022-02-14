@@ -1,9 +1,9 @@
 {
   "metaTitle": "Near (Ⓝ) Blockchain Explorer | Near Blocks",
-  "metaDescription": "Near Blocks is a Block Explorer and Analytics Platform for Near blockchain (XCH), a new blockchain and smart transaction platform.",
+  "metaDescription": "Near Blocks is a Block Explorer and Analytics Platform for Near blockchain (Ⓝ), a new blockchain and smart transaction platform.",
   "heroTitle": "Near Blockchain Explorer",
-  "NearPrice": "Near price",
-  "xchFarmed": "Near farmed",
+  "nearPrice": "Near price",
+  "nearFarmed": "Near farmed",
   "difficulty": "Difficulty",
   "mempoolSize": "Mempool Size",
   "currentBlock": "Current Block",

@@ -1,77 +1,101 @@
 {
-  "metaTitle": "Semua Transaksi Terbaru Chia (XCH) | XCHscan",
-  "metaDescription": "Semua transaksi Chia (XCH) dikonfirmasi di Chia Blockchain. Daftar ini terdiri dari pengiriman Chia (XCH) dan detail transaksi untuk setiap transaksi.",
+  "metaTitle": "Semua Transaksi Dekat Ⓝ | Blok Dekat",
+  "metaDescription": "Semua Transaksi Dekat Ⓝ dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
   "heading": "Transaksi",
   "listing": "Lebih dari > {{count}} transaksi ditemukan",
-  "listingToken": "Lebih dari > {{count}} Token transaksi ditemukan",
+  "listingToken": "Lebih dari > {{count}} Transfer token ditemukan",
   "hash": "Txn Hash",
-  "type": "Tipe",
+  "type": "Jenis",
   "typeTxn": "Transaksi",
+  "typePoolReward": "Hadiah Kolam Renang",
+  "typeFarmerReward": "Hadiah Petani",
   "typeToken": "Transaksi token",
-  "typePoolReward": "Hadiah Pool",
-  "typeFarmerReward": "Hadiah Farmer",
-  "age": "Usia",
-  "ageDT": "Tanggal Waktu (UTC)",
-  "confirmed": "Blok Dikonfirmasi",
+  "age": "Umur",
+  "ageDT": "Waktu Tanggal (UTC)",
+  "confirmed": "Blok yang Dikonfirmasi",
   "from": "Dari",
-  "to": "Untuk",
-  "txnIn": "MASUK",
-  "txnOut": "KELUAR",
-  "amount": "Jumlah",
+  "to": "Ke",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Amount",
   "filter": {
-    "placeholder": "Cari berdasarkan alamat mis. XCH..",
+    "placeholder": "Search by address e.g. Ⓝ..",
     "filter": "Filter",
-    "clear": "Jelas",
-    "by": "Difilter Oleh:",
-    "from": "Dari:",
-    "to": "Ke:"
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
   },
   "txn": {
-    "metaTitle": "Chia (XCH) Transaksi {{txn}} | XCHscan",
-    "metaDescription": "Info detail Blockchain Chia (XCH) untuk transaksi {{txn}}.",
-    "heading": "Detail Transaksi",
+    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
+    "heading": "Transaction Details",
     "hash": {
-      "text": ["Txn Hash"],
-      "tooltip": "Txn Hash atau Hash transaksi adalah pengidentifikasi 66 karakter unik yang dihasilkan setiap kali transaksi dijalankan."
+      "text": [
+        "Txn Hash"
+      ],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
     },
     "status": {
-      "text": ["Status", "Sukses", "Dihabiskan", "Belum Dibelanjakan"],
-      "tooltip": "Status transaksi."
+      "text": [
+        "Status",
+        "Success",
+        "Spent",
+        "Unspent"
+      ],
+      "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["Blok"],
-      "tooltip": "Nomor blok tempat transaksi dicatat."
+      "text": [
+        "Block"
+      ],
+      "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
-      "text": ["Timestamp"],
-      "tooltip": "Tanggal dan waktu saat transaksi ditambang."
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "The date and time at which a transaction is mined."
     },
     "value": {
-      "text": ["Nilai"],
-      "tooltip": "Nilai yang ditransaksikan dalam XCH dan nilai fiat"
+      "text": [
+        "Value"
+      ],
+      "tooltip": "The value being transacted in Ⓝ and fiat value"
     },
     "price": {
-      "text": ["Harga XCH"],
-      "tooltip": "Harga penutupan XCH pada tanggal transaksi"
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "Closing price of Ⓝ on date of transaction"
     },
     "from": {
-      "text": ["Dari"],
-      "tooltip": "Pihak pengirim transaksi."
+      "text": [
+        "Dari"
+      ],
+      "tooltip": "The sending party of the transaction."
     },
     "to": {
-      "text": ["Untuk"],
-      "tooltip": "Pihak penerima transaksi."
+      "text": [
+        "Ke"
+      ],
+      "tooltip": "The receiving party of the transaction."
     },
     "type": {
-      "text": ["Tipe", "Transaksi", "Hadiah Pool", "Hadiah Farmer"],
-      "tooltip": "Tipe transaksi."
+      "text": [
+        "Jenis",
+        "Transaksi",
+        "Hadiah Kolam Renang",
+        "Hadiah Petani"
+      ],
+      "tooltip": "Type of transaction."
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
-    "unknownToken": "Tidak dikenal",
-    "claimToken": "Token klaim",
-    "token": "Token"    
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"
   },
-  "info": "Menampilkan {{count}} record terakhir saja" 
+  "info": "Showing the last {{count}} records only"
 }

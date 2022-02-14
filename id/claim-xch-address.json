@@ -1,40 +1,40 @@
 {
-  "metaTitle": "Claim XCH Address | XCHscan",
-  "metaDescription": "Claim your name, tag and other information.",
-  "heading": "Claim XCH Address",
+  "metaTitle": "Klaim Ⓝ Alamat | Blok Dekat",
+  "metaDescription": "Klaim nama, tag, dan informasi lainnya.",
+  "heading": "Alamat Klaim Ⓝ",
   "form": {
-    "heading": "Claim your name, tag and other information",
-    "content": "Claim your Name Tag and add other information related to your XCH address by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your address ownership.",
+    "heading": "Klaim nama, tag, dan informasi lainnya",
+    "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {{amount}} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
     "address": {
-      "label": "XCH Address"
+      "label": "Ⓝ Alamat"
     },
     "label": {
-      "label": "Name"
+      "label": "Nama"
     },
     "tag": {
-      "label": "Tag"
+      "label": "Hari"
     },
     "website": {
-      "label": "Website"
+      "label": "Situs Web"
     },
     "twitter": {
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "Blog (atau Medium)"
     },
     "telegram": {
       "label": "Telegram"
     },
     "discord": {
-      "label": "Discord"
+      "label": "Perselisihan"
     },
     "keybase": {
-      "label": "Keybase"
+      "label": "Basis kunci"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "Deposit {{amount}} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
+      "tooltip": "Alamat pengirim harus identik dengan alamat yang ingin Anda tambahkan informasinya."
     },
     "button": "Submit",
     "successMessage": "Thank you, we will review your application and list it after its been approved",

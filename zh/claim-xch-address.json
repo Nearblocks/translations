@@ -1,40 +1,40 @@
 {
-  "metaTitle": "Claim XCH Address | XCHscan",
-  "metaDescription": "Claim your name, tag and other information.",
-  "heading": "Claim XCH Address",
+  "metaTitle": "索赔  Ⓝ  地址 |近街区",
+  "metaDescription": "声明您的姓名、标签和其他信息。",
+  "heading": "索赔  Ⓝ  地址",
   "form": {
-    "heading": "Claim your name, tag and other information",
-    "content": "Claim your Name Tag and add other information related to your XCH address by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your address ownership.",
+    "heading": "声明您的姓名、标签和其他信息",
+    "content": "通过填写下面的表格来申领您的姓名标签并添加与您的 Ⓝ 地址相关的其他信息。对于每个编辑请求，我们将要求{{金额}} Ⓝ 押金以证明您的地址所有权。",
     "address": {
-      "label": "XCH Address"
+      "label": " Ⓝ  地址"
     },
     "label": {
-      "label": "Name"
+      "label": "名字"
     },
     "tag": {
-      "label": "Tag"
+      "label": "日"
     },
     "website": {
-      "label": "Website"
+      "label": "网站"
     },
     "twitter": {
-      "label": "Twitter"
+      "label": "唽"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "博客（或中等）"
     },
     "telegram": {
-      "label": "Telegram"
+      "label": "电报"
     },
     "discord": {
-      "label": "Discord"
+      "label": "不和"
     },
     "keybase": {
-      "label": "Keybase"
+      "label": "密钥库"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "将{{金额}} Ⓝ 存入以下地址以证明您的所有权：",
+      "tooltip": "发送地址必须与您要向其添加信息的地址相同。"
     },
     "button": "Submit",
     "successMessage": "Thank you, we will review your application and list it after its been approved",

@@ -1,77 +1,101 @@
 {
-  "metaTitle": "所有 Chia (XCH) 交易 | XCHscan",
-  "metaDescription": "在 Chia 区块链上确认的所有 Chia (XCH) 交易。该列表由发送 Chia (XCH) 的交易和每笔交易的交易详情组成",
+  "metaTitle": "所有在 Ⓝ 附近的最新交易|近街区",
+  "metaDescription": "所有近 Ⓝ 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
   "heading": "交易",
-  "listing": "找到超过>{count}个交易",
-  "listingToken": "发现超过 {{count}} token 次转移",
-  "hash": "Txn哈希",
+  "listing": "找到超过 > 个 {{计数}} 事务",
+  "listingToken": "超过 > {{计数}} 找到令牌转移",
+  "hash": "Txn 哈希",
   "type": "类型",
   "typeTxn": "交易",
+  "typePoolReward": "泳池奖励",
+  "typeFarmerReward": "农民奖励",
   "typeToken": "代币交易",
-  "typePoolReward": "池奖励",
-  "typeFarmerReward": "耕种者奖励",
-  "age": "时期",
-  "ageDT": "日期时间（UTC）",
-  "confirmed": "已确认区块",
-  "from": "发送方",
-  "to": "接收方",
-  "txnIn": "收到",
-  "txnOut": "发出",
-  "amount": "金额",
+  "age": "年龄",
+  "ageDT": "日期时间 （UTC）",
+  "confirmed": "已确认的块",
+  "from": "从",
+  "to": "自",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Amount",
   "filter": {
-    "placeholder": "按地址搜索，例如xch..",
-    "filter": "筛选条件",
-    "clear": "清除",
-    "by": "筛选方式：",
-    "from": "发送方:",
-    "to": "接收方:"
+    "placeholder": "Search by address e.g. Ⓝ..",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
   },
   "txn": {
-    "metaTitle": "Chia (XCH) 交易 {{txn}} | XCHscan",
-    "metaDescription": "Chia (XCH) 区块链交易详细信息 {{txn}}.",
-    "heading": "交易明细",
+    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
+    "heading": "Transaction Details",
     "hash": {
-      "text": ["Txn哈希"],
-      "tooltip": "Txn哈希或交易哈希是在执行交易时生成的唯一66个字符的标识符。"
+      "text": [
+        "Txn 哈希"
+      ],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
     },
     "status": {
-      "text": ["状态", "成功", "已用", "未用"],
-      "tooltip": "交易状态。"
+      "text": [
+        "Status",
+        "Success",
+        "Spent",
+        "Unspent"
+      ],
+      "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["区块"],
-      "tooltip": "记录该交易的区块编号。"
+      "text": [
+        "Block"
+      ],
+      "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
-      "text": ["时间戳"],
-      "tooltip": "交易被开采的日期和时间。"
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "The date and time at which a transaction is mined."
     },
     "value": {
-      "text": ["价值"],
-      "tooltip": "以XCH和法币价值进行交易的价值"
+      "text": [
+        "Value"
+      ],
+      "tooltip": "The value being transacted in Ⓝ and fiat value"
     },
     "price": {
-      "text": ["XCH 价格"],
-      "tooltip": "交易日XCH的收盘价"
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "Closing price of Ⓝ on date of transaction"
     },
     "from": {
-      "text": ["发送方"],
-      "tooltip": "交易的发送方。"
+      "text": [
+        "从"
+      ],
+      "tooltip": "The sending party of the transaction."
     },
     "to": {
-      "text": ["接收方"],
-      "tooltip": "交易的接收方。"
+      "text": [
+        "自"
+      ],
+      "tooltip": "The receiving party of the transaction."
     },
     "type": {
-      "text": ["类型", "交易", "池子奖励", "耕种者奖励"],
-      "tooltip": "交易类型。"
+      "text": [
+        "类型",
+        "交易",
+        "泳池奖励",
+        "农民奖励"
+      ],
+      "tooltip": "Type of transaction."
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
-    "unknownToken": "未知",
-    "claimToken": "申领令牌",
-    "token": "令牌"    
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"
   },
-  "info": "仅显示最后 {{count}} 条记录"
+  "info": "Showing the last {{count}} records only"
 }

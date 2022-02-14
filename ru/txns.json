@@ -1,77 +1,101 @@
 {
-  "metaTitle": "Все последние транзакции Chia (XCH) | XCHscan",
-  "metaDescription": "Все транзакции Chia (XCH) подтверждены в Chia Blockchain. Список состоит из транзакций от отправки Chia (XCH) и деталей транзакций для каждой транзакции.",
-  "heading": "Транзакции",
-  "listing": "Найдено более> {{count}} транзакций",
-  "listingToken": "Найдено более> {{count}} Token транзакций",
-  "hash": "Хэш транзакции",
-  "type": "type",
+  "metaTitle": "Все ближайшие Ⓝ Последние транзакции | Рядом с блоками",
+  "metaDescription": "Все near Ⓝ транзакции подтверждены на Near Blockchain. Список состоит из транзакций от отправки Near Ⓝ и деталей транзакций для каждой транзакции.",
+  "heading": "Операций",
+  "listing": "Найдено более > транзакций {{count}}",
+  "listingToken": "Найдено более > {{count}} Найдены переводы токенов",
+  "hash": "Txn Хэш",
+  "type": "Тип",
   "typeTxn": "Транзакция",
-  "typeToken": "Токен транзакции",
-  "typePoolReward": "Награда пула",
-  "typeFarmerReward": "Награда майнера",
-  "age": "Время",
-  "ageDT": "Дата и Время (UTC)",
-  "confirmed": "Подтвержденный блок",
+  "typePoolReward": "Награда за пул",
+  "typeFarmerReward": "Награда фермера",
+  "typeToken": "Транзакция токена",
+  "age": "Возраст",
+  "ageDT": "Дата Время (UTC)",
+  "confirmed": "Подтвержденная блокировка",
   "from": "От",
   "to": "Кому",
   "txnIn": "IN",
   "txnOut": "OUT",
-  "amount": "Сумма",
+  "amount": "Amount",
   "filter": {
-    "placeholder": "Искать по адресу, например, xch ..",
-    "filter": "Фильтр",
-    "clear": "Очистить",
-    "by": "Отфильтровано:",
-    "from": "От:",
-    "to": "Кому:"
+    "placeholder": "Search by address e.g. Ⓝ..",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
   },
   "txn": {
-    "metaTitle": "Транзакция Chia (XCH) {{txn}} | XCHscan",
-    "metaDescription": "Подробная информация о блокчейне Chia (XCH) для транзакции {{txn}}.",
-    "heading": "Детали транзакции",
+    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
+    "heading": "Transaction Details",
     "hash": {
-      "text": ["Txn Hash"],
-      "tooltip": "Txn Hash или хэш транзакции - это уникальный 66-значный идентификатор, который генерируется всякий раз, когда выполняется транзакция."
+      "text": [
+        "Txn Хэш"
+      ],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
     },
     "status": {
-      "text": ["Статус", "Успешно", "Израсходовано", "Неизрасходовано"],
-      "tooltip": "Статус транзакции"
+      "text": [
+        "Status",
+        "Success",
+        "Spent",
+        "Unspent"
+      ],
+      "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["Блок"],
-      "tooltip": "Номер блока, в котором была записана транзакция."
+      "text": [
+        "Block"
+      ],
+      "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
-      "text": ["Отметка времени"],
-      "подсказка": "Дата и время добычи транзакции"
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "The date and time at which a transaction is mined."
     },
     "value": {
-      "text": ["Значение"],
-      "tooltip": "Стоимость транзакции в XCH и указанная стоимость"
+      "text": [
+        "Value"
+      ],
+      "tooltip": "The value being transacted in Ⓝ and fiat value"
     },
     "price": {
-      "text": ["Цена XCH"],
-      "подсказка": "Цена закрытия XCH на дату транзакции"
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "Closing price of Ⓝ on date of transaction"
     },
     "from": {
-      "text": ["От"],
-      "tooltip": "Отправляющая сторона транзакции"
+      "text": [
+        "От"
+      ],
+      "tooltip": "The sending party of the transaction."
     },
     "to": {
-      "text": ["Кому"],
-      "tooltip": "Принимающая сторона транзакции"
+      "text": [
+        "Кому"
+      ],
+      "tooltip": "The receiving party of the transaction."
     },
     "type": {
-      "text": ["Тип", "Транзакция", "Награда пула", "Вознаграждение фермера"],
-      "tooltip": "Тип транзакции"
+      "text": [
+        "Тип",
+        "Транзакция",
+        "Награда за пул",
+        "Награда фермера"
+      ],
+      "tooltip": "Type of transaction."
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
-    "unknownToken": "Неизвестный",
-    "claimToken": "Требовать токен",
-    "token": "жетон"    
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"
   },
-  "info": "Показаны только последние {{count}} записи"
+  "info": "Showing the last {{count}} records only"
 }

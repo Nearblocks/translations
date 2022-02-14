@@ -1,19 +1,22 @@
 {
-  "metaTitle": "Top 50 Farmer Chia (XCH) : Sejak Genesis dan 10,000 Blok | XCHscan",
-  "metaDescription": "Temukan 50 farmer Chia (XCH) teratas berdasarkan jumlah blok yang dimenangkan dalam 24 jam terakhir, di 10.000 blok terbaru dan sejak genesis blockchain Chia (XCH).",
-  "heading": "Top Farmer",
+  "metaTitle": "Top 50 Dekat Ⓝ Petani: Sejak Kejadian dan 10.000 Blok | Blok Dekat",
+  "metaDescription": "Temukan 50 petani Dekat Ⓝ teratas dengan jumlah blok yang dimenangkan dalam 24 jam terakhir, di 10.000 blok terbaru dan sejak kejadian blockchain Near Ⓝ.",
+  "heading": "Petani Top",
   "netspace": "Netspace",
-  "difficulty": "Kesulitan",
+  "difficulty": "Susah",
   "addressCount": "Jumlah Alamat Unik",
   "powerUsage": "Penggunaan Daya",
-  "feesXCH": "Biaya/ Koin (XCH)",
+  "feesXCH": "Biaya / Koin (Ⓝ )",
   "feesUSD": "Biaya / Koin (USD)",
-  "totalXCH": "Total XCH",
-  "farmedXCH": "XCH yang dikembangkan",
-  "tabs": ["10,000 Blok Terakhir", "Sejak Genesis"],
-  "description": "50 alamat teratas berdasarkan jumlah blok yang dimenangkan. Farmers dapat mengarahkan hadiah ke beberapa alamat.",
-  "rank": "Peringkat",
-  "blocksWon": "Block yang dimenangkan",
-  "blocksWon24H": "Block yang dimenangkan (~24H)",
-  "address": "Alamat"
+  "totalXCH": "Total Ⓝ ",
+  "farmedXCH": "Pertanian Ⓝ ",
+  "tabs": [
+    "10.000 Blok Terakhir",
+    "Sejak Kejadian"
+  ],
+  "description": "50 alamat teratas berdasarkan jumlah blok yang dimenangkan. Petani dapat mengarahkan hadiah ke beberapa alamat.",
+  "rank": "Pangkat",
+  "blocksWon": "Blok Dimenangkan",
+  "blocksWon24H": "Blocks Won (~24H)",
+  "address": "Address"
 }

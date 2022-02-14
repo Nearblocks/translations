@@ -1,26 +1,26 @@
 {
-  "metaTitle": "문의하기 | XCHscan",
-  "metaDescription": "XCHscan 팀을 통해 웹사이트와 툴에 대한 질문을 할 수 있습니다. 치아 블록체인 익스프로러 서비스와 관련된 내용만 문의할 수 있습니다.",
-  "heading": "XCHscan에 연락하기",
+  "metaTitle": "저희에게 연락| 블록 근처",
+  "metaDescription": "당사 웹사이트 및 도구와 관련된 문의는 가까운 블록 팀에 문의하십시오. 블록 탐색기 서비스와 직접 관련된 문제만 지원할 수 있습니다.",
+  "heading": "블록 근처 연락처",
   "info": {
-    "heading": "메시지를 남겨주세요. 그 전에 이하의 내용을 확인하시기 바랍니다.:",
+    "heading": "우리에게 메시지를 드롭,하지만 유의하시기 바랍니다 :",
     "points": [
       {
-        "heading": "펜딩된 전송",
-        "content": "우리는 전송을 처리하거나 취소, 대체할 수 없습니다. 만약 당신이 펜딩된 전송과 관련된 문제가 있다면 여기를 참고하세요."
+        "heading": "보류 중인 트랜잭션",
+        "content": "당사는 거래를 처리하지 않으므로 거래를 신속하게 처리하거나 취소하거나 교체할 수 없습니다. 보류 중인 거래에 문제가 있는 경우 여기를 참조하십시오."
       },
       {
-        "heading": "치아 블록체인 익스프로러",
-        "content": "XCHscan은 다른 서비스들과 관련없는 개별적인 블록 익스프로러 서비스입니다. 따라서 XCHscan과 관련이 없는 다른 서비스에 대한 명쾌한 대답을 드릴 수 없습니다."
+        "heading": "블록 탐색기 근처",
+        "content": "근거리 블록은 다른 서비스 공급자와 관련이 없는 독립적인 블록 탐색기이므로 다른 서비스 공급자와 관련된 문의에 대한 정확한 응답을 제공할 수 없습니다."
       },
       {
-        "heading": "지갑 / 거래소 / 프로젝트 관련 이슈",
-        "content": "지갑 서비스 제공자, 거래소, 프로젝트에 직접 컨택하셔서 도움을 요청해보세요. XCHscan은 그들이 제공하는 서비스에 대해 명쾌한 조언을 드릴 수 없습니다."
+        "heading": "지갑 / 교환 / 프로젝트 관련 문제",
+        "content": "지갑 서비스 제공업체, 교환 또는 프로젝트/계약 소유자에게 연락하여 플랫폼 및 플랫폼과 관련된 문제를 지원할 수 있는 더 나은 위치에 있으므로 추가 지원을 받을 수 있습니다."
       }
     ]
   },
   "form": {
-    "heading": "컨택 폼:",
+    "heading": "연락처 양식:",
     "name": {
       "label": "이름",
       "placeholder": "이름"
@@ -30,23 +30,23 @@
       "placeholder": "이메일"
     },
     "subject": {
-      "label": "주제",
-      "placeholder": "주제",
+      "label": "제목",
+      "placeholder": "제목",
       "options": [
-        "일반적인 질문",
-        "도움요청 / 기술지원",
-        "파트너십",
-        "API / 개발",
-        "네임 태그 / 지갑 라벨",
+        "일반 문의",
+        "지원 / 기술",
+        "Partnership",
+        "API / Development",
+        "Name tagging / Label address",
         "Advertise"
       ]
     },
     "message": {
-      "label": "메시지",
-      "placeholder": "메시지"
+      "label": "Message",
+      "placeholder": "Message"
     },
-    "button": "메시지 보내기",
-    "successMessage": "감사합니다. 곧 연락드리겠습니다.",
-    "errorMessage": "에러가 발생하였습니다."
+    "button": "Send Message",
+    "successMessage": "Thank you, we will get back to you soon",
+    "errorMessage": "Something went wrong!"
   }
 }

@@ -1,77 +1,101 @@
 {
-  "metaTitle": "치아(XCH)의 가장 최근 트랜잭션 | XCHscan",
-  "metaDescription": "모든 컨펌된 치아(XCH) 트랜잭션. 해당 목록은 치아 발송자와 개별 트랜잭션의 세부 내역을 보여줍니다.",
-  "heading": "전송",
-  "listing": "More than > {{count}} transactions found",
-  "listingToken": "More than > {{count}}  Token transfers found",
-  "hash": "전송 해시",
-  "type": "타입",
-  "typeTxn": "전송",
+  "metaTitle": "모든 근처 Ⓝ 최신 트랜잭션 | 블록 근처",
+  "metaDescription": "모든 근처 Ⓝ 거래는 근처 블록 체인에서 확인. 목록은 NearⓃ 전송에서 트랜잭션및 각 트랜잭션에 대한 트랜잭션 세부 정보로 구성됩니다.",
+  "heading": "트랜잭션을",
+  "listing": "> {{count}} 트랜잭션 을 이상 발견했습니다.",
+  "listingToken": "> 이상의 {{count}} 토큰 전송 발견",
+  "hash": "Txn 해시",
+  "type": "형",
+  "typeTxn": "거래",
+  "typePoolReward": "풀 리워드",
+  "typeFarmerReward": "농부 보상",
   "typeToken": "토큰 거래",
-  "typePoolReward": "풀 보상",
-  "typeFarmerReward": "파밍 보상",
-  "age": "Age",
-  "ageDT": "일시(UTC)",
-  "confirmed": "컨펌된 블록",
-  "from": "발송자",
-  "to": "수신자",
-  "txnIn": "입금",
-  "txnOut": "출금",
-  "amount": "수량",
+  "age": "연령",
+  "ageDT": "날짜 시간(UTC)",
+  "confirmed": "확인된 블록",
+  "from": "보낸 사람",
+  "to": "받는 사람",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Amount",
   "filter": {
-    "placeholder": "주소로 검색하기",
-    "filter": "필터",
-    "clear": "삭제하기",
-    "by": "필터링:",
-    "from": "발송자:",
-    "to": "수신자:"
+    "placeholder": "Search by address e.g. Ⓝ..",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By:",
+    "from": "From:",
+    "to": "To:"
   },
   "txn": {
-    "metaTitle": "치아(XCH) 트랜잭션 {{txn}} | XCHscan",
-    "metaDescription": "치아(XCH) 블록체인의 트랜잭션 세부 내역 {{txn}}.",
-    "heading": "전송 세부내역",
+    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
+    "heading": "Transaction Details",
     "hash": {
-      "text": ["전송 해시"],
-      "tooltip": "전송 해시는 유니크한 66개의 문자로 전송이 완료되면 생성됩니다."
+      "text": [
+        "Txn 해시"
+      ],
+      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
     },
     "status": {
-      "text": ["상태", "성공", "사용됨", "사용되지않음"],
-      "tooltip": "전송의 상태."
+      "text": [
+        "Status",
+        "Success",
+        "Spent",
+        "Unspent"
+      ],
+      "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["블록"],
-      "tooltip": "전송이 기록된 블록의 숫자."
+      "text": [
+        "Block"
+      ],
+      "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
-      "text": ["타임스탬프"],
-      "tooltip": "전송이 채굴된 일시."
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "The date and time at which a transaction is mined."
     },
     "value": {
-      "text": ["가치"],
-      "tooltip": "전송된 XCH의 수량과 해당 시점의 법정화폐 기준 가치"
+      "text": [
+        "Value"
+      ],
+      "tooltip": "The value being transacted in Ⓝ and fiat value"
     },
     "price": {
-      "text": ["XCH 가격"],
-      "tooltip": "거래일시의 XCH의 종가"
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "Closing price of Ⓝ on date of transaction"
     },
     "from": {
-      "text": ["발송자"],
-      "tooltip": "전송을 일으킨 발송자."
+      "text": [
+        "보낸 사람"
+      ],
+      "tooltip": "The sending party of the transaction."
     },
     "to": {
-      "text": ["수신자"],
-      "tooltip": "전송을 수신받는 수신자."
+      "text": [
+        "받는 사람"
+      ],
+      "tooltip": "The receiving party of the transaction."
     },
     "type": {
-      "text": ["타입", "전송", "풀 보상", "파밍 보상"],
-      "tooltip": "전송의 타입."
+      "text": [
+        "형",
+        "거래",
+        "풀 리워드",
+        "농부 보상"
+      ],
+      "tooltip": "Type of transaction."
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
-    "unknownToken": "알려지지 않은",
-    "claimToken": "클레임 토큰",
-    "token": "Token"    
+    "unknownToken": "Unknown",
+    "claimToken": "Claim token",
+    "token": "Token"
   },
-  "info": "마지막 {{count}}개 레코드만 표시"
+  "info": "Showing the last {{count}} records only"
 }
