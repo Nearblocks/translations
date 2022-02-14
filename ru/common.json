@@ -34,7 +34,7 @@
     }
   },
   "footer": {
-    "description": "Near Blocks is a Block Explorer and Analytics Platform for Chia blockchain, a new blockchain and smart transaction platform.",
+    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
     "poweredBy": "Powered by",
     "links": {
       "pools": "Бассейны",
@@ -70,7 +70,7 @@
   "chart": {
     "source": "Source: Near Blocks.com"
   },
-  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
   "tags": {
     "service": "Service",
     "pool": "Pool",
