@@ -1,128 +1,128 @@
 {
-  "metaTitle": "Chia (XCH) Grafik & Statistik| XCHscan",
-  "metaDescription": "XCHscan menyediakan rangkaian grafik dan statistik data Chia (XCH) secara real-time untuk melacak segala sesuatu tentang mata uang kripto Chia (XCH): Harga, Suplai, Kapitalisasi Pasar, Netspace dan lainnya.",
-  "heading": "Grafik Chia & Statistik",
-  "otherHeading": "Other Chia Blockchain Charts & Statistics",
-  "chiaPrice": {
-    "metaTitle": "Harga Chia (XCH) Hari Ini : Info, Grafuik, Statistik | XCHscan",
-    "metaDescription": "Grafik Harga Chia menunjukan harga historis harian untuk Chia dalam USD. Semua data real time, akurat dan ditarik langsung dari blockhain Chia (XCH).",
-    "heading": "Grafik Harga Harian Chia (USD)",
-    "description": "Grafik harga harian Chia menunjukan harga historis harian untuk Chia dalam USD.",
-    "yLabel": "Harga Chia(USD)",
+  "metaTitle": "Dekat (Ⓝ) Grafik & Statistik Dekat Blok ",
+  "metaDescription": "Near menyediakan serangkaian grafik data dan statistik Dekat Ⓝ) real-time untuk melacak segala sesuatu tentang cryptocurrency Near Ⓝ:: Harga, Penawaran, Marketcap, Netspace, dan lainnya.",
+  "heading": "Dekat Grafik &Statistik",
+  "otherHeading": "Grafik &Statistik Blockchain Dekat Lainnya",
+  "NearPrice": {
+    "metaTitle": "Dekat (Ⓝ) Harga Hari Ini : Info, Grafik, Statistik Dekat Blok ",
+    "metaDescription": "Grafik Near Daily Price (USD) menunjukkan harga historis harian untuk Near in USD. Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near Ⓝ).",
+    "heading": "Dekat Grafik Harga Harian (USD)",
+    "description": "Grafik Near Daily Price (USD) menunjukkan harga historis harian untuk Near in USD.",
+    "yLabel": "Harga Dekat (USD)",
     "statistics": {
-      "heading": "Chia Price Statistics",
-      "price": "Chia Price (USD)",
-      "marketCap": "Market Cap",
-      "volume": "Trading Volume",
-      "volumeMarketCap": "Volume / Market Cap",
-      "high24": "24h High",
-      "low24": "24h Low",
-      "highAll": "All-Time High",
+      "heading": "Dekat Statistik Harga",
+      "price": "Harga Dekat (USD)",
+      "marketCap": "Kapitalisasi Pasar",
+      "volume": "Volume Perdagangan",
+      "volumeMarketCap": "Volume / Kapitalisasi Pasar",
+      "high24": "Tinggi 24 jam",
+      "low24": "24 jam Rendah",
+      "highAll": "Tertinggi Sepanjang Masa",
       "lowAll": "All-Time Low"
     }
   },
   "supply": {
-    "metaTitle": "Total Pasokan dan Grafik Kapitalisasi Pasar  | XCHscan",
-    "metaDescription": "Tabel diagram lingkaran menunjukan distribusi Chia dari hadiah penambangan blok dan uncle blok untuk sampai pada total pasokan Chia saat ini. Harga Chia (XCH) dalam USD juga terlihat pada tabel di bawah ini. Dengan total pasokan Chia dan harga saat ini dalam USD, kita dapat mencapai kapitalisasi pasar seperti yang ditunjukkan pada diagram lingkaran.",
-    "heading": "Grafik Total Pasokan dan Kapitalisasi Pasar Chia",
-    "description": "Tabel dan diagram lingkaran menunjukan distribusi Chia dari hadiah penambangan blok dan uncle blok untuk sampai pada total pasokan Chia saat ini. Harga Chia (XCH) dalam USD juga terlihat pada tabel di bawah ini. Dengan total pasokan Chia dan harga saat ini dalam USD, kita dapat mencapai kapitalisasi pasar seperti yang ditunjukkan pada diagram lingkaran.",
-    "totalSupply": "Total Pasokan Chia",
-    "marketCap": "Kapitalisasi Pasar",
+    "metaTitle": "Near (Ⓝ) Total Supply and Market Capitalization Chart Near Blocks ",
+    "metaDescription": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "heading": "Near Total Supply and Market Capitalization Chart",
+    "description": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "totalSupply": "Total Near Supply",
+    "marketCap": "Market Capitalization",
     "distribution": {
-      "heading": "Gambaran Distribusi Chia",
+      "heading": "Near Distribution Overview",
       "genesis": "Genesis (Pre Farm):",
-      "blockRewards": "Hadiah Blok Penambangan:",
-      "totalSupply": "Total Pasokan Saat Ini"
+      "blockRewards": "Mining Block Rewards:",
+      "totalSupply": "Current Total Supply"
     },
     "price": {
-      "heading": "Harga Per Chia",
-      "usd": "Dalam USD:",
-      "btc": "Dalam BTC:"
+      "heading": "Near (Ⓝ) Price",
+      "usd": "In USD:",
+      "btc": "In BTC:"
     },
-    "chartTitle": "Perincian berdasarkan Jenis Pasokan"
+    "chartTitle": "Breakdown by Supply Types"
   },
   "marketCap": {
-    "metaTitle": "Grafik Kapitalisasi Pasar Chia (XCH)| XCHscan",
-    "metaDescription": "Bagan Kapitalisasi Pasar Chia (XCH) menununjukan perincian historis kapitalisasi pasar dan harga harian Chia (XCH). Semua data real time, akurat dan diambil langsung dari blockchain Chia.",
-    "heading": "Grafik Kapitalisasi Pasar Chia",
-    "description": "Grfaik Kapitalisasi Pasar Chia menunjukan perincian historis kapitalisasi pasar dan harga harian Chia.",
-    "yLabel": "Kapitalisasi Pasar Chia (USD)"
+    "metaTitle": "Near (Ⓝ) Market Capitalization Chart Near Blocks ",
+    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Market Capitalization Chart",
+    "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
+    "yLabel": "Near Market Cap (USD)"
   },
   "netspace": {
-    "metaTitle": "Grafik Chia (XCH) : Sejarah, Evolusi, Pertumbuhan | XCHscan",
-    "metaDescription": "Chart Space Jaringan Chia blockchain (XCH) atau Netspace Chart menunjukan ukuran historis dari ruang yang dialokasikan untuk jaringan Chia (XCH). Semua data real time, akurat, dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Chart Space Jaringan Chia",
-    "description": "Bagan Ruang Jaringan Chia menunjukan ukuran historis dari ruang yang dialokasikan untuk jaringan Chia.",
+    "metaTitle": "Near (Ⓝ) Netspace Chart : History, Evolution, Growth Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near blockchain Space Chart",
+    "description": "Near blockchain Space Chart shows the historical measure of the space allocated to Near blockchain.",
     "yLabel": "Network Space"
   },
-  "chiaSupply": {
-    "metaTitle": "Grafik Pasokan Chia (XCH) : Beredar, Total, Pre-farmed | XCHscan",
-    "metaDescription": "Bagan Pertumbuhan pasokan Jaringan Chia (XCH) menunjukan perincian hadiah blok harian dan total pasokan Chia (XCH). Seluruh data real time, akurat, dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Grafik Pertumbuhan Pasokan Chia",
-    "description": "Bagan Pertumbuhan Pasokan Chia menunjukan perincian hadiah blok harian dan total pasokan Chia.",
-    "yLabel": "Pasokan Chia"
+  "NearSupply": {
+    "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Supply Growth Chart",
+    "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
+    "yLabel": "Near Supply"
   },
   "txns": {
-    "metaTitle": "Chia (XCH) Grafik Transaksi : Info, Statistik, Pertumbuhan | XCHscan",
-    "metaDescription": "Bagan transaksi Chia menyoroti jumlah total transaksi di blockchain Jaringan Chia dengan rincian individu harian dengan perkiraan net space, berat blok rata-rata, total blok dan total alamat baru yang terlihat.",
-    "heading": "Grafik Transaksi Harian Chia",
-    "description": "Bagan ini menyoroti jumlah total transaksi di blockchain Chia dengan rincian individu harian untuk perkiraan net space, berat blok rata-rata, total blok, dan total alamat baru yang terlihat.",
-    "yLabel": "Transaksi per Hari"
+    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth Near Blocks ",
+    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "heading": "Near Daily Transactions Chart",
+    "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "yLabel": "Transactions per Day"
   },
   "blockRewards": {
-    "metaTitle": " Bagan hadiah blok Chia (XCH) : Info, Statistik, Evolusi | XCHscan",
-    "metaDescription": "Bagan Hadiah Blok Harian Jaringan Chia (XCH) menunjukan total Chia yang dipasok ke jaringan Chia. Semua data is real-time, akurasi dan diambil langsung dari blockchain Chia.",
-    "heading": "Bagan Hadiah Blok Harian",
-    "description": "Bagan Hadiah Blok Harian Chia menunjukan total Chia yang dipasok ke jaringan Chia.",
-    "yLabel": "Pasokan Chia Baru per Hari supply per Day"
+    "metaTitle": "Near (Ⓝ) Block Rewards Chart : Info, Stats, Evolution Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily Block Rewards Chart shows the total Near supplied to Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Daily Block Rewards Chart",
+    "description": "Near Daily Block Rewards Chart shows the total Near supplied to Near blockchain.",
+    "yLabel": "New Near supply per Day"
   },
   "blocks": {
-    "metaTitle": "Hitungan Blok Chia (XCH) dan Bagan Hadiah | XCHscan",
-    "metaDescription": "Jumlah blok dan Bagan Hadiah Jaringan Chia (XCH) menunjukan jumlah historis blok yang diproduksi setiap hari di jaringan Chia dan total hadiah blok. Semua data real time, akurat, dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Jumlah Blok Chia dan Bagan Hadiah",
-    "description": "Jumlah Blok Chia dan Bagan Hadiah menunjukkan jumlah historis blok yang diproduksi setiap hari di jaringan Chia dan total hadiah blok.",
-    "yLabel": "Blok per Hari"
+    "metaTitle": "Near (Ⓝ) Block Count and Rewards Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Block Count and Rewards Chart",
+    "description": "Near Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward.",
+    "yLabel": "Blocks per Day"
   },
   "addresses": {
-    "metaTitle": "Bagan Alamat Unik Chia (XCH) : Info, Statistik, Pertumbuhan | XCHscan",
-    "metaDescription": "Bagan Alamat Unik Jaringan Chia (XCH) menunjukan jumlah total alamat yang berbeda pada blockchain Chia dan peningkatan jumlah alamat setiap hari.",
-    "heading": "Bagan Alamat unik Chia",
-    "description": "Bagan menunjukan jumlah total alamat yang berbeda pada blockchain Chia dan peningkatan jumlah alamat setiap hari.",
-    "yLabel": "Kumulatif Pertumbuhan Alamat Chia"
+    "metaTitle": "Near (Ⓝ) Unique Addresses Chart : Info, Stats, Growth Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) unique addresses chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
+    "heading": "Near Unique Addresses Chart",
+    "description": "The chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
+    "yLabel": "Near Cumulative Addresses Growth"
   },
   "activeAddresses": {
-    "metaTitle": "Statistik Alamat Aktif Chia (XCH) : Info, Statistik, Aktivitas | XCHscan",
-    "metaDescription": "Grafik Alamat Aktif Jaringan Chia (XCH) menunjukan jumlah harian alamat unik yang aktif  di jaringan sebagai pengirim atau penerima. Semua data real time, akurat dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Grafik Alamat Aktif Chia",
-    "description": "Bagan Alamat Aktif Chia menunjukan jumlah harian alamat unik yang aktif di jaringan sebagai  pengirim dan penerima.",
-    "yLabel": "Alamat Aktif Chia"
+    "metaTitle": "Near (Ⓝ) Active Addresses Chart : Info, Stats, Activity Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Active Near Addresses Chart",
+    "description": "The Active Near Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
+    "yLabel": "Active Near Addresses"
   },
   "txnFee": {
-    "metaTitle": "Riwayat biaya transaksi (XCH) : Biaya Transaksi Rata-rata | XCHscan",
-    "metaDescription": "Grafik Biaya Transaksi Jaringan Chia (XCH) menunjukan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di jaringan Chia (XCH). Semua data real time, akurat, dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Grafik Biaya Transaksi Rata-rata",
-    "description": "Bagan menunjukan jumlah rata-rata harian dalam USD yang dibelanjakan per transaksi di jaringan Chia.",
-    "yLabel": "Biaya Transaksi Rata-rata (USD)"
+    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Average Transaction Fee Chart",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
+    "yLabel": "Average Transaction Fee (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Grafik Volume Transaksi Chia(XCH) : Transaksi Rata-rata | XCHscan",
-    "metaDescription": "Bagan volume transaksi rata-rata jaringan Chia (XCH) menunjukan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di jaringan Chia termasuk hadiah farming.",
-    "heading": "Grafik Volume Transaksi Rata-rata",
-    "description": "Bagan menunjukan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di jaringan termasuk hadiah farming.",
-    "yLabel": "Volume transaksi Rata-rata (USD)"
+    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
+    "heading": "Average Transaction Volume Chart",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
+    "yLabel": "Average Transaction Volume (USD)"
   },
-  "xchTib": {
-    "metaTitle": "Hadiah Farming Chia (XCH) per Bagan Tib | XCHscan",
-    "metaDescription": " Jaringan Chia (XCH) Harian XCH per Bagan TiB menunjukan XCH yang di framing per TiB. Semua data real time, akurat , dan diambil langsung dari blockchain Chia.",
-    "heading": "XCH Harian per Bagan TiB",
-    "description": "XCH Harian per TiB Bagan menunjukan XCH farming yang diharapkan per TiB.",
-    "yLabel": "Jumlah Chia"
+  "ⓃTib": {
+    "metaTitle": "Daily Near (Ⓝ) Farming Reward per TiB Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Daily Ⓝ per TiB Chart",
+    "description": "The Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB.",
+    "yLabel": "Near Amount"
   },
-  "tibHrXch": {
-    "metaTitle": "Ruang yang Dibutuhkan TiB untuk Farming Bagan Chia (XCH) | XCHscan",
-    "metaDescription": "Jaringan Chia (XCH) Harian TiB per Jam per Grafik XCH menunjukan jumlah jam yang diharapkan untuk menanam 1 XCH dengan 1 TiB. Semua data real time, akurat, dan diambil langsung dari blockchain Chia (XCH).",
-    "heading": "Jam TiB Harian per Grafik XCH",
-    "description": "TiB Jam Harian per Grafik XCH menunjukan jumlah jam yang diharapkan untuk farming 1 XCH dengan 1 TiB.",
-    "yLabel": "Jam"
+  "tibHrⓃ": {
+    "metaTitle": "Space Needed TiB To Farm Near (Ⓝ) Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Daily TiB Hour per Ⓝ Chart",
+    "description": "The Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB.",
+    "yLabel": "Hours"
   }
 }

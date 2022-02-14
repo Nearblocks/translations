@@ -1,19 +1,22 @@
 {
-  "metaTitle": "前 50 名 Chia (XCH) 农民：自 Genesis 和 10,000 个区块 | XCHscan",
-  "metaDescription": "查找过去 24 小时内赢得的区块数量排名前 50 的 Chia (XCH) 农民，跨越最近的 10,000 个区块以及自 Chia (XCH) 区块链起源以来.",
-  "heading": "顶尖农场主",
+  "metaTitle": "近50名 Ⓝ 农民：自创世纪以来和10，000个街区|近街区",
+  "metaDescription": "按过去24小时内赢得的区块数量，在最近的10，000个区块以及自Near Ⓝ 区块链起源以来，查找前50名近 Ⓝ 农民。",
+  "heading": "顶级农民",
   "netspace": "网络空间",
   "difficulty": "困难",
-  "addressCount": "唯一地址数",
-  "powerUsage": "电力消耗量",
-  "feesXCH": "费用/代币（XCH）",
-  "feesUSD": "费用/代币（美元）",
-  "totalXCH": "总XCH",
-  "farmedXCH": "耕种XCH",
-  "tabs": ["最后10,000区块", "创世以来"],
-  "description": "按赢得区块数计算的前50个地址。耕种者可以将奖励发往多个地址。",
-  "rank": "排名",
-  "blocksWon": "赢得区块",
-  "blocksWon24H": "赢得区块（~24小时）",
-  "address": "地址"
+  "addressCount": "唯一地址计数",
+  "powerUsage": "电源使用情况",
+  "feesXCH": "费用/硬币 （ Ⓝ  ）",
+  "feesUSD": "费用/硬币（美元）",
+  "totalXCH": "总计  Ⓝ ",
+  "farmedXCH": "养殖  Ⓝ ",
+  "tabs": [
+    "最后 10，000 个块",
+    "自创世纪以来"
+  ],
+  "description": "按赢得的区块数排名前 50 位的地址。农民可以将奖励直接发送到多个地址。",
+  "rank": "排",
+  "blocksWon": "赢得的区块",
+  "blocksWon24H": "Blocks Won (~24H)",
+  "address": "Address"
 }

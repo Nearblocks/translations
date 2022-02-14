@@ -1,24 +1,24 @@
 {
-  "metaTitle": "Chia (XCH) 블록체인 익스플로러 | XCHscan",
-  "metaDescription": "XCHscan은 블록 익스프로러이자 스마트 친환경 블록체인인 치아 네트워크의 분석 툴을 제공하는 플랫폼입니다.",
-  "heroTitle": "치아 블록체인 익스프로러",
-  "chiaPrice": "치아 가격",
-  "xchFarmed": "파밍된 XCH",
-  "difficulty": "난이도",
-  "mempoolSize": "멤풀 사이즈",
+  "metaTitle": "근처 Ⓝ) 블록 체인 탐색기 | 블록 근처",
+  "metaDescription": "근거리 블록은 새로운 블록 체인 및 스마트 트랜잭션 플랫폼인 Near blockchain Ⓝ을위한 블록 탐색기 및 분석 플랫폼입니다.",
+  "heroTitle": "블록체인 탐색기 근처",
+  "nearPrice": "가까운 가격",
+  "nearFarmed": "인근 양식",
+  "difficulty": "어려움",
+  "mempoolSize": "엠풀 사이즈",
   "currentBlock": "현재 블록",
   "netspace": "넷스페이스",
-  "transactionHistory": "최근 {{days}} 일간 치아 전송 내역 ",
+  "transactionHistory": "{{일}} 일의 트랜잭션 기록 근처",
   "banner": {
-    "title": "여기에서 치아 생태계가 시작됩니다.",
-    "description": "치아 블록체인과 관련된 서비스나 프로덕트가 있으신가요? 1위 치아 블록체인 익스프로러인 XCHscan에 연락해서 홍보해보세요."
+    "title": "가까운 생태계는 여기에서 시작됩니다.",
+    "description": "가까운 관련 제품이나 서비스가 있습니까? 저희에게 연락하고 노출을 얻는 것은 Near에 대한 #1 가까운 블록 체인 탐색기 의 숫자를 볼 수 있습니다."
   },
-  "latestBlocks": "가장 최근 블록",
-  "latestTxns": "가장 최근 전송",
-  "error": "에러",
-  "noBlocks": "블록 없음",
-  "noTxns": "거래 없음",
-  "blockMiner": "채굴자",
-  "txnFrom": "발송자",
-  "txnTo": "수신자"
+  "latestBlocks": "최신 블록",
+  "latestTxns": "최신 트랜잭션",
+  "error": "오류!",
+  "noBlocks": "블록이 없습니다!",
+  "noTxns": "No transactions!",
+  "blockMiner": "Farmer",
+  "txnFrom": "From",
+  "txnTo": "To"
 }

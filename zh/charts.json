@@ -1,128 +1,128 @@
 {
-  "metaTitle": "Chia (XCH) 图表和统计| XCHscan",
-  "metaDescription": " XCHscan提供了一套实时Chia (XCH)数据图表和统计资料，用于跟踪Chia（XCH）加密货币的所有信息：价格、供应量、市值、Netspace等。",
-  "heading": "Chia图表与统计",
-  "otherHeading": "Other Chia Blockchain Charts & Statistics",
-  "chiaPrice": {
-    "metaTitle": "Chia (XCH)今日价格：信息、图表、统计数据| XCHscan",
-    "metaDescription": "Chia每日价格（美元）图表显示了Chia的每日历史价格，单位为美元。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia每日价格（美元）图表",
-    "description": "Chia每日价格（美元）图表显示了Chia的每日历史价格，单位为美元。",
-    "yLabel": "Chia价格（美元）",
+  "metaTitle": "靠近（ Ⓝ ）图表和块附近的统计数据",
+  "metaDescription": "Near提供了一套实时Near Ⓝ ）数据图表和统计数据，以跟踪有关Near Ⓝ ）加密货币的所有内容：价格，供应，市值，Netspace等。",
+  "heading": "近图表和统计",
+  "otherHeading": "其他近区块链图表和统计数据",
+  "NearPrice": {
+    "metaTitle": "近（ Ⓝ ）今天的价格：信息，图表，统计接近区块",
+    "metaDescription": "接近每日价格（USD）图表显示接近美元的每日历史价格。所有数据都是实时，准确的，并直接从Near Ⓝ ）区块链中提取。",
+    "heading": "接近每日价格（美元）图表",
+    "description": "接近每日价格（USD）图表显示接近美元的每日历史价格。",
+    "yLabel": "接近价格（美元）",
     "statistics": {
-      "heading": "Chia价格统计",
-      "price": "Chia价格（美元）",
+      "heading": "接近价格统计",
+      "price": "接近价格（美元）",
       "marketCap": "市值",
       "volume": "交易量",
       "volumeMarketCap": "交易量/市值",
-      "high24": "24小时高",
-      "low24": "24小时低",
-      "highAll": "历史最高点",
-      "lowAll": "历史最低点"
+      "high24": "24h 最高",
+      "low24": "24小时最低价",
+      "highAll": "历史新高",
+      "lowAll": "All-Time Low"
     }
   },
   "supply": {
-    "metaTitle": "Chia (XCH)总供应量和市值图表| XCHscan",
-    "metaDescription": "该表格和饼图显示了，从区块和非区块开采的回报中得到的当前Chia总供应量和发行情况。Chia（XCH）的美元价格如下表所示。有了Chia的总供应量和当前的美元价格，我们可以得到饼图中所示的市值。",
-    "heading": "Chia总供应量及市值表",
-    "description": "该表格和饼图显示了，从区块和非区块开采的回报中得到的当前Chia总供应量和发行情况。Chia（XCH）的美元价格如下表所示。有了Chia的总供应量和当前的美元价格，我们可以得到饼图中所示的市值。",
-    "totalSupply": "Chia总供应量",
-    "marketCap": "市值",
+    "metaTitle": "Near (Ⓝ) Total Supply and Market Capitalization Chart Near Blocks ",
+    "metaDescription": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "heading": "Near Total Supply and Market Capitalization Chart",
+    "description": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
+    "totalSupply": "Total Near Supply",
+    "marketCap": "Market Capitalization",
     "distribution": {
-      "heading": "Chia发行概览",
-      "genesis": "创世纪（预耕种）：",
-      "blockRewards": "采矿区块奖励：",
-      "totalSupply": "当前总供应量"
+      "heading": "Near Distribution Overview",
+      "genesis": "Genesis (Pre Farm):",
+      "blockRewards": "Mining Block Rewards:",
+      "totalSupply": "Current Total Supply"
     },
     "price": {
-      "heading": "每Chia价格",
-      "usd": "美元：",
-      "btc": "BTC："
+      "heading": "Near (Ⓝ) Price",
+      "usd": "In USD:",
+      "btc": "In BTC:"
     },
-    "chartTitle": "按供应类型分类"
+    "chartTitle": "Breakdown by Supply Types"
   },
   "marketCap": {
-    "metaTitle": "Chia (XCH)市值图表| XCHscan",
-    "metaDescription": "Chia（XCH）市值图表显示了Chia（XCH）每日市值和价格的历史明细。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia市值图表",
-    "description": "Chia市值图表显示了Chia每日市值和价格的历史明细。",
-    "yLabel": "Chia市值（美元）"
+    "metaTitle": "Near (Ⓝ) Market Capitalization Chart Near Blocks ",
+    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Market Capitalization Chart",
+    "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
+    "yLabel": "Near Market Cap (USD)"
   },
   "netspace": {
-    "metaTitle": "Chia (XCH) 网络空间图表：历史、演变、增长| XCHscan ",
-    "metaDescription": "Chia 网络（XCH）的网络空间图或网络空间表，显示了分配给Chia 网络（XCH）空间的历史量。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia网络空间图",
-    "description": "Chia网络空间图显示了分配给Chia网络空间的历史量。",
-    "yLabel": "网络空间"
+    "metaTitle": "Near (Ⓝ) Netspace Chart : History, Evolution, Growth Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near blockchain Space Chart",
+    "description": "Near blockchain Space Chart shows the historical measure of the space allocated to Near blockchain.",
+    "yLabel": "Network Space"
   },
-  "chiaSupply": {
-    "metaTitle": "Chia（XCH）供应表：循环、总量、预耕种| XCHscan",
-    "metaDescription": "Chia网络（XCH）供应增长图显示了每日区块奖励和Chia（XCH）总供应量的分类。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia供应增长图",
-    "description": "Chia供应增长图显示了每日区块奖励和总Chia供应的分类。",
-    "yLabel": "Chia供应量"
+  "NearSupply": {
+    "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Supply Growth Chart",
+    "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
+    "yLabel": "Near Supply"
   },
   "txns": {
-    "metaTitle": "Chia（XCH）交易图表：信息、统计、增长| XCHscan",
-    "metaDescription": "Chia（XCH）交易图表强调了Chia网络区块链上的交易总数，并对估计净空间、平均区块重量、总区块和可见的新地址总数进行了每日单独细分。",
-    "heading": "Chia每日交易图表",
-    "description": "该图表强调了Chia网络区块链上的交易总数，并对估计净空间、平均区块重量、总区块和可见的新地址总数进行了每日单独细分。",
-    "yLabel": "每日交易"
+    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth Near Blocks ",
+    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "heading": "Near Daily Transactions Chart",
+    "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
+    "yLabel": "Transactions per Day"
   },
   "blockRewards": {
-    "metaTitle": "Chia（XCH）区块奖励图表：信息、统计、演变| XCHscan",
-    "metaDescription": "Chia网络（XCH）每日区块奖励图表显示了给Chia网络的总供应量。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia每日区块奖励图表",
-    "description": "Chia每日区块奖励图标显示了给Chia网络的总供应量。",
-    "yLabel": "每日Chia新供应量"
+    "metaTitle": "Near (Ⓝ) Block Rewards Chart : Info, Stats, Evolution Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily Block Rewards Chart shows the total Near supplied to Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Daily Block Rewards Chart",
+    "description": "Near Daily Block Rewards Chart shows the total Near supplied to Near blockchain.",
+    "yLabel": "New Near supply per Day"
   },
   "blocks": {
-    "metaTitle": "Chia (XCH)区块计数和奖励图表| XCHscan",
-    "metaDescription": "Chia网络（XCH）区块计数和奖励图表显示了Chia网络每日产生的历史区块数量和区块奖励总额。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia区块计数与奖励图表",
-    "description": "Chia区块计数和奖励图表显示了Chia网络每日产生的区块历史数量和区块奖励总额。",
-    "yLabel": "每天区块数"
+    "metaTitle": "Near (Ⓝ) Block Count and Rewards Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Near Block Count and Rewards Chart",
+    "description": "Near Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward.",
+    "yLabel": "Blocks per Day"
   },
   "addresses": {
-    "metaTitle": "Chia（XCH）唯一地址表：信息、统计、增长| XCHscan ",
-    "metaDescription": "Chia网络(XCH)唯一地址表显示了Chia区块链上的不同地址总数以及每日地址数量的增加情况。",
-    "heading": "Chia唯一地址表",
-    "description": "该表显示了Chia区块链上的不同地址总数以及每日地址数量的增加情况。",
-    "yLabel": "Chia累计地址增长"
+    "metaTitle": "Near (Ⓝ) Unique Addresses Chart : Info, Stats, Growth Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) unique addresses chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
+    "heading": "Near Unique Addresses Chart",
+    "description": "The chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
+    "yLabel": "Near Cumulative Addresses Growth"
   },
   "activeAddresses": {
-    "metaTitle": "Chia（XCH）活跃地址表：信息、统计、活动| XCHscan",
-    "metaDescription": "Chia网络（XCH）活跃地址表显示了，每日在网络上作为发送方或接收方的活跃唯一地址的每日数量。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "Chia活跃地址表",
-    "description": "Chia活跃地址表显示了，每日在网络上作为发送方或接收方的活跃唯一地址的每日数量。",
-    "yLabel": "Chia活跃地址"
+    "metaTitle": "Near (Ⓝ) Active Addresses Chart : Info, Stats, Activity Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Active Near Addresses Chart",
+    "description": "The Active Near Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
+    "yLabel": "Active Near Addresses"
   },
   "txnFee": {
-    "metaTitle": "Chia（XCH）交易费用历史：平均交易费用| XCHscan",
-    "metaDescription": "Chia 网络XCH）交易费用表显示了Chia 网络（XCH）上每笔交易的日平均费用（美元）。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "平均交易费用表",
-    "description": "该表显示了Chia网络上每笔交易的日平均花费金额（美元）。",
-    "yLabel": "平均交易费用（美元）"
+    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Average Transaction Fee Chart",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
+    "yLabel": "Average Transaction Fee (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Chia（XCH）交易量表：平均交易量| XCHscan",
-    "metaDescription": "Chia网络（XCH）平均交易量表显示了Chia网络上每笔交易的日平均金额（美元），包括耕种奖励。",
-    "heading": "平均交易量表",
-    "description": "该表显示了Chia网络上每笔交易的日均金额（美元），包括耕种奖励。",
-    "yLabel": "平均交易量（美元）"
+    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
+    "heading": "Average Transaction Volume Chart",
+    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
+    "yLabel": "Average Transaction Volume (USD)"
   },
-  "xchTib": {
-    "metaTitle": "每日Chia（XCH）耕种奖励/TiB图表| XCHscan",
-    "metaDescription": "Chia 网络（XCH）每日 XCH /TiB图表显示了每TiB的预计每日耕种XCH。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "每日XCH/TiB图表",
-    "description": "每日XCH/TiB图表显示了每TiB的预计每日耕种XCH。",
-    "yLabel": "Chia数量"
+  "ⓃTib": {
+    "metaTitle": "Daily Near (Ⓝ) Farming Reward per TiB Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Daily Ⓝ per TiB Chart",
+    "description": "The Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB.",
+    "yLabel": "Near Amount"
   },
-  "tibHrXch": {
-    "metaTitle": "TiB耕种Chia（XCH）所需空间图表| XCHscan",
-    "metaDescription": "Chia网络（XCH）每日TiB /XCH小时图表显示了使用1个TiB耕种1个XCH的预计小时数。所有数据都是实时、准确的，并直接从Chia（XCH）区块链中获取。",
-    "heading": "每日TiB/XCH小时图表",
-    "description": "每日TiB/XCH小时图表显示了使用1个TiB耕种1个XCH的预计小时数。",
-    "yLabel": "小时"
+  "tibHrⓃ": {
+    "metaTitle": "Space Needed TiB To Farm Near (Ⓝ) Chart Near Blocks ",
+    "metaDescription": "Near blockchain (Ⓝ) Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "heading": "Daily TiB Hour per Ⓝ Chart",
+    "description": "The Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB.",
+    "yLabel": "Hours"
   }
 }

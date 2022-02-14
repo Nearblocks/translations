@@ -1,83 +1,83 @@
 {
   "header": {
     "menu": {
-      "home": "Главная",
-      "pools": "Пулы",
-      "pool": "Пул XCHscan",
-      "otherPools": "Список пулов Chia",
-      "farmingCalculator": "Калькулятор майнинга",
+      "home": "Дом",
+      "pools": "Бассейны",
+      "pool": "Рядом с блоками бассейн",
+      "otherPools": "Список бассейнов Чиа",
+      "farmingCalculator": "Калькулятор сельского хозяйства",
       "blockchain": "Блокчейн",
       "viewBlocks": "Просмотр блоков",
-      "viewTxns": "Просмотр транзакций",
-      "topFarmers": "Лучшие майнеры",
+      "viewTxns": "Просмотр Txns",
+      "topFarmers": "Лучшие фермеры",
       "languages": "Языки",
-      "charts": "Графики и статистика",
-      "topAccounts": "Топ аккаунты",
-      "tokens": "Жетоны",
-      "toptoken": "Лучшие токены",
+      "charts": "Чарты и статистика",
+      "topAccounts": "Топ Аккаунты",
+      "tokens": "Маркеры",
+      "toptoken": "Топ Токены",
       "viewTokenTrasfers": "Просмотр переводов токенов"
     }
   },
   "search": {
     "filters": {
       "all": "Все фильтры",
-      "txns": "Транзакции",
-      "блоки": "Блоки",
-      "token": "Tokens"
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Маркеры"
     },
-    "placeholder": "Поиск по адресу / Хэшу транзакции / Блоку",
+    "placeholder": "Search by Address / Txn Hash / Block",
     "list": {
-      "address": "Адреса",
-      "txns": "Транзакции",
-      "blocks": "Блоки",
-      "tokens": "Tokens"
+      "address": "Addresses",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Маркеры"
     }
   },
   "footer": {
-    "description": "XCHscan - это платформа для просмотра и анализа блоков для Chia, нового блокчейна и платформы умных транзакций.",
+    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
     "poweredBy": "Powered by",
     "links": {
-      "pools": "Пулы",
-      "pool": "Пул XCHscan",
-      "otherPools": "Список пул Chia",
-      "farmingCalculator": "Калькулятор майнинга",
-      "explore": "Исследовать",
-      "blockExplorer": "Обозреватель блоков",
-      "latestBlocks": "Последние блоки",
-      "latestTxns": "Последние транзакции",
-      "company": "Компания",
-      "about": "О нас",
-      "advertise": "Реклама",
-      "contact": "Контакты",
-      "terms": "Условия",
-      "charts": "Графики и статистика",
-      "api": "API",
-      "submitPool": "Разместить пул",
-      "kb": "База знаний",
-      "основы": "Основы",
-      "buySell": "Купить, продать и обменять"
+      "pools": "Бассейны",
+      "pool": "Рядом с блоками бассейн",
+      "otherPools": "Список бассейнов Чиа",
+      "farmingCalculator": "Калькулятор сельского хозяйства",
+      "explore": "Explore",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms",
+      "charts": "Чарты и статистика",
+      "api": "APIs",
+      "submitPool": "Submit a Pool",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
     }
   },
   "sponsored": "Sponsored",
   "pagination": {
-    "first": "Первая",
-    "last": "Последняя"
+    "first": "First",
+    "last": "Last"
   },
   "validation": {
-    "required": "{{field}} обязательно",
-    "invalid": "Пожалуйста, укажите действительное {{field}}"
+    "required": "{{field}} is required",
+    "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Источник: XCHscan.com"
+    "source": "Source: Near Blocks.com"
   },
-  "trademark": "XCHscan работает полностью и самостоятельно. Chia Network ™ и Chia Blockchain ™ являются товарными знаками или зарегистрированными товарными знаками Chia Network, Inc. в США и во всем мире, корпорации штата Делавэр. XCHscan не связан с Chia Network, Inc. и все зарегистрированные товарные знаки, представленные на этом веб-сайте, принадлежат их соответствующим владельцам. ",
+  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
   "tags": {
-    "service": "Сервис",
-    "pool": "Пул",
-    "personal": "Персональный",
-    "shop": "Магазин",
-    "donation": "Пожертвование",
-    "centralisedExchange": "Централизованный обмен",
-    "decentralisedExchange": "Децентрализованная биржа"
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personal",
+    "shop": "Shop",
+    "donation": "Donation",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   }
 }

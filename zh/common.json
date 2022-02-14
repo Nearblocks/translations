@@ -1,55 +1,55 @@
 {
   "header": {
     "menu": {
-      "home": "主页",
-      "pools": "池子",
-      "pool": "XCHscan池",
-      "otherPools": "其他池子",
-      "farmingCalculator": "耕种计算器",
+      "home": "家",
+      "pools": "池",
+      "pool": "近街区池",
+      "otherPools": "奇亚籽池列表",
+      "farmingCalculator": "农业计算器",
       "blockchain": "区块链",
-      "viewBlocks": "查看区块",
-      "viewTxns": "查看Txns",
-      "topFarmers": "顶尖农场主",
+      "viewBlocks": "查看块",
+      "viewTxns": "查看 Txns",
+      "topFarmers": "顶级农民",
       "languages": "语言",
       "charts": "图表和统计",
-      "topAccounts": "Top Accounts",
-      "tokens": "代币",
+      "topAccounts": "热门账户",
+      "tokens": "令 牌",
       "toptoken": "热门代币",
-      "viewTokenTrasfers": "查看代币转移"
+      "viewTokenTrasfers": "查看代币转账"
     }
   },
   "search": {
     "filters": {
-      "all": "所有筛选条件",
+      "all": "所有过滤器",
       "txns": "Txns",
-      "blocks": "区块",
-      "token": "Tokens"
+      "blocks": "Blocks",
+      "token": "令 牌"
     },
-    "placeholder": "按地址/Txn哈希/区块搜索",
+    "placeholder": "Search by Address / Txn Hash / Block",
     "list": {
-      "address": "地址",
+      "address": "Addresses",
       "txns": "Txns",
-      "blocks": "区块",
-      "tokens": "Tokens"
+      "blocks": "Blocks",
+      "tokens": "令 牌"
     }
   },
   "footer": {
-    "description": "XCHscan是Chia网络领先的区块浏览和分析平台，也是一个区块链和智能交易新平台。",
-    "poweredBy": "技术支持",
+    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
+    "poweredBy": "Powered by",
     "links": {
-      "pools": "池子",
-      "pool": "XCHscan池",
-      "otherPools": "其他池子",
-      "farmingCalculator": "耕种计算器",
-      "explore": "探索",
-      "blockExplorer": "区块资源管理器",
-      "latestBlocks": "最新区块",
-      "latestTxns": "最新交易记录",
-      "company": "公司",
-      "about": "关于",
-      "advertise": "广告",
-      "contact": "联系人",
-      "terms": "条款",
+      "pools": "池",
+      "pool": "近街区池",
+      "otherPools": "奇亚籽池列表",
+      "farmingCalculator": "农业计算器",
+      "explore": "Explore",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms",
       "charts": "图表和统计",
       "api": "APIs",
       "submitPool": "Submit a Pool",
@@ -58,19 +58,19 @@
       "buySell": "Buy, Sell & Trade"
     }
   },
-  "sponsored": "赞助",
+  "sponsored": "Sponsored",
   "pagination": {
-    "first": "第一",
-    "last": "最后"
+    "first": "First",
+    "last": "Last"
   },
   "validation": {
-    "required": "{{field}}是必需的",
-    "invalid": "请提供一个有效的{{field}}"
+    "required": "{{field}} is required",
+    "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "来源: xchscan.com"
+    "source": "Source: Near Blocks.com"
   },
-  "trademark": "XCHscan is operated full and on its own. Chia Network™ and the Chia Blockchain™ are trademarks or registered trademarks of Chia Network, Inc. in the United States and worldwide, a Delaware corporation. XCHscan is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
   "tags": {
     "service": "Service",
     "pool": "Pool",

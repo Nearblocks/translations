@@ -1,40 +1,40 @@
 {
-  "metaTitle": "Claim XCH Address | XCHscan",
-  "metaDescription": "Claim your name, tag and other information.",
-  "heading": "Claim XCH Address",
+  "metaTitle": "클레임 Ⓝ 주소 | 블록 근처",
+  "metaDescription": "이름, 태그 및 기타 정보를 주장합니다.",
+  "heading": "클레임 Ⓝ 주소",
   "form": {
-    "heading": "Claim your name, tag and other information",
-    "content": "Claim your Name Tag and add other information related to your XCH address by filling in the form below. For each edit request, we will ask for a {{amount}} XCH deposit to prove your address ownership.",
+    "heading": "이름, 태그 및 기타 정보 클레임",
+    "content": "이름 태그를 지정하고 아래 양식을 작성하여 Ⓝ 주소와 관련된 기타 정보를 추가합니다. 각 편집 요청에 대해 주소 소유권을 증명하기 위해 {{amount}}}Ⓝ 보증금을 요청합니다.",
     "address": {
-      "label": "XCH Address"
+      "label": "Ⓝ 주소"
     },
     "label": {
-      "label": "Name"
+      "label": "이름"
     },
     "tag": {
-      "label": "Tag"
+      "label": "하루"
     },
     "website": {
-      "label": "Website"
+      "label": "웹사이트"
     },
     "twitter": {
-      "label": "Twitter"
+      "label": "지저귀다"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "블로그(또는 중간)"
     },
     "telegram": {
-      "label": "Telegram"
+      "label": "전보"
     },
     "discord": {
-      "label": "Discord"
+      "label": "갈등"
     },
     "keybase": {
-      "label": "Keybase"
+      "label": "키베이스"
     },
     "info": {
-      "label": "Deposit {{amount}} XCH to the following address to prove your ownership:",
-      "tooltip": "The sending address must be identical to the address you wish to add information to."
+      "label": "{{amount}} Ⓝ를 다음 주소로 입금하여 소유권을 증명합니다.",
+      "tooltip": "전송 주소는 정보를 추가하려는 주소와 동일해야 합니다."
     },
     "button": "Submit",
     "successMessage": "Thank you, we will review your application and list it after its been approved",

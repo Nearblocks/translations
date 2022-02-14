@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - Halaman tidak ditemukan | XCHscan",
-  "metaDescription": "Maaf Kami tidak menemukan apa yang Anda cari. Silahkan coba lagi",
-  "description": "<0>Maaf!</0> Kami mengalami permasalahan yang tidak terduga.",
-  "addressDescription": "<0>Maaf!</0> Alamat tidak ditemukan.",
-  "blockDescription": "<0>Maaf!</0> Blok tidak ditemukan.",
-  "txnDescription": "<0>Maaf!</0> Transaksi tidak ditemukan.",
-  "back": "Kembali ke Beranda",
-  "tokenDescription": "<0>Maaf!</0> Token tidak ditemukan."
+  "metaTitle": "404 - Halaman tidak ditemukan | Blok Dekat",
+  "metaDescription": "Kami tidak menemukan apa yang Anda cari, maaf. Silakan coba lagi.",
+  "description": "<0>Sorry!</0> Kami mengalami kesalahan yang tidak terduga.",
+  "addressDescription": "<0>Sorry!</0> Alamat tidak ditemukan.",
+  "blockDescription": "<0>Sorry!</0> Blok tidak ditemukan.",
+  "txnDescription": "<0>Sorry!</0> Transaksi tidak ditemukan.",
+  "back": "Kembali ke rumah",
+  "tokenDescription": "<0>Sorry!</0> Token tidak ditemukan."
 }

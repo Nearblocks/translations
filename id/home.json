@@ -1,24 +1,24 @@
 {
-  "metaTitle": "Chia (XCH) Penjelajah Blockchain | XCHscan",
-  "metaDescription": "XCHscan adalah Blockchain Explorer dan Platform Analisis untuk jaringan CHIA (XCH), sebuah blockchain baru dan platform smart contract terdesentralisasi.",
-  "heroTitle": "Chia Blockchain Explorer",
-  "chiaPrice": "Harga Chia",
-  "xchFarmed": "XCH farmed",
-  "difficulty": "Kesulitan",
+  "metaTitle": "Dekat (Ⓝ) Blockchain Explorer | Blok Dekat",
+  "metaDescription": "Near Blocks adalah Block Explorer dan Analytics Platform for Near blockchain Ⓝ), platform blockchain dan transaksi cerdas baru.",
+  "heroTitle": "Dekat Blockchain Explorer",
+  "nearPrice": "Harga dekat",
+  "nearFarmed": "Dekat pertanian",
+  "difficulty": "Susah",
   "mempoolSize": "Ukuran Mempool",
   "currentBlock": "Blok Saat Ini",
   "netspace": "Netspace",
-  "transactionHistory": "Riwayat Transaksi Chia dalam {{days}} hari",
+  "transactionHistory": "Dekat riwayat transaksi di {{days}} hari",
   "banner": {
-    "title": "Ekosistem Chia dimulai di sini",
-    "description": "Apakah Anda memiliki produk atau layanan terkiat Chia? Hubungi Kami dan tingkatkan tampilan untuk melihat nomor #1 Chia blockchain explorer for Chia."
+    "title": "Ekosistem dekat dimulai di sini",
+    "description": "Apakah Anda memiliki produk atau layanan terkait dekat? Hubungi kami dan dapatkan tampilan eksposur nomor # 1 Dekat penjelajah blockchain untuk Near."
   },
   "latestBlocks": "Blok Terbaru",
   "latestTxns": "Transaksi Terbaru",
-  "error": "Error!",
+  "error": "Kesalahan!",
   "noBlocks": "Tidak ada blok!",
-  "noTxns": "Tidak ada transaksi!",
-  "blockMiner": "Miner",
-  "txnFrom": "Dari",
-  "txnTo": "Untuk"
+  "noTxns": "No transactions!",
+  "blockMiner": "Farmer",
+  "txnFrom": "From",
+  "txnTo": "To"
 }

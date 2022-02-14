@@ -1,20 +1,20 @@
 {
   "header": {
     "menu": {
-      "home": "Beranda",
-      "pools": "Pools",
-      "pool": "Pool XCHscan",
-      "otherPools": "Pools Lainnya",
-      "farmingCalculator": "Kalkulator Farming",
+      "home": "Rumah",
+      "pools": "Renang",
+      "pool": "Dekat Blok Kolam Renang",
+      "otherPools": "Daftar Kolam  Near",
+      "farmingCalculator": "Kalkulator Pertanian",
       "blockchain": "Blockchain",
       "viewBlocks": "Lihat Blok",
       "viewTxns": "Lihat Txns",
-      "topFarmers": "Top farmers",
+      "topFarmers": "Petani Top",
       "languages": "Bahasa",
-      "charts": "Grafik & Statistik",
-      "topAccounts": "Top Accounts",
-      "tokens": "Tokens",
-      "toptoken": "Top Tokens",
+      "charts": "Bagan & Statistik",
+      "topAccounts": "Akun Teratas",
+      "tokens": "Token",
+      "toptoken": "Token Teratas",
       "viewTokenTrasfers": "Lihat Transfer Token"
     }
   },
@@ -22,35 +22,35 @@
     "filters": {
       "all": "Semua Filter",
       "txns": "Txns",
-      "blocks": "Blok",
-      "token": "Tokens"
+      "blocks": "Blocks",
+      "token": "Token"
     },
-    "placeholder": "Cari berdasarkan alamat / Txn Hash / Blok",
+    "placeholder": "Search by Address / Txn Hash / Block",
     "list": {
-      "address": "Alamat",
+      "address": "Addresses",
       "txns": "Txns",
-      "blocks": "Blok",
-      "tokens": "Tokens"
+      "blocks": "Blocks",
+      "tokens": "Token"
     }
   },
   "footer": {
-    "description": "XCHscan adalah Blok Explorer dan Platform Analitik untuk Jaringan Chia blockchain, sebuah blockchain baru dan platform pintar untuk transaksi.",
-    "poweredBy": "Didukung oleh",
+    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
+    "poweredBy": "Powered by",
     "links": {
-      "pools": "Pools",
-      "pool": "XCHscan Pool",
-      "otherPools": "Pools lain",
-      "farmingCalculator": "Kalkulator Farming",
+      "pools": "Renang",
+      "pool": "Dekat Blok Kolam Renang",
+      "otherPools": "Daftar Kolam  Near",
+      "farmingCalculator": "Kalkulator Pertanian",
       "explore": "Explore",
-      "blockExplorer": "Blok Explorer",
-      "latestBlocks": "Blok Terbaru",
-      "latestTxns": "Transaksi Terbaru",
-      "company": "Perusahaan",
-      "about": "Tentang",
-      "advertise": "Mengiklankan",
-      "contact": "Kontak",
-      "terms": "Syarat",
-      "charts": "Grafik & Statistik",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms",
+      "charts": "Bagan & Statistik",
       "api": "APIs",
       "submitPool": "Submit a Pool",
       "kb": "Knowledge Base",
@@ -58,19 +58,19 @@
       "buySell": "Buy, Sell & Trade"
     }
   },
-  "sponsored": "Sponsor",
+  "sponsored": "Sponsored",
   "pagination": {
-    "first": "Pertama",
-    "last": "Terakhir"
+    "first": "First",
+    "last": "Last"
   },
   "validation": {
-    "required": "{{field}} wajib disi",
-    "invalid": "Harap berikan yang valid {{field}}"
+    "required": "{{field}} is required",
+    "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Sumber: XCHscan.com"
+    "source": "Source: Near Blocks.com"
   },
-  "trademark": "XCHscan is operated full and on its own. Chia Network™ and the Chia Blockchain™ are trademarks or registered trademarks of Chia Network, Inc. in the United States and worldwide, a Delaware corporation. XCHscan is not associated to Chia Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
   "tags": {
     "service": "Service",
     "pool": "Pool",

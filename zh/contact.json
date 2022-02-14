@@ -1,52 +1,52 @@
 {
-  "metaTitle": "联系我们 | XCHscan",
-  "metaDescription": "有关我们的网站和工具的任何查询，请联系 XCHscan 团队。请理解，我们只能协助解决与区块浏览器服务直接相关的问题.",
-  "heading": "联系XCHscan",
+  "metaTitle": "联系我们 |近街区",
+  "metaDescription": "联系Near Blocks团队，了解与我们的网站和工具相关的任何疑问。请理解，我们只能协助解决与区块浏览器服务直接相关的问题。",
+  "heading": "接触块附近",
   "info": {
     "heading": "请给我们留言，但请注意：",
     "points": [
       {
-        "heading": "待处理事务",
-        "content": "我们不处理交易，因此无法加快、取消或更换交易。如果有交易相关问题，请查看此处。"
+        "heading": "待处理交易",
+        "content": "我们不处理交易，因此无法加速，取消或替换它们。如果您在处理待处理事务时遇到问题，请参阅此处。"
       },
       {
-        "heading": "Chia Block Explorer奇亚区块探险家",
-        "content": "XCHscan是一个独立的区块资源管理器，与其他服务提供商无关（除非另有明确说明），因此无法对具体到其他服务供应商的询问作出准确的答复。"
+        "heading": "靠近区块浏览器",
+        "content": "Near Blocks是一个独立的区块浏览器，与其他服务提供商无关（除非另有明确说明），因此无法为特定于其他服务提供商的查询提供精确的响应。"
       },
       {
         "heading": "钱包/交易所/项目相关问题",
-        "content": "请联系你的钱包服务提供商、交易所或项目/合约所有者以获得进一步支持，他们能够更好地帮助解决与他们的平台相关的问题。"
+        "content": "请联系您的钱包服务提供商，交易所或项目/合同所有者以获得进一步的支持，因为他们可以更好地帮助您解决与他们的平台相关的问题。"
       }
     ]
   },
   "form": {
-    "heading": "联系方式：",
+    "heading": "联系表格：",
     "name": {
-      "label": "名称",
-      "placeholder": "名称"
+      "label": "名字",
+      "placeholder": "名字"
     },
     "email": {
-      "label": "电子邮件 ",
+      "label": "电子邮件",
       "placeholder": "电子邮件"
     },
     "subject": {
       "label": "主题",
       "placeholder": "主题",
       "options": [
-        "普通咨询",
+        "一般查询",
         "支持/技术",
-        "合作伙伴",
-        "API/开发",
-        "名称标签/标签地址",
+        "Partnership",
+        "API / Development",
+        "Name tagging / Label address",
         "Advertise"
       ]
     },
     "message": {
-      "label": "消息",
-      "placeholder": "消息"
+      "label": "Message",
+      "placeholder": "Message"
     },
-    "button": "发送消息",
-    "successMessage": "谢谢，我们会尽快给您答复。",
-    "errorMessage": "出了点问题!"
+    "button": "Send Message",
+    "successMessage": "Thank you, we will get back to you soon",
+    "errorMessage": "Something went wrong!"
   }
 }

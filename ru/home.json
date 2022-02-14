@@ -1,24 +1,24 @@
 {
-   "metaTitle": "Chia (XCH) Blockchain Explorer | XCHscan",
-   "metaDescription": "XCHscan - это платформа для анализа и анализа блоков для Chia (XCH), нового блокчейна и платформы умных транзакций",
-   "heroTitle": "Chia Blockchain Explorer",
-   "chiaPrice": "Цена Chia",
-   "xchFarmed": "XCH смайнено",
-   "difficulty": "Сложность",
-   "mempoolSize": "Размер мемпула",
-   "currentBlock": "Текущий блок",
-   "netspace": "Netspace",
-   "transactionHistory": "История транзакций Chia за {{days}} дн.",
-   "banner": {
-     "title": "Экосистема Chia начинается здесь",
-     "description": "У вас есть продукт или услуга, относящиеся к Chia? Свяжитесь с нами и узнайте больше о обозревателе блокчейнов №1 для Chia"
-   },
-   "latestBlocks": "Последние блоки",
-   "latestTxns": "Последние транзакции",
-   "error": "Ошибка!",
-   "noBlocks": "Нет блоков!",
-   "noTxns": "Транзакций нет!",
-   "blockMiner": "Майнер",
-   "txnFrom": "От",
-   "txnTo": "Кому"
+  "metaTitle": "Рядом (Ⓝ) Blockchain Explorer | Рядом с блоками",
+  "metaDescription": "Near Blocks - это Block Explorer и аналитическая платформа для Near blockchain (Ⓝ), новой платформы блокчейна и интеллектуальных транзакций.",
+  "heroTitle": "Рядом с обозревателем блокчейна",
+  "nearPrice": "Цена рядом",
+  "nearFarmed": "Рядом с фермой",
+  "difficulty": "Трудность",
+  "mempoolSize": "Размер Мемпула",
+  "currentBlock": "Текущий блок",
+  "netspace": "Сетевое пространство",
+  "transactionHistory": "Рядом с историей транзакций в {{days}} дней",
+  "banner": {
+    "title": "Здесь начинается близкая экосистема",
+    "description": "У вас есть продукт или услуга, связанная с Near? Свяжитесь с нами и получите доступ к просмотру номера # 1 Near blockchain explorer для Near."
+  },
+  "latestBlocks": "Последние блоки",
+  "latestTxns": "Последние транзакции",
+  "error": "Ошибка!",
+  "noBlocks": "Никаких блоков!",
+  "noTxns": "No transactions!",
+  "blockMiner": "Farmer",
+  "txnFrom": "From",
+  "txnTo": "To"
 }
