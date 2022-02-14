@@ -1,6 +1,6 @@
 {
   "metaTitle": "All Near (Ⓝ) Latest Blocks | Near Blocks",
-  "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, farmer, block reward, difficulty and included transactions are shown.",
+  "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, author, gas used, gas price and included transactions are shown.",
   "heading": "Blocks",
   "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
   "blocks": "Block",
@@ -9,22 +9,20 @@
   "typeTxBlock": "TX Block",
   "age": "Age",
   "txn": "Txn",
-  "miner": "Farmer",
-  "weight": "Weight",
-  "reward": "Rewards",
+  "miner": "Author",
+  "weight": "Weight", 
   "volume": "Transaction Volume",
   "block": {
     "metaTitle": "Near (Ⓝ) Block {{block}} | Near Blocks",
-    "metaDescription": "Near (Ⓝ) Block Height {{block}}. The timestamp, block reward, difficulty, fees, number of transactions and rewards in the block are detailed on Near.",
+    "metaDescription": "Near (Ⓝ) Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
     "heading": "Block <0>#{{block}}</0>",
     "height": "Block Height",
-    "hash": "Header Hash",
+    "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
-    ],
-    "farmer": "Farmer",
+      "<0>{{txns}} transactions</0> and {{receipts}} receipts"
+    ],    
     "pool": "Pool",
     "poolReward": "Pool Reward",
     "farmerReward": "Farmer Reward",
@@ -34,6 +32,13 @@
     "poolHash": "Pool Puzzlehash",
     "foliage": "Foliage",
     "rewardChain": "Reward Chain Block",
-    "proof": "Proof"
+    "proof": "Proof",
+    "gasUsed": "GAS Used",
+    "gasPrice": "GAS Price",
+    "parenthash": "Parent hash",
+    "author": "Author",
+    "receipt": "Receipt",
+    "gasLimit": "Gas limit",
+    "gasFee": "Gas Fee"
   }
 }
