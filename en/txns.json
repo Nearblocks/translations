@@ -12,7 +12,7 @@
   "typeToken": "Token transaction",
   "age": "Age",
   "ageDT": "Date Time (UTC)",
-  "confirmed": "Confirmed Block",
+  "blockHeight": "Block height",
   "from": "From",
   "to": "To",
   "txnIn": "IN",
@@ -32,23 +32,27 @@
     "heading": "Transaction Details",
     "hash": {
       "text": ["Txn Hash"],
-      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+      "tooltip": "Unique identifier (hash) of this transaction."
     },
     "status": {
       "text": ["Status", "Success", "Spent", "Unspent"],
       "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["Block"],
+      "text": ["Block height"],
       "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
       "text": ["Timestamp"],
-      "tooltip": "The date and time at which a transaction is mined."
+      "tooltip": "Timestamp of when this transaction was submitted."
     },
-    "value": {
-      "text": ["Value"],
-      "tooltip": "The value being transacted in Ⓝ and fiat value"
+    "deposit": {
+      "text": ["Deposit Value"],
+      "tooltip": "Sum of all NEAR tokens transferred from the Signing account to the Receiver account. This includes tokens sent in a Transfer action(s), and as deposits on Function Call action(s)."
+    },
+    "fee": {
+      "text": ["Transaction fee"],
+      "tooltip": "Total fee paid in NEAR to execute this transaction."
     },
     "price": {
       "text": ["Ⓝ Price"],
@@ -56,15 +60,19 @@
     },
     "from": {
       "text": ["From"],
-      "tooltip": "The sending party of the transaction."
+      "tooltip": "Account that signed and sent the transaction"
     },
     "to": {
       "text": ["To"],
-      "tooltip": "The receiving party of the transaction."
+      "tooltip": "Account receiving the transaction."
     },
     "type": {
       "text": ["Type", "Transaction", "Pool Reward", "Farmer Reward"],
       "tooltip": "Type of transaction."
+    },
+    "gas": {
+      "text": ["Gas Limit & Usage by Txn"],
+      "tooltip": "Maximum amount of gas allocated for the transaction & the amount eventually used."
     },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
@@ -73,5 +81,7 @@
     "claimToken": "Claim token",
     "token": "Token"    
   },
-  "info": "Showing the last {{count}} records only"
+  "info": "Showing the last {{count}} records only",
+  "depositValue": "Deposit value",
+  "txnFee": "Txn fee"
 }

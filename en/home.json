@@ -18,7 +18,12 @@
   "error": "Error!",
   "noBlocks": "No blocks!",
   "noTxns": "No transactions!",
-  "blockMiner": "Farmer",
+  "blockMiner": "Author",
   "txnFrom": "From",
-  "txnTo": "To"
+  "txnTo": "To",
+  "nodesOnline": "NODES ONLINE",
+  "nodesValidating": "NODES VALIDATING",
+  "blockHeight": "BLOCK HEIGHT",
+  "avgBlockTime": "AVG. BLOCK TIME",
+  "gasPrice": "GAS PRICE"
 }
