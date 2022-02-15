@@ -20,5 +20,13 @@
   "noTxns": "No transactions!",
   "blockMiner": "Farmer",
   "txnFrom": "From",
-  "txnTo": "To"
+  "txnTo": "To",
+  "nodesOnline": "УЗЛЫ ОНЛАЙН",
+  "nodesValidating": "ПРОВЕРКА УЗЛОВ",
+  "blockHeight": "ВЫСОТА БЛОКА",
+  "avgBlockTime": "СРЕДНЕЕ ВРЕМЯ БЛОКА",
+  "gasPrice": "ЦЕНА ГАЗА",
+  "transactions": "Операций",
+  "marketCap": "Рыночная капитализация",
+  "activeValidator": "Активные валидаторы"
 }

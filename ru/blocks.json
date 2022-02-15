@@ -1,6 +1,6 @@
 {
   "metaTitle": "Все поблизости (Ⓝ) Последние блоки | Рядом с блоками",
-  "metaDescription": "Все ближние (Ⓝ блоки, которые включены в блокчейн Near. Отображаются метка времени, фермер, награда за блок, сложность и включенные транзакции.",
+  "metaDescription": "Все ближние (Ⓝ блоки, которые включены в блокчейн Near. Показана временная метка, автор, использованный газ, цена на газ и включенные транзакции.",
   "heading": "Блоки",
   "listing": "Блок #{{от}} до #{{to}} (Всего блоков {{количество}})",
   "blocks": "Блок",
@@ -9,31 +9,29 @@
   "typeTxBlock": "Блок TX",
   "age": "Возраст",
   "txn": "Тхн",
-  "miner": "Фермер",
+  "miner": "Автор",
   "weight": "Вес",
-  "reward": "Награды",
   "volume": "Объем транзакций",
   "block": {
     "metaTitle": "Рядом (Ⓝ) Блок {{block}} | Рядом с блоками",
-    "metaDescription": "Рядом (Ⓝ) Высота блока {{блок}}. Метка времени, вознаграждение за блок, сложность, сборы, количество транзакций и награды в блоке подробно описаны в Near.",
+    "metaDescription": "Рядом (Ⓝ) Высота блока {{блок}}. Временная метка, используемый газ блока, цена газа, автор, количество транзакций и квитанций в блоке подробно описаны на Near.",
     "heading": "Блок <0>#{{block}}</0>",
-    "height": "Block Height",
-    "hash": "Header Hash",
-    "timestamp": "Timestamp",
+    "height": "Высота блока",
+    "hash": "Мешанина",
+    "timestamp": "Метка времени",
     "transactions": [
-      "Transactions",
-      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
+      "Операций",
+      "<0>{{txns}} транзакции</0> и {{квитанции}} квитанции"
     ],
-    "farmer": "Фермер",
-    "pool": "Pool",
-    "poolReward": "Pool Reward",
-    "farmerReward": "Farmer Reward",
-    "fees": "Fees",
-    "price": "Ⓝ Price",
-    "farmerHash": "Farmer Puzzlehash",
-    "poolHash": "Pool Puzzlehash",
-    "foliage": "Foliage",
-    "rewardChain": "Reward Chain Block",
-    "proof": "Proof"
+    "fees": "Сборы",
+    "price": "Ⓝ Цена",
+    "proof": "Доказательство",
+    "gasUsed": "Газ Б/У",
+    "gasPrice": "Цена газа",
+    "parenthash": "Родительский хэш",
+    "author": "Автор",
+    "receipt": "Квитанция",
+    "gasLimit": "Лимит газа",
+    "gasFee": "Плата за газ"
   }
 }

@@ -1,15 +1,10 @@
 {
   "header": {
     "menu": {
-      "home": "Home",
-      "pools": "Pools",
-      "pool": "Near Blocks Pool",
-      "otherPools": "List of Near Pools",
-      "farmingCalculator": "Farming Calculator",
+      "home": "Home",     
       "blockchain": "Blockchain",
       "viewBlocks": "View Blocks",
-      "viewTxns": "View Txns",
-      "topFarmers": "Top Farmers",
+      "viewTxns": "View Txns",     
       "languages": "Languages",
       "charts": "Charts & Stats",
       "topAccounts": "Top Accounts",
@@ -25,9 +20,9 @@
       "blocks": "Blocks",
       "token": "Tokens"
     },
-    "placeholder": "Search by Address / Txn Hash / Block",
+    "placeholder": "Search by Account ID / Txn Hash / Block",
     "list": {
-      "address": "Addresses",
+      "address": "Account",
       "txns": "Txns",
       "blocks": "Blocks",
       "tokens": "Tokens"
@@ -36,11 +31,7 @@
   "footer": {
     "description": "NearBlocks is a Blockchain Explorer and Analytics Platform for Near Protocol, a new blockchain and smart transaction platform.",
     "poweredBy": "Powered by",
-    "links": {
-      "pools": "Pools",
-      "pool": "Near Blocks Pool",
-      "otherPools": "List of Near Pools",
-      "farmingCalculator": "Farming Calculator",
+    "links": {    
       "explore": "Explore",
       "blockExplorer": "Block Explorer",
       "latestBlocks": "Latest Blocks",
@@ -52,7 +43,6 @@
       "terms": "Terms",
       "charts": "Charts & Stats",
       "api": "APIs",
-      "submitPool": "Submit a Pool",
       "kb": "Knowledge Base",
       "fundamentals": "Fundamentals",
       "buySell": "Buy, Sell & Trade"
@@ -68,12 +58,11 @@
     "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Source: Near Blocks.com"
+    "source": "Source: nearblocks.io"
   },
   "trademark": "NearBlocks is operated full and on its own. Near Blocks is not associated to The NEAR Foundation and every licensed trademark displayed on this website belongs to their respective owners.",
   "tags": {
     "service": "Service",
-    "pool": "Pool",
     "personal": "Personal",
     "shop": "Shop",
     "donation": "Donation",

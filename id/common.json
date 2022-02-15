@@ -2,14 +2,9 @@
   "header": {
     "menu": {
       "home": "Rumah",
-      "pools": "Renang",
-      "pool": "Dekat Blok Kolam Renang",
-      "otherPools": "Daftar Kolam  Near",
-      "farmingCalculator": "Kalkulator Pertanian",
       "blockchain": "Blockchain",
       "viewBlocks": "Lihat Blok",
       "viewTxns": "Lihat Txns",
-      "topFarmers": "Petani Top",
       "languages": "Bahasa",
       "charts": "Bagan & Statistik",
       "topAccounts": "Akun Teratas",
@@ -25,52 +20,47 @@
       "blocks": "Blocks",
       "token": "Token"
     },
-    "placeholder": "Search by Address / Txn Hash / Block",
+    "placeholder": "Cari berdasarkan ID Akun / Txn Hash / Blok",
     "list": {
-      "address": "Addresses",
+      "address": "Rekening",
       "txns": "Txns",
-      "blocks": "Blocks",
+      "blocks": "Blok",
       "tokens": "Token"
     }
   },
   "footer": {
-    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
-    "poweredBy": "Powered by",
+    "description": "NearBlocks adalah Blockchain Explorer dan Analytics Platform untuk Near Protocol, blockchain baru dan platform transaksi cerdas.",
+    "poweredBy": "Didukung oleh",
     "links": {
-      "pools": "Renang",
-      "pool": "Dekat Blok Kolam Renang",
-      "otherPools": "Daftar Kolam  Near",
-      "farmingCalculator": "Kalkulator Pertanian",
-      "explore": "Explore",
-      "blockExplorer": "Block Explorer",
-      "latestBlocks": "Latest Blocks",
-      "latestTxns": "Latest Transactions",
-      "company": "Company",
-      "about": "About",
-      "advertise": "Advertise",
-      "contact": "Contact",
-      "terms": "Terms",
+      "explore": "Menjelajahi",
+      "blockExplorer": "Penjelajah Blok",
+      "latestBlocks": "Blok Terbaru",
+      "latestTxns": "Transaksi Terbaru",
+      "company": "Firma",
+      "about": "Sekitar",
+      "advertise": "Memberi-tahu",
+      "contact": "Kontak",
+      "terms": "Istilah",
       "charts": "Bagan & Statistik",
-      "api": "APIs",
-      "submitPool": "Submit a Pool",
-      "kb": "Knowledge Base",
-      "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "api": "Api",
+      "kb": "Basis Pengetahuan",
+      "fundamentals": "Dasar",
+      "buySell": "Beli, Jual & Perdagangan"
     }
   },
-  "sponsored": "Sponsored",
+  "sponsored": "赞助",
   "pagination": {
-    "first": "First",
-    "last": "Last"
+    "first": "第一",
+    "last": "最后"
   },
   "validation": {
     "required": "{{field}} is required",
     "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Source: Near Blocks.com"
+    "source": "Sumber: nearblocks.io"
   },
-  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "NearBlocks dioperasikan penuh dan sendiri. Near Blocks tidak terkait dengan The NEAR Foundation dan setiap merek dagang berlisensi yang ditampilkan di situs web ini milik pemiliknya masing-masing.",
   "tags": {
     "service": "Service",
     "pool": "Pool",

@@ -1,6 +1,6 @@
 {
-  "metaTitle": "모든 근처 Ⓝ) 최신 블록 | 블록 근처",
-  "metaDescription": "근처 블록 체인에 포함 된 모든 Near Ⓝ 블록. 타임스탬프, 농부, 블록 보상, 난이도 및 포함된 거래가 표시됩니다.",
+  "metaTitle": "모든 근처 (Ⓝ) 최신 블록 | 블록 근처",
+  "metaDescription": "근처 블록 체인에 포함 된 모든 Near (Ⓝ) 블록. 타임스탬프, 저자, 가스 사용, 가스 가격 및 포함된 거래가 표시됩니다.",
   "heading": "블록",
   "listing": "블록 #{}} #{{to}} ({{count}} 블록 합계)",
   "blocks": "차단",
@@ -9,31 +9,29 @@
   "typeTxBlock": "TX 블록",
   "age": "연령",
   "txn": "Txn",
-  "miner": "농부",
+  "miner": "저자",
   "weight": "무게",
-  "reward": "보상",
   "volume": "거래량",
   "block": {
-    "metaTitle": "Ⓝ) 블록 {{블록}} | 블록 근처",
-    "metaDescription": "Ⓝ) 블록 높이 {{블록}} 근처. 타임스탬프, 블록 보상, 난이도, 수수료, 거래 수 및 보상은 Near에 자세히 설명되어 있습니다.",
+    "metaTitle": "(Ⓝ)) 블록 {{블록}} | 블록 근처",
+    "metaDescription": "(Ⓝ)) 블록 높이 {{블록}} 근처. 타임스탬프, 블록 가스 사용, 가스 가격, 저자, 거래 수 및 영수증은 Near에 자세히 설명되어 있습니다.",
     "heading": "블록 <0>#{{블록}}</0>",
-    "height": "Block Height",
-    "hash": "Header Hash",
-    "timestamp": "Timestamp",
+    "height": "블록 높이",
+    "hash": "해시",
+    "timestamp": "타임 스탬프",
     "transactions": [
-      "Transactions",
-      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
+      "트랜잭션을",
+      "<0>{{txns}} 거래</0> 및 {{영수증}} 영수증"
     ],
-    "farmer": "농부",
-    "pool": "Pool",
-    "poolReward": "Pool Reward",
-    "farmerReward": "Farmer Reward",
-    "fees": "Fees",
-    "price": "Ⓝ Price",
-    "farmerHash": "Farmer Puzzlehash",
-    "poolHash": "Pool Puzzlehash",
-    "foliage": "Foliage",
-    "rewardChain": "Reward Chain Block",
-    "proof": "Proof"
+    "fees": "수수료",
+    "price": "(Ⓝ) 가격",
+    "proof": "증거",
+    "gasUsed": "가스 사용",
+    "gasPrice": "가스 가격",
+    "parenthash": "부모 해시",
+    "author": "저자",
+    "receipt": "영수증",
+    "gasLimit": "가스 제한",
+    "gasFee": "가스 요금"
   }
 }

@@ -22,16 +22,9 @@
     "transactions": [
       "Transactions",
       "<0>{{txns}} transactions</0> and {{receipts}} receipts"
-    ],    
-    "pool": "Pool",
-    "poolReward": "Pool Reward",
-    "farmerReward": "Farmer Reward",
+    ],   
     "fees": "Fees",
-    "price": "Ⓝ Price",
-    "farmerHash": "Farmer Puzzlehash",
-    "poolHash": "Pool Puzzlehash",
-    "foliage": "Foliage",
-    "rewardChain": "Reward Chain Block",
+    "price": "Ⓝ Price",  
     "proof": "Proof",
     "gasUsed": "GAS Used",
     "gasPrice": "GAS Price",
