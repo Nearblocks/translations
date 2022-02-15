@@ -7,95 +7,107 @@
   "hash": "Txn Hash",
   "type": "Jenis",
   "typeTxn": "Transaksi",
-  "typePoolReward": "Hadiah Kolam Renang",
-  "typeFarmerReward": "Hadiah Petani",
   "typeToken": "Transaksi token",
   "age": "Umur",
   "ageDT": "Waktu Tanggal (UTC)",
-  "confirmed": "Blok yang Dikonfirmasi",
+  "blockHeight": "Blokir tinggi",
   "from": "Dari",
   "to": "Ke",
-  "txnIn": "IN",
-  "txnOut": "OUT",
-  "amount": "Amount",
+  "txnIn": "DI",
+  "txnOut": "KELUAR",
+  "amount": "Jumlah",
   "filter": {
-    "placeholder": "Search by address e.g. Ⓝ..",
-    "filter": "Filter",
-    "clear": "Clear",
-    "by": "Filtered By:",
-    "from": "From:",
-    "to": "To:"
+    "placeholder": "Cari berdasarkan alamat misalnya  Ⓝ ..",
+    "filter": "Saringan",
+    "clear": "Jelas",
+    "by": "Disaring oleh:",
+    "from": "Dari:",
+    "to": "Ke:"
   },
   "txn": {
-    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
-    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
-    "heading": "Transaction Details",
+    "metaTitle": "Near (N) Transaction {{txn}} | Blok Dekat",
+    "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {{txn}}.",
+    "heading": "Detail Transaksi",
     "hash": {
       "text": [
         "Txn Hash"
       ],
-      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+      "tooltip": "Pengidentifikasi unik (hash) dari transaksi ini."
     },
     "status": {
       "text": [
-        "Status",
-        "Success",
-        "Spent",
+        "Keadaan",
+        "Keberhasilan",
+        "Menghabiskan",
         "Unspent"
       ],
-      "tooltip": "The status of the transaction."
+      "tooltip": "Status transaksi."
     },
     "block": {
       "text": [
-        "Block"
+        "Blokir tinggi"
       ],
-      "tooltip": "The number of the block in which the transaction was recorded."
+      "tooltip": "Jumlah blok tempat transaksi dicatat."
     },
     "timestamp": {
       "text": [
         "Timestamp"
       ],
-      "tooltip": "The date and time at which a transaction is mined."
+      "tooltip": "Stempel waktu kapan transaksi ini diajukan."
     },
-    "value": {
+    "deposit": {
       "text": [
-        "Value"
+        "Nilai Deposit"
       ],
-      "tooltip": "The value being transacted in Ⓝ and fiat value"
+      "tooltip": "Jumlah semua token NEAR yang ditransfer dari akun Penandatanganan ke akun Penerima. Ini termasuk token yang dikirim dalam tindakan Transfer, dan sebagai setoran pada tindakan Function Call."
+    },
+    "fee": {
+      "text": [
+        "Biaya transaksi"
+      ],
+      "tooltip": "Total biaya yang dibayarkan dalam NEAR untuk melaksanakan transaksi ini."
     },
     "price": {
       "text": [
-        "Ⓝ Price"
+        "(N) Harga"
       ],
-      "tooltip": "Closing price of Ⓝ on date of transaction"
+      "tooltip": "Harga penutupan (N) pada tanggal transaksi"
     },
     "from": {
       "text": [
         "Dari"
       ],
-      "tooltip": "The sending party of the transaction."
+      "tooltip": "Akun yang menandatangani dan mengirim transaksi"
     },
     "to": {
       "text": [
         "Ke"
       ],
-      "tooltip": "The receiving party of the transaction."
+      "tooltip": "Akun yang menerima transaksi."
     },
     "type": {
       "text": [
         "Jenis",
-        "Transaksi",
-        "Hadiah Kolam Renang",
-        "Hadiah Petani"
+        "Transaksi"
       ],
-      "tooltip": "Type of transaction."
+      "tooltip": "Jenis transaksi."
     },
-    "parentCoin": "Parent Coin",
-    "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins",
-    "unknownToken": "Unknown",
-    "claimToken": "Claim token",
-    "token": "Token"
+    "gas": {
+      "text": [
+        "Batas Gas &Penggunaan oleh Txn"
+      ],
+      "tooltip": "Jumlah maksimum gas yang dialokasikan untuk transaksi dan jumlah yang akhirnya digunakan."
+    },
+    "parentCoin": "Koin Induk",
+    "childCoins": "Koin Anak",
+    "siblingCoins": "Koin Saudara Kandung",
+    "unknownToken": "Diketahui",
+    "claimToken": "Token klaim",
+    "token": "Tanda"
   },
-  "info": "Showing the last {{count}} records only"
+  "info": "Menampilkan catatan {{count}} terakhir saja",
+  "depositValue": "Nilai setoran",
+  "txnFee": "Biaya txn",
+  "txnSelf": "Mandiri",
+  "noTxns": "Tidak ada transaksi"
 }

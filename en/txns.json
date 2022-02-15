@@ -7,8 +7,6 @@
   "hash": "Txn Hash",
   "type": "Type",
   "typeTxn": "Transaction",
-  "typePoolReward": "Pool Reward",
-  "typeFarmerReward": "Farmer Reward",
   "typeToken": "Token transaction",
   "age": "Age",
   "ageDT": "Date Time (UTC)",
@@ -31,47 +29,73 @@
     "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
     "heading": "Transaction Details",
     "hash": {
-      "text": ["Txn Hash"],
+      "text": [
+        "Txn Hash"
+      ],
       "tooltip": "Unique identifier (hash) of this transaction."
     },
     "status": {
-      "text": ["Status", "Success", "Spent", "Unspent"],
+      "text": [
+        "Status",
+        "Success",
+        "Spent",
+        "Unspent"
+      ],
       "tooltip": "The status of the transaction."
     },
     "block": {
-      "text": ["Block height"],
+      "text": [
+        "Block height"
+      ],
       "tooltip": "The number of the block in which the transaction was recorded."
     },
     "timestamp": {
-      "text": ["Timestamp"],
+      "text": [
+        "Timestamp"
+      ],
       "tooltip": "Timestamp of when this transaction was submitted."
     },
     "deposit": {
-      "text": ["Deposit Value"],
+      "text": [
+        "Deposit Value"
+      ],
       "tooltip": "Sum of all NEAR tokens transferred from the Signing account to the Receiver account. This includes tokens sent in a Transfer action(s), and as deposits on Function Call action(s)."
     },
     "fee": {
-      "text": ["Transaction fee"],
+      "text": [
+        "Transaction fee"
+      ],
       "tooltip": "Total fee paid in NEAR to execute this transaction."
     },
     "price": {
-      "text": ["Ⓝ Price"],
+      "text": [
+        "Ⓝ Price"
+      ],
       "tooltip": "Closing price of Ⓝ on date of transaction"
     },
     "from": {
-      "text": ["From"],
+      "text": [
+        "From"
+      ],
       "tooltip": "Account that signed and sent the transaction"
     },
     "to": {
-      "text": ["To"],
+      "text": [
+        "To"
+      ],
       "tooltip": "Account receiving the transaction."
     },
     "type": {
-      "text": ["Type", "Transaction", "Pool Reward", "Farmer Reward"],
+      "text": [
+        "Type",
+        "Transaction"
+      ],
       "tooltip": "Type of transaction."
     },
     "gas": {
-      "text": ["Gas Limit & Usage by Txn"],
+      "text": [
+        "Gas Limit & Usage by Txn"
+      ],
       "tooltip": "Maximum amount of gas allocated for the transaction & the amount eventually used."
     },
     "parentCoin": "Parent Coin",
@@ -79,7 +103,7 @@
     "siblingCoins": "Sibling Coins",
     "unknownToken": "Unknown",
     "claimToken": "Claim token",
-    "token": "Token"    
+    "token": "Token"
   },
   "info": "Showing the last {{count}} records only",
   "depositValue": "Deposit value",

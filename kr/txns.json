@@ -7,95 +7,107 @@
   "hash": "Txn 해시",
   "type": "형",
   "typeTxn": "거래",
-  "typePoolReward": "풀 리워드",
-  "typeFarmerReward": "농부 보상",
   "typeToken": "토큰 거래",
   "age": "연령",
   "ageDT": "날짜 시간(UTC)",
-  "confirmed": "확인된 블록",
+  "blockHeight": "블록 높이",
   "from": "보낸 사람",
   "to": "받는 사람",
-  "txnIn": "IN",
-  "txnOut": "OUT",
-  "amount": "Amount",
+  "txnIn": "안으로",
+  "txnOut": "아웃",
+  "amount": "분량",
   "filter": {
-    "placeholder": "Search by address e.g. Ⓝ..",
-    "filter": "Filter",
-    "clear": "Clear",
-    "by": "Filtered By:",
-    "from": "From:",
-    "to": "To:"
+    "placeholder": "주소로 검색합니다(예:  Ⓝ ).",
+    "filter": "필터",
+    "clear": "맑다",
+    "by": "필터링:",
+    "from": "보낸 사람:",
+    "to": "받는 사람:"
   },
   "txn": {
-    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
-    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
-    "heading": "Transaction Details",
+    "metaTitle": "(N) 트랜잭션 {{txn}} | 블록 근처",
+    "metaDescription": "근처 (N) 트랜잭션 {{txn}}에 대한 블록 체인 자세한 정보.",
+    "heading": "거래 세부 정보",
     "hash": {
       "text": [
         "Txn 해시"
       ],
-      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+      "tooltip": "이 트랜잭션의 고유 식별자(해시)입니다."
     },
     "status": {
       "text": [
-        "Status",
-        "Success",
-        "Spent",
-        "Unspent"
+        "상태",
+        "성공",
+        "보냈다",
+        "미사용"
       ],
-      "tooltip": "The status of the transaction."
+      "tooltip": "트랜잭션의 상태입니다."
     },
     "block": {
       "text": [
-        "Block"
+        "블록 높이"
       ],
-      "tooltip": "The number of the block in which the transaction was recorded."
+      "tooltip": "트랜잭션이 기록된 블록의 수입니다."
     },
     "timestamp": {
       "text": [
-        "Timestamp"
+        "타임 스탬프"
       ],
-      "tooltip": "The date and time at which a transaction is mined."
+      "tooltip": "이 거래가 제출된 시점의 타임스탬프입니다."
     },
-    "value": {
+    "deposit": {
       "text": [
-        "Value"
+        "예금 가치"
       ],
-      "tooltip": "The value being transacted in Ⓝ and fiat value"
+      "tooltip": "서명 계정에서 수신자 계정으로 전송된 모든 NEAR 토큰의 합계입니다. 여기에는 전송 작업에서 보낸 토큰과 함수 호출 작업(들)에 대한 예치금이 포함됩니다."
+    },
+    "fee": {
+      "text": [
+        "거래 수수료"
+      ],
+      "tooltip": "이 거래를 실행하기 위해 NEAR에서 지불 된 총 수수료."
     },
     "price": {
       "text": [
-        "Ⓝ Price"
+        "(N) 가격"
       ],
-      "tooltip": "Closing price of Ⓝ on date of transaction"
+      "tooltip": "거래일의 종가(N)"
     },
     "from": {
       "text": [
         "보낸 사람"
       ],
-      "tooltip": "The sending party of the transaction."
+      "tooltip": "거래에 서명하고 보낸 계정"
     },
     "to": {
       "text": [
         "받는 사람"
       ],
-      "tooltip": "The receiving party of the transaction."
+      "tooltip": "거래를 수신하는 계정입니다."
     },
     "type": {
       "text": [
         "형",
-        "거래",
-        "풀 리워드",
-        "농부 보상"
+        "거래"
       ],
-      "tooltip": "Type of transaction."
+      "tooltip": "트랜잭션 유형입니다."
     },
-    "parentCoin": "Parent Coin",
-    "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins",
-    "unknownToken": "Unknown",
-    "claimToken": "Claim token",
-    "token": "Token"
+    "gas": {
+      "text": [
+        "Txn에 의한 가스 제한 및 사용"
+      ],
+      "tooltip": "트랜잭션에 할당된 최대 가스 량및 결국 사용된 금액입니다."
+    },
+    "parentCoin": "모시 코인",
+    "childCoins": "어린이 동전",
+    "siblingCoins": "형제 동전",
+    "unknownToken": "알려지지 않은",
+    "claimToken": "클레임 토큰",
+    "token": "토큰"
   },
-  "info": "Showing the last {{count}} records only"
+  "info": "마지막 {{count}}개 기록만 표시",
+  "depositValue": "예금금액",
+  "txnFee": "송금수수료",
+  "txnSelf": "자신",
+  "noTxns": "거래 없음"
 }

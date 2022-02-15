@@ -6,96 +6,108 @@
   "listingToken": "Найдено более > {{count}} Найдены переводы токенов",
   "hash": "Txn Хэш",
   "type": "Тип",
-  "typeTxn": "Транзакция",
-  "typePoolReward": "Награда за пул",
-  "typeFarmerReward": "Награда фермера",
+  "typeTxn": "Транзакция",  
   "typeToken": "Транзакция токена",
   "age": "Возраст",
   "ageDT": "Дата Время (UTC)",
-  "confirmed": "Подтвержденная блокировка",
+  "blockHeight": "Высота блока",
   "from": "От",
   "to": "Кому",
-  "txnIn": "IN",
-  "txnOut": "OUT",
-  "amount": "Amount",
+  "txnIn": "В",
+  "txnOut": "ВНЕ",
+  "amount": "Количество",
   "filter": {
-    "placeholder": "Search by address e.g. Ⓝ..",
-    "filter": "Filter",
-    "clear": "Clear",
-    "by": "Filtered By:",
-    "from": "From:",
-    "to": "To:"
+    "placeholder": "Поиск по адресу, например  Ⓝ ..",
+    "filter": "Фильтр",
+    "clear": "Ясный",
+    "by": "Отфильтровано по:",
+    "from": "От:",
+    "to": "Кому:"
   },
   "txn": {
-    "metaTitle": "Near Ⓝ  Transaction {{txn}} | Near Blocks",
-    "metaDescription": "Near Ⓝ  Blockchain detailed info for transaction {{txn}}.",
-    "heading": "Transaction Details",
+    "metaTitle": "Рядом с (N) транзакцией {{txn}} | Рядом с блоками",
+    "metaDescription": "Рядом (N) Подробная информация о блокчейне для транзакции {{txn}}.",
+    "heading": "Детали транзакции",
     "hash": {
       "text": [
         "Txn Хэш"
       ],
-      "tooltip": "A Txn Hash or transaction hash is a unique 66 characters identifier that is generated whenever a transaction is executed."
+      "tooltip": "Уникальный идентификатор (хэш) данной транзакции."
     },
     "status": {
       "text": [
-        "Status",
-        "Success",
-        "Spent",
-        "Unspent"
+        "Статус",
+        "Успех",
+        "Истощенный",
+        "Неизрасходованных"
       ],
-      "tooltip": "The status of the transaction."
+      "tooltip": "Состояние транзакции."
     },
     "block": {
       "text": [
-        "Block"
+        "Высота блока"
       ],
-      "tooltip": "The number of the block in which the transaction was recorded."
+      "tooltip": "Номер блока, в котором была записана транзакция."
     },
     "timestamp": {
       "text": [
-        "Timestamp"
+        "Метка времени"
       ],
-      "tooltip": "The date and time at which a transaction is mined."
+      "tooltip": "Метка времени, когда эта транзакция была отправлена."
     },
-    "value": {
+    "deposit": {
       "text": [
-        "Value"
+        "Стоимость депозита"
       ],
-      "tooltip": "The value being transacted in Ⓝ and fiat value"
+      "tooltip": "Сумма всех токенов NEAR, переведенных со счета Signing на счет Получателя. Это включает в себя токены, отправленные в действии (действиях) Transfer, и в качестве депозитов в действии (действиях) Function Call."
+    },
+    "fee": {
+      "text": [
+        "Комиссия за транзакцию"
+      ],
+      "tooltip": "Общая комиссия, уплаченная в NEAR за выполнение этой транзакции."
     },
     "price": {
       "text": [
-        "Ⓝ Price"
+        "(N) Цена"
       ],
-      "tooltip": "Closing price of Ⓝ on date of transaction"
+      "tooltip": "Цена закрытия (N) на дату сделки"
     },
     "from": {
       "text": [
         "От"
       ],
-      "tooltip": "The sending party of the transaction."
+      "tooltip": "Учетная запись, подписавшая и отправившая транзакцию"
     },
     "to": {
       "text": [
         "Кому"
       ],
-      "tooltip": "The receiving party of the transaction."
+      "tooltip": "Счет, принимающий транзакцию."
     },
     "type": {
       "text": [
         "Тип",
-        "Транзакция",
-        "Награда за пул",
-        "Награда фермера"
+        "Транзакция"
       ],
-      "tooltip": "Type of transaction."
+      "tooltip": "Тип сделки."
     },
-    "parentCoin": "Parent Coin",
-    "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins",
-    "unknownToken": "Unknown",
-    "claimToken": "Claim token",
-    "token": "Token"
+    "gas": {
+      "text": [
+        "Ограничение и использование газа Txn"
+      ],
+      "tooltip": "Максимальное количество газа, выделенного для транзакции, и сумма, которая в конечном итоге используется."
+    },
+    "parentCoin": "Родительская монета",
+    "childCoins": "Детские монеты",
+    "siblingCoins": "Монеты братьев и сестер",
+    "unknownToken": "Неизвестный",
+    "claimToken": "Маркер претензии",
+    "token": "Жетон"
   },
-  "info": "Showing the last {{count}} records only"
+  "info": "Показаны только последние {{count}} записи",
+  "depositValue": "Сумма депозита",
+  "txnFee": "Комиссия за перевод",
+  "txnSelf": "Самостоятельно",
+  "noTxns": "Нет транзакции"
 }
