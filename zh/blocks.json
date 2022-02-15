@@ -1,6 +1,6 @@
 {
-  "metaTitle": "附近所有（ Ⓝ ）最新街区 |近街区",
-  "metaDescription": "\"靠近\"区块链中包含的所有\"近 Ⓝ 块\"。显示时间戳，农民，区块奖励，难度和包含的交易。",
+  "metaTitle": "附近所有（Ⓝ）最新街区 |近街区",
+  "metaDescription": "\"靠近\"区块链中包含的所有\"近Ⓝ块\"。显示时间戳、作者、已用天然气、汽油价格和包含的交易记录。",
   "heading": "块",
   "listing": "块 #{{from}} 到 #{{to}} （{{计数}} 块的总数）",
   "blocks": "块",
@@ -9,31 +9,29 @@
   "typeTxBlock": "TX 块",
   "age": "年龄",
   "txn": "腾讯科技",
-  "miner": "农民",
+  "miner": "作者",
   "weight": "重量",
-  "reward": "奖励",
   "volume": "交易量",
   "block": {
-    "metaTitle": "靠近 （ Ⓝ ） 块 {{块}} |近街区",
-    "metaDescription": "靠近 （ Ⓝ ） 块高度 {{块}}。区块中的时间戳，区块奖励，难度，费用，交易数量和奖励在Near上详细说明。",
+    "metaTitle": "靠近 （Ⓝ） 块 {{块}} |近街区",
+    "metaDescription": "靠近 （Ⓝ） 块高度 {{块}}。时间戳，使用的块天然气，气体价格，作者，块中的交易数量和收据在Near上详细说明。",
     "heading": "块 <0>#{{块}} </0>",
-    "height": "Block Height",
-    "hash": "Header Hash",
-    "timestamp": "Timestamp",
+    "height": "块高度",
+    "hash": "散 列",
+    "timestamp": "时间戳",
     "transactions": [
-      "Transactions",
-      "<0>{{txns}} transactions</0> and {{rewards}} rewards"
+      "交易",
+      "<0>{{txns}} 交易</0>和 {{收据}} 收据"
     ],
-    "farmer": "农民",
-    "pool": "Pool",
-    "poolReward": "Pool Reward",
-    "farmerReward": "Farmer Reward",
-    "fees": "Fees",
-    "price": "Ⓝ Price",
-    "farmerHash": "Farmer Puzzlehash",
-    "poolHash": "Pool Puzzlehash",
-    "foliage": "Foliage",
-    "rewardChain": "Reward Chain Block",
-    "proof": "Proof"
+    "fees": "费用",
+    "price": "Ⓝ 价格",
+    "proof": "证明",
+    "gasUsed": "使用的气体",
+    "gasPrice": "天然气价格",
+    "parenthash": "父哈希",
+    "author": "作者",
+    "receipt": "收据",
+    "gasLimit": "气体限制",
+    "gasFee": "燃气费"
   }
 }

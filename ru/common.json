@@ -2,14 +2,9 @@
   "header": {
     "menu": {
       "home": "Дом",
-      "pools": "Бассейны",
-      "pool": "Рядом с блоками бассейн",
-      "otherPools": "Список бассейнов Чиа",
-      "farmingCalculator": "Калькулятор сельского хозяйства",
       "blockchain": "Блокчейн",
       "viewBlocks": "Просмотр блоков",
       "viewTxns": "Просмотр Txns",
-      "topFarmers": "Лучшие фермеры",
       "languages": "Языки",
       "charts": "Чарты и статистика",
       "topAccounts": "Топ Аккаунты",
@@ -25,55 +20,49 @@
       "blocks": "Blocks",
       "token": "Маркеры"
     },
-    "placeholder": "Search by Address / Txn Hash / Block",
+    "placeholder": "Поиск по идентификатору учетной записи / хэшу Txn / блокировке",
     "list": {
-      "address": "Addresses",
-      "txns": "Txns",
-      "blocks": "Blocks",
+      "address": "Счет",
+      "txns": "Тхнс",
+      "blocks": "Блоки",
       "tokens": "Маркеры"
     }
   },
   "footer": {
-    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
-    "poweredBy": "Powered by",
+    "description": "NearBlocks - это blockchain Explorer and Analytics Platform for Near Protocol, новая платформа блокчейна и интеллектуальных транзакций.",
+    "poweredBy": "Руководствовался",
     "links": {
-      "pools": "Бассейны",
-      "pool": "Рядом с блоками бассейн",
-      "otherPools": "Список бассейнов Чиа",
-      "farmingCalculator": "Калькулятор сельского хозяйства",
-      "explore": "Explore",
-      "blockExplorer": "Block Explorer",
-      "latestBlocks": "Latest Blocks",
-      "latestTxns": "Latest Transactions",
-      "company": "Company",
-      "about": "About",
-      "advertise": "Advertise",
-      "contact": "Contact",
-      "terms": "Terms",
+      "explore": "Исследовать",
+      "blockExplorer": "Обозреватель блоков",
+      "latestBlocks": "Последние блоки",
+      "latestTxns": "Последние транзакции",
+      "company": "Компания",
+      "about": "Около",
+      "advertise": "Рекламировать",
+      "contact": "Контакт",
+      "terms": "Условия",
       "charts": "Чарты и статистика",
-      "api": "APIs",
-      "submitPool": "Submit a Pool",
-      "kb": "Knowledge Base",
-      "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "api": "Пчела",
+      "kb": "База знаний",
+      "fundamentals": "Основы",
+      "buySell": "Покупка, продажа и торговля"
     }
   },
-  "sponsored": "Sponsored",
+  "sponsored": "Спонсированные",
   "pagination": {
-    "first": "First",
-    "last": "Last"
+    "first": "Первый",
+    "last": "Последний"
   },
   "validation": {
-    "required": "{{field}} is required",
-    "invalid": "Please provide a valid {{field}}"
+    "required": "{{field}} обязательно для заполнения",
+    "invalid": "Пожалуйста, укажите допустимый {{field}}"
   },
   "chart": {
-    "source": "Source: Near Blocks.com"
+    "source": "Источник: nearblocks.io"
   },
-  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "NearBlocks работает полностью и самостоятельно. Near Blocks не связан с Фондом NEAR, и каждый лицензированный товарный знак, отображаемый на этом веб-сайте, принадлежит их соответствующим владельцам.",
   "tags": {
     "service": "Service",
-    "pool": "Pool",
     "personal": "Personal",
     "shop": "Shop",
     "donation": "Donation",

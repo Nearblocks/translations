@@ -1,6 +1,6 @@
 {
-  "metaTitle": "近（ Ⓝ ）区块链浏览器|近街区",
-  "metaDescription": "Near Blocks是一个用于Near blockchain（ Ⓝ ）的区块浏览器和分析平台，这是一个新的区块链和智能交易平台。",
+  "metaTitle": "近（Ⓝ）区块链浏览器|近街区",
+  "metaDescription": "Near Blocks是一个用于Near blockchain（Ⓝ）的区块浏览器和分析平台，这是一个新的区块链和智能交易平台。",
   "heroTitle": "靠近区块链浏览器",
   "nearPrice": "接近价格",
   "nearFarmed": "近养殖",
@@ -20,5 +20,13 @@
   "noTxns": "No transactions!",
   "blockMiner": "Farmer",
   "txnFrom": "From",
-  "txnTo": "To"
+  "txnTo": "To",
+  "nodesOnline": "节点在线",
+  "nodesValidating": "节点验证",
+  "blockHeight": "块高度",
+  "avgBlockTime": "平均区块时间",
+  "gasPrice": "燃气价格",
+  "transactions": "交易",
+  "marketCap": "市值",
+  "activeValidator": "活动验证器"
 }

@@ -2,14 +2,9 @@
   "header": {
     "menu": {
       "home": "집",
-      "pools": "풀",
-      "pool": "블록 풀 근처",
-      "otherPools": "치아 풀 목록",
-      "farmingCalculator": "농업 계산기",
       "blockchain": "블록체인",
       "viewBlocks": "블록 보기",
       "viewTxns": "Txns 보기",
-      "topFarmers": "최고 농부",
       "languages": "언어들",
       "charts": "차트 및 통계",
       "topAccounts": "상위 계정",
@@ -25,52 +20,47 @@
       "blocks": "Blocks",
       "token": "토큰"
     },
-    "placeholder": "Search by Address / Txn Hash / Block",
+    "placeholder": "계정 ID / Txn 해시 / 블록으로 검색",
     "list": {
-      "address": "Addresses",
+      "address": "계좌",
       "txns": "Txns",
-      "blocks": "Blocks",
+      "blocks": "블록",
       "tokens": "토큰"
     }
   },
   "footer": {
-    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
-    "poweredBy": "Powered by",
+    "description": "NearBlocks는 새로운 블록 체인 및 스마트 트랜잭션 플랫폼인 Near Protocol을 위한 블록 체인 탐색기 및 분석 플랫폼입니다.",
+    "poweredBy": "동력으로",
     "links": {
-      "pools": "풀",
-      "pool": "블록 풀 근처",
-      "otherPools": "치아 풀 목록",
-      "farmingCalculator": "농업 계산기",
-      "explore": "Explore",
-      "blockExplorer": "Block Explorer",
-      "latestBlocks": "Latest Blocks",
-      "latestTxns": "Latest Transactions",
-      "company": "Company",
-      "about": "About",
-      "advertise": "Advertise",
-      "contact": "Contact",
-      "terms": "Terms",
+      "explore": "탐험하다",
+      "blockExplorer": "블록 탐색기",
+      "latestBlocks": "최신 블록",
+      "latestTxns": "최신 트랜잭션",
+      "company": "회사",
+      "about": "약",
+      "advertise": "광고",
+      "contact": "접촉",
+      "terms": "용어",
       "charts": "차트 및 통계",
-      "api": "APIs",
-      "submitPool": "Submit a Pool",
-      "kb": "Knowledge Base",
-      "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "api": "API",
+      "kb": "지식 자료",
+      "fundamentals": "기본",
+      "buySell": "구매, 판매 및 거래"
     }
   },
-  "sponsored": "Sponsored",
+  "sponsored": "스폰서",
   "pagination": {
-    "first": "First",
-    "last": "Last"
+    "first": "첫",
+    "last": "지난"
   },
   "validation": {
     "required": "{{field}} is required",
     "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Source: Near Blocks.com"
+    "source": "출처: nearblocks.io"
   },
-  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "NearBlocks는 자체적으로 운영됩니다. 근거리 블록은 NEAR 재단과 관련이 없으며 이 웹 사이트에 표시된 모든 허가 된 상표는 해당 소유자에게 속합니다.",
   "tags": {
     "service": "Service",
     "pool": "Pool",

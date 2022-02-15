@@ -2,14 +2,9 @@
   "header": {
     "menu": {
       "home": "家",
-      "pools": "池",
-      "pool": "近街区池",
-      "otherPools": "奇亚籽池列表",
-      "farmingCalculator": "农业计算器",
       "blockchain": "区块链",
       "viewBlocks": "查看块",
       "viewTxns": "查看 Txns",
-      "topFarmers": "顶级农民",
       "languages": "语言",
       "charts": "图表和统计",
       "topAccounts": "热门账户",
@@ -25,52 +20,47 @@
       "blocks": "Blocks",
       "token": "令 牌"
     },
-    "placeholder": "Search by Address / Txn Hash / Block",
+    "placeholder": "按账户ID / Txn哈希/区块搜索",
     "list": {
-      "address": "Addresses",
+      "address": "帐户",
       "txns": "Txns",
-      "blocks": "Blocks",
+      "blocks": "块",
       "tokens": "令 牌"
     }
   },
   "footer": {
-    "description": "Near Blocks is a Block Explorer and Analytics Platform for  Near blockchain, a new blockchain and smart transaction platform.",
-    "poweredBy": "Powered by",
+    "description": "NearBlocks是一个用于Near Protocol的区块链资源管理器和分析平台，这是一个新的区块链和智能交易平台。",
+    "poweredBy": "提供者",
     "links": {
-      "pools": "池",
-      "pool": "近街区池",
-      "otherPools": "奇亚籽池列表",
-      "farmingCalculator": "农业计算器",
-      "explore": "Explore",
-      "blockExplorer": "Block Explorer",
-      "latestBlocks": "Latest Blocks",
-      "latestTxns": "Latest Transactions",
-      "company": "Company",
-      "about": "About",
-      "advertise": "Advertise",
-      "contact": "Contact",
-      "terms": "Terms",
+      "explore": "探讨",
+      "blockExplorer": "区块浏览器",
+      "latestBlocks": "最新块",
+      "latestTxns": "最新交易",
+      "company": "公司",
+      "about": "大约",
+      "advertise": "做广告",
+      "contact": "联系",
+      "terms": "条款",
       "charts": "图表和统计",
-      "api": "APIs",
-      "submitPool": "Submit a Pool",
-      "kb": "Knowledge Base",
-      "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "api": "蜜蜂属",
+      "kb": "知识库",
+      "fundamentals": "基础",
+      "buySell": "购买，出售和交易"
     }
   },
-  "sponsored": "Sponsored",
+  "sponsored": "赞助",
   "pagination": {
-    "first": "First",
-    "last": "Last"
+    "first": "第一",
+    "last": "最后"
   },
   "validation": {
     "required": "{{field}} is required",
     "invalid": "Please provide a valid {{field}}"
   },
   "chart": {
-    "source": "Source: Near Blocks.com"
+    "source": "资料来源：nearblocks.io"
   },
-  "trademark": "Near Blocks is operated full and on its own. Near™ and the Near Blockchain™ are trademarks or registered trademarks of Near Network, Inc. in the United States and worldwide, a Delaware corporation. Near Blocks is not associated to  Near Network, Inc. and every licensed trademark displayed on this website belongs to their respective owners.",
+  "trademark": "NearBlocks是完全和独立运营的。Near Blocks与NEAR基金会无关，本网站上显示的每个许可商标均属于其各自的所有者。",
   "tags": {
     "service": "Service",
     "pool": "Pool",

@@ -1,7 +1,7 @@
 {
-  "metaTitle": "Klaim Ⓝ Alamat | Blok Dekat",
+  "metaTitle": "| Akun Klaim Ⓝ Blok Dekat",
   "metaDescription": "Klaim nama, tag, dan informasi lainnya.",
-  "heading": "Alamat Klaim Ⓝ",
+  "heading": "Akun Klaim Ⓝ",
   "form": {
     "heading": "Klaim nama, tag, dan informasi lainnya",
     "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {{amount}} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
@@ -36,8 +36,8 @@
       "label": "Deposit {{amount}} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
       "tooltip": "Alamat pengirim harus identik dengan alamat yang ingin Anda tambahkan informasinya."
     },
-    "button": "Submit",
-    "successMessage": "Thank you, we will review your application and list it after its been approved",
-    "errorMessage": "Something went wrong!"
+    "button": "Tunduk",
+    "successMessage": "Terima kasih, kami akan meninjau aplikasi Anda dan mencantumkannya setelah disetujui",
+    "errorMessage": "Ada yang tidak beres!"
   }
 }

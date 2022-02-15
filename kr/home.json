@@ -20,5 +20,13 @@
   "noTxns": "No transactions!",
   "blockMiner": "Farmer",
   "txnFrom": "From",
-  "txnTo": "To"
+  "txnTo": "To",
+  "nodesOnline": "노드 온라인",
+  "nodesValidating": "노드 유효성 검사",
+  "blockHeight": "블록 높이",
+  "avgBlockTime": "AVG. 블록 시간",
+  "gasPrice": "가스 가격",
+  "transactions": "트랜잭션을",
+  "marketCap": "시가총액",
+  "activeValidator": "활성 유효성 검사기"
 }

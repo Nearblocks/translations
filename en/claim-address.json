@@ -1,7 +1,7 @@
 {
-  "metaTitle": "Claim Ⓝ Address | Near Blocks",
+  "metaTitle": "Claim Ⓝ Account | Near Blocks",
   "metaDescription": "Claim your name, tag and other information.",
-  "heading": "Claim Ⓝ Address",
+  "heading": "Claim Ⓝ Account",
   "form": {
     "heading": "Claim your name, tag and other information",
     "content": "Claim your Name Tag and add other information related to your Ⓝ address by filling in the form below. For each edit request, we will ask for a {{amount}} Ⓝ deposit to prove your address ownership.",

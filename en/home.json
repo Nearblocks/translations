@@ -25,5 +25,8 @@
   "nodesValidating": "NODES VALIDATING",
   "blockHeight": "BLOCK HEIGHT",
   "avgBlockTime": "AVG. BLOCK TIME",
-  "gasPrice": "GAS PRICE"
+  "gasPrice": "GAS PRICE",
+  "transactions": "Transactions",
+  "marketCap": "Market cap",
+  "activeValidator": "Active validators"
 }

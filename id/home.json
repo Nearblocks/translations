@@ -20,5 +20,13 @@
   "noTxns": "No transactions!",
   "blockMiner": "Farmer",
   "txnFrom": "From",
-  "txnTo": "To"
+  "txnTo": "To",
+  "nodesOnline": "NODE ONLINE",
+  "nodesValidating": "NODE MEMVALIDASI",
+  "blockHeight": "TINGGI BLOK",
+  "avgBlockTime": "WAKTU BLOK RATA-RATA",
+  "gasPrice": "HARGA GAS",
+  "transactions": "Transaksi",
+  "marketCap": "Kapitalisasi pasar",
+  "activeValidator": "Validator aktif"
 }
