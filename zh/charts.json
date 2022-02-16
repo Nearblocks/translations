@@ -1,9 +1,9 @@
 {
-  "metaTitle": "靠近（ Ⓝ ）图表和块附近的统计数据",
-  "metaDescription": "Near提供了一套实时Near Ⓝ ）数据图表和统计数据，以跟踪有关Near Ⓝ ）加密货币的所有内容：价格，供应，市值，Netspace等。",
+  "metaTitle": "近 （ Ⓝ） 图表和统计 |近街区",
+  "metaDescription": "Near提供了一套实时Near Ⓝ）数据图表和统计数据，以跟踪有关Near Ⓝ）加密货币的所有内容：价格，供应，市值，交易费用等。",
   "heading": "近图表和统计",
   "otherHeading": "其他近区块链图表和统计数据",
-  "NearPrice": {
+  "nearPrice": {
     "metaTitle": "近（ Ⓝ ）今天的价格：信息，图表，统计接近区块",
     "metaDescription": "接近每日价格（USD）图表显示接近美元的每日历史价格。所有数据都是实时，准确的，并直接从Near Ⓝ ）区块链中提取。",
     "heading": "接近每日价格（美元）图表",
@@ -21,108 +21,53 @@
       "lowAll": "All-Time Low"
     }
   },
-  "supply": {
-    "metaTitle": "Near (Ⓝ) Total Supply and Market Capitalization Chart Near Blocks ",
-    "metaDescription": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "heading": "Near Total Supply and Market Capitalization Chart",
-    "description": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "totalSupply": "Total Near Supply",
-    "marketCap": "Market Capitalization",
-    "distribution": {
-      "heading": "Near Distribution Overview",
-      "genesis": "Genesis (Pre Farm):",
-      "blockRewards": "Mining Block Rewards:",
-      "totalSupply": "Current Total Supply"
-    },
-    "price": {
-      "heading": "Near (Ⓝ) Price",
-      "usd": "In USD:",
-      "btc": "In BTC:"
-    },
-    "chartTitle": "Breakdown by Supply Types"
-  },
   "marketCap": {
-    "metaTitle": "Near (Ⓝ) Market Capitalization Chart Near Blocks ",
-    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Market Capitalization Chart",
-    "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
-    "yLabel": "Near Market Cap (USD)"
+    "metaTitle": "近（ Ⓝ）市值图表 |近街区",
+    "metaDescription": "近（ Ⓝ）市值图表显示近 Ⓝ）日市值和价格的历史明细。所有数据都是实时，准确的，并直接从Near Ⓝ）区块链中提取。",
+    "heading": "接近市值图表",
+    "description": "接近市值图表显示接近每日市值和价格的历史明细。",
+    "yLabel": "近市值 （美元）"
   },
-  "netspace": {
-    "metaTitle": "Near (Ⓝ) Netspace Chart : History, Evolution, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near blockchain Space Chart",
-    "description": "Near blockchain Space Chart shows the historical measure of the space allocated to Near blockchain.",
-    "yLabel": "Network Space"
-  },
-  "NearSupply": {
-    "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Supply Growth Chart",
-    "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
-    "yLabel": "Near Supply"
+  "nearSupply": {
+    "metaTitle": "近 Ⓝ）供应图表 ： 循环， 总供应量 |近街区",
+    "metaDescription": "近区块链（ Ⓝ）供应增长图表显示了每日区块奖励和总供应量 Ⓝ的细分。所有数据都是实时，准确的，并直接从Near Ⓝ）区块链中提取。",
+    "heading": "接近供应增长图表",
+    "description": "近供应增长图表显示每日供应和总供应量的细分。",
+    "yLabel": "接近供应"
   },
   "txns": {
-    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth Near Blocks ",
-    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "heading": "Near Daily Transactions Chart",
-    "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "yLabel": "Transactions per Day"
-  },
-  "blockRewards": {
-    "metaTitle": "Near (Ⓝ) Block Rewards Chart : Info, Stats, Evolution Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Block Rewards Chart shows the total Near supplied to Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Daily Block Rewards Chart",
-    "description": "Near Daily Block Rewards Chart shows the total Near supplied to Near blockchain.",
-    "yLabel": "New Near supply per Day"
+    "metaTitle": "近 Ⓝ交易图表：信息，统计，增长|近街区",
+    "metaDescription": "近 Ⓝ）交易图表突出显示了近区块链区块链上的交易总数，并按每日个人细分了总交易，总区块和新帐户总数。",
+    "heading": "近日交易图表",
+    "description": "该图表突出显示了Near区块链上的交易总数，并按每日个人细分了总区块和新帐户总数。",
+    "yLabel": "每日事务数"
   },
   "blocks": {
-    "metaTitle": "Near (Ⓝ) Block Count and Rewards Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Block Count and Rewards Chart",
-    "description": "Near Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward.",
-    "yLabel": "Blocks per Day"
+    "metaTitle": "近 （ Ⓝ） 块计数图表 |近街区",
+    "metaDescription": "近区块链（ Ⓝ）区块计数图表显示附近区块链上每天产生的区块的历史数量。所有数据都是实时，准确的，并直接从Near Ⓝ）区块链中提取。",
+    "heading": "接近区块计数",
+    "description": "近区块计数图表显示附近区块链上每天产生的区块的历史数量。",
+    "yLabel": "每日块数"
   },
   "addresses": {
-    "metaTitle": "Near (Ⓝ) Unique Addresses Chart : Info, Stats, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) unique addresses chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "heading": "Near Unique Addresses Chart",
-    "description": "The chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "yLabel": "Near Cumulative Addresses Growth"
-  },
-  "activeAddresses": {
-    "metaTitle": "Near (Ⓝ) Active Addresses Chart : Info, Stats, Activity Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Active Near Addresses Chart",
-    "description": "The Active Near Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
-    "yLabel": "Active Near Addresses"
+    "metaTitle": "近 （ Ⓝ） 唯一科目表 |近街区",
+    "metaDescription": "近区块链（ Ⓝ）唯一账户图表显示近区块链上账户的明显总数以及每日账户数量的增加。",
+    "heading": "接近唯一账户图表",
+    "description": "该图表显示了Near区块链上账户的总数以及每日账户数量的增加。",
+    "yLabel": "近乎累积账户增长"
   },
   "txnFee": {
-    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "yLabel": "Average Transaction Fee (USD)"
+    "metaTitle": "近 Ⓝ）交易费用历史记录：平均交易费用|近街区",
+    "metaDescription": "近区块链（ Ⓝ）交易费用图表显示近区块链（ Ⓝ）上每笔交易花费的每日平均金额（以美元为单位）。所有数据都是实时，准确的，并直接从Near Ⓝ）区块链中提取。",
+    "heading": "平均交易费用图表",
+    "description": "该图表显示了Near区块链上每笔交易花费的每日平均金额（以美元为单位）。",
+    "yLabel": "平均交易费用（美元）"
   },
   "txnVolume": {
-    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "yLabel": "Average Transaction Volume (USD)"
-  },
-  "ⓃTib": {
-    "metaTitle": "Daily Near (Ⓝ) Farming Reward per TiB Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily Ⓝ per TiB Chart",
-    "description": "The Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB.",
-    "yLabel": "Near Amount"
-  },
-  "tibHrⓃ": {
-    "metaTitle": "Space Needed TiB To Farm Near (Ⓝ) Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily TiB Hour per Ⓝ Chart",
-    "description": "The Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB.",
-    "yLabel": "Hours"
+    "metaTitle": "近 Ⓝ）交易量图表：平均交易量|近街区",
+    "metaDescription": "近区块链（ Ⓝ）平均交易量图表显示了在Near区块链上每笔交易花费的每日平均金额（以美元为单位）。",
+    "heading": "平均交易量图表",
+    "description": "该图表显示了Near区块链上每笔交易花费的每日平均金额（以美元为单位）。",
+    "yLabel": "平均交易量（美元）"
   }
 }
