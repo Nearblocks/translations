@@ -12,6 +12,7 @@
   "miner": "저자",
   "weight": "무게",
   "volume": "거래량",
+  "blockError": "Block Error",
   "block": {
     "metaTitle": "블록 {{블록}} | 블록 근처",
     "metaDescription": "블록 높이 {{블록}} 근처. 타임스탬프, 블록 가스 사용, 가스 가격, 저자, 거래 수 및 영수증은 Near에 자세히 설명되어 있습니다.",

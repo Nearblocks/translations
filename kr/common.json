@@ -18,7 +18,8 @@
       "all": "모든 필터",
       "txns": "Txns",
       "blocks": "Blocks",
-      "token": "토큰"
+      "token": "토큰",
+      "addresses": "Addresses"
     },
     "placeholder": "계정 ID / Txn 해시 / 블록으로 검색",
     "list": {

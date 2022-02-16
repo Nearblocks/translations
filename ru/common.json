@@ -18,7 +18,8 @@
       "all": "Все фильтры",
       "txns": "Txns",
       "blocks": "Blocks",
-      "token": "Маркеры"
+      "token": "Маркеры",
+      "addresses": "Addresses"
     },
     "placeholder": "Поиск по идентификатору учетной записи / хэшу Txn / блокировке",
     "list": {
