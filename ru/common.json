@@ -19,7 +19,7 @@
       "txns": "Txns",
       "blocks": "Blocks",
       "token": "Маркеры",
-      "addresses": "Addresses"
+      "addresses": "Адреса"
     },
     "placeholder": "Поиск по идентификатору учетной записи / хэшу Txn / блокировке",
     "list": {

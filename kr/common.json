@@ -19,7 +19,7 @@
       "txns": "Txns",
       "blocks": "Blocks",
       "token": "토큰",
-      "addresses": "Addresses"
+      "addresses": "구애"
     },
     "placeholder": "계정 ID / Txn 해시 / 블록으로 검색",
     "list": {
