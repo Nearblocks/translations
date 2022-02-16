@@ -1,6 +1,6 @@
 {
-  "metaTitle": "모든 근처 Ⓝ 최신 트랜잭션 | 블록 근처",
-  "metaDescription": "모든 근처 Ⓝ 거래는 근처 블록 체인에서 확인. 목록은 NearⓃ 전송에서 트랜잭션및 각 트랜잭션에 대한 트랜잭션 세부 정보로 구성됩니다.",
+  "metaTitle": "모든 근처 최신 트랜잭션 | 블록 근처",
+  "metaDescription": "모든 근처 거래는 근처 블록 체인에서 확인. 목록은 NearⓃ 전송에서 트랜잭션및 각 트랜잭션에 대한 트랜잭션 세부 정보로 구성됩니다.",
   "heading": "트랜잭션을",
   "listing": "> {{count}} 트랜잭션 을 이상 발견했습니다.",
   "listingToken": "> 이상의 {{count}} 토큰 전송 발견",
@@ -25,8 +25,8 @@
     "to": "받는 사람:"
   },
   "txn": {
-    "metaTitle": "(N) 트랜잭션 {{txn}} | 블록 근처",
-    "metaDescription": "근처 (N) 트랜잭션 {{txn}}에 대한 블록 체인 자세한 정보.",
+    "metaTitle": "트랜잭션 {{txn}} | 블록 근처",
+    "metaDescription": "근처 트랜잭션 {{txn}}에 대한 블록 체인 자세한 정보.",
     "heading": "거래 세부 정보",
     "hash": {
       "text": [

@@ -1,6 +1,6 @@
 {
-  "metaTitle": "Semua Transaksi Dekat Ⓝ | Blok Dekat",
-  "metaDescription": "Semua Transaksi Dekat Ⓝ dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
+  "metaTitle": "Semua Transaksi Dekat | Blok Dekat",
+  "metaDescription": "Semua Transaksi Dekat dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
   "heading": "Transaksi",
   "listing": "Lebih dari > {{count}} transaksi ditemukan",
   "listingToken": "Lebih dari > {{count}} Transfer token ditemukan",

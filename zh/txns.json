@@ -1,6 +1,6 @@
 {
-  "metaTitle": "所有在 Ⓝ 附近的最新交易|近街区",
-  "metaDescription": "所有近 Ⓝ 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
+  "metaTitle": "所有在 附近的最新交易|近街区",
+  "metaDescription": "所有近 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
   "heading": "交易",
   "listing": "找到超过 > 个 {{计数}} 事务",
   "listingToken": "超过 > {{计数}} 找到令牌转移",
@@ -17,7 +17,7 @@
   "txnOut": "外",
   "amount": "量",
   "filter": {
-    "placeholder": "按地址搜索，例如 Ⓝ 。",
+    "placeholder": "按地址搜索，例如 。",
     "filter": "滤波器",
     "clear": "清楚",
     "by": "过滤条件：",
@@ -25,8 +25,8 @@
     "to": "自："
   },
   "txn": {
-    "metaTitle": "Near （N） Transaction {{txn}} |近街区",
-    "metaDescription": "近（N）区块链交易{{txn}}的详细信息。",
+    "metaTitle": "Near Transaction {{txn}} |近街区",
+    "metaDescription": "近 区块链交易{{txn}}的详细信息。",
     "heading": "交易详情",
     "hash": {
       "text": [
