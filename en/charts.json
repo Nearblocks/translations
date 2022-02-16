@@ -1,11 +1,11 @@
 {
-  "metaTitle": "Near (Ⓝ) Charts & Statistics | Near Blocks ",
-  "metaDescription": "Near  provides a suite of real-time Near (Ⓝ) data charts and statistics to track everything about Near (Ⓝ) cryptocurrency : Price, Supply, Marketcap, Transaction Fee and others.",
+  "metaTitle": "Near Charts & Statistics | Near Blocks ",
+  "metaDescription": "Near  provides a suite of real-time Near data charts and statistics to track everything about Near cryptocurrency : Price, Supply, Marketcap, Transaction Fee and others.",
   "heading": "Near Charts & Statistics",
   "otherHeading": "Other Near Blockchain Charts & Statistics",
   "nearPrice": {
-    "metaTitle": "Near (Ⓝ) Price Today : Info, Chart, Stats | Near Blocks ",
-    "metaDescription": "Near Daily Price (USD) chart shows the daily historical price for Near in USD. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "metaTitle": "Near Price Today : Info, Chart, Stats | Near Blocks ",
+    "metaDescription": "Near Daily Price (USD) chart shows the daily historical price for Near in USD. All data is real-time, accurate and pulled directly from Near blockchain.",
     "heading": "Near Daily Price (USD) Chart",
     "description": "Near Daily Price (USD) chart shows the daily historical price for Near in USD.",
     "yLabel": "Near Price (USD)",
@@ -22,50 +22,50 @@
     }
   },
   "marketCap": {
-    "metaTitle": "Near (Ⓝ) Market Capitalization Chart | Near Blocks ",
-    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "metaTitle": "Near Market Capitalization Chart | Near Blocks ",
+    "metaDescription": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price. All data is real-time, accurate and pulled directly from Near blockchain.",
     "heading": "Near Market Capitalization Chart",
     "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
     "yLabel": "Near Market Cap (USD)"
   },
   "nearSupply": {
-    "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total Supply | Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "metaTitle": "Near Supply Chart : Circulating, Total Supply | Near Blocks ",
+    "metaDescription": "Near blockchain Supply Growth Chart shows a breakdown of daily block reward and the total Near supply. All data is real-time, accurate and pulled directly from Near blockchain.",
     "heading": "Near Supply Growth Chart",
     "description": "Near Supply Growth Chart shows a breakdown of daily and the total Near supply.",
     "yLabel": "Near Supply"
   },
   "txns": {
-    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth | Near Blocks ",
-    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for total transaction , total blocks and total new account seen.",
+    "metaTitle": "Near Transactions Chart : Info, Statistics, Growth | Near Blocks ",
+    "metaDescription": "Near transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for total transaction , total blocks and total new account seen.",
     "heading": "Near Daily Transactions Chart",
     "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for total blocks and total new account seen.",
     "yLabel": "Transactions per Day"
   },
   "blocks": {
-    "metaTitle": "Near (Ⓝ) Block Count Chart | Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Block Count Chart shows the historical number of blocks produced daily on Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "metaTitle": "Near Block Count Chart | Near Blocks ",
+    "metaDescription": "Near blockchain Block Count Chart shows the historical number of blocks produced daily on Near blockchain. All data is real-time, accurate and pulled directly from Near blockchain.",
     "heading": "Near Block Count",
     "description": "Near Block Count Chart shows the historical number of blocks produced daily on Near blockchain.",
     "yLabel": "Blocks per Day"
   },
   "addresses": {
-    "metaTitle": "Near (Ⓝ) Unique Accounts Chart | Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) unique accounts chart shows the total distinct numbers of accounts on Near blockchain and the increase in the number of account daily.",
+    "metaTitle": "Near Unique Accounts Chart | Near Blocks ",
+    "metaDescription": "Near blockchain unique accounts chart shows the total distinct numbers of accounts on Near blockchain and the increase in the number of account daily.",
     "heading": "Near Unique Accounts Chart",
     "description": "The chart shows the total distinct numbers of accounts on Near blockchain and the increase in the number of account daily.",
     "yLabel": "Near Cumulative Accounts Growth"
   },
   "txnFee": {
-    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee | Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
+    "metaTitle": "Near Transaction Fee History : Average Transaction Fee | Near Blocks ",
+    "metaDescription": "Near blockchain transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near blockchain.",
     "heading": "Average Transaction Fee Chart",
     "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
     "yLabel": "Average Transaction Fee (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume | Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain.",
+    "metaTitle": "Near Transaction Volume Chart : Average Transaction Volume | Near Blocks ",
+    "metaDescription": "Near blockchain average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain.",
     "heading": "Average Transaction Volume Chart",
     "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
     "yLabel": "Average Transaction Volume (USD)"

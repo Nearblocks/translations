@@ -1,6 +1,6 @@
 {
-  "metaTitle": "Semua Blok Terbaru Dekat (Ⓝ) | Blok Dekat",
-  "metaDescription": "Semua Blok Dekat (Ⓝ) yang disertakan dalam Near blockchain. Stempel waktu, penulis, gas yang digunakan, harga gas dan termasuk transaksi ditampilkan.",
+  "metaTitle": "Semua Blok Terbaru Dekat  | Blok Dekat",
+  "metaDescription": "Semua Blok Dekat  yang disertakan dalam Near blockchain. Stempel waktu, penulis, gas yang digunakan, harga gas dan termasuk transaksi ditampilkan.",
   "heading": "Blok",
   "listing": "Blokir #{{from}} ke #{{{to}} (Total blok {{count}} )",
   "blocks": "Halangi",
@@ -13,8 +13,8 @@
   "weight": "Berat",
   "volume": "Volume Transaksi",
   "block": {
-    "metaTitle": "Dekat (Ⓝ) Blok {{blok}} | Blok Dekat",
-    "metaDescription": "Dekat (Ⓝ) Block Height {{block}}. Stempel waktu, gas blok yang digunakan, harga gas, penulis, jumlah transaksi dan tanda terima di blok dirinci pada Near.",
+    "metaTitle": "Dekat  Blok {{blok}} | Blok Dekat",
+    "metaDescription": "Dekat  Block Height {{block}}. Stempel waktu, gas blok yang digunakan, harga gas, penulis, jumlah transaksi dan tanda terima di blok dirinci pada Near.",
     "heading": "Blokir <0>#{{blok}}</0>",
     "height": "Tinggi Blok",
     "hash": "Hash",

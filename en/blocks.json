@@ -1,5 +1,5 @@
 {
-  "metaTitle": "All Near (Ⓝ) Latest Blocks | Near Blocks",
+  "metaTitle": "All Near Latest Blocks | Near Blocks",
   "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, author, gas used, gas price and included transactions are shown.",
   "heading": "Blocks",
   "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
@@ -13,8 +13,8 @@
   "weight": "Weight", 
   "volume": "Transaction Volume",
   "block": {
-    "metaTitle": "Near (Ⓝ) Block {{block}} | Near Blocks",
-    "metaDescription": "Near (Ⓝ) Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
+    "metaTitle": "Near Block {{block}} | Near Blocks",
+    "metaDescription": "Near Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
     "heading": "Block <0>#{{block}}</0>",
     "height": "Block Height",
     "hash": "Hash",
