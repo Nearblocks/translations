@@ -12,7 +12,7 @@
   "miner": "作者",
   "weight": "重量",
   "volume": "交易量",
-  "blockError": "Block Error",
+  "blockError": "块错误",
   "block": {
     "metaTitle": "靠近 块 {{块}} |近街区",
     "metaDescription": "靠近 块高度 {{块}}。时间戳，使用的块天然气，气体价格，作者，块中的交易数量和收据在Near上详细说明。",
