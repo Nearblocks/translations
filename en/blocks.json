@@ -12,6 +12,7 @@
   "miner": "Author",
   "weight": "Weight", 
   "volume": "Transaction Volume",
+  "blockError": "Block Error",
   "block": {
     "metaTitle": "Near Block {{block}} | Near Blocks",
     "metaDescription": "Near Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",

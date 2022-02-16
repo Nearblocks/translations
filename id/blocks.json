@@ -12,6 +12,7 @@
   "miner": "Pengarang",
   "weight": "Berat",
   "volume": "Volume Transaksi",
+  "blockError": "Block Error",
   "block": {
     "metaTitle": "Dekat  Blok {{blok}} | Blok Dekat",
     "metaDescription": "Dekat  Block Height {{block}}. Stempel waktu, gas blok yang digunakan, harga gas, penulis, jumlah transaksi dan tanda terima di blok dirinci pada Near.",

@@ -18,7 +18,8 @@
       "all": "所有过滤器",
       "txns": "Txns",
       "blocks": "Blocks",
-      "token": "令 牌"
+      "token": "令 牌",
+      "addresses": "Addresses"
     },
     "placeholder": "按账户ID / Txn哈希/区块搜索",
     "list": {

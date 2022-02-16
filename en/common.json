@@ -18,7 +18,8 @@
       "all": "All Filters",
       "txns": "Txns",
       "blocks": "Blocks",
-      "token": "Tokens"
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
     "placeholder": "Search by Account ID / Txn Hash / Block",
     "list": {

@@ -25,7 +25,8 @@
       "address": "Rekening",
       "txns": "Txns",
       "blocks": "Blok",
-      "tokens": "Token"
+      "tokens": "Token",
+      "addresses": "Addresses"
     }
   },
   "footer": {
