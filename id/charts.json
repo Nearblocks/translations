@@ -1,9 +1,9 @@
 {
-  "metaTitle": "Dekat (Ⓝ) Grafik & Statistik Dekat Blok ",
-  "metaDescription": "Near menyediakan serangkaian grafik data dan statistik Dekat Ⓝ) real-time untuk melacak segala sesuatu tentang cryptocurrency Near Ⓝ:: Harga, Penawaran, Marketcap, Netspace, dan lainnya.",
+  "metaTitle": "Dekat (Ⓝ) Grafik & Statistik | Blok Dekat ",
+  "metaDescription": "Near menyediakan serangkaian grafik data dan statistik Dekat (Ⓝ) real-time untuk melacak segala sesuatu tentang cryptocurrency Near (Ⓝ): Harga, Penawaran, Marketcap, Biaya Transaksi, dan lainnya.",
   "heading": "Dekat Grafik &Statistik",
   "otherHeading": "Grafik &Statistik Blockchain Dekat Lainnya",
-  "NearPrice": {
+  "nearPrice": {
     "metaTitle": "Dekat (Ⓝ) Harga Hari Ini : Info, Grafik, Statistik Dekat Blok ",
     "metaDescription": "Grafik Near Daily Price (USD) menunjukkan harga historis harian untuk Near in USD. Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near Ⓝ).",
     "heading": "Dekat Grafik Harga Harian (USD)",
@@ -21,108 +21,53 @@
       "lowAll": "All-Time Low"
     }
   },
-  "supply": {
-    "metaTitle": "Near (Ⓝ) Total Supply and Market Capitalization Chart Near Blocks ",
-    "metaDescription": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "heading": "Near Total Supply and Market Capitalization Chart",
-    "description": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "totalSupply": "Total Near Supply",
-    "marketCap": "Market Capitalization",
-    "distribution": {
-      "heading": "Near Distribution Overview",
-      "genesis": "Genesis (Pre Farm):",
-      "blockRewards": "Mining Block Rewards:",
-      "totalSupply": "Current Total Supply"
-    },
-    "price": {
-      "heading": "Near (Ⓝ) Price",
-      "usd": "In USD:",
-      "btc": "In BTC:"
-    },
-    "chartTitle": "Breakdown by Supply Types"
-  },
   "marketCap": {
-    "metaTitle": "Near (Ⓝ) Market Capitalization Chart Near Blocks ",
-    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Market Capitalization Chart",
-    "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
-    "yLabel": "Near Market Cap (USD)"
+    "metaTitle": "Dekat ( Ⓝ) Grafik Kapitalisasi Pasar | Blok Dekat ",
+    "metaDescription": "Dekat ( Ⓝ) Grafik Kapitalisasi Pasar menunjukkan rincian historis kapitalisasi pasar harian Dekat ( Ⓝ) dan harga. Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
+    "heading": "Dekat Grafik Kapitalisasi Pasar",
+    "description": "Grafik Kapitalisasi Pasar Dekat menunjukkan rincian historis kapitalisasi dan harga pasar harian dekat.",
+    "yLabel": "Dekat Kapitalisasi Pasar (USD)"
   },
-  "netspace": {
-    "metaTitle": "Near (Ⓝ) Netspace Chart : History, Evolution, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near blockchain Space Chart",
-    "description": "Near blockchain Space Chart shows the historical measure of the space allocated to Near blockchain.",
-    "yLabel": "Network Space"
-  },
-  "NearSupply": {
-    "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Supply Growth Chart",
-    "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
-    "yLabel": "Near Supply"
+  "nearSupply": {
+    "metaTitle": "Dekat ( Ⓝ) Supply Chart: Beredar, Total Pasokan | Blok Dekat ",
+    "metaDescription": "Dekat blockchain ( Ⓝ) Supply Growth Chart menunjukkan rincian hadiah blok harian dan total pasokan Near ( Ⓝ). Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
+    "heading": "Dekat Grafik Pertumbuhan Pasokan",
+    "description": "Near Supply Growth Chart menunjukkan rincian pasokan harian dan total Near.",
+    "yLabel": "Dekat Pasokan"
   },
   "txns": {
-    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth Near Blocks ",
-    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "heading": "Near Daily Transactions Chart",
-    "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "yLabel": "Transactions per Day"
-  },
-  "blockRewards": {
-    "metaTitle": "Near (Ⓝ) Block Rewards Chart : Info, Stats, Evolution Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Block Rewards Chart shows the total Near supplied to Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Daily Block Rewards Chart",
-    "description": "Near Daily Block Rewards Chart shows the total Near supplied to Near blockchain.",
-    "yLabel": "New Near supply per Day"
+    "metaTitle": "Dekat ( Ⓝ) Grafik Transaksi : Info, Statistik, Pertumbuhan | Blok Dekat ",
+    "metaDescription": "Bagan transaksi dekat ( Ⓝ) menyoroti jumlah total transaksi di blockchain Near blockchain dengan rincian individu harian untuk total transaksi, total blok dan total akun baru yang terlihat.",
+    "heading": "Dekat Grafik Transaksi Harian",
+    "description": "Bagan ini menyoroti jumlah total transaksi di near blockchain dengan rincian individu harian untuk total blok dan total akun baru yang terlihat.",
+    "yLabel": "Transaksi per Hari"
   },
   "blocks": {
-    "metaTitle": "Near (Ⓝ) Block Count and Rewards Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Block Count and Rewards Chart",
-    "description": "Near Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward.",
-    "yLabel": "Blocks per Day"
+    "metaTitle": "Dekat ( Ⓝ) Bagan Jumlah Blok | Blok Dekat ",
+    "metaDescription": "Dekat blockchain ( Ⓝ) Block Count Chart menunjukkan jumlah historis blok yang diproduksi setiap hari di Near blockchain. Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
+    "heading": "Dekat Jumlah Blok",
+    "description": "Near Block Count Chart menunjukkan jumlah historis blok yang diproduksi setiap hari di near blockchain.",
+    "yLabel": "Blok per Hari"
   },
   "addresses": {
-    "metaTitle": "Near (Ⓝ) Unique Addresses Chart : Info, Stats, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) unique addresses chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "heading": "Near Unique Addresses Chart",
-    "description": "The chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "yLabel": "Near Cumulative Addresses Growth"
-  },
-  "activeAddresses": {
-    "metaTitle": "Near (Ⓝ) Active Addresses Chart : Info, Stats, Activity Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Active Near Addresses Chart",
-    "description": "The Active Near Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
-    "yLabel": "Active Near Addresses"
+    "metaTitle": "Dekat ( Ⓝ) Bagan Akun Unik | Blok Dekat ",
+    "metaDescription": "Dekat blockchain ( Ⓝ) grafik akun unik menunjukkan jumlah total akun yang berbeda di Dekat blockchain dan peningkatan jumlah akun setiap hari.",
+    "heading": "Dekat Bagan Akun Unik",
+    "description": "Bagan ini menunjukkan jumlah total akun yang berbeda di dekat blockchain dan peningkatan jumlah akun setiap hari.",
+    "yLabel": "Pertumbuhan Akun Kumulatif Dekat"
   },
   "txnFee": {
-    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "yLabel": "Average Transaction Fee (USD)"
+    "metaTitle": "Dekat ( Ⓝ) Riwayat Biaya Transaksi : Rata-rata Biaya Transaksi | Blok Dekat ",
+    "metaDescription": "Dekat grafik biaya transaksi blockchain ( Ⓝ) menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain ( Ⓝ). Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
+    "heading": "Bagan Biaya Transaksi Rata-rata",
+    "description": "Bagan ini menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "yLabel": "Biaya Transaksi Rata-rata (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "yLabel": "Average Transaction Volume (USD)"
-  },
-  "ⓃTib": {
-    "metaTitle": "Daily Near (Ⓝ) Farming Reward per TiB Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily Ⓝ per TiB Chart",
-    "description": "The Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB.",
-    "yLabel": "Near Amount"
-  },
-  "tibHrⓃ": {
-    "metaTitle": "Space Needed TiB To Farm Near (Ⓝ) Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily TiB Hour per Ⓝ Chart",
-    "description": "The Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB.",
-    "yLabel": "Hours"
+    "metaTitle": "Dekat ( Ⓝ) Grafik Volume Transaksi : Rata-rata Volume Transaksi | Blok Dekat ",
+    "metaDescription": "Dekat blockchain ( Ⓝ) grafik volume transaksi rata-rata menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "heading": "Bagan Volume Transaksi Rata-rata",
+    "description": "Bagan ini menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "yLabel": "Volume Transaksi Rata-rata (USD)"
   }
 }

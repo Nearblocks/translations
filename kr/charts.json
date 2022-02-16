@@ -1,11 +1,11 @@
 {
-  "metaTitle": "블록 근처 ((N) 차트 및 통계 ",
-  "metaDescription": "근처 (N)의 데이터 차트및 통계의 제품군을 제공 (N) 암호 화폐에 대한 모든 것을 추적 : 가격, 공급, 시장 캡, 넷 스페이스 및 기타.",
+  "metaTitle": "Ⓝ 차트 및 통계 | 블록 근처 ",
+  "metaDescription": "근처 Ⓝ의 데이터 차트및 통계의 제품군을 제공 Ⓝ 근처 Ⓝ 암호 화폐에 대한 모든 것을 추적 : 가격, 공급, 시장 캡, 거래 수수료 및 기타.",
   "heading": "차트 및 통계 근처",
   "otherHeading": "기타 근거리 블록체인 차트 및 통계",
-  "NearPrice": {
-    "metaTitle": "근처 (N)) 가격 오늘 : 정보, 차트, 블록 근처 통계 ",
-    "metaDescription": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near (N) 블록 체인에서 직접 가져온 것입니다.",
+  "nearPrice": {
+    "metaTitle": "근처 Ⓝ) 가격 오늘 : 정보, 차트, 블록 근처 통계 ",
+    "metaDescription": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near Ⓝ 블록 체인에서 직접 가져온 것입니다.",
     "heading": "근처 일일 가격 (USD) 차트",
     "description": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다.",
     "yLabel": "근처 가격 (USD)",
@@ -21,41 +21,14 @@
       "lowAll": "All-Time Low"
     }
   },
-  "supply": {
-    "metaTitle": "Near (Ⓝ) Total Supply and Market Capitalization Chart Near Blocks ",
-    "metaDescription": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "heading": "Near Total Supply and Market Capitalization Chart",
-    "description": "The table and pie chart shows the distribution of Near from reward of both block and uncle block mining to arrive at the current total Near supply. Near (Ⓝ) price in USD is also shown in the table below. With both the total supply of Near and the current price in USD, we can arrive at the market capitalization as shown in the pie chart.",
-    "totalSupply": "Total Near Supply",
-    "marketCap": "Market Capitalization",
-    "distribution": {
-      "heading": "Near Distribution Overview",
-      "genesis": "Genesis (Pre Farm):",
-      "blockRewards": "Mining Block Rewards:",
-      "totalSupply": "Current Total Supply"
-    },
-    "price": {
-      "heading": "Near (Ⓝ) Price",
-      "usd": "In USD:",
-      "btc": "In BTC:"
-    },
-    "chartTitle": "Breakdown by Supply Types"
-  },
   "marketCap": {
-    "metaTitle": "Near (Ⓝ) Market Capitalization Chart Near Blocks ",
-    "metaDescription": "Near (Ⓝ) Market Capitalization chart shows the historical breakdown of Near (Ⓝ) daily market capitalization and price. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Market Capitalization Chart",
-    "description": "Near Market Capitalization chart shows the historical breakdown of Near daily market capitalization and price.",
-    "yLabel": "Near Market Cap (USD)"
+    "metaTitle": "근처  Ⓝ 시가 총액 차트 | 블록 근처 ",
+    "metaDescription": " Ⓝ 시가총액 차트는 현재 의외의 시가총액과 가격을 기록했습니다. 모든 데이터는 실시간으로 정확하며 Near  Ⓝ 블록 체인에서 직접 가져온 것입니다.",
+    "heading": "근대시가총액 차트",
+    "description": "근로시가총액 차트는 거의 일일 시가총액과 가격의 역사적 붕괴를 보여줍니다.",
+    "yLabel": "근처 시가총액(USD)"
   },
-  "netspace": {
-    "metaTitle": "Near (Ⓝ) Netspace Chart : History, Evolution, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Network Space Chart or Netspace Chart shows the historical measure of the space allocated to Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near blockchain Space Chart",
-    "description": "Near blockchain Space Chart shows the historical measure of the space allocated to Near blockchain.",
-    "yLabel": "Network Space"
-  },
-  "NearSupply": {
+  "nearSupply": {
     "metaTitle": "Near (Ⓝ) Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
     "metaDescription": "Near blockchain (Ⓝ) Supply Growth Chart shows a breakdown of daily block reward and the total Near (Ⓝ) supply. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
     "heading": "Near Supply Growth Chart",
@@ -63,66 +36,38 @@
     "yLabel": "Near Supply"
   },
   "txns": {
-    "metaTitle": "Near (Ⓝ) Transactions Chart : Info, Statistics, Growth Near Blocks ",
-    "metaDescription": "Near (Ⓝ) transactions chart highlights the total number of transactions on Near blockchain blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "heading": "Near Daily Transactions Chart",
-    "description": "The chart highlights the total number of transactions on Near blockchain with daily individual breakdown for estimated net space, average block weight, total blocks and total new address seen.",
-    "yLabel": "Transactions per Day"
-  },
-  "blockRewards": {
-    "metaTitle": "Near (Ⓝ) Block Rewards Chart : Info, Stats, Evolution Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Block Rewards Chart shows the total Near supplied to Near blockchain. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Daily Block Rewards Chart",
-    "description": "Near Daily Block Rewards Chart shows the total Near supplied to Near blockchain.",
-    "yLabel": "New Near supply per Day"
+    "metaTitle": " Ⓝ 거래 차트 근처 : 정보, 통계, 성장 | 블록 근처 ",
+    "metaDescription": " Ⓝ 거래 차트는 Near blockchain 블록 체인의 총 거래 수를 강조하며 총 트랜잭션, 총 블록 및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
+    "heading": "근처 일일 거래 차트",
+    "description": "차트는 Near blockchain의 총 거래 수를 강조하며, 총 블록및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
+    "yLabel": "일일 거래"
   },
   "blocks": {
-    "metaTitle": "Near (Ⓝ) Block Count and Rewards Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Near Block Count and Rewards Chart",
-    "description": "Near Block Count and Rewards Chart shows the historical number of blocks produced daily on Near blockchain and the total block reward.",
-    "yLabel": "Blocks per Day"
+    "metaTitle": "근처  Ⓝ 블록 카운트 차트 | 블록 근처 ",
+    "metaDescription": "블록체인 Ⓝ에 가까운 블록 카운트 차트는 근거리 블록체인에서 매일 생산되는 블록의 역사적 수를 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near  Ⓝ 블록 체인에서 직접 가져온 것입니다.",
+    "heading": "블록 카운트 근처",
+    "description": "블록 카운트 차트 근처는 가까운 블록 체인에서 매일 생산 되는 블록의 역사적인 수를 보여줍니다.",
+    "yLabel": "일일 블록"
   },
   "addresses": {
-    "metaTitle": "Near (Ⓝ) Unique Addresses Chart : Info, Stats, Growth Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) unique addresses chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "heading": "Near Unique Addresses Chart",
-    "description": "The chart shows the total distinct numbers of address on Near blockchain and the increase in the number of address daily.",
-    "yLabel": "Near Cumulative Addresses Growth"
-  },
-  "activeAddresses": {
-    "metaTitle": "Near (Ⓝ) Active Addresses Chart : Info, Stats, Activity Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Active Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Active Near Addresses Chart",
-    "description": "The Active Near Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.",
-    "yLabel": "Active Near Addresses"
+    "metaTitle": " Ⓝ 고유 계정 차트 | 블록 근처 ",
+    "metaDescription": "블록체인 Ⓝ 내 고유한 계정 차트는 근거리 블록체인의 계정 총 수와 매일 계정 수가 증가하는 것을 보여줍니다.",
+    "heading": "고유 계정 차트 에 가까운",
+    "description": "차트는 Near blockchain의 계정 의 총 고유 번호와 매일 계정 의 수를 증가 보여줍니다.",
+    "yLabel": "누적 계정 증가 근처"
   },
   "txnFee": {
-    "metaTitle": "Near (Ⓝ) Transaction Fee History : Average Transaction Fee Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "yLabel": "Average Transaction Fee (USD)"
+    "metaTitle": " Ⓝ 거래 수수료 기록 근처 : 평균 거래 수수료 | 블록 근처 ",
+    "metaDescription": "블록체인 Ⓝ 거래 수수료 차트에 가까운 경우 거래당 USD의 일일 평균 금액이 가까운 블록체인 Ⓝ에서 지출된 것으로 나타났습니다. 모든 데이터는 실시간으로 정확하며 Near  Ⓝ 블록 체인에서 직접 가져온 것입니다.",
+    "heading": "평균 거래 수수료 차트",
+    "description": "차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
+    "yLabel": "평균 거래 수수료 (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Near (Ⓝ) Transaction Volume Chart : Average Transaction Volume Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain including farming rewards.",
-    "yLabel": "Average Transaction Volume (USD)"
-  },
-  "ⓃTib": {
-    "metaTitle": "Daily Near (Ⓝ) Farming Reward per TiB Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily Ⓝ per TiB Chart",
-    "description": "The Daily Ⓝ per TiB Chart shows the expected daily farmed Ⓝ per TiB.",
-    "yLabel": "Near Amount"
-  },
-  "tibHrⓃ": {
-    "metaTitle": "Space Needed TiB To Farm Near (Ⓝ) Chart Near Blocks ",
-    "metaDescription": "Near blockchain (Ⓝ) Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB. All data is real-time, accurate and pulled directly from Near (Ⓝ) blockchain.",
-    "heading": "Daily TiB Hour per Ⓝ Chart",
-    "description": "The Daily TiB Hour per Ⓝ Chart shows the expected number of hours to farm 1 Ⓝ with 1 TiB.",
-    "yLabel": "Hours"
+    "metaTitle": " Ⓝ 거래량 차트 근처 : 평균 거래량 | 블록 근처 ",
+    "metaDescription": "블록체인 Ⓝ에 가까운 평균 거래량 차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
+    "heading": "평균 거래량 차트",
+    "description": "차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
+    "yLabel": "평균 거래량(USD)"
   }
 }
