@@ -118,5 +118,6 @@
   "info": "Showing the last {{count}} records only",
   "depositValue": "Deposit value",
   "txnFee": "Txn fee",
-  "txnSelf": "Self"
+  "txnSelf": "Self",
+  "testnetNotice": "[ This is a Testnet transaction only ]"
 }

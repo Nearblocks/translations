@@ -70,5 +70,6 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
-  }
+  },
+  "outofSync": "이 블록체인 탐색기가 동기화되지 않았습니다. 일부 블록 또는 거래가 지연될 수 있습니다."
 }

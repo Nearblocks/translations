@@ -70,5 +70,6 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
-  }
+  },
+  "outofSync": "这个区块链浏览器不同步。一些区块或交易可能会延迟。"
 }

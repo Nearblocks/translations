@@ -119,5 +119,6 @@
   "depositValue": "예금금액",
   "txnFee": "송금수수료",
   "txnSelf": "자신",
-  "noTxns": "거래 없음"
+  "noTxns": "거래 없음",
+  "testnetNotice": "[ 테스트넷 거래 전용 ]"
 }

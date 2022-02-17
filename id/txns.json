@@ -119,5 +119,6 @@
   "depositValue": "Nilai setoran",
   "txnFee": "Biaya txn",
   "txnSelf": "Mandiri",
-  "noTxns": "Tidak ada transaksi"
+  "noTxns": "Tidak ada transaksi",
+  "testnetNotice": "[ Ini hanya transaksi Testnet ]"
 }

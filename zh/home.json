@@ -8,7 +8,7 @@
   "mempoolSize": "内存池尺寸",
   "currentBlock": "电流块",
   "netspace": "网络空间",
-  "transactionHistory": "以 {{天}} 天为单位的接近交易历史记录",
+  "transactionHistory": "以 {{days}} 天为单位的接近交易历史记录",
   "banner": {
     "title": "附近的生态系统从这里开始",
     "description": "您有近邻相关的产品或服务吗？联系我们并获得曝光率 查看Near的#1附近区块链浏览器。"

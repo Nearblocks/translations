@@ -2,8 +2,8 @@
   "metaTitle": "所有在 附近的最新交易|近街区",
   "metaDescription": "所有近 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
   "heading": "交易",
-  "listing": "找到超过 > 个 {{计数}} 事务",
-  "listingToken": "超过 > {{计数}} 找到令牌转移",
+  "listing": "找到超过 > 个 {{count}} 事务",
+  "listingToken": "超过 > {{count}} 找到令牌转移",
   "hash": "Txn 哈希",
   "type":"方法",
   "typeTxn": "交易", 
@@ -119,5 +119,6 @@
   "depositValue": "存款价值",
   "txnFee": "Txn 费用",
   "txnSelf": "自己",
-  "noTxns": "没有交易"
+  "noTxns": "没有交易",
+  "testnetNotice": "[这只是一个测试网交易]"
 }
