@@ -46,11 +46,14 @@
     },
     "status": {
       "text": [
-        "Keadaan",
-        "Keberhasilan",
-        "Menghabiskan",
-        "Unspent"
+        "Keadaan"
       ],
+      "status": {
+        "NotStarted": "Not started",
+        "Started": "Started",
+        "Failure": "Failed",
+        "SuccessValue": "Succeeded"
+      },
       "tooltip": "Status transaksi."
     },
     "block": {
@@ -113,7 +116,13 @@
     "siblingCoins": "Koin Saudara Kandung",
     "unknownToken": "Diketahui",
     "claimToken": "Token klaim",
-    "token": "Tanda"
+    "token": "Tanda",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    }
   },
   "info": "Menampilkan catatan {{count}} terakhir saja",
   "depositValue": "Nilai setoran",

@@ -46,11 +46,14 @@
     },
     "status": {
       "text": [
-        "상태",
-        "성공",
-        "보냈다",
-        "미사용"
+        "상태"
       ],
+      "status": {
+        "NotStarted": "Not started",
+        "Started": "Started",
+        "Failure": "Failed",
+        "SuccessValue": "Succeeded"
+      },
       "tooltip": "트랜잭션의 상태입니다."
     },
     "block": {
@@ -113,7 +116,13 @@
     "siblingCoins": "형제 동전",
     "unknownToken": "알려지지 않은",
     "claimToken": "클레임 토큰",
-    "token": "토큰"
+    "token": "토큰",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    }
   },
   "info": "마지막 {{count}}개 기록만 표시",
   "depositValue": "예금금액",
