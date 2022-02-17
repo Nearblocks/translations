@@ -1,10 +1,10 @@
 {
   "header": {
     "menu": {
-      "home": "Home",     
+      "home": "Home",
       "blockchain": "Blockchain",
       "viewBlocks": "View Blocks",
-      "viewTxns": "View Txns",     
+      "viewTxns": "View Txns",
       "languages": "Languages",
       "charts": "Charts & Stats",
       "topAccounts": "Top Accounts",
@@ -27,12 +27,13 @@
       "txns": "Txns",
       "blocks": "Blocks",
       "tokens": "Tokens"
-    }
+    },
+    "noResults": "No results"
   },
   "footer": {
     "description": "NearBlocks is a Blockchain Explorer and Analytics Platform for Near Protocol, a new blockchain and smart transaction platform.",
     "poweredBy": "Powered by",
-    "links": {    
+    "links": {
       "explore": "Explore",
       "blockExplorer": "Block Explorer",
       "latestBlocks": "Latest Blocks",

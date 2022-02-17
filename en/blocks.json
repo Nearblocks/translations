@@ -10,7 +10,7 @@
   "age": "Age",
   "txn": "Txn",
   "miner": "Author",
-  "weight": "Weight", 
+  "weight": "Weight",
   "volume": "Transaction Volume",
   "blockError": "Block Error",
   "block": {
@@ -23,9 +23,9 @@
     "transactions": [
       "Transactions",
       "<0>{{txns}} transactions</0> and {{receipts}} receipts"
-    ],   
+    ],
     "fees": "Fees",
-    "price": "Ⓝ Price",  
+    "price": "Ⓝ Price",
     "proof": "Proof",
     "gasUsed": "GAS Used",
     "gasPrice": "GAS Price",
