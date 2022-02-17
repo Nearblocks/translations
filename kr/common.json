@@ -27,7 +27,8 @@
       "txns": "Txns",
       "blocks": "블록",
       "tokens": "토큰"
-    }
+    },
+    "noResults": "No results"
   },
   "footer": {
     "description": "NearBlocks는 새로운 블록 체인 및 스마트 트랜잭션 플랫폼인 Near Protocol을 위한 블록 체인 탐색기 및 분석 플랫폼입니다.",

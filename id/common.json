@@ -28,7 +28,8 @@
       "blocks": "Blok",
       "tokens": "Token",
       "addresses": "Alamat"
-    }
+    },
+    "noResults": "No results"
   },
   "footer": {
     "description": "NearBlocks adalah Blockchain Explorer dan Analytics Platform untuk Near Protocol, blockchain baru dan platform transaksi cerdas.",

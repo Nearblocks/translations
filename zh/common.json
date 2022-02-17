@@ -27,7 +27,8 @@
       "txns": "Txns",
       "blocks": "块",
       "tokens": "令 牌"
-    }
+    },
+    "noResults": "No results"
   },
   "footer": {
     "description": "NearBlocks是一个用于Near Protocol的区块链资源管理器和分析平台，这是一个新的区块链和智能交易平台。",

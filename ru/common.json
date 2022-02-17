@@ -27,7 +27,8 @@
       "txns": "Тхнс",
       "blocks": "Блоки",
       "tokens": "Маркеры"
-    }
+    },
+    "noResults": "No results"
   },
   "footer": {
     "description": "NearBlocks - это blockchain Explorer and Analytics Platform for Near Protocol, новая платформа блокчейна и интеллектуальных транзакций.",
