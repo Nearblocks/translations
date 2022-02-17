@@ -18,7 +18,8 @@
       "all": "Semua Filter",
       "txns": "Txns",
       "blocks": "Blocks",
-      "token": "Token"
+      "token": "Token",
+      "addresses": "Alamat"
     },
     "placeholder": "Cari berdasarkan ID Akun / Txn Hash / Blok",
     "list": {
