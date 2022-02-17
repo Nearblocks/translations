@@ -46,11 +46,14 @@
     },
     "status": {
       "text": [
-        "Status",
-        "Success",
-        "Spent",
-        "Unspent"
+        "Status"
       ],
+      "status": {
+        "NotStarted": "Not started",
+        "Started": "Started",
+        "Failure": "Failed",
+        "SuccessValue": "Succeeded"
+      },
       "tooltip": "The status of the transaction."
     },
     "block": {
@@ -113,7 +116,13 @@
     "siblingCoins": "Sibling Coins",
     "unknownToken": "Unknown",
     "claimToken": "Claim token",
-    "token": "Token"
+    "token": "Token",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    }
   },
   "info": "Showing the last {{count}} records only",
   "depositValue": "Deposit value",

@@ -46,11 +46,14 @@
     },
     "status": {
       "text": [
-        "地位",
-        "成功",
-        "花",
-        "未用完"
+        "地位"
       ],
+      "status": {
+        "NotStarted": "Not started",
+        "Started": "Started",
+        "Failure": "Failed",
+        "SuccessValue": "Succeeded"
+      },
       "tooltip": "事务的状态。"
     },
     "block": {
@@ -113,7 +116,13 @@
     "siblingCoins": "兄弟姐妹硬币",
     "unknownToken": "未知",
     "claimToken": "声明令牌",
-    "token": "令 牌"
+    "token": "令 牌",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    }
   },
   "info": "仅显示最后 {{count}} 条记录",
   "depositValue": "存款价值",

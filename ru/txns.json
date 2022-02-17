@@ -46,11 +46,14 @@
     },
     "status": {
       "text": [
-        "Статус",
-        "Успех",
-        "Истощенный",
-        "Неизрасходованных"
+        "Статус"
       ],
+      "status": {
+        "NotStarted": "Not started",
+        "Started": "Started",
+        "Failure": "Failed",
+        "SuccessValue": "Succeeded"
+      },
       "tooltip": "Состояние транзакции."
     },
     "block": {
@@ -113,7 +116,13 @@
     "siblingCoins": "Монеты братьев и сестер",
     "unknownToken": "Неизвестный",
     "claimToken": "Маркер претензии",
-    "token": "Жетон"
+    "token": "Жетон",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    }
   },
   "info": "Показаны только последние {{count}} записи",
   "depositValue": "Сумма депозита",
