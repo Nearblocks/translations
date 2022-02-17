@@ -34,5 +34,7 @@
     "receipt": "Receipt",
     "gasLimit": "Gas limit",
     "gasFee": "Gas Fee"
-  }
+  },
+  "testnetNotice": "[ This is a Testnet block only ]",
+  "noBlocks": "No blocks"
 }

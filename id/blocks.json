@@ -34,5 +34,7 @@
     "receipt": "Kwitansi",
     "gasLimit": "Batas gas",
     "gasFee": "Biaya Gas"
-  }
+  },
+  "testnetNotice": "[ Ini hanya blok Testnet ]",
+  "noBlocks": "Tidak ada blok"
 }

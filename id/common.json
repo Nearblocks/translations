@@ -70,5 +70,6 @@
     "donation": "Donation",
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
-  }
+  },
+  "outofSync": "Penjelajah blockchain ini tidak sinkron. Beberapa blok atau transaksi mungkin tertunda."
 }
