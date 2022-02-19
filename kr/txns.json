@@ -122,6 +122,107 @@
         "Burnt Gas & Tokens by Txn"
       ],
       "tooltip": "Total amount of Gas & Token burnt from this transaction."
+    },
+    "actions": {
+      "text": [
+        "Actions"
+      ],
+      "tooltip": "The actions performed during this transaction.",
+      "addKey": [
+        "New key",
+        "Access key",
+        "added for",
+        "contract",
+        "with permission",
+        "to call",
+        "methods"
+      ],
+      "createAccount": [
+        "New account",
+        "created"
+      ],
+      "deleteAccount": [
+        "Delete account",
+        "and transfer remaining funds to"
+      ],
+      "deleteKey": [
+        "Key",
+        "deleted"
+      ],
+      "deployContract": [
+        "Contract",
+        "deployed"
+      ],
+      "functionCall": [
+        "Called method",
+        "in contract"
+      ],
+      "stake": [
+        "Staked",
+        "with"
+      ],
+      "transfer": [
+        "Transferred",
+        "to"
+      ]
+    },
+    "tabs": {
+      "overview": "Overview",
+      "execution": "Execution Plan",
+      "comments": "Comments"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "Receipt"
+        ],
+        "tooltip": "Unique identifier (hash) of this receipt."
+      },
+      "block":{
+        "text": [
+          "Block"
+        ],
+        "tooltip": "The hash of the block in which the receipt was executed."
+      },
+      "from":{
+        "text": [
+          "From"
+        ],
+        "tooltip": "The account which issued a receipt."
+      },
+      "to":{
+        "text": [
+          "To"
+        ],
+        "tooltip": "The destination account of the receipt."
+      },
+      "burnt": {
+        "text": [
+          "Burnt Gas & Tokens by Receipt"
+        ],
+        "tooltip": "Total amount of Gas & Token burnt from this receipt."
+      },
+      "actions":{
+        "text": [
+          "Actions"
+        ],
+        "tooltip": "The actions performed during receipt processing."
+      },
+      "result":{
+        "text": [
+          "Result",
+          "No Result",
+          "Empty Result"
+        ],
+        "tooltip": "The result of the receipt execution."
+      },
+      "logs":{
+        "text": [
+          "Logs",
+          "No Logs"
+        ],
+        "tooltip": "Logs included in the receipt."
+      }
     }
   },
   "info": "마지막 {{count}}개 기록만 표시",
