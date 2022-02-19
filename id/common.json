@@ -26,8 +26,7 @@
       "address": "Rekening",
       "txns": "Txns",
       "blocks": "Blok",
-      "tokens": "Token",
-      "addresses": "Alamat"
+      "tokens": "Token"
     },
     "noResults": "No results"
   },
