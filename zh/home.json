@@ -18,7 +18,7 @@
   "error": "错误！",
   "noBlocks": "没有积木！",
   "noTxns": "No transactions!",
-  "blockMiner": "Farmer",
+  "blockMiner": "Author",
   "txnFrom": "From",
   "txnTo": "To",
   "nodesOnline": "节点在线",
