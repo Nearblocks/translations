@@ -18,7 +18,7 @@
   "error": "Kesalahan!",
   "noBlocks": "Tidak ada blok!",
   "noTxns": "No transactions!",
-  "blockMiner": "Farmer",
+  "blockMiner": "Author",
   "txnFrom": "From",
   "txnTo": "To",
   "nodesOnline": "NODE ONLINE",

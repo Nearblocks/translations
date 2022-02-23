@@ -18,7 +18,7 @@
   "error": "Ошибка!",
   "noBlocks": "Никаких блоков!",
   "noTxns": "No transactions!",
-  "blockMiner": "Farmer",
+  "blockMiner": "Author",
   "txnFrom": "From",
   "txnTo": "To",
   "nodesOnline": "УЗЛЫ ОНЛАЙН",
