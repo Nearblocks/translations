@@ -1,6 +1,6 @@
 {
   "metaTitle": "Dekat (Ⓝ) Grafik & Statistik | Blok Dekat ",
-  "metaDescription": "Near menyediakan serangkaian grafik data dan statistik Dekat (Ⓝ) real-time untuk melacak segala sesuatu tentang cryptocurrency Near (Ⓝ): Harga, Penawaran, Marketcap, Biaya Transaksi, dan lainnya.",
+  "metaDescription": "Near menyediakan serangkaian grafik data dan statistik Dekat (Ⓝ) real-time untuk melacak segala sesuatu tentang Near Blocks (Ⓝ): Harga, Penawaran, Marketcap, Biaya Transaksi, dan lainnya.",
   "heading": "Dekat Grafik &Statistik",
   "otherHeading": "Grafik &Statistik Blockchain Dekat Lainnya",
   "nearPrice": {
@@ -57,17 +57,17 @@
     "yLabel": "Pertumbuhan Akun Kumulatif Dekat"
   },
   "txnFee": {
-    "metaTitle": "Dekat Riwayat Biaya Transaksi : Rata-rata Biaya Transaksi | Blok Dekat ",
-    "metaDescription": "Dekat grafik biaya transaksi blockchain menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain ( Ⓝ). Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
-    "heading": "Bagan Biaya Transaksi Rata-rata",
-    "description": "Bagan ini menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
-    "yLabel": "Biaya Transaksi Rata-rata (USD)"
+    "metaTitle": "Dekat Riwayat Biaya Transaksi : Biaya Transaksi | Blok Dekat ",
+    "metaDescription": "Dekat grafik biaya transaksi blockchain menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain ( Ⓝ). Semua data bersifat real-time, akurat dan ditarik langsung dari blockchain Near  Ⓝ).",
+    "heading": "Bagan Biaya Transaksi",
+    "description": "Bagan ini menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "yLabel": "Biaya Transaksi (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Dekat Grafik Volume Transaksi : Rata-rata Volume Transaksi | Blok Dekat ",
-    "metaDescription": "Dekat blockchain grafik volume transaksi rata-rata menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
-    "heading": "Bagan Volume Transaksi Rata-rata",
-    "description": "Bagan ini menunjukkan jumlah rata-rata harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
-    "yLabel": "Volume Transaksi Rata-rata (USD)"
+    "metaTitle": "Dekat Grafik Volume Transaksi : Volume Transaksi | Blok Dekat ",
+    "metaDescription": "Dekat blockchain grafik volume transaksi menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "heading": "Bagan Volume Transaksi" ,
+    "description": "Bagan ini menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
+    "yLabel": "Volume Transaksi (USD)"
   }
 }

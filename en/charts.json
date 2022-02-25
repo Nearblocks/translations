@@ -1,6 +1,6 @@
 {
   "metaTitle": "Near Charts & Statistics | Near Blocks ",
-  "metaDescription": "Near  provides a suite of real-time Near data charts and statistics to track everything about Near cryptocurrency : Price, Supply, Marketcap, Transaction Fee and others.",
+  "metaDescription": "Near  provides a suite of real-time Near data charts and statistics to track everything about Near Blocks : Price, Supply, Marketcap, Transaction Fee and others.",
   "heading": "Near Charts & Statistics",
   "otherHeading": "Other Near Blockchain Charts & Statistics",
   "nearPrice": {
@@ -57,17 +57,17 @@
     "yLabel": "Near Cumulative Accounts Growth"
   },
   "txnFee": {
-    "metaTitle": "Near Transaction Fee History : Average Transaction Fee | Near Blocks ",
-    "metaDescription": "Near blockchain transaction fee chart shows the daily average amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near blockchain.",
-    "heading": "Average Transaction Fee Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "yLabel": "Average Transaction Fee (USD)"
+    "metaTitle": "Near Transaction Fee History : Transaction Fee | Near Blocks ",
+    "metaDescription": "Near blockchain transaction fee chart shows the daily amount in USD spent per transaction on Near blockchain (Ⓝ). All data is real-time, accurate and pulled directly from Near blockchain.",
+    "heading": "Transaction Fee Chart",
+    "description": "The chart shows the daily amount in USD spent per transaction on Near blockchain.",
+    "yLabel": "Transaction Fee (USD)"
   },
   "txnVolume": {
-    "metaTitle": "Near Transaction Volume Chart : Average Transaction Volume | Near Blocks ",
-    "metaDescription": "Near blockchain average transaction volume chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "heading": "Average Transaction Volume Chart",
-    "description": "The chart shows the daily average amount in USD spent per transaction on Near blockchain.",
-    "yLabel": "Average Transaction Volume (USD)"
+    "metaTitle": "Near Transaction Volume Chart : Transaction Volume | Near Blocks ",
+    "metaDescription": "Near blockchain transaction volume chart shows the daily amount in USD spent per transaction on Near blockchain.",
+    "heading": "Transaction Volume Chart",
+    "description": "The chart shows the daily amount in USD spent per transaction on Near blockchain.",
+    "yLabel": "Transaction Volume (USD)"
   }
 }

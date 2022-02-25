@@ -1,6 +1,6 @@
 {
   "metaTitle": " 차트 및 통계 | 블록 근처 ",
-  "metaDescription": "근처 Ⓝ의 데이터 차트및 통계의 제품군을 제공  근처  암호 화폐에 대한 모든 것을 추적 : 가격, 공급, 시장 캡, 거래 수수료 및 기타.",
+  "metaDescription": "Near는 가격, 공급, 시가총액, 거래 수수료 등 근거리 블록에 대한 모든 것을 추적하기 위한 실시간 근거리 데이터 차트 및 통계를 제공합니다.",
   "heading": "차트 및 통계 근처",
   "otherHeading": "기타 근거리 블록체인 차트 및 통계",
   "nearPrice": {
@@ -57,17 +57,17 @@
     "yLabel": "누적 계정 증가 근처"
   },
   "txnFee": {
-    "metaTitle": "  거래 수수료 기록 근처 : 평균 거래 수수료 | 블록 근처 ",
-    "metaDescription": "블록체인  거래 수수료 차트에 가까운 경우 거래당 USD의 일일 평균 금액이 가까운 블록체인 Ⓝ에서 지출된 것으로 나타났습니다. 모든 데이터는 실시간으로 정확하며 Near   블록 체인에서 직접 가져온 것입니다.",
-    "heading": "평균 거래 수수료 차트",
-    "description": "차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
-    "yLabel": "평균 거래 수수료 (USD)"
+    "metaTitle": "거래수수료 내역에 가까운 : 거래수수료 | Near Blocks ",
+    "metaDescription": "Near 블록체인 거래 수수료 차트는 Near 블록체인(Ⓝ)에서 거래당 하루에 사용된 USD 금액을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near 블록체인에서 직접 가져온 것입니다.",
+    "heading": "거래 수수료 차트",
+    "description": "이 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
+    "yLabel": "거래 수수료(USD)"
   },
   "txnVolume": {
-    "metaTitle": "  거래량 차트 근처 : 평균 거래량 | 블록 근처 ",
-    "metaDescription": "블록체인 Ⓝ에 가까운 평균 거래량 차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
-    "heading": "평균 거래량 차트",
-    "description": "차트는 Near blockchain에서 거래당 지출된 USD의 일일 평균 금액을 보여줍니다.",
-    "yLabel": "평균 거래량(USD)"
+    "metaTitle": "주변 거래량 차트 : 거래량 | Near Blocks ",
+    "metaDescription": "Near 블록체인 거래량 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
+    "heading": "거래량 차트",
+    "description": "차트는 Near 블록체인에서 거래당 USD로 하루 지출 금액을 보여줍니다.",
+    "yLabel": "Transaction Volume (USD) )"
   }
 }
