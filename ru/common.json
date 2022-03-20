@@ -9,8 +9,8 @@
       "charts": "Чарты и статистика",
       "topAccounts": "Топ Аккаунты",
       "tokens": "Маркеры",
-      "toptoken": "Топ Токены",
-      "viewTokenTrasfers": "Просмотр переводов токенов"
+      "toptoken": "Лучшие токены ERC20",
+      "viewTokenTrasfers": "Просмотр переводов ERC20"
     }
   },
   "search": {

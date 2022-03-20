@@ -9,8 +9,8 @@
       "charts": "Charts & Stats",
       "topAccounts": "Top Accounts",
       "tokens": "Tokens",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers"
+      "toptoken": "ERC20 Top Tokens",
+      "viewTokenTrasfers": "View ERC20 Transfers"
     }
   },
   "search": {

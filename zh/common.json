@@ -9,8 +9,8 @@
       "charts": "图表和统计",
       "topAccounts": "热门账户",
       "tokens": "令 牌",
-      "toptoken": "热门代币",
-      "viewTokenTrasfers": "查看代币转账"
+      "toptoken": "ERC20 热门代币",
+      "viewTokenTrasfers": "查看 ERC20 转账"
     }
   },
   "search": {

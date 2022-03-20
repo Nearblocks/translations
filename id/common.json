@@ -9,8 +9,8 @@
       "charts": "Bagan & Statistik",
       "topAccounts": "Akun Teratas",
       "tokens": "Token",
-      "toptoken": "Token Teratas",
-      "viewTokenTrasfers": "Lihat Transfer Token"
+      "toptoken": "Token Teratas ERC20",
+      "viewTokenTrasfers": "Lihat Transfer ERC20"
     }
   },
   "search": {
