@@ -9,8 +9,8 @@
       "charts": "차트 및 통계",
       "topAccounts": "상위 계정",
       "tokens": "토큰",
-      "toptoken": "상단 토큰",
-      "viewTokenTrasfers": "토큰 전송 보기"
+      "toptoken": "ERC20 상위 토큰",
+      "viewTokenTrasfers": "ERC20 전송 보기"
     }
   },
   "search": {
