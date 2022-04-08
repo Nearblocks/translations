@@ -27,7 +27,7 @@
   "txnOut": "SALIDA",
   "amount": "Cantidad",
   "filter": {
-    "placeholder": "Buscar por dirección p.e. Ⓝ..",  // Not sure if should traslate to 'N..'
+    "placeholder": "Buscar por dirección p.e. Ⓝ..",
     "filter": "Filtro",
     "clear": "Limpiar",
     "by": "Filtrado por:",
