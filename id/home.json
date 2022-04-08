@@ -1,17 +1,17 @@
 {
-  "metaTitle": "Dekat Blockchain Explorer | Blok Dekat",
+  "metaTitle": "NEAR Blockchain Explorer | NearBlocks",
   "metaDescription": "Near Blocks adalah Block Explorer dan Analytics Platform for Near blockchain Ⓝ), platform blockchain dan transaksi cerdas baru.",
-  "heroTitle": "Dekat Blockchain Explorer",
-  "nearPrice": "Harga dekat",
-  "nearFarmed": "Dekat pertanian",
+  "heroTitle": "NEAR Blockchain Explorer",
+  "nearPrice": "Harga NEAR",
+  "nearFarmed": "NEAR pertanian",
   "difficulty": "Susah",
   "mempoolSize": "Ukuran Mempool",
   "currentBlock": "Blok Saat Ini",
   "netspace": "Netspace",
-  "transactionHistory": "Dekat riwayat transaksi di {{days}} hari",
+  "transactionHistory": "NEAR riwayat transaksi di {{days}} hari",
   "banner": {
-    "title": "Ekosistem dekat dimulai di sini",
-    "description": "Apakah Anda memiliki produk atau layanan terkait dekat? Hubungi kami dan dapatkan tampilan eksposur nomor # 1 Dekat penjelajah blockchain untuk Near."
+    "title": "Ekosistem NEAR dimulai di sini",
+    "description": "Apakah Anda memiliki produk atau layanan terkait NEAR? Hubungi kami dan dapatkan tampilan eksposur nomor # 1 NEAR penjelajah blockchain untuk Near."
   },
   "latestBlocks": "Blok Terbaru",
   "latestTxns": "Transaksi Terbaru",

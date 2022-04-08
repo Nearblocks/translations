@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Top 10,000 Cuentas de Near | Near Blocks",
+  "metaDescription": "Encuentra el top 10,000 de las Cuentas de Near por balance.",
+  "heading": "Cuentas Top por balance Ⓝ",
+  "listing": "Un total de > {{count}} cuentas encontradas ({{sum}} Ⓝ).",
+  "info": "Mostrando solamente el top 10,000 de cuentas",
+  "rank": "Rango",
+  "address": "Dirección",
+  "balance": "Balance",
+  "percentage": "Porcentaje",
+  "value": "Valor",
+  "txns": "Conteo de Txns"
+}

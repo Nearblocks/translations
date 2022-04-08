@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Near Account {{address}} | Blok Dekat",
+  "metaTitle": "Near Account {{address}} | NearBlocks",
   "metaDescription": "Halaman Near Account {{address}} memungkinkan pengguna untuk melihat transaksi, saldo, kepemilikan token, dan transfer.",
   "heading": "Akun: @ <0>{{address}}</0>",
   "overview": "Ikhtisar",
@@ -26,5 +26,7 @@
   "lastUpdated": "Terakhir diperbarui",
   "hash": "Hash transaksi",
   "locked": "Terkunci",
-  "codeHash": "Hash kode"
+  "codeHash": "Hash kode",
+  "tokenTxns": "Transaksi Token"
+
 }

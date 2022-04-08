@@ -26,5 +26,6 @@
   "lastUpdated": "마지막 업데이트",
   "hash": "트랜잭션 해시",
   "locked": "잠긴",
-  "codeHash": "코드 해시"
+  "codeHash": "코드 해시",
+  "tokenTxns": "토큰 트랜잭션"
 }

@@ -1,0 +1,76 @@
+{
+  "header": {
+    "menu": {
+      "home": "Trang chủ",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Xem Khối",
+      "viewTxns": "Xem giao dịch",
+      "languages": "Ngôn ngữ",
+      "charts": "Biểu đồ và thống kê",
+      "topAccounts": "Tài khoản nổi bật",
+      "tokens": "Tokens",
+      "toptoken": "ERC20 Tokens nổi bật",
+      "viewTokenTrasfers": "Xem chuyển khoản token"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Tất cả bộ lọc",
+      "txns": "Giao dịch",
+      "blocks": "Khối",
+      "token": "Tokens",
+      "addresses": "Các địa chỉ"
+    },
+    "placeholder": "Tìm kiếm Tài khoản ID / Băm giao dịch / Khối",
+    "list": {
+      "address": "Tài khoản",
+      "txns": "Giao dịch",
+      "blocks": "Khối",
+      "tokens": "Tokens"
+    },
+    "noResults": "Không có kết quả"
+  },
+  "footer": {
+    "description": "NearBlocks là một Blockchain Explorer và nền tảng phân tích cho Near Protocol, một nền tảng blockchain và hợp đồng thông minh mới.",
+    "poweredBy": "Cung cấp bởi",
+    "links": {
+      "explore": "Khám phá",
+      "blockExplorer": "Khối Explorer",
+      "latestBlocks": "Các khối gần nhất",
+      "latestTxns": "Các giao dịch gần nhất",
+      "company": "Công ty",
+      "about": "Về chúng tôi",
+      "advertise": "Quảng cáo",
+      "contact": "Liên hệ",
+      "terms": "Điều khoản",
+      "charts": "Biểu đồ và thống kê",
+      "api": "APIs",
+      "kb": "Kiến thức cơ bản ",
+      "fundamentals": "Nền tảng ",
+      "buySell": "Mua bán & trao đổi"
+    }
+  },
+  "sponsored": "Tài trợ bởi",
+  "pagination": {
+    "first": "Đầu tiên",
+    "last": "Cuối cùng"
+  },
+  "validation": {
+    "required": "{{field}} được yêu cầu",
+    "invalid": "Vui lòng cung cấp {{field}} hợp lệ"
+  },
+  "chart": {
+    "source": "Nguồn: nearblocks.io"
+  },
+  "trademark": "NearBlocks được vận hành đầy đủ và riêng lẻ. Near Blocks không được liên kết với NEAR Foundation và mọi nhãn hiệu được cấp phép hiển thị trên trang web này đều thuộc về chủ sở hữu tương ứng của họ.",
+  "tags": {
+    "service": "Dịch vụ",
+    "pool": "Pool",
+    "personal": "Cá nhân",
+    "shop": "Shop",
+    "donation": "Quyên góp",
+    "centralisedExchange": "Sàn tập trung (CEX)",
+    "decentralisedExchange": "Sàn phi tập trung (DEX)"
+  },
+  "outofSync": "Blockchain Explorer này đang không đồng bộ. Một vài khối hoặc giao dịch có thể bị trì hoãn."
+}

@@ -10,7 +10,7 @@
       "topAccounts": "Akun Teratas",
       "tokens": "Token",
       "toptoken": "Token Teratas ERC20",
-      "viewTokenTrasfers": "Lihat Transfer ERC20"
+      "viewTokenTrasfers": "Lihat Transfer Token"
     }
   },
   "search": {
@@ -62,7 +62,7 @@
   "chart": {
     "source": "Sumber: nearblocks.io"
   },
-  "trademark": "NearBlocks dioperasikan penuh dan sendiri. Near Blocks tidak terkait dengan The NEAR Foundation dan setiap merek dagang berlisensi yang ditampilkan di situs web ini milik pemiliknya masing-masing.",
+  "trademark": "NearBlocks dioperasikan penuh dan sendiri. NearBlocks tidak terkait dengan NEAR Foundation dan setiap merek dagang berlisensi yang ditampilkan di situs web ini milik pemiliknya masing-masing.",
   "tags": {
     "service": "Service",
     "pool": "Pool",

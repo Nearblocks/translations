@@ -1,0 +1,43 @@
+{
+  "metaTitle": "Reclamar Cuenta | Near Blocks",
+  "metaDescription": "Reclama tu nombre, etiqueta y otra información.",
+  "heading": "Reclama Cuenta Ⓝ",
+  "form": {
+    "heading": "Reclama tu nombre, etiqueta y otra información",
+    "content": "Reclama tu Etiqueta de Nombre y agrega otra información relacionada a tu dirección Ⓝ llenando el formulario de abajo. Para cada solicitud de edición, te pediremos un depósito de {{amount}} Ⓝ para acreditar la titularidad de la dirección.",
+    "address": {
+      "label": "Dirección Ⓝ"
+    },
+    "label": {
+      "label": "Nombres"
+    },
+    "tag": {
+      "label": "Etiqueta"
+    },
+    "website": {
+      "label": "Sitio Web"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (o Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Depósita {{amount}} Ⓝ a la siguiente dirección para probar tu titularidad:",
+      "tooltip": "La dirección que envía debe ser idéntica con la dirección a la que deseas agregar información."
+    },
+    "button": "Enviar",
+    "successMessage": "Gracias, revisaremos tu solicitud y la listaremos una vez sea aprobada",
+    "errorMessage": "Algo salió mal!"
+  }
+}

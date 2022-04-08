@@ -1,0 +1,10 @@
+{
+  "metaTitle": "404 - Página no encontrada | Near Blocks",
+  "metaDescription": "No encontramos lo que estabas buscando, lo sentimos. Por favor intenta nuevamente.",
+  "description": "<0>Lo sentimos!</0> Encontramos un error inesperado.",
+  "addressDescription": "<0>Lo sentimos!</0> Dirección no encontrada.",
+  "blockDescription": "<0>Lo sentimos!</0> Bloque no encontrado.",
+  "txnDescription": "<0>Lo sentimos!</0> Transacción no encontrada.",
+  "back": "Volver a Inicio",
+  "tokenDescription": "<0>Lo sentimos!</0> Token no encontrado."
+}

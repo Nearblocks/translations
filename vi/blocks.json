@@ -1,0 +1,40 @@
+{
+  "metaTitle": "Tất cả những khối gần nhất | Near Blocks",
+  "metaDescription": "Tất cả các khối được bao gồm trong NEAR blockchain. Các mốc thời gian, tác giả, phí gas được sử dụng, giá phí gas và các giao dịch bao gồm được hiển thị.",
+  "heading": "Các khối",
+  "listing": "Khối #{{from}} tới #{{to}} (Trong tất cả {{count}} khối)",
+  "blocks": "Khối",
+  "type": "Loại",
+  "typeBlock": "Khối",
+  "typeTxBlock": "Mã giao dịch khối",
+  "age": "Thời gian",
+  "txn": "Txn",
+  "miner": "Tác giả",
+  "weight": "Khối lượng",
+  "volume": "Số lượng giao dịch",
+  "blockError": "Lỗi khối",
+  "block": {
+    "metaTitle": "Near Block {{block}} | Near Blocks",
+    "metaDescription": "Chiều cao khối NEAR {{block}}. Mốc thời gian, gas được sử dụng, giá gas, tác giả, số lượng giao dịch và biên nhận trong khối được nêu chi tiết trên Near.",
+    "heading": "Khối <0>#{{block}}</0>",
+    "height": "Chiều cao Khối",
+    "hash": "Hash",
+    "timestamp": "Mốc thời gian",
+    "transactions": [
+      "Giao dịch",
+      "<0>{{txns}} Giao dịch</0> và {{receipts}} biên nhận"
+    ],
+    "fees": "Phí",
+    "price": "Giá Ⓝ",
+    "proof": "Bằng chứng",
+    "gasUsed": "GAS đã sử dụng",
+    "gasPrice": "Giá GAS",
+    "parenthash": "Hash nguyên",
+    "author": "Tác giả",
+    "receipt": "Biên nhận",
+    "gasLimit": "Giới hạn Gas",
+    "gasFee": "Phí Gas"
+  },
+  "testnetNotice": "[ Đây là khối Testnet! ]",
+  "noBlocks": "Không có khối"
+}

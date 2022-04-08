@@ -1,0 +1,43 @@
+{
+  "metaTitle": "Nhận Tài khoản | Near Blocks",
+  "metaDescription": "Nhận tên, thẻ và các thông tin khác.",
+  "heading": "Nhận tài khoản Ⓝ",
+  "form": {
+    "heading": "Nhận tên, thẻ và các thông tin khác.",
+    "content": "Nhận tên thẻ và bổ sung các thông tin khác liên quan đến ví Ⓝ của bạn bằng cách điền mẫu sau. Với mỗi yêu cầu chỉnh sửa, người dùng cần nạp một lượng {{amount}} Ⓝ để xác minh chính chủ. ",
+    "address": {
+      "label": "Ví Ⓝ"
+    },
+    "label": {
+      "label": "Tên"
+    },
+    "tag": {
+      "label": "Tag"
+    },
+    "website": {
+      "label": "Website"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (Hoặc Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Nạp {{amount}} Ⓝ vào địa chỉ sau để chứng minh quyền sở hữu:",
+      "tooltip": "Địa chỉ ví gửi và địa chỉ ví bạn muốn thêm phải trùng khớp."
+    },
+    "button": "Nhập",
+    "successMessage": "Cảm ơn, yêu cầu của bạn sẽ được xử lý và cập nhật sau khi được phê duyệt",
+    "errorMessage": "Đã xảy ra lỗi!"
+  }
+}

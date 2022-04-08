@@ -1,9 +1,9 @@
 {
-  "metaTitle": "Semua Transaksi Dekat | Blok Dekat",
-  "metaDescription": "Semua Transaksi Dekat dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
+  "metaTitle": "Semua Transaksi NEAR | NearBlocks",
+  "metaDescription": "Semua Transaksi NEAR dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
   "heading": "Transaksi",
   "listing": "Lebih dari > {{count}} transaksi ditemukan",
-  "listingToken": "Lebih dari > {{count}} Transfer token ditemukan",
+  "listingToken": "Lebih dari > {{count}} transaksi token ditemukan",
   "hash": "Txn Hash",
   "type": "Metode",
   "typeTxn": "Transaksi",
@@ -23,7 +23,7 @@
   "blockHeight": "Blokir tinggi",
   "from": "Dari",
   "to": "Ke",
-  "txnIn": "DI",
+  "txnIn": "MASUK",
   "txnOut": "KELUAR",
   "amount": "Jumlah",
   "filter": {
@@ -35,7 +35,7 @@
     "to": "Ke:"
   },
   "txn": {
-    "metaTitle": "Near (N) Transaction {{txn}} | Blok Dekat",
+    "metaTitle": "Near (N) Transaction {{txn}} | NearBlocks",
     "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {{txn}}.",
     "heading": "Detail Transaksi",
     "hash": {
@@ -119,15 +119,15 @@
     "token": "Tanda",
     "burnt": {
       "text": [
-        "Burnt Gas & Tokens by Txn"
+        "Gas & Token yang Terbakar oleh Txn"
       ],
-      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+      "tooltip": "Jumlah total Gas & Token yang dibakar dari transaksi ini."
     },
     "actions": {
       "text": [
         "Actions"
       ],
-      "tooltip": "The actions performed during this transaction.",
+      "tooltip": "Tindakan yang dilakukan selama transaksi ini.",
       "addKey": [
         "New key",
         "Access key",
@@ -176,37 +176,37 @@
         "text": [
           "Receipt"
         ],
-        "tooltip": "Unique identifier (hash) of this receipt."
+        "tooltip": "Pengidentifikasi unik (hash) dari tanda terima ini."
       },
       "block":{
         "text": [
           "Block"
         ],
-        "tooltip": "The hash of the block in which the receipt was executed."
+        "tooltip": "Hash dari blok tempat tanda terima dieksekusi."
       },
       "from":{
         "text": [
           "From"
         ],
-        "tooltip": "The account which issued a receipt."
+        "tooltip": "Akun yang mengeluarkan tanda terima."
       },
       "to":{
         "text": [
           "To"
         ],
-        "tooltip": "The destination account of the receipt."
+        "tooltip": "Akun tujuan tanda terima."
       },
       "burnt": {
         "text": [
-          "Burnt Gas & Tokens by Receipt"
+          "Gas & Token yang Terbakar berdasarkan Tanda Terima"
         ],
-        "tooltip": "Total amount of Gas & Token burnt from this receipt."
+        "tooltip": "Jumlah total Gas & Token yang terbakar dari struk ini."
       },
       "actions":{
         "text": [
           "Actions"
         ],
-        "tooltip": "The actions performed during receipt processing."
+        "tooltip": "Tindakan yang dilakukan selama pemrosesan tanda terima."
       },
       "result":{
         "text": [
@@ -214,14 +214,14 @@
           "No Result",
           "Empty Result"
         ],
-        "tooltip": "The result of the receipt execution."
+        "tooltip": "Hasil eksekusi resi."
       },
       "logs":{
         "text": [
           "Logs",
           "No Logs"
         ],
-        "tooltip": "Logs included in the receipt."
+        "tooltip": "Log termasuk dalam tanda terima."
       }
     }
   },

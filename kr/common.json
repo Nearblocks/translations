@@ -10,7 +10,7 @@
       "topAccounts": "상위 계정",
       "tokens": "토큰",
       "toptoken": "ERC20 상위 토큰",
-      "viewTokenTrasfers": "ERC20 전송 보기"
+      "viewTokenTrasfers": "토큰 전송 보기"
     }
   },
   "search": {

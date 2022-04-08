@@ -1,0 +1,40 @@
+{
+  "metaTitle": "Todos los Últimos Bloques de Near | Near Blocks",
+  "metaDescription": "Todos los Bloques de Near (Ⓝ que están incluidos en la cadena de bloques Near. La marca de tiempo, autor, gas usado, precio de gas y transacciones incluidas son mostradas.",
+  "heading": "Bloques",
+  "listing": "Bloque #{{from}} a #{{to}} (Total de {{count}} bloques)",
+  "blocks": "Bloques",
+  "type": "Tipo",
+  "typeBlock": "Bloque",
+  "typeTxBlock": "Bloque TX",
+  "age": "Edad",
+  "txn": "Txn",
+  "miner": "Autor",
+  "weight": "Peso",
+  "volume": "Volumen de Transacción",
+  "blockError": "Error de Bloque",
+  "block": {
+    "metaTitle": "Bloque Near {{block}} | Near Blocks",
+    "metaDescription": "Altura del Bloque Near {{block}}. La marca de tiempo, gas de bloque usado, precio de gas, autor, número de transacciones y recibos en el bloque son detallados en el protocolo Near.",
+    "heading": "Bloque <0>#{{block}}</0>",
+    "height": "Altura del Bloque",
+    "hash": "Hash",
+    "timestamp": "Marca de tiempo",
+    "transactions": [
+      "Transacciones",
+      "<0>{{txns}} transacciones</0> y {{receipts}} recibos"
+    ],
+    "fees": "Tarifas",
+    "price": "Precio Ⓝ",
+    "proof": "Prueba",
+    "gasUsed": "GAS Usado",
+    "gasPrice": "Precio de GAS",
+    "parenthash": "Hash pariente",
+    "author": "Autor",
+    "receipt": "Recibo",
+    "gasLimit": "Límite de Gas",
+    "gasFee": "Tarifa de Gas"
+  },
+  "testnetNotice": "[ Este solamente es un bloque de Testnet ]",
+  "noBlocks": "No hay bloques"
+}
