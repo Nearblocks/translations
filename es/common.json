@@ -1,0 +1,76 @@
+{
+  "header": {
+    "menu": {
+      "home": "Inicio",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Ver Bloques",
+      "viewTxns": "Ver Txns",
+      "languages": "Lenguajes",
+      "charts": "Gráficas y Estadísticas",
+      "topAccounts": "Cuentas Top",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens ERC20",
+      "viewTokenTrasfers": "Ver Transferencias ERC20"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Todos los Filtros",
+      "txns": "Txns",
+      "blocks": "Bloques",
+      "token": "Tokens",
+      "addresses": "Direcciones"
+    },
+    "placeholder": "Buscar por ID de Cuenta / Hash de Txn / Bloque",
+    "list": {
+      "address": "Cuentas",
+      "txns": "Txns",
+      "blocks": "Bloque",
+      "tokens": "Tokens"
+    },
+    "noResults": "Sin resultados"
+  },
+  "footer": {
+    "description": "Near Blocks es una plataforma de Exploración de Bloques y Analitica para la blockchain NEAR, una plataforma descentralizada de contratos inteligentes.",
+    "poweredBy": "Energizado por",
+    "links": {
+      "explore": "Explora",
+      "blockExplorer": "Explorador de Bloques",
+      "latestBlocks": "Últimos Bloques",
+      "latestTxns": "Últimas Transacciones",
+      "company": "Compañía",
+      "about": "Acerca de",
+      "advertise": "Anuncia",
+      "contact": "Contacto",
+      "terms": "Términos",
+      "charts": "Gráficas & Estadísticas",
+      "api": "APIs",
+      "kb": "Base de Conocimiento",
+      "fundamentals": "Fundamentos",
+      "buySell": "Compra, Vende & Comercia"
+    }
+  },
+  "sponsored": "Patrocinado",
+  "pagination": {
+    "first": "Primera",
+    "last": "Última"
+  },
+  "validation": {
+    "required": "Se requiere {{field}}",
+    "invalid": "Por favor provea una {{field}} válida"
+  },
+  "chart": {
+    "source": "Fuente: nearblocks.io"
+  },
+  "trademark": "NearBlocks funciona completo y por sí solo. Near Blocks no está asociado con The NEAR Foundation y todas las marcas comerciales con licencia que se muestran en este sitio web pertenecen a sus respectivos propietarios.",
+  "tags": {
+    "service": "Servicio",
+    "pool": "Piscina",
+    "personal": "Personal",
+    "shop": "Tienda",
+    "donation": "Donación",
+    "centralisedExchange": "Intercambio Centralizado",
+    "decentralisedExchange": "Intercambio Descentralizado"
+  },
+  "outofSync": "Este explorador de blockchain no está sincronizado. Algunos bloques o transacciones pueden retrasarse."
+}
