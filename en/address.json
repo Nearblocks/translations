@@ -26,5 +26,6 @@
   "lastUpdated": "Last updated",
   "hash": "Transaction hash",
   "locked": "Locked",
-  "codeHash": "Code hash"
+  "codeHash": "Code hash",
+  "tokenTxns": "Token Txns"
 }

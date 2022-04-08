@@ -26,5 +26,6 @@
   "lastUpdated": "Actualizado por última vez",
   "hash": "Hash de Transacción",
   "locked": "Bloqueado",
-  "codeHash": "Hash de Código"
+  "codeHash": "Hash de Código",
+  "tokenTxns": "Transacciones de tokens"
 }

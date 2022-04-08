@@ -26,5 +26,7 @@
   "lastUpdated": "Terakhir diperbarui",
   "hash": "Hash transaksi",
   "locked": "Terkunci",
-  "codeHash": "Hash kode"
+  "codeHash": "Hash kode",
+  "tokenTxns": "Transaksi Token"
+
 }

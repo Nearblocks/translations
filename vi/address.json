@@ -26,5 +26,6 @@
   "lastUpdated": "Cập nhật lần cuối",
   "hash": "Băm của Giao dịch",
   "locked": "Khóa",
-  "codeHash": "Mã Băm"
+  "codeHash": "Mã Băm",
+  "tokenTxns": "Giao dịch token"
 }
