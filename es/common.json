@@ -9,8 +9,10 @@
       "charts": "Gráficas y Estadísticas",
       "topAccounts": "Cuentas Top",
       "tokens": "Tokens",
-      "toptoken": "Top Tokens ERC20",
-      "viewTokenTrasfers": "Ver transferencias de tokens"
+      "toptoken": "Top Fungible Tokens (FT)",
+      "viewTokenTrasfers": "View FT Transfers",
+      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "viewNftTrasfers": "View NFT Transfers"
     }
   },
   "search": {

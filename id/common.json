@@ -9,8 +9,10 @@
       "charts": "Bagan & Statistik",
       "topAccounts": "Akun Teratas",
       "tokens": "Token",
-      "toptoken": "Token Teratas ERC20",
-      "viewTokenTrasfers": "Lihat Transfer Token"
+      "toptoken": "Top Fungible Tokens (FT)",
+      "viewTokenTrasfers": "View FT Transfers",
+      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "viewNftTrasfers": "View NFT Transfers"
     }
   },
   "search": {
