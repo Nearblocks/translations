@@ -9,8 +9,10 @@
       "charts": "图表和统计",
       "topAccounts": "热门账户",
       "tokens": "令 牌",
-      "toptoken": "ERC20 热门代币",
-      "viewTokenTrasfers": "查看代币转账"
+      "toptoken": "Top Fungible Tokens (FT)",
+      "viewTokenTrasfers": "View FT Transfers",
+      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "viewNftTrasfers": "View NFT Transfers"
     }
   },
   "search": {

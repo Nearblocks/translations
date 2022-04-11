@@ -9,8 +9,10 @@
       "charts": "Чарты и статистика",
       "topAccounts": "Топ Аккаунты",
       "tokens": "Маркеры",
-      "toptoken": "Лучшие токены ERC20",
-      "viewTokenTrasfers": "Просмотр переводов токенов"
+      "toptoken": "Top Fungible Tokens (FT)",
+      "viewTokenTrasfers": "View FT Transfers",
+      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "viewNftTrasfers": "View NFT Transfers"
     }
   },
   "search": {

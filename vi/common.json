@@ -9,8 +9,10 @@
       "charts": "Biểu đồ và thống kê",
       "topAccounts": "Tài khoản nổi bật",
       "tokens": "Tokens",
-      "toptoken": "ERC20 Tokens nổi bật",
-      "viewTokenTrasfers": "Xem chuyển khoản token"
+      "toptoken": "Top Fungible Tokens (FT)",
+      "viewTokenTrasfers": "View FT Transfers",
+      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "viewNftTrasfers": "View NFT Transfers"
     }
   },
   "search": {
