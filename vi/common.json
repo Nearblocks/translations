@@ -9,9 +9,9 @@
       "charts": "Biểu đồ và thống kê",
       "topAccounts": "Tài khoản nổi bật",
       "tokens": "Tokens",
-      "toptoken": "Top Fungible Tokens (FT)",
-      "viewTokenTrasfers": "View FT Transfers",
-      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers",
+      "topnft": "Top NFT Tokens",
       "viewNftTrasfers": "View NFT Transfers"
     }
   },

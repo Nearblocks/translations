@@ -9,9 +9,9 @@
       "charts": "차트 및 통계",
       "topAccounts": "상위 계정",
       "tokens": "토큰",
-      "toptoken": "Top Fungible Tokens (FT)",
-      "viewTokenTrasfers": "View FT Transfers",
-      "topnft": "Top Non-Fungible Tokens (NFT)",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "View Token Transfers",
+      "topnft": "Top NFT Tokens",
       "viewNftTrasfers": "View NFT Transfers"
     }
   },
