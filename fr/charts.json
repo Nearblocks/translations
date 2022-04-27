@@ -25,7 +25,7 @@
     "metaTitle": "Graphique de la capitalisation boursière du Near | Near Blocks ",
     "metaDescription": "Le graphique de la capitalisation boursière du Near montre la répartition historique de la capitalisation boursière et du prix quotidiens du Near. Toutes les données sont en temps réel, précises et extraites directement de la blockchain Near.",
     "heading": "Graphique de la capitalisation boursière du Near",
-    "description": "Le graphique de la capitalisation boursière du Near montre la répartition historique de la capitalisation boursière et du prix quotidiens du Near."
+    "description": "Le graphique de la capitalisation boursière du Near montre la répartition historique de la capitalisation boursière et du prix quotidiens du Near.",
     "yLabel": "Capitalisation boursière du Near(USD)"
   },
   "nearSupply": {
