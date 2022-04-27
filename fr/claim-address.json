@@ -4,7 +4,7 @@
   "heading": "Demande Ⓝ Compte",
   "form": {
     "heading": "Demande votre nom, tag et autres informations.",
-    "content": "Demande votre nom, tag et ajouter d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous vous demanderons un acompte de {{amount}} Ⓝ pour prouver la propriété de votre adresse."
+    "content": "Demande votre nom, tag et ajouter d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous vous demanderons un acompte de {{amount}} Ⓝ pour prouver la propriété de votre adresse.",
     "address": {
       "label": "Ⓝ Adresse"
     },
