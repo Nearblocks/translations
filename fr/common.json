@@ -28,7 +28,8 @@
       "blocks": "Blocs",
       "tokens": "Jetons"
     },
-    "noResults": "Aucun résultat",
+    "noResults": "Aucun résultat"
+  },
   "footer": {
     "description": "NearBlocks est un explorateur de blockchain et une plate-forme d'analyse pour Near Protocol, une nouvelle chaîne de blocs et une plate-forme de transaction intelligente.",
     "poweredBy": "Propulsé par",
