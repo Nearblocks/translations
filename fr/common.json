@@ -1,0 +1,75 @@
+{
+  "header": {
+    "menu": {
+      "home": "Accueil",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Afficher les blocs",
+      "viewTxns": "Afficher Txns",
+      "languages": "Langues",
+      "charts": "Graphiques et Stats",
+      "topAccounts": "Principaux comptes",
+      "tokens": "Jetons",
+      "toptoken": "ERC20 Principaux comptes",
+      "viewTokenTrasfers": "Voir les transferts ERC20"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Tous les filtres",
+      "txns": "Txns",
+      "blocks": "Blocs",
+      "token": "Jetons",
+      "addresses": "Adresses"
+    },
+    "placeholder": "Rechercher par compte ID / Txn Hashage / Bloc",
+    "list": {
+      "address": "Compte",
+      "txns": "Txns",
+      "blocks": "Blocs",
+      "tokens": "Jetons"
+    },
+    "noResults": "Aucun résultat"
+  "footer": {
+    "description": "NearBlocks est un explorateur de blockchain et une plate-forme d'analyse pour Near Protocol, une nouvelle chaîne de blocs et une plate-forme de transaction intelligente.",
+    "poweredBy": "Propulsé par",
+    "links": {
+      "explore": "Explorer",
+      "blockExplorer": "Explorer de bloc",
+      "latestBlocks": "Derniers blocs",
+      "latestTxns": "Derniers Transactions",
+      "company": "Société",
+      "about": "à propos",
+      "advertise": "annoncer",
+      "contact": "Contacter",
+      "terms": "Termes",
+      "charts": "Graphiques et Stats",
+      "api": "APIs",
+      "kb": "Base de connaissances",
+      "fundamentals": "Fondamentales",
+      "buySell": "Acheter, vendre et échanger"
+    }
+  },
+  "sponsored": "Sponsorisé",
+  "pagination": {
+    "first": "Premier",
+    "last": "Dernier"
+  },
+  "validation": {
+    "required": "{{field}} est requis",
+    "invalid": "Veuillez fournir un {{field}}"
+  },
+  "chart": {
+    "source": "Source: nearblocks.io"
+  },
+  "trademark": "NearBlocks est exploité de manière complète et autonome. Near Blocks n'est pas associé à la NEAR Foundation et toutes les marques déposées sous licence affichées sur ce site Web appartiennent à leurs propriétaires respectifs.",
+  "tags": {
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personnel",
+    "shop": "Boutique",
+    "donation": "Donation",
+    "centralisedExchange": "Échange centralisé",
+    "decentralisedExchange": "Échange décentralisé"
+  },
+  "outofSync": "Cet explorateur de blockchain est désynchronisé. Certains blocs ou transactions peuvent être retardés."
+}

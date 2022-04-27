@@ -1,0 +1,78 @@
+{
+  "header": {
+    "menu": {
+      "home": "หน้าโฮม",
+      "blockchain": "บล็อกเชน",
+      "viewBlocks": "ดูบล็อก",
+      "viewTxns": "ดูธุรกรรม",
+      "languages": "ภาษา",
+      "charts": "กราฟ และสถิติ",
+      "topAccounts": "บัญชีอันดับสูงสุด",
+      "tokens": "โทเคน",
+      "toptoken": "โทเคนอันดับสูงสุด",
+      "viewTokenTrasfers": "ดูการโอนย้ายโทเคน",
+      "topnft": "โทเคน NFT",
+      "viewNftTrasfers": "ดูการโอนย้าย NFT"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "ตัวกรองทั้งหมด",
+      "txns": "ธุรกรรม",
+      "blocks": "บล็อก",
+      "token": "โทเคน",
+      "addresses": "แอดเดรส"
+    },
+    "placeholder": "ค้นหาจากเลขบัญชี / แฮชธุรกรรม / บล็อก",
+    "list": {
+      "address": "บัญชี",
+      "txns": "ธุรกรรม",
+      "blocks": "บล็อก",
+      "tokens": "โทเคน"
+    },
+    "noResults": "ไม่พบผลลัพธ์"
+  },
+  "footer": {
+    "description": "NearBlocks คือแพลตฟอร์มให้บริการ Block Explorer และ Analytics บนบล็อกเชน Near (Ⓝ) ซึ่งเป็นแพลตฟอร์ม Smart Contract แห่งใหม่ของวงการคริปโต",
+    "poweredBy": "Powered by",
+    "links": {
+      "explore": "สำรวจ",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "บล็อกล่าสุด",
+      "latestTxns": "ธุรกรรมล่าสุด",
+      "company": "บริษัท",
+      "about": "เกี่ยวกับ",
+      "advertise": "โฆษณา",
+      "contact": "ติดต่อ",
+      "terms": "ข้อกำหนด",
+      "charts": "กราฟ และสถิติ",
+      "api": "API",
+      "kb": "คลังความรู้",
+      "fundamentals": "พื้นฐาน",
+      "buySell": "ซื้อ ขาย และเทรด"
+    }
+  },
+  "sponsored": "สนับสนุนโดย",
+  "pagination": {
+    "first": "หน้าแรก",
+    "last": "หน้าสุดท้าย"
+  },
+  "validation": {
+    "required": "กรุณาป้อน {{field}}",
+    "invalid": "โปรดป้อน {{field}} ที่ถูกต้อง"
+  },
+  "chart": {
+    "source": "แหล่งที่่มา: nearblocks.io"
+  },
+  "trademark": "NearBlocks ดำเนินการด้วยตัวเอง และเป็นเอกเทศ โดยที่ NearBlocks ไม่มีความเกี่ยวข้องใดๆกับ NEAR Foundation และทุกเครื่องหมายการค้่าที่ถูกใช้ในเว็บไซต์นี้เป็นลิขสิทธิ์ของเจ้าของนั้นๆ",
+  "tags": {
+    "service": "บริการ",
+    "pool": "Pool",
+    "personal": "ส่วนตัว",
+    "shop": "หน้าร้าน",
+    "donation": "บริจาค",
+    "centralisedExchange": "Exchange ไม่กระจายศูนย์",
+    "decentralisedExchange": "Exchange กระจายศูนย์"
+  },
+  "outofSync": "Blockchain Explorer ไม่สามารถ Sync ข้อมูลได้ อาจมีความล้าช้าในการสร้างบล็อก และธุรกรรม"
+}

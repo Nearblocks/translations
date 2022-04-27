@@ -1,0 +1,43 @@
+﻿{
+  "metaTitle": "Kunin ang Account | Nearblocks",
+  "metaDescription": "Kunin ang iyong name, tag at ibang impormasyon.",
+  "heading": "Claim Ⓝ Account",
+  "form": {
+    "heading": "Kunin ang iyong name, tag at ibang impormasyon",
+    "content": "Kunin ang iyong Name Tag at ibang impormasyon na may kaugnayan sa Ⓝ address sa pamamagitan ng pag sagot sa form sa ibaba.
+    "address": {
+      "label": "Ⓝ Address"
+    },
+    "label": {
+      "label": "Name"
+    },
+    "tag": {
+      "label": "Tag"
+    },
+    "website": {
+      "label": "Website"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (Or Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Deposito {{presyo}} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.
+      "tooltip": "Ang address na gamit sa pagpapadala ay dapat magkapareho sa address na gusto mong ma dagdagan ng impormasyon."
+    },
+    "button": "Submit",
+    "successMessage": "Salamat, Aming titignan ang iyong impormasyon at listahan pagkatapos ma aprobahan.",
+    "errorMessage": "Parang may mali!"
+  }
+}

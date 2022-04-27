@@ -1,0 +1,43 @@
+{
+  "metaTitle": "Demande de compte| Near Blocks",
+  "metaDescription": "Demande votre nom, tag et autres informations.",
+  "heading": "Demande Ⓝ Compte",
+  "form": {
+    "heading": "Demande votre nom, tag et autres informations.",
+    "content": "Demande votre nom, tag et ajouter d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous vous demanderons un acompte de {{amount}} Ⓝ pour prouver la propriété de votre adresse."
+    "address": {
+      "label": "Ⓝ Adresse"
+    },
+    "label": {
+      "label": "Nom"
+    },
+    "tag": {
+      "label": "Tag"
+    },
+    "website": {
+      "label": "Site web"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (Or Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Déposez {{amount}} Ⓝ à l'adresse suivante pour prouver votre propriété :",
+      "tooltip": "L'adresse d'envoi doit être identique à l'adresse à laquelle vous souhaitez ajouter des informations."
+    },
+    "button": "Soumettre",
+    "successMessage": "Merci, nous examinerons votre candidature et la répertorierons une fois qu'elle aura été approuvée",
+    "errorMessage": "Quelque chose s'est mal passé!"
+  }
+}

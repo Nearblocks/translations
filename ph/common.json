@@ -1,0 +1,78 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "blockchain": "Blockchain",
+      "viewBlocks": "View Blocks",
+      "viewTxns": "View Txns",
+      "languages": "Languages",
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Tignan ang Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "Tignan ang NFT Transfers"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
+    },
+    "placeholder": "Search by Account ID / Txn Hash / Block",
+    "list": {
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
+    },
+    "noResults": "Walang resulta"
+  },
+  "footer": {
+    "description": "Nearblocks ay isang Blockchain Explorer at Analytics Platform para sa Near Protocol, ang bagong blockchain at smart transaction platform.",
+    "poweredBy": "Powered by",
+    "links": {
+      "explore": "Explore",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
+      "company": "Company",
+      "about": "About",
+      "advertise": "Advertise",
+      "contact": "Contact",
+      "terms": "Terms",
+      "charts": "Charts & Stats",
+      "api": "APIs",
+      "kb": "Knowledge Base",
+      "fundamentals": "Fundamentals",
+      "buySell": "Buy, Sell & Trade"
+    }
+  },
+  "sponsored": "Sponsored",
+  "pagination": {
+    "first": "First",
+    "last": "Last"
+  },
+  "validation": {
+    "required": "{{field}} kinakailangan",
+    "invalid": "Maaring magbigay ng wasto {{field}}"
+  },
+  "chart": {
+    "source": "Source: nearblocks.io"
+  },
+  "trademark": "Nearblocks ay pinapatakbo ng buo at mag-isa. Nearblocks ay hindi nauugnay sa The NEAR Foundation at bawat lisensyadong trademark na ipinapakita sa website na ito ay pagmamay-ari ng kani-kanilang may-ari.",
+  "tags": {
+    "service": "Service",
+    "pool": "Pool",
+    "personal": "Personal",
+    "shop": "Shop",
+    "donation": "Donation",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
+  },
+  "outofSync": "Itong blockchain explorer ay Nawala sa sync. Ibang blocks o transaksyon ma-aaring mag tagal."
+}

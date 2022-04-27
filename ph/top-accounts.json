@@ -1,0 +1,13 @@
+﻿{
+  "metaTitle": "Nangunguna 10,000 Near Accounts | Nearblocks",
+  "metaDescription": "Hanapin ang nangungunang 10,000 Malapit na account ayon sa balanse.",
+  "heading": "Nangungnang mga Accounts by Ⓝ Balance",
+  "listing": "Kabuuan ng > {{count}} may mga nakitang account ({{sum}} Ⓝ).",
+  "info": "Ipakita lamang ang mga nangungunang 10,000 accounts",
+  "rank": "Rango",
+  "address": "Address",
+  "balance": "Balanse",
+  "percentage": "Porsyento",
+  "value": "Value",
+  "txns": "Txns Count"
+}
