@@ -1,0 +1,39 @@
+﻿{
+  "metaTitle": "Lahat ng Near Latest Blocks | Nearblocks",
+  "metaDescription": " Lahat ng NEAR(Ⓝ Blocks na kasama sa Near blockchain. Ang timestamp, may-akda, gas na ginamit, presyo ng gas at mga kasamang transaksyon ay ipinapakita.",
+  "heading": "Blocks",
+  "listing": "Block #{{mula sa}} sa #{{sa}} (Kalahatan ng {{bilang}} blocks)",
+  "blocks": "Block",
+  "type": "Type",
+  "typeBlock": "Block",
+  "typeTxBlock": "TX Block",
+  "age": "Edad",
+  "txn": "Txn",
+  "miner": "May-akda",
+  "weight": "Timbang",
+  "volume": "Dami ng Transaksyon",
+  "blockError": "Block Error",
+  "block": {
+    "metaTitle": "Nearblock {{block}} | Nearblocks",
+    "metaDescription": "Nearblock Height {{block}}. Ang timestamp, block gas na ginamit, presyo ng gas, may-akda, bilang ng mga transaksyon at mga resibo sa block ay nakadetalye sa Near.",    "heading": "Block <0>#{{block}}</0>",
+    "height": "Block Height",
+    "hash": "Hash",
+    "timestamp": "Timestamp",
+    "transactions": [
+      "Transactions",
+      "<0>{{txns}} mga transaction</0> at {{resibo}} resibo"
+    ],
+    "fees": "Bayarin",
+    "price": "Ⓝ Price",
+    "proof": "Patunay",
+    "gasUsed": "GAS na Ginamit",
+    "gasPrice": " Presyo ng Gas",
+    "parenthash": "Parent hash",
+    "author": "May-akda",
+    "receipt": "Resibo",
+    "gasLimit": "Limitasyon ng gas",
+    "gasFee": "Gas Fee"
+  },
+  "testnetNotice": "[ Ito ay isang Testnet block lamang ]",
+  "noBlocks": "No blocks"
+}

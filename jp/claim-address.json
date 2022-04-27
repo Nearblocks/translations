@@ -1,0 +1,43 @@
+{
+  "metaTitle": "アカウント登録 | NearBlocks",
+  "metaDescription": "名前、タグなどの情報を登録する。",
+  "heading": "Ⓝアカウントを登録する",
+  "form": {
+    "heading": "名前、タグなどの情報を登録する。",
+    "content": "ネームタグを登録し、あなたのⓃアドレスに関連するその他の情報を以下のフォームに記入して追加してください。編集依頼のたびに、{{amount}}をお願いしています。Ⓝ 住所の所有権を証明するためのデポジットです。",
+    "address": {
+      "label": "Ⓝアドレス"
+    },
+    "label": {
+      "label": "名前"
+    },
+    "tag": {
+      "label": "タグ"
+    },
+    "website": {
+      "label": "Webサイト"
+    },
+    "twitter": {
+      "label": "ツイッター"
+    },
+    "blog": {
+      "label": "ブログ(Or Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "所有権を証明するために、{{amount}} Ⓝを以下のアドレスに入金してください。",
+      "tooltip": "送信アドレスは、情報を追加したいアドレスと同一である必要があります。"
+    },
+    "button": "提出",
+    "successMessage": "ありがとうございました。承認された後、アプリケーションを確認し、リストアップいたします。",
+    "errorMessage": "エラーが発生しました!"
+  }
+}

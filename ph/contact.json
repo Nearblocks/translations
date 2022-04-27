@@ -1,0 +1,52 @@
+{
+  "metaTitle": "Kontakin Kami | Nearblocks",
+  "metaDescription": "Kontakin ang Nearblocks na grupo para sa anumang katanungan  na may kaugnayan sa aming website and tools. Pakiusap intindihin na ang aming maaring matulongan ay may issue direkta na may kaugnay sa block explorer services.",
+  "heading": "Kontakin ang Nearblocks",
+  "info": {
+    "heading": "Mag-iwan ng mensahe, ngunit mangyaring magkaroon ng kamalayan na:",
+    "points": [
+      {
+        "heading": "Nakabin-bing Transaksyon",
+        "content": "Hindi kami nag proproseso ng transaksyon at samakatuwid ay hindi namin mapabilis, kaselahin or palitan. Kung nagkaroon ka ng isyu san aka bin-bing transaksyon, Maaring sumanguni dito."
+      },
+      {
+        "heading": "Near Block Explorer",
+        "content": "Ang Nearblocks ay isang indepedenteng block explorer na walang kaugnayan sa iba pang mga service provider (maliban kung tahasang nakasaad kung hindi man) at sama-katuwid ay hindi makapagbigay ng tumpak na tugon para sa mga katanungan na partikular sa ibang mga taga-pagbigay ng serbisyo."
+      },
+      {
+        "heading": "Wallet / Exchange / Project related issues",
+        "content": "Mangyaring makipag-ugnayan sa iyong wallet service provider, palitan o proyekto/may-ari ng kontrata para sa karagdagang suporta dahil nasa mas magandang posisyon sila para tulungan ka sa mga isyung nauugnay at mula sa kanilang platform."
+      }
+    ]
+  },
+  "form": {
+    "heading": "Contact Form:",
+    "name": {
+      "label": "Name",
+      "placeholder": "Name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Email"
+    },
+    "subject": {
+      "label": "Subject",
+      "placeholder": "Subject",
+      "options": [
+        "General enquiry",
+        "Support / Technical",
+        "Partnership",
+        "API / Development",
+        "Name tagging / Label address",
+        "Advertise"
+      ]
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Message"
+    },
+    "button": "Send Message",
+    "successMessage": "Salamat, Babalik kami kaagad",
+    "errorMessage": "May problema!"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "metaTitle": "404 - Page non trouvée | Near Blocks",
+  "metaDescription": "Nous n'avons pas trouvé ce que vous cherchiez, désolé. Veuillez réessayer.",
+  "description": "<0>Désolé!</0> Nous avons rencontré une erreur inattendue.",
+  "addressDescription": "<0>Désolé!</0> Adresse introuvable.",
+  "blockDescription": "<0>Désolé!</0> Bloc introuvable.",
+  "txnDescription": "<0>Désolé!</0> Transaction introuvable.",
+  "back": "Retourner à l'accueil",
+  "tokenDescription": "<0>Désolé!</0> Jeton introuvable.."
+}

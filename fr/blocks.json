@@ -1,0 +1,40 @@
+{
+  "metaTitle": "Tous les derniers blocs Near | Near Blocks",
+  "metaDescription": "Tous les Near (Ⓝ Blocs inclus dans Near blockchain. L'horodatage, l'auteur, le gas utilisé, le prix du gas et les transactions incluses sont affichés.",
+  "heading": "Blocs",
+  "listing": "Bloc #{{from}} au #{{to}} ( Total de{{count}} blocs)",
+  "blocks": "Bloc",
+  "type": "Type",
+  "typeBlock": "Bloc",
+  "typeTxBlock": "TX Bloc",
+  "age": "Age",
+  "txn": "Txn",
+  "miner": "Auteur",
+  "weight": "poids",
+  "volume": "Volume de transactions",
+  "blockError": "Erreur de bloc",
+  "block": {
+    "metaTitle": "Bloc de Near {{block}} | Near Blocks",
+    "metaDescription": "Hauteur du bloc Near {{block}}. l'horodatage, le bloc de gas utilisé, le prix du gas, l'auteur, le nombre de transactions et de reçus dans le bloc sont détaillés sur Near.",
+    "heading": "Bloc <0>#{{block}}</0>",
+    "height": "Hauteur de bloc",
+    "hash": "Hashage",
+    "timestamp": "Horodatage",
+    "transactions": [
+      "Transactions",
+      "<0>{{txns}} transactions</0> et {{receipts}} Reçus"
+    ],
+    "fees": "Frais",
+    "price": "Ⓝ Prix",
+    "proof": "Preuve",
+    "gasUsed": "GAS Utilisé",
+    "gasPrice": "GAS Prix",
+    "parenthash": "Hachage parent",
+    "author": "Auteur",
+    "receipt": "Reçu",
+    "gasLimit": "Gas limite",
+    "gasFee": "Gas Frais"
+  },
+  "testnetNotice": "[ Ceci est un bloc Testnet uniquement ]",
+  "noBlocks": "Pas de blocs"
+}

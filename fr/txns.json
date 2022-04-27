@@ -1,0 +1,234 @@
+{
+  "metaTitle": "Toutes les dernières transactions en Near | Near Blocks",
+  "metaDescription": "Toutes les transactions Near confirmées sur Near Blockchain. La liste se compose des transactions de l'envoi de Near et des détails des transactions pour chaque transaction.",
+  "heading": "Transactions",
+  "listing": "Plus que > {{count}} opérations trouvées",
+  "listingToken": "Plus que > {{count}} Transferts de jetons trouvés",
+  "hash": "Txn Hashage",
+  "type": "Méthode",
+  "typeTxn": "Transaction",
+  "typeToken": "Jeton transaction",
+  "unknownType": "Inconnue",
+  "batchTxns": "Transaction par lots",
+  "createAccount": "Créer un compte",
+  "deployContract": "Déployer le contrat",
+  "transfer": "Transférer",
+  "stake": "Stake",
+  "addKey": "Ajouter une clé",
+  "deleteKey": "Supprimer la clé",
+  "deleteAccount": "Supprimer le compte",
+  "txnError": "Erreur de transaction",
+  "age": "Age",
+  "ageDT": "Date Heure (UTC)",
+  "blockHeight": "Hauteur de bloc",
+  "from": "De",
+  "to": "À",
+  "txnIn": "DANS",
+  "txnOut": "DEHORS",
+  "amount": "Montant",
+  "filter": {
+    "placeholder": "Rechercher par adresse e.g. Ⓝ..",
+    "filter": "Filtre",
+    "clear": "claire",
+    "by": "Filtré par:",
+    "from": "De:",
+    "to": "À:"
+  },
+  "txn": {
+    "metaTitle": "Near Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near Blockchain informations détaillées pour la transaction {{txn}}.",
+    "heading": "Détails de la transaction",
+    "hash": {
+      "text": [
+        "Txn Hashage"
+      ],
+      "tooltip": "Identifiant unique (hachage) de cette transaction."
+    },
+    "status": {
+      "text": [
+        "Status"
+      ],
+      "status": {
+        "NotStarted": "Pas commencé",
+        "Started": "Commencé",
+        "Failure": "Raté",
+        "SuccessValue": "Réussi"
+      },
+      "tooltip": "Le statut de la transaction."
+    },
+    "block": {
+      "text": [
+        "Hauteur de bloc"
+      ],
+      "tooltip": "Le numéro du bloc dans lequel la transaction a été enregistrée."
+    },
+    "timestamp": {
+      "text": [
+        "Horodatage"
+      ],
+      "tooltip": "Horodatage de la soumission de cette transaction."
+    },
+    "deposit": {
+      "text": [
+        "Valeur du dépôt"
+      ],
+      "tooltip": "Somme de tous les jetons NEAR transférés du compte signataire vers le compte récepteur. Cela inclut les jetons envoyés dans une ou plusieurs actions de transfert et en tant que dépôts sur une ou des actions d'appel de fonction."
+    },
+    "fee": {
+      "text": [
+        "Frais de transaction"
+      ],
+      "tooltip": "Frais totaux payés dans NEAR pour exécuter cette transaction."
+    },
+    "price": {
+      "text": [
+        "Ⓝ Prix"
+      ],
+      "tooltip": "Cours de clôture de Ⓝ à la date de la transaction"
+    },
+    "from": {
+      "text": [
+        "De"
+      ],
+      "tooltip": "Compte qui a signé et envoyé la transaction"
+    },
+    "to": {
+      "text": [
+        "À"
+      ],
+      "tooltip": "Compte recevant la transaction."
+    },
+    "type": {
+      "text": [
+        "Type",
+        "Transaction"
+      ],
+      "tooltip": "Type de transaction."
+    },
+    "gas": {
+      "text": [
+        "Limite de gas et utilisation par Txn"
+      ],
+      "tooltip": "Quantité maximale de gaz allouée pour la transaction et quantité éventuellement utilisée."
+    },
+    "parentCoin": "Pièce mère",
+    "childCoins": "Pièces enfant",
+    "siblingCoins": "Pièces de frère",
+    "unknownToken": "Inconnue",
+    "claimToken": "demende joten",
+    "token": "Jeton",
+    "burnt": {
+      "text": [
+        "Gas brûlés et jetons par Txn"
+      ],
+      "tooltip": "Montant total de gas et de jetons brûlés lors de cette transaction."
+    },
+    "actions": {
+      "text": [
+        "Actions"
+      ],
+      "tooltip": "Les actions effectuées lors de cette transaction.",
+      "addKey": [
+        "Nouvelle clé",
+        "Clé d'accès",
+        "ajouté pour",
+        "contrat",
+        "avec la permission",
+        "appeler",
+        "méthodes"
+      ],
+      "createAccount": [
+        "Nouveau compte",
+        "créé"
+      ],
+      "deleteAccount": [
+        "Supprimer le compte",
+        "et transférer les fonds restants à"
+      ],
+      "deleteKey": [
+        "Clé",
+        "supprimé"
+      ],
+      "deployContract": [
+        "Contrat",
+        "déployé"
+      ],
+      "functionCall": [
+        "Méthode appelée",
+        "en contrat"
+      ],
+      "stake": [
+        "Staked",
+        "avec"
+      ],
+      "transfer": [
+        "Transféré",
+        "À"
+      ]
+    },
+    "tabs": {
+      "overview": "Aperçu",
+      "execution": "Plan d'exécution",
+      "comments": "commentaires"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "Reçu"
+        ],
+        "tooltip": "Identifiant unique (hachage) de ce reçu."
+      },
+      "block":{
+        "text": [
+          "Bloc"
+        ],
+        "tooltip": "The hash of the block in which the receipt was executed."
+      },
+      "from":{
+        "text": [
+          "De"
+        ],
+        "tooltip": "The account which issued a receipt."
+      },
+      "to":{
+        "text": [
+          "À"
+        ],
+        "tooltip": "Le compte de destination du reçu."
+      },
+      "burnt": {
+        "text": [
+          "Gas brûlés et jetons par reçu"
+        ],
+        "tooltip": "Quantité totale de gas et de jetons brûlés sur ce reçu."
+      },
+      "actions":{
+        "text": [
+          "Actions"
+        ],
+        "tooltip": "Les actions effectuées lors du traitement des reçus."
+      },
+      "result":{
+        "text": [
+          "Résultat",
+          "Pas de résultat",
+          "Résultat vide"
+        ],
+        "tooltip": "Le résultat de l'exécution de la réception."
+      },
+      "logs":{
+        "text": [
+          "Journaux",
+          "Pas de Journaux"
+        ],
+        "tooltip": "Journaux inclus dans le reçu."
+      }
+    }
+  },
+  "info": "Affichage des derniers {{count}} enregistrements uniquement",
+  "depositValue": "Valeur du dépôt",
+  "txnFee": "Txn frai",
+  "txnSelf": "Soi",
+  "noTxns": "Pas de transactions",
+  "testnetNotice": "[ Il s'agit d'une transaction Testnet uniquement]"
+}

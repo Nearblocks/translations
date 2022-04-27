@@ -1,0 +1,234 @@
+{
+  "metaTitle": "直近の取引| NearBlocks",
+  "metaDescription": "NEAR上で処理された取引一覧. 一覧にはNEARから送金された取引と個々の取引の詳細情報を含む",
+  "heading": "取引",
+  "listing": "以上 > {{count}} 取引が見つかりました",
+  "listingToken": "以上 > {{count}} トークンの移動が見つかりました",
+  "hash": "取引のハッシュ値",
+  "type": "タイプ",
+  "typeTxn": "取引",
+  "typeToken": "トークンタイプ",
+  "unknownType": "不明",
+  "batchTxns": "バッチ取引",
+  "createAccount": "アカウント作成",
+  "deployContract": "コントラクトを実行する",
+  "transfer": "移動",
+  "stake": "ステークする",
+  "addKey": "キーを追加する",
+  "deleteKey": "キーを削除する",
+  "deleteAccount": "アカウントを削除する",
+  "txnError": "取引エラー",
+  "age": "時期",
+  "ageDT": "時刻 (UTC)",
+  "blockHeight": "ブロック高",
+  "from": "から",
+  "to": "へ",
+  "txnIn": "In",
+  "txnOut": "OUT",
+  "amount": "数量",
+  "filter": {
+    "placeholder": "アドレスで探す e.g. Ⓝ..",
+    "filter": "フィルター",
+    "clear": "クリア",
+    "by": "で抽出する:",
+    "from": "から:",
+    "to": "へ:"
+  },
+  "txn": {
+    "metaTitle": "NEARでの取引 {{txn}} | NearBlocks",
+    "metaDescription": "NEARの取引詳細情報{{txn}}.",
+    "heading": "取引詳細",
+    "hash": {
+      "text": [
+        "取引のハッシュ値"
+      ],
+      "tooltip": "この取引固有の識別子（ハッシュ）"
+    },
+    "status": {
+      "text": [
+        "状態"
+      ],
+      "status": {
+        "NotStarted": "未実行",
+        "Started": "実行",
+        "Failure": "失敗",
+        "SuccessValue": "成功した価値"
+      },
+      "tooltip": "取引状況"
+    },
+    "block": {
+      "text": [
+        "ブロック高"
+      ],
+      "tooltip": "取引が記録されたブロック番号"
+    },
+    "timestamp": {
+      "text": [
+        "タイムスタンプ"
+      ],
+      "tooltip": "取引実行日時のタイムスタンプ"
+    },
+    "deposit": {
+      "text": [
+        "預金価値"
+      ],
+      "tooltip": "送金者から送金されたNEARトークンの総量. 送金アクションで送信されたトークンやファンクションコールアクションで預け入れられたトークンを含む."
+    },
+    "fee": {
+      "text": [
+        "取引手数料"
+      ],
+      "tooltip": "この取引をNEARで実行するための手数料総額"
+    },
+    "price": {
+      "text": [
+        "Ⓝ 価格"
+      ],
+      "tooltip": "取引日でのⓃの終値価格 "
+    },
+    "from": {
+      "text": [
+        "から"
+      ],
+      "tooltip": "署名を行い、送金したアカウント"
+    },
+    "to": {
+      "text": [
+        "へ"
+      ],
+      "tooltip": "受領したアカウント"
+    },
+    "type": {
+      "text": [
+        "タイプ",
+        "取引"
+      ],
+      "tooltip": "取引タイプ"
+    },
+    "gas": {
+      "text": [
+        "取引ごとのGas代の上限と使用用途"
+      ],
+      "tooltip": "取引に割り当てられたGAS代の最大値と実際に使用されたGAS代"
+    },
+    "parentCoin": "親コイン",
+    "childCoins": "子コイン",
+    "siblingCoins": "兄弟コイン",
+    "unknownToken": "不明",
+    "claimToken": "トークンを請求する",
+    "token": "トークン",
+    "burnt": {
+      "text": [
+        "消費されたGAS & 取引ごとのトークン"
+      ],
+      "tooltip": "この取引で消費されたGASとトークンの総量"
+    },
+    "actions": {
+      "text": [
+        "アクション"
+      ],
+      "tooltip": "この取引中に実行されたアクション",
+      "addKey": [
+        "新しいキー",
+        "アクセスキー",
+        "追加する",
+        "契約",
+        "許可付き",
+        "呼び出す",
+        "方法"
+      ],
+      "createAccount": [
+        "新しいアカウント",
+        "作成されました"
+      ],
+      "deleteAccount": [
+        "アカウントを削除する",
+        "残りの資金を送金する"
+      ],
+      "deleteKey": [
+        "キー",
+        "削除されました"
+      ],
+      "deployContract": [
+        "コントラクト",
+        "実行されました"
+      ],
+      "functionCall": [
+        "呼び出し方法",
+        "コントラクト上"
+      ],
+      "stake": [
+        "提供された",
+        "共に"
+      ],
+      "transfer": [
+        "送金された",
+        "へ"
+      ]
+    },
+    "tabs": {
+      "overview": "概観",
+      "execution": "実行",
+      "comments": "コメント"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "着金"
+        ],
+        "tooltip": "この着金固有の識別子（ハッシュ）"
+      },
+      "block":{
+        "text": [
+          "ブロック"
+        ],
+        "tooltip": "この着金が実行されたブロックのハッシュ値"
+      },
+      "from":{
+        "text": [
+          "から"
+        ],
+        "tooltip": "受領したアカウント"
+      },
+      "to":{
+        "text": [
+          "へ"
+        ],
+        "tooltip": "送り先のアカウント"
+      },
+      "burnt": {
+        "text": [
+          "受領ごとに消費したGASとトークン"
+        ],
+        "tooltip": "この受領によって消費したGAS代とトークンの総量"
+      },
+      "actions":{
+        "text": [
+          "アクション"
+        ],
+        "tooltip": "この受領が処理される間に実行されたアクション"
+      },
+      "result":{
+        "text": [
+          "結果",
+          "結果なし",
+          "空欄"
+        ],
+        "tooltip": "受領の結果"
+      },
+      "logs":{
+        "text": [
+          "ログ",
+          "ログなし"
+        ],
+        "tooltip": "受領に含まれるログ"
+      }
+    }
+  },
+  "info": "最新の記録のみ {{count}} を表示する",
+  "depositValue": "預金価値",
+  "txnFee": "取引手数料",
+  "txnSelf": "自分自身",
+  "noTxns": "取引なし",
+  "testnetNotice": "[ これはテストネット取引のみ]"
+}

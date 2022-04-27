@@ -1,0 +1,234 @@
+{
+  "metaTitle": "ธุรกรรมบน Near ล่าสุด | Near Blocks",
+  "metaDescription": "ธุรกรรมบน Near ทั้งหมดที่ถูกยืนยันบนบล็อกเชน Near โดยจะแสดงธุรกรรมทั้งหมดที่มีการแลกเปลี่ยน Near และรายละเอียดเพิ่มเติมของธุรกรรรมนั้นๆ",
+  "heading": "ธุรกรรม",
+  "listing": "พบธุรกรรมเป็นจำนวนกว่า {{count}} ธุรกรรม",
+  "listingToken": "พบการแลกเปลี่ยนโทเคนเป็นจำนวนกว่า {{count}} ครั้ง",
+  "hash": "แฮชธุรกรรม",
+  "type": "Method",
+  "typeTxn": "ธุรกรรม",
+  "typeToken": "ธุรกรรมโทเคน",
+  "unknownType": "ไม่พบ",
+  "batchTxns": "ประมวลธุรกรรท",
+  "createAccount": "สร้างบัญชี",
+  "deployContract": "ใช้งาน Contract",
+  "transfer": "โอน",
+  "stake": "Stake",
+  "addKey": "เพิ่มคีย์",
+  "deleteKey": "ลบคีย์",
+  "deleteAccount": "ลบบัญชี",
+  "txnError": "ธุรกรรมล้มเหลว",
+  "age": "อายุ",
+  "ageDT": "วันที่ เวลา (UTC)",
+  "blockHeight": "ลำดับบล็อก",
+  "from": "จาก",
+  "to": "ไปยัง",
+  "txnIn": "เข้า",
+  "txnOut": "ออก",
+  "amount": "จำนวน",
+  "filter": {
+    "placeholder": "ค้นหาจากแอดเดรส เช่น Ⓝ..",
+    "filter": "ตัวกรอง",
+    "clear": "ล้่าง",
+    "by": "กรองโดย:",
+    "from": "จาก:",
+    "to": "ไปยัง:"
+  },
+  "txn": {
+    "metaTitle": "ธุรกรรม Near {{txn}} | Near Blocks",
+    "metaDescription": "รายละเอียดเพิ่มเติมของธุรกรรมบนบล็อกเชน Near {{txn}}.",
+    "heading": "รายละเอียดธุรกรรม",
+    "hash": {
+      "text": [
+        "แฮชธุรกรรม"
+      ],
+      "tooltip": "ค่าแฮชของธุรกรรมนี้"
+    },
+    "status": {
+      "text": [
+        "สถานะ"
+      ],
+      "status": {
+        "NotStarted": "ยังไม่เริ่ม",
+        "Started": "เริ่มแล้ว",
+        "Failure": "ล้มเหลว",
+        "SuccessValue": "สำเร็จ"
+      },
+      "tooltip": "สถานะธุรกรรรม"
+    },
+    "block": {
+      "text": [
+        "ลำดับบล็อก"
+      ],
+      "tooltip": "เลขลำดับบล็อกที่ธุรกรรมนี้ได้ทำการบันทึกไว้"
+    },
+    "timestamp": {
+      "text": [
+        "ไทม์สแตมป์"
+      ],
+      "tooltip": "เวลาที่บล็อกนี้ได้ทำการบันทึกไว้"
+    },
+    "deposit": {
+      "text": [
+        "มูลค่าเงินฝาก"
+      ],
+      "tooltip": "มูลค่าโทเคน Near ทั้งหมดที่จะทำการส่งไปยังบัญชีผู้รับ รวมไปถึงโทเคนที่ใช้ในการโอนย้าย และในการเรียกใช้ Function"
+    },
+    "fee": {
+      "text": [
+        "ค่าธรรมเนียมธุรกรรม"
+      ],
+      "tooltip": "จำนวน NEAR ที่ใช้ในการสร้างธุรกรรม"
+    },
+    "price": {
+      "text": [
+        "Ⓝ ราคา"
+      ],
+      "tooltip": "ราคา Ⓝ ที่เกิดจากการสร้างธุรกรรมสุดท้ายในแต่ละวัน"
+    },
+    "from": {
+      "text": [
+        "จาก"
+      ],
+      "tooltip": "บัญชีที่เป็นผู้โอนในการทำธุรกรรม"
+    },
+    "to": {
+      "text": [
+        "ไปยัง"
+      ],
+      "tooltip": "บัญชีที่เป็นผู้รับในการทำธุรกรรม"
+    },
+    "type": {
+      "text": [
+        "ประเภท",
+        "ธุรกรรม"
+      ],
+      "tooltip": "ชนิดของธุรกรรท"
+    },
+    "gas": {
+      "text": [
+        "แก๊สลิมิต และแก๊สที่ใช้"
+      ],
+      "tooltip": "เพดานค่าแก๊สสูงสุด และแก๊สที่ใช้จริงในการทำธุรกรรม"
+    },
+    "parentCoin": "Parent คอยน์",
+    "childCoins": "Child คอยน์",
+    "siblingCoins": "Sibling คอยน์",
+    "unknownToken": "ไม่พบ",
+    "claimToken": "เคลม",
+    "token": "โทเคน",
+    "burnt": {
+      "text": [
+        "แก๊ส และโทเคนที่ถูก Burn"
+      ],
+      "tooltip": "จำนวนแก๊ส และโทเคนทั้งหมดที่ถูก Burn ในการทำธุรกรรมนี้"
+    },
+    "actions": {
+      "text": [
+        "Action"
+      ],
+      "tooltip": "Action ที่ใช้ในการทำธุรกรรมนี้",
+      "addKey": [
+        "คีย์ใหม่",
+        "Access คีย์",
+        "เพิ่ม",
+        "Contract",
+        "อนุญาต",
+        "เรียกใช้",
+        "Method"
+      ],
+      "createAccount": [
+        "บัญชีใหม่",
+        "ถูกสร้างขึ้น"
+      ],
+      "deleteAccount": [
+        "ลบบัญชี",
+        "และโอนโทเค็นคงเหลือไปยัง"
+      ],
+      "deleteKey": [
+        "คีย์",
+        "ถูกลบ"
+      ],
+      "deployContract": [
+        "Contract",
+        "ถูกใช้งาน"
+      ],
+      "functionCall": [
+        "เรียกใช้ Method",
+        "ใน Contract"
+      ],
+      "stake": [
+        "Stake",
+        "ด้วย"
+      ],
+      "transfer": [
+        "โอนย้าย",
+        "ไปยัง"
+      ]
+    },
+    "tabs": {
+      "overview": "ภาพรวม",
+      "execution": "Execution Plan",
+      "comments": "ความคิดเห็น"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "Receipt"
+        ],
+        "tooltip": "แฮช Receipt"
+      },
+      "block":{
+        "text": [
+          "บล็อก"
+        ],
+        "tooltip": "แฮชของบล็อกที่สร้างขึ้น"
+      },
+      "from":{
+        "text": [
+          "จาก"
+        ],
+        "tooltip": "บัญชีที่สร้างตาม Receipt"
+      },
+      "to":{
+        "text": [
+          "ไปยัง"
+        ],
+        "tooltip": "บัญชีปลายทางตาม Receipt"
+      },
+      "burnt": {
+        "text": [
+          "แก๊ส และโทเคนที่ถูก Burn ตาม Receipt"
+        ],
+        "tooltip": "แก๊ส และโทเคนทั้งหมดที่ถูก Burn ตาม Receipt"
+      },
+      "actions":{
+        "text": [
+          "Action"
+        ],
+        "tooltip": "Action ที่ถูกเรียกใช้ตาม Receipt "
+      },
+      "result":{
+        "text": [
+          "ผลลัพธ์",
+          "ไม่มีผลลัพทธ์",
+          "ผลลัพธ์ว่างเปล่า"
+        ],
+        "tooltip": "ผลลัพธ์จากการดำเนินการตาม Receipt"
+      },
+      "logs":{
+        "text": [
+          "Log",
+          "ไม่พบ Log"
+        ],
+        "tooltip": "Log ตาม Receipt"
+      }
+    }
+  },
+  "info": "แสดงจำนวน {{count}} บันทึกสุดท้ายเท่านั้น",
+  "depositValue": "มูลค่าเงินฝาก",
+  "txnFee": "ค่าธรรมเนียมธุรกรรม",
+  "txnSelf": "Self",
+  "noTxns": "ไม่พบธุรกรรม",
+  "testnetNotice": "[ นี่เป็นเพียงธุรกรรมบน Testnet เท่านั้น ]"
+}
