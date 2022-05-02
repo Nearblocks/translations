@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - 页面未找到 |近街区",
+  "metaTitle": "404 - 页面未找到 | Near Blocks",
   "metaDescription": "很抱歉，我们没有找到您要找的内容。请重试。",
   "description": "<0></0>我们遇到了一个意外的错误。",
-  "addressDescription": "<0></0>未找到地址。",
-  "blockDescription": "<0></0>未找到阻止。",
-  "txnDescription": "<0></0>未找到事务。",
-  "back": "回家",
-  "tokenDescription": "<0></0>未找到令牌。"
+  "addressDescription": "<0></0>未找到该地址。",
+  "blockDescription": "<0></0>未找到该区块。",
+  "txnDescription": "<0></0>未找到该交易记录。",
+  "back": "返回",
+  "tokenDescription": "<0></0>未找到对应代币。"
 }
