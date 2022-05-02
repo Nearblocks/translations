@@ -1,52 +1,52 @@
 {
   "header": {
     "menu": {
-      "home": "家",
+      "home": "首页",
       "blockchain": "区块链",
       "viewBlocks": "查看块",
       "viewTxns": "查看 Txns",
       "languages": "语言",
       "charts": "图表和统计",
       "topAccounts": "热门账户",
-      "tokens": "令 牌",
+      "tokens": "代币",
       "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers",
+      "viewTokenTrasfers": "查看 Token 交易",
       "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "View NFT Transfers"
+      "viewNftTrasfers": "查看 NFT 交易"
     }
   },
   "search": {
     "filters": {
-      "all": "所有过滤器",
-      "txns": "Txns",
-      "blocks": "Blocks",
-      "token": "令 牌",
+      "all": "全部筛选",
+      "txns": "交易Hash",
+      "blocks": "区块高度",
+      "token": "代币",
       "addresses": "地址"
     },
-    "placeholder": "按账户ID / Txn哈希/区块搜索",
+    "placeholder": "按账户地址/交易Hash/区块高度",
     "list": {
-      "address": "帐户",
-      "txns": "Txns",
-      "blocks": "块",
-      "tokens": "令 牌"
+      "address": "帐户地址",
+      "txns": "交易Hash",
+      "blocks": "区块高度",
+      "tokens": "代币"
     },
-    "noResults": "No results"
+    "noResults": "抱歉，未找到对应结果"
   },
   "footer": {
-    "description": "NearBlocks是一个用于Near Protocol的区块链资源管理器和分析平台，这是一个新的区块链和智能交易平台。",
-    "poweredBy": "提供者",
+    "description": "Near Blocks是一个Near区块链浏览器和数据分析平台，Near是一个新的区块链和智能交易平台。",
+    "poweredBy": "poweredBy",
     "links": {
-      "explore": "探讨",
+      "explore": "探索",
       "blockExplorer": "区块浏览器",
-      "latestBlocks": "最新块",
+      "latestBlocks": "最新区块",
       "latestTxns": "最新交易",
       "company": "公司",
-      "about": "大约",
-      "advertise": "做广告",
-      "contact": "联系",
+      "about": "关于我们",
+      "advertise": "商务合作",
+      "contact": "联系我们",
       "terms": "条款",
       "charts": "图表和统计",
-      "api": "蜜蜂属",
+      "api": "API",
       "kb": "知识库",
       "fundamentals": "基础",
       "buySell": "购买，出售和交易"
@@ -54,17 +54,17 @@
   },
   "sponsored": "赞助",
   "pagination": {
-    "first": "第一",
-    "last": "最后"
+    "first": "首页",
+    "last": "尾页"
   },
   "validation": {
-    "required": "{{field}} is required",
-    "invalid": "Please provide a valid {{field}}"
+    "required": "{{field}} 字段必填",
+    "invalid": "请提供一个有效的字段：{{field}}"
   },
   "chart": {
     "source": "资料来源：nearblocks.io"
   },
-  "trademark": "NearBlocks是完全和独立运营的。Near Blocks与NEAR基金会无关，本网站上显示的每个许可商标均属于其各自的所有者。",
+  "trademark": "NearBlocks是完全独立运营的。Near Blocks与NEAR基金会无关，本网站上显示的每个许可商标均属于其各自的所有者。",
   "tags": {
     "service": "Service",
     "pool": "Pool",
@@ -74,5 +74,5 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "这个区块链浏览器不同步。一些区块或交易可能会延迟。"
+  "outofSync": "区块链浏览器未完全同步，一些区块或交易可能会延迟显示。"
 }

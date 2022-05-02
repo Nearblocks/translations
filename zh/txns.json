@@ -1,13 +1,13 @@
 {
-  "metaTitle": "所有在 附近的最新交易|近街区",
+  "metaTitle": "Near所有的最新交易| Near Blocks",
   "metaDescription": "所有近 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
   "heading": "交易",
   "listing": "找到超过 > 个 {{count}} 事务",
   "listingToken": "超过 > {{count}} 找到令牌转移",
-  "hash": "Txn 哈希",
-  "type": "方法",
+  "hash": "交易哈希",
+  "type": "类型",
   "typeTxn": "交易",
-  "typeToken": "代币交易",
+  "typeToken": "交易代币",
   "unknownType": "未知",
   "batchTxns": "批量交易",
   "createAccount": "创建账户",
@@ -18,35 +18,35 @@
   "deleteKey": "删除密钥",
   "deleteAccount": "删除账户",
   "txnError": "交易错误",
-  "age": "年龄",
+  "age": "块龄",
   "ageDT": "日期时间 （UTC）",
   "blockHeight": "块高度",
-  "from": "从",
-  "to": "自",
-  "txnIn": "在",
-  "txnOut": "外",
-  "amount": "量",
+  "from": "发送方",
+  "to": "接收方",
+  "txnIn": "进",
+  "txnOut": "出",
+  "amount": "数量",
   "filter": {
-    "placeholder": "按地址搜索，例如 。",
-    "filter": "滤波器",
-    "clear": "清楚",
+    "placeholder": "按地址搜索，例如Ⓝ..",
+    "filter": "过滤器",
+    "clear": "清除",
     "by": "过滤条件：",
     "from": "从：",
     "to": "自："
   },
   "txn": {
-    "metaTitle": "Near Transaction {{txn}} |近街区",
-    "metaDescription": "近 区块链交易{{txn}}的详细信息。",
+    "metaTitle": "Near Transaction {{txn}} | Near Blocks",
+    "metaDescription": "Near 区块链交易{{txn}}的详细信息。",
     "heading": "交易详情",
     "hash": {
       "text": [
-        "Txn 哈希"
+        "交易Hash"
       ],
       "tooltip": "此事务的唯一标识符（哈希）。"
     },
     "status": {
       "text": [
-        "地位"
+        "状态"
       ],
       "status": {
         "NotStarted": "Not started",
@@ -58,7 +58,7 @@
     },
     "block": {
       "text": [
-        "块高度"
+        "区块高度"
       ],
       "tooltip": "记录交易的区块的编号。"
     },
@@ -88,13 +88,13 @@
     },
     "from": {
       "text": [
-        "从"
+        "发送方"
       ],
       "tooltip": "签署并发送交易的帐户"
     },
     "to": {
       "text": [
-        "自"
+        "接收方"
       ],
       "tooltip": "接收交易的帐户。"
     },
@@ -107,15 +107,15 @@
     },
     "gas": {
       "text": [
-        "Txn的气体限制和使用情况"
+        "Txn的Gas限制和使用情况"
       ],
-      "tooltip": "为交易分配的最大天然气量和最终使用的量。"
+      "tooltip": "为交易分配的最大Gas量和最终使用的量。"
     },
-    "parentCoin": "母币",
-    "childCoins": "儿童硬币",
-    "siblingCoins": "兄弟姐妹硬币",
+    "parentCoin": "parentCoin",
+    "childCoins": "childCoins",
+    "siblingCoins": "siblingCoins",
     "unknownToken": "未知",
-    "claimToken": "声明令牌",
+    "claimToken": "claimToken",
     "token": "令 牌",
     "burnt": {
       "text": [
@@ -174,37 +174,37 @@
     "receipts": {
       "receipt":{
         "text": [
-          "Receipt"
+          "交易收据"
         ],
         "tooltip": "Unique identifier (hash) of this receipt."
       },
       "block":{
         "text": [
-          "Block"
+          "区块"
         ],
         "tooltip": "The hash of the block in which the receipt was executed."
       },
       "from":{
         "text": [
-          "From"
+          "发送方"
         ],
         "tooltip": "The account which issued a receipt."
       },
       "to":{
         "text": [
-          "To"
+          "接收方"
         ],
         "tooltip": "The destination account of the receipt."
       },
       "burnt": {
         "text": [
-          "Burnt Gas & Tokens by Receipt"
+          "消耗的Gas和代币"
         ],
         "tooltip": "Total amount of Gas & Token burnt from this receipt."
       },
       "actions":{
         "text": [
-          "Actions"
+          "动作"
         ],
         "tooltip": "The actions performed during receipt processing."
       },
