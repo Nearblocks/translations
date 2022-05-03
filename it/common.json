@@ -1,0 +1,78 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Vedi Blocchi",
+      "viewTxns": "Vedi Txns",
+      "languages": "Lingue",
+      "charts": "Grafici e Statistiche",
+      "topAccounts": "Migliori Account",
+      "tokens": "Token",
+      "toptoken": "Migliori Token",
+      "viewTokenTrasfers": "Vedi Trasferimenti di Token",
+      "topnft": "Migliori Token NFT",
+      "viewNftTrasfers": "Vedi Trasferimenti di NFT"
+    }
+  },
+  "search": {
+    "filters": {
+      "all": "Tutti i Filtri",
+      "txns": "Txns",
+      "blocks": "Blocchi",
+      "token": "Token",
+      "addresses": "Indirizzi"
+    },
+    "placeholder": "Cerca per ID Account / Txn Hash / Blocco",
+    "list": {
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocchi",
+      "tokens": "Token"
+    },
+    "noResults": "Nessun risultato"
+  },
+  "footer": {
+    "description": "NearBlocks è un Blockchain Explorer e piattaforma di Analitica per Near Protocol, una nuova piattaforma di blockchain e transazioni intelligenti.",
+    "poweredBy": "Powered by",
+    "links": {
+      "explore": "Esplora",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Ultimi Blocchi",
+      "latestTxns": "Ultime Transazioni",
+      "company": "Azienda",
+      "about": "Riguardo a",
+      "advertise": "Pubblicità",
+      "contact": "Contatta",
+      "terms": "Termini",
+      "charts": "Grafici e Statistiche",
+      "api": "API",
+      "kb": "Base di conoscenza",
+      "fundamentals": "Principi fondamentali",
+      "buySell": "Compra, Vendi e Scambia"
+    }
+  },
+  "sponsored": "Sponsorizzato",
+  "pagination": {
+    "first": "Primo",
+    "last": "Ultimo"
+  },
+  "validation": {
+    "required": "{{field}} è richiesto",
+    "invalid": "Per favore fornisci un {{field}} valido"
+  },
+  "chart": {
+    "source": "Fonti: nearblocks.io"
+  },
+  "trademark": "NearBlocks è gestito interamente da se stesso. Near Blocks non è associato alla The NEAR Foundation e ogni marchio registrato visibile su questo sito appartiene ai rispettivi proprietari.",
+  "tags": {
+    "service": "Servizio",
+    "pool": "Pool",
+    "personal": "Personale",
+    "shop": "Negozio",
+    "donation": "Donazioni",
+    "centralisedExchange": "Scambio Centralizzato",
+    "decentralisedExchange": "Scambio Decentralizzato"
+  },
+  "outofSync": "Questo blockchain explorer non è sincronizzato. Alcuni blocchi o transazioni potrebbero essere in ritardo."
+}

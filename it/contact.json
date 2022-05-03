@@ -1,0 +1,52 @@
+{
+  "metaTitle": "Contattaci | Near Blocks",
+  "metaDescription": "Contatta il Team di Near Blocks con qualunque richiesta riguardo il nostro sito web e i nostri strumenti. Vi preghiamo di comprendere che possiamo fornirvi assistenza soltanto con problemi relativi ai servizi del block explorer.",
+  "heading": "Contatta Near Blocks",
+  "info": {
+    "heading": "Lasciaci un messaggio, ma vi preghiamo di tenere in conto che:",
+    "points": [
+      {
+        "heading": "Transazione in sospeso",
+        "content": "Non elaboriamo le transazioni, pertanto non possiamo velocizzarle, annullarle o sostituirle. Se state avendo problemi con transazioni in sospeso, recatevi qui."
+      },
+      {
+        "heading": "Near Block Explorer",
+        "content": "Near Blocks è un block explorer indipendente da altri provider di servizi (salvo diversa specificazione) , pertanto non è in grado di fornire risposte precise a richieste riguardanti altri provider."
+      },
+      {
+        "heading": "Wallet / Scambio / Problemi relativi a progetti",
+        "content": "Rivolgetevi gentilmente al vostro wallet provider, proprietario di scambi o progetti/contratti per ulteriore supporto; sono più adatti ad aiutarvi con problemi riguardanti le loro piattaforme."
+      }
+    ]
+  },
+  "form": {
+    "heading": "Modulo contatto:",
+    "name": {
+      "label": "Nome",
+      "placeholder": "Nome"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Email"
+    },
+    "subject": {
+      "label": "Oggetto",
+      "placeholder": "Oggetto",
+      "options": [
+        "Richiesta generale",
+        "Supporto tecnico",
+        "Collaborazione",
+        "API / Sviluppo",
+        "Tagging nomi / Etichette indirizzo",
+        "Pubblicità"
+      ]
+    },
+    "message": {
+      "label": "Messaggio",
+      "placeholder": "Messaggio"
+    },
+    "button": "Send Message",
+    "successMessage": "Grazie, ti ricontatteremo al più presto.",
+    "errorMessage": "Qualcosa è andato storto!"
+  }
+}

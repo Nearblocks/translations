@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - 页面未找到 | Near Blocks",
-  "metaDescription": "很抱歉，我们没有找到您要找的内容。请重试。",
-  "description": "<0></0>我们遇到了一个意外的错误。",
-  "addressDescription": "<0></0>未找到该地址。",
-  "blockDescription": "<0></0>未找到该区块。",
-  "txnDescription": "<0></0>未找到该交易记录。",
-  "back": "返回",
-  "tokenDescription": "<0></0>未找到对应代币。"
+  "metaTitle": "404 - 找不到頁面 | Near Blocks",
+  "metaDescription": "抱歉，我們找不到你搜尋的內容，請重試一次。",
+  "description": "<0>抱歉!</0> 遇到不知名問題。",
+  "addressDescription": "<0>抱歉!</0> 找不到該地址。",
+  "blockDescription": "<0>抱歉!</0> 找不到該區塊。",
+  "txnDescription": "<0>抱歉!</0> 找不到該交易記錄。",
+  "back": "回到主頁",
+  "tokenDescription": "<0>抱歉!</0> 找不到該代幣。"
 }

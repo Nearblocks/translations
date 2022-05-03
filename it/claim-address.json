@@ -1,0 +1,43 @@
+{
+  "metaTitle": "Dichiara Acount | Near Blocks",
+  "metaDescription": "Dichiara il tuo nome, tag e altre informazioni.",
+  "heading": "Dichiara Account Ⓝ",
+  "form": {
+    "heading": "Dichiara il tuo nome, tag e altre informazioni.",
+    "content": "Dichiara il tuo nome, tag e aggiungi altre informazioni relative al tuo indirizzo Ⓝ compilando il form. Per ogni richiesta di modifica, chiediamo un versamento di {{amount}} Ⓝ per dare prova del possesso dell'account",
+    "address": {
+      "label": "Indirizzo Ⓝ"
+    },
+    "label": {
+      "label": "Nome"
+    },
+    "tag": {
+      "label": "Tag"
+    },
+    "website": {
+      "label": "Sito Web"
+    },
+    "twitter": {
+      "label": "Twitter"
+    },
+    "blog": {
+      "label": "Blog (O Medium)"
+    },
+    "telegram": {
+      "label": "Telegram"
+    },
+    "discord": {
+      "label": "Discord"
+    },
+    "keybase": {
+      "label": "Keybase"
+    },
+    "info": {
+      "label": "Versa {{amount}} Ⓝ al seguente indirizzo per dimostrare di essere proprietario dell'account:",
+      "tooltip": "L'indirizzo di emissione deve essere identico all'indirizzo del quale vuoi modificarne le informazioni."
+    },
+    "button": "Invia",
+    "successMessage": "Grazie, valuteremo la tua richiesta e la inseriremo in lista, non appena sarà stata approvata.",
+    "errorMessage": "Qualcosa è andato storto!"
+  }
+}
