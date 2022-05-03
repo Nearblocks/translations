@@ -1,234 +1,234 @@
 {
-  "metaTitle": "Near所有的最新交易| Near Blocks",
-  "metaDescription": "所有近 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
-  "heading": "交易",
-  "listing": "找到超过 > 个 {{count}} 事务",
-  "listingToken": "超过 > {{count}} 找到令牌转移",
-  "hash": "交易哈希",
-  "type": "类型",
+  "metaTitle": "所有最新的NEAR交易記錄 | Near Blocks",
+  "metaDescription": "所以NEAR區塊鏈確認的交易記錄。這列表包含每一交易的詳情。",
+  "heading": "交易記錄",
+  "listing": "找到超過{{count}}筆交易",
+  "listingToken": "找到超過{{count}}筆代幣轉帳記錄",
+  "hash": "交易哈希值",
+  "type": "Method",
   "typeTxn": "交易",
-  "typeToken": "交易代币",
-  "unknownType": "未知",
+  "typeToken": "代幣轉帳",
+  "unknownType": "不明",
   "batchTxns": "批量交易",
-  "createAccount": "创建账户",
-  "deployContract": "部署合约",
-  "transfer": "转账",
-  "stake": "Stake",
-  "addKey": "添加密钥",
-  "deleteKey": "删除密钥",
-  "deleteAccount": "删除账户",
-  "txnError": "交易错误",
-  "age": "块龄",
-  "ageDT": "日期时间 （UTC）",
-  "blockHeight": "块高度",
-  "from": "发送方",
-  "to": "接收方",
-  "txnIn": "进",
+  "createAccount": "創建帳戶",
+  "deployContract": "部署合約",
+  "transfer": "轉帳",
+  "stake": "質押",
+  "addKey": "添加金鑰",
+  "deleteKey": "刪除金鑰",
+  "deleteAccount": "刪除帳戶",
+  "txnError": "交易錯誤",
+  "age": "Age",
+  "ageDT": "日期和時間(UTC)",
+  "blockHeight": "區塊高度",
+  "from": "由",
+  "to": "至",
+  "txnIn": "進",
   "txnOut": "出",
-  "amount": "数量",
+  "amount": "數量",
   "filter": {
-    "placeholder": "按地址搜索，例如Ⓝ..",
-    "filter": "过滤器",
+    "placeholder": "以地址搜尋，如Ⓝ..",
+    "filter": "籂選",
     "clear": "清除",
-    "by": "过滤条件：",
-    "from": "从：",
-    "to": "自："
+    "by": "籂選條件：",
+    "from": "由：",
+    "to": "至："
   },
   "txn": {
-    "metaTitle": "Near Transaction {{txn}} | Near Blocks",
-    "metaDescription": "Near 区块链交易{{txn}}的详细信息。",
-    "heading": "交易详情",
+    "metaTitle": "NEAR交易 {{txn}} | Near Blocks",
+    "metaDescription": "NEAR區塊鏈交易詳情{{txn}}。",
+    "heading": "交易詳情",
     "hash": {
       "text": [
-        "交易Hash"
+        "交易哈希值"
       ],
-      "tooltip": "此事务的唯一标识符（哈希）。"
+      "tooltip": "此交易的唯一識別(哈希值)。"
     },
     "status": {
       "text": [
-        "状态"
+        "狀態"
       ],
       "status": {
-        "NotStarted": "Not started",
-        "Started": "Started",
-        "Failure": "Failed",
-        "SuccessValue": "Succeeded"
+        "NotStarted": "未開始",
+        "Started": "已開始",
+        "Failure": "已失敗",
+        "SuccessValue": "已成功"
       },
-      "tooltip": "事务的状态。"
+      "tooltip": "此交易的狀態。"
     },
     "block": {
       "text": [
-        "区块高度"
+        "區塊高度"
       ],
-      "tooltip": "记录交易的区块的编号。"
+      "tooltip": "此交易記錄所在的區塊高度"
     },
     "timestamp": {
       "text": [
-        "时间戳"
+        "時間戳"
       ],
-      "tooltip": "提交此事务的时间戳。"
+      "tooltip": "此交易提交的時間戳"
     },
     "deposit": {
       "text": [
-        "存款价值"
+        "存入價值"
       ],
-      "tooltip": "从签名帐户转移到接收方帐户的所有 NEAR 令牌的总和。这包括在转账操作中发送的代币，以及作为函数调用操作的存款。"
+      "tooltip": "由簽發帳戶發送到接收帳戶的所有NEAR代幣總數，包括轉帳的代幣和調用功能所轉移的代幣"
     },
     "fee": {
       "text": [
-        "交易费"
+        "交易費"
       ],
-      "tooltip": "在 NEAR 中支付的总费用用于执行此交易。"
+      "tooltip": "執行此交易所支付的NEAR總費用"
     },
     "price": {
       "text": [
-        "（N） 价格"
+        "Ⓝ價格"
       ],
-      "tooltip": "交易当日收盘价（N）"
+      "tooltip": "交易時Ⓝ的收盤價"
     },
     "from": {
       "text": [
-        "发送方"
+        "由"
       ],
-      "tooltip": "签署并发送交易的帐户"
+      "tooltip": "簽署並發出轉帳的帳戶"
     },
     "to": {
       "text": [
-        "接收方"
+        "至"
       ],
-      "tooltip": "接收交易的帐户。"
+      "tooltip": "接收轉帳的帳戶"
     },
     "type": {
       "text": [
-        "类型",
+        "類型",
         "交易"
       ],
-      "tooltip": "交易类型。"
+      "tooltip": "交易類型"
     },
     "gas": {
       "text": [
-        "Txn的Gas限制和使用情况"
+        "GAS限制和交易所使用的GAS"
       ],
-      "tooltip": "为交易分配的最大Gas量和最终使用的量。"
+      "tooltip": "最大允許使用的GAS數和最終使用了的GAS數"
     },
-    "parentCoin": "parentCoin",
-    "childCoins": "childCoins",
-    "siblingCoins": "siblingCoins",
-    "unknownToken": "未知",
-    "claimToken": "claimToken",
-    "token": "令 牌",
+    "parentCoin": "父幣",
+    "childCoins": "子幣",
+    "siblingCoins": "同類幣",
+    "unknownToken": "不明",
+    "claimToken": "領取代幣",
+    "token": "代幣",
     "burnt": {
       "text": [
-        "Burnt Gas & Tokens by Txn"
+        "交易所燒毀的GAS和代幣"
       ],
-      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+      "tooltip": "此交易所燒毀的GAS和代幣數量。"
     },
     "actions": {
       "text": [
-        "Actions"
+        "操作"
       ],
-      "tooltip": "The actions performed during this transaction.",
+      "tooltip": "此交易中執行的操作。",
       "addKey": [
-        "New key",
-        "Access key",
-        "added for",
-        "contract",
-        "with permission",
-        "to call",
-        "methods"
+        "新金鑰",
+        "存取金鑰",
+        "添加於",
+        "合約",
+        "具有權限",
+        "調用",
+        "功能"
       ],
       "createAccount": [
-        "New account",
-        "created"
+        "創建帳戶",
+        "已創建"
       ],
       "deleteAccount": [
-        "Delete account",
-        "and transfer remaining funds to"
+        "刪除帳戶",
+        "並轉移剩餘餘額至"
       ],
       "deleteKey": [
-        "Key",
-        "deleted"
+        "金鑰",
+        "已刪除"
       ],
       "deployContract": [
-        "Contract",
-        "deployed"
+        "合約",
+        "已部署"
       ],
       "functionCall": [
-        "Called method",
-        "in contract"
+        "調用功能",
+        "在合約"
       ],
       "stake": [
-        "Staked",
-        "with"
+        "已質押",
+        "以"
       ],
       "transfer": [
-        "Transferred",
-        "to"
+        "已轉帳",
+        "至"
       ]
     },
     "tabs": {
-      "overview": "Overview",
-      "execution": "Execution Plan",
-      "comments": "Comments"
+      "overview": "總覽",
+      "execution": "執行計劃",
+      "comments": "留言"
     },
     "receipts": {
       "receipt":{
         "text": [
-          "交易收据"
+          "收款哈希值"
         ],
-        "tooltip": "Unique identifier (hash) of this receipt."
+        "tooltip": "此收款記錄的唯一識別（哈希值）"
       },
       "block":{
         "text": [
-          "区块"
+          "區塊哈希值"
         ],
-        "tooltip": "The hash of the block in which the receipt was executed."
+        "tooltip": "執行收款動作所在區塊的哈希值"
       },
       "from":{
         "text": [
-          "发送方"
+          "由"
         ],
-        "tooltip": "The account which issued a receipt."
+        "tooltip": "發送帳戶"
       },
       "to":{
         "text": [
-          "接收方"
+          "至"
         ],
-        "tooltip": "The destination account of the receipt."
+        "tooltip": "目標帳戶"
       },
       "burnt": {
         "text": [
-          "消耗的Gas和代币"
+          "收款所燒毀的GAS和代幣"
         ],
-        "tooltip": "Total amount of Gas & Token burnt from this receipt."
+        "tooltip": "此收款所燒毀的GAS和代幣總數"
       },
       "actions":{
         "text": [
-          "动作"
+          "動作"
         ],
-        "tooltip": "The actions performed during receipt processing."
+        "tooltip": "在處理收款時進行了的動作"
       },
       "result":{
         "text": [
-          "Result",
-          "No Result",
-          "Empty Result"
+          "結果",
+          "沒有結果",
+          "無結果"
         ],
-        "tooltip": "The result of the receipt execution."
+        "tooltip": "收款執行的結果"
       },
       "logs":{
         "text": [
-          "Logs",
-          "No Logs"
+          "事件日誌",
+          "沒有日誌"
         ],
-        "tooltip": "Logs included in the receipt."
+        "tooltip": "收款記錄中包含的事件日誌"
       }
     }
   },
-  "info": "仅显示最后 {{count}} 条记录",
-  "depositValue": "存款价值",
-  "txnFee": "Txn 费用",
-  "txnSelf": "自己",
-  "noTxns": "没有交易",
-  "testnetNotice": "[这只是一个测试网交易]"
+  "info": "只顯示最新的{{count}}筆記錄",
+  "depositValue": "存入價值",
+  "txnFee": "交易費",
+  "txnSelf": "Self",
+  "noTxns": "沒有交易記錄",
+  "testnetNotice": "[ 這只是一筆測試網的交易記錄 ]"
 }

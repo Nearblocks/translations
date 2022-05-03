@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Top 10,000 Account Near | Near Blocks",
+  "metaDescription": "Trova i top 10,000 account Near per saldo.",
+  "heading": "Top Account per Ⓝ Balance",
+  "listing": "Un totale di > {{count}} account trovati ({{sum}} Ⓝ).",
+  "info": "Mostrando solo i top 10,000 account",
+  "rank": "Rank",
+  "address": "Indirizzo",
+  "balance": "Saldo",
+  "percentage": "Percentuale",
+  "value": "Valore",
+  "txns": "Numero di Txns"
+}

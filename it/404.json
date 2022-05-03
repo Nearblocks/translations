@@ -1,0 +1,10 @@
+{
+  "metaTitle": "404 - Pagina non trovata | Near Blocks",
+  "metaDescription": "Siamo spiacenti, non è stato possibile trovare quello che stavi cercando. Ti preghiamo di riprovare.",
+  "description": "<0>Spiacenti!</0> Si è verificato un errore inaspettato.",
+  "addressDescription": "<0>Spiacenti!</0> Indirizzo non trovato.",
+  "blockDescription": "<0>Spiacenti!</0> Blocco non trovato.",
+  "txnDescription": "<0>Spiacenti!</0> Transazione non trovata.",
+  "back": "Torna alla home",
+  "tokenDescription": "<0>Spiacenti!</0> Token non trovato."
+}
