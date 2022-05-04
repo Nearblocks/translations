@@ -1,0 +1,13 @@
+{
+  "metaTitle": "账户|附近的前 10，000 家 Near Blocks",
+  "metaDescription": "按  余额查找前 10，000 个\"近  Ⓝ ）个\"帐户\"。",
+  "heading": "按 Ⓝ 余额排列的顶级账户",
+  "listing": "总共找到>个 {{count}} 帐户（{{sum}} )。",
+  "info": "仅显示前 10，000 个帐户",
+  "rank": "排",
+  "address": "地址",
+  "balance": "平衡",
+  "percentage": "百分比",
+  "value": "价值",
+  "txns": "Txns 计数"
+}

@@ -1,0 +1,32 @@
+{
+  "metaTitle": "Near区块链浏览器 | Near Blocks",
+  "metaDescription": "Near Blocks是一个Near区块链浏览器和数据分析平台，Near是一个新的区块链和智能交易平台。",
+  "heroTitle": "Near 区块链浏览器",
+  "nearPrice": "Near 价格",
+  "nearFarmed": "近养殖",
+  "difficulty": "困难",
+  "mempoolSize": "内存池尺寸",
+  "currentBlock": "电流块",
+  "netspace": "网络空间",
+  "transactionHistory": "{{days}} 天内的 Near 历史交易记录",
+  "banner": {
+    "title": "附近的生态系统从这里开始",
+    "description": "您有近邻相关的产品或服务吗？联系我们并获得曝光率 查看Near的#1附近区块链浏览器。"
+  },
+  "latestBlocks": "最新区块",
+  "latestTxns": "最新交易",
+  "error": "错误！",
+  "noBlocks": "没有该区块！",
+  "noTxns": "没有该交易!",
+  "blockMiner": "矿工",
+  "txnFrom": "发送方",
+  "txnTo": "接收方",
+  "nodesOnline": "在线节点",
+  "nodesValidating": "节点验证",
+  "blockHeight": "块高度",
+  "avgBlockTime": "平均区块时间",
+  "gasPrice": "Gas 费用",
+  "transactions": "交易",
+  "marketCap": "市值",
+  "activeValidator": "活跃的验证节点"
+}
