@@ -1,14 +1,14 @@
 {
   "metaTitle": "Near区块链浏览器 | 近 Blocks",
-  "metaDescription": "近 Blocks是一个Near区块链浏览器和数据分析平台，Near是一个新的区块链和智能交易平台。",
-  "heroTitle": "近 区块链浏览器",
-  "nearPrice": "近 价格",
+  "metaDescription": "Near Blocks是一个Near区块链浏览器和数据分析平台，Near是一个新的区块链和智能交易平台。",
+  "heroTitle": "Near 区块链浏览器",
+  "nearPrice": "Near 价格",
   "nearFarmed": "近养殖",
   "difficulty": "困难",
   "mempoolSize": "内存池尺寸",
   "currentBlock": "电流块",
   "netspace": "网络空间",
-  "transactionHistory": "{{days}} 天内的 近 历史交易记录",
+  "transactionHistory": "{{days}} 天内的 Near 历史交易记录",
   "banner": {
     "title": "附近的生态系统从这里开始",
     "description": "您有近邻相关的产品或服务吗？联系我们并获得曝光率 查看Near的#1附近区块链浏览器。"

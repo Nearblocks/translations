@@ -1,6 +1,6 @@
 {
   "metaTitle": "附近所有 最新街区 | 近 Blocks",
-  "metaDescription": "近 区块链中包含的所有 NearⓃ 区块，显示区块时间、矿工、已使用的Gas、Gas价格和对应的交易记录。",
+  "metaDescription": "Near 区块链中包含的所有 NearⓃ 区块，显示区块时间、矿工、已使用的Gas、Gas价格和对应的交易记录。",
   "heading": "块",
   "listing": "块 #{{from}} 到 #{{to}} （{{count}} 块的总数）",
   "blocks": "块",
@@ -14,8 +14,8 @@
   "volume": "交易量",
   "blockError": "块错误",
   "block": {
-    "metaTitle": "近 区块 {{block}} | 近 Blocks",
-    "metaDescription": "近 区块高度： {{block}}。交易时间，使用的Gas，Gas价格，矿工，交易数量和交易收据详细记录在Near区块上。",
+    "metaTitle": "Near 区块 {{block}} | 近 Blocks",
+    "metaDescription": "Near 区块高度： {{block}}。交易时间，使用的Gas，Gas价格，矿工，交易数量和交易收据详细记录在Near区块上。",
     "heading": "区块 <0>#{{块}} </0>",
     "height": "区块高度",
     "hash": "交易Hash",

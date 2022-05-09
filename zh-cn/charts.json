@@ -1,14 +1,14 @@
 {
   "metaTitle": "近  图表和统计 | 近  Blocks",
-  "metaDescription": "近  提供了一套实时 Near  数据图表和统计数据来跟踪有关 Near  区块的所有信息：价格、供应、市值、交易费等。",
+  "metaDescription": "Near  提供了一套实时 Near  数据图表和统计数据来跟踪有关 Near  区块的所有信息：价格、供应、市值、交易费等。",
   "heading": "近图表和统计",
   "otherHeading": "其他近区块链图表和统计数据",
   "nearPrice": {
     "metaTitle": "近 今天的价格：信息，图表，统计 Near 区块",
-    "metaDescription": " 近 每日价格（USD）图表显示 近 美元的每日历史价格。所有数据都是实时，准确的，并直接从Near  Ⓝ ）区块链中提取。",
-    "heading": " 近 每日价格（美元）图表",
+    "metaDescription": " Near 每日价格（USD）图表显示 近 美元的每日历史价格。所有数据都是实时，准确的，并直接从Near  Ⓝ ）区块链中提取。",
+    "heading": " Near 每日价格（美元）图表",
     "description": " Near 每日价格（USD）图表显示 近 美元的每日历史价格。",
-    "yLabel": " 近 价格（美元）",
+    "yLabel": " 价格（美元）",
     "statistics": {
       "heading": " 近 价格统计",
       "price": " 近 价格（美元）",
@@ -24,50 +24,50 @@
   "marketCap": {
     "metaTitle": "近市值图表 | 近 Blocks",
     "metaDescription": "近市值图表显示近  日市值和价格的历史明细。所有数据都是实时，准确的，并直接从Near   区块链中提取。",
-    "heading": " 近 市值图表",
-    "description": " 近 市值图表显示 近 每日市值和价格的历史明细。",
+    "heading": " Near 市值图表",
+    "description": " Near 市值图表显示 Near 每日市值和价格的历史明细。",
     "yLabel": "近市值 （美元）"
   },
   "Near Supply": {
     "metaTitle": "近  供应图表 ： 循环， 总供应量 | 近  Blocks",
     "metaDescription": "近区块链供应增长图表显示了每日区块奖励和总供应量 Ⓝ的细分。所有数据都是实时，准确的，并直接从Near   区块链中提取。",
-    "heading": " 近 供应增长图表",
+    "heading": " Near 供应增长图表",
     "description": "近供应增长图表显示每日供应和总供应量的细分。",
-    "yLabel": " 近 供应"
+    "yLabel": " Near 供应"
   },
   "txns": {
     "metaTitle": "近 Ⓝ交易图表：信息，统计，增长| 近  Blocks",
-    "metaDescription": "近  交易图表突出显示了近区块链区块链上的交易总数，并按每日个人细分了总交易，总区块和新帐户总数。",
+    "metaDescription": "Near  交易图表突出显示了近区块链区块链上的交易总数，并按每日个人细分了总交易，总区块和新帐户总数。",
     "heading": "近日交易图表",
-    "description": "该图表突出显示了近 区块链上的交易总数，并按每日个人细分了总区块和新帐户总数。",
+    "description": "该图表突出显示了Near 区块链上的交易总数，并按每日个人细分了总区块和新帐户总数。",
     "yLabel": "每日事务数"
   },
   "blocks": {
     "metaTitle": "近  块计数图表 | 近  Blocks",
     "metaDescription": "近区块链区块计数图表显示附近区块链上每天产生的区块的历史数量。所有数据都是实时，准确的，并直接从Near   区块链中提取。",
-    "heading": " 近 区块计数",
+    "heading": " Near 区块计数",
     "description": "近区块计数图表显示附近区块链上每天产生的区块的历史数量。",
     "yLabel": "每日块数"
   },
   "addresses": {
     "metaTitle": "近  唯一科目表 | 近  Blocks",
     "metaDescription": "近区块链唯一账户图表显示近区块链上账户的明显总数以及每日账户数量的增加。",
-    "heading": " 近 唯一账户图表",
-    "description": "该图表显示了 近 区块链上账户的总数以及每日账户数量的增加。",
+    "heading": " Near 唯一账户图表",
+    "description": "该图表显示了 Near 区块链上账户的总数以及每日账户数量的增加。",
     "yLabel": "近乎累积账户增长"
   },
   "txnFee": {
     "metaTitle": "最近的交易费用历史：交易费用 | 近  Blocks ",
-    "metaDescription": "近  blockchain 交易费用图表显示了在 近  区块链上每笔交易每天花费的美元金额 (Ⓝ)。所有数据都是实时、准确的，直接从 Near  区块链中提取。",
+    "metaDescription": "Near  blockchain 交易费用图表显示了在 近  区块链上每笔交易每天花费的美元金额 (Ⓝ)。所有数据都是实时、准确的，直接从 Near  区块链中提取。",
     "heading": "交易费用图表",
-    "description": "图表显示了在 近  区块链上每笔交易的每日美元金额。",
+    "description": "图表显示了在 Near  区块链上每笔交易的每日美元金额。",
     "yLabel": "交易费用（美元）"
   },
   "txnVolume": {
     "metaTitle": "近交易量图表：交易量| 近  Blocks ",
-    "metaDescription": "近  blockchain 交易量图表显示了 近  区块链上每笔交易的每日美元金额。",
+    "metaDescription": "Near  blockchain 交易量图表显示了 Near  区块链上每笔交易的每日美元金额。",
     "heading": "交易量图表",
-    "description": "图表显示了 近  区块链上每笔交易的每日美元金额。",
+    "description": "图表显示了 Near  区块链上每笔交易的每日美元金额。",
     "yLabel": "交易量 (USD )"
   }
 }
