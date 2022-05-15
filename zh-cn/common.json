@@ -7,11 +7,11 @@
       "viewTxns": "查看 Txns",
       "languages": "语言",
       "charts": "图表和统计",
-      "topAccounts": "热门账户",
+      "topAccounts": "最佳账户",
       "tokens": "代币",
-      "toptoken": "Top Tokens",
+      "toptoken": "最佳代币",
       "viewTokenTrasfers": "查看 Token 交易",
-      "topnft": "Top NFT Tokens",
+      "topnft": "最佳 NFT",
       "viewNftTrasfers": "查看 NFT 交易"
     }
   },
@@ -21,7 +21,7 @@
       "txns": "交易Hash",
       "blocks": "区块高度",
       "token": "代币",
-      "addresses": "地址"
+      "addresses": "账户地址"
     },
     "placeholder": "按账户地址/交易Hash/区块高度",
     "list": {
@@ -33,7 +33,7 @@
     "noResults": "抱歉，未找到对应结果"
   },
   "footer": {
-    "description": "Near Blocks是一个Near区块链浏览器和数据分析平台，Near是一个新的区块链和智能交易平台。",
+    "description": "NEAR Blocks是一个NEAR区块链浏览器和数据分析平台，NEAR是一个新的区块链和智能交易平台。",
     "poweredBy": "poweredBy",
     "links": {
       "explore": "探索",
@@ -64,7 +64,7 @@
   "chart": {
     "source": "资料来源：nearblocks.io"
   },
-  "trademark": "NearBlocks是完全独立运营的。Near Blocks与NEAR基金会无关，本网站上显示的每个许可商标均属于其各自的所有者。",
+  "trademark": "NEAR Blocks是完全独立运营的。NEAR Blocks与NEAR基金会无关，本网站上显示的每个许可商标均属于其各自的所有者。",
   "tags": {
     "service": "Service",
     "pool": "Pool",

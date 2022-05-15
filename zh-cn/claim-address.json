@@ -1,39 +1,39 @@
 {
-  "metaTitle": "索赔 帐户| Near Blocks",
+  "metaTitle": "声明帐户| NEAR Blocks",
   "metaDescription": "声明您的姓名、标签和其他信息。",
-  "heading": "索赔 Ⓝ 帐户",
+  "heading": "声明 Ⓝ 帐户",
   "form": {
     "heading": "声明您的姓名、标签和其他信息",
-    "content": "通过填写下面的表格来申领您的姓名标签并添加与您的 Ⓝ 地址相关的其他信息。对于每个编辑请求，我们将要求{{金额}} Ⓝ 押金以证明您的地址所有权。",
+    "content": "通过填写下面的表格来申领您的姓名标签并添加与您的 NEAR 地址相关的其他信息。对于每个编辑请求，我们将要求存入 {{金额}} NEAR 用作押金以证明您的地址所有权。",
     "address": {
-      "label": " Ⓝ  地址"
+      "label": "NEAR 地址"
     },
     "label": {
       "label": "名字"
     },
     "tag": {
-      "label": "日"
+      "label": "标签"
     },
     "website": {
       "label": "网站"
     },
     "twitter": {
-      "label": "唽"
+      "label": "Twitter"
     },
     "blog": {
-      "label": "博客（或中等）"
+      "label": "博客（或 Medium）"
     },
     "telegram": {
-      "label": "电报"
+      "label": "Telegram"
     },
     "discord": {
-      "label": "不和"
+      "label": "Discord"
     },
     "keybase": {
       "label": "密钥库"
     },
     "info": {
-      "label": "将{{金额}} Ⓝ 存入以下地址以证明您的所有权：",
+      "label": "将{{金额}} NEAR 存入以下地址以证明您的所有权：",
       "tooltip": "发送地址必须与您要向其添加信息的地址相同。"
     },
     "button": "提交",
