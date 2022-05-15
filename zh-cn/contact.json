@@ -1,7 +1,7 @@
 {
-  "metaTitle": "联系我们 | Near Blocks",
-  "metaDescription": "联系Near Blocks团队，了解与我们的网站和工具相关的任何疑问。请理解，我们只能协助解决与区块浏览器服务直接相关的问题。",
-  "heading": "接触块附近",
+  "metaTitle": "联系我们 | NEAR Blocks",
+  "metaDescription": "联系 NEAR Blocks 团队，了解与我们的网站和工具相关的任何疑问。请理解，我们只能协助解决与区块浏览器服务直接相关的问题。",
+  "heading": "联系 NEAR Blocks",
   "info": {
     "heading": "请给我们留言，但请注意：",
     "points": [
@@ -10,8 +10,8 @@
         "content": "我们不处理交易，因此无法加速，取消或替换它们。如果您在处理待处理事务时遇到问题，请参阅此处。"
       },
       {
-        "heading": "靠近区块浏览器",
-        "content": "Near Blocks是一个独立的区块浏览器，与其他服务提供商无关（除非另有明确说明），因此无法为特定于其他服务提供商的查询提供精确的响应。"
+        "heading": "NEAR 区块浏览器",
+        "content": "NEAR Blocks是一个独立的区块浏览器，与其他服务提供商无关（除非另有明确说明），因此无法为特定于其他服务提供商的查询提供精确的响应。"
       },
       {
         "heading": "钱包/交易所/项目相关问题",
