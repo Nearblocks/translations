@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Near所有的最新交易| Near Blocks",
+  "metaTitle": "Near所有的最新交易| 近 Blocks",
   "metaDescription": "所有近 交易在近链上确认。该列表由发送 Near  Ⓝ  的事务和每个事务的事务详细信息组成。",
   "heading": "交易",
   "listing": "找到超过 > 个 {{count}} 事务",
@@ -174,7 +174,7 @@
     "receipts": {
       "receipt":{
         "text": [
-          "交易收据"
+          "交易回执"
         ],
         "tooltip": "Unique identifier (hash) of this receipt."
       },
