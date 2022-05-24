@@ -1,0 +1,17 @@
+{
+    "metaTitle": "Рядом Blockchain Explorer | Рядом с блоками",
+    "metaDescription": "Near Blocks - это Block Explorer и аналитическая платформа для Near blockchain (Ⓝ), новой платформы блокчейна и интеллектуальных транзакций.",
+    "kbTitle": "NEAR Блокирует базу знаний и информационный центр",
+    "search": "Введите для поиска",
+    "home": "Дом",
+    "published": "Опубликованный",
+    "lastUpdated": "Последнее обновление",
+    "kb": {
+        "metaTitle": "{{post}} | Near Blocks",
+        "metaDescription": "{{post}} | Near Blocks"
+    },
+    "article": {
+        "metaTitle": "{{slug}} | Near Blocks",
+        "metaDescription": "{{slug}} | Near Blocks"
+    }
+}

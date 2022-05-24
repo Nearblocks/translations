@@ -1,0 +1,17 @@
+{
+    "metaTitle": "Near Blockchain Explorer | Nearblocks",
+    "metaDescription": "Nearblocks ay isang Block Explorer at Analytics Platform para sa Near blockchain (Ⓝ), ang bagong blockchain at smart transaction platform.",
+    "kbTitle": "Malapit sa Blocks Kaalaman Base & Impormasyon Center",
+    "search": "Magtipa para magsaliksik",
+    "home": "Tahanan",
+    "published": "Nailathala",
+    "lastUpdated": "Huling Na-update",
+    "kb": {
+        "metaTitle": "{{post}} | Near Blocks",
+        "metaDescription": "{{post}} | Near Blocks"
+    },
+    "article": {
+        "metaTitle": "{{slug}} | Near Blocks",
+        "metaDescription": "{{slug}} | Near Blocks"
+    }
+}

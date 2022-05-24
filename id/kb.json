@@ -1,0 +1,17 @@
+{
+    "metaTitle": "NEAR Blockchain Explorer | NearBlocks",
+    "metaDescription": "Near Blocks adalah Block Explorer dan Analytics Platform for Near blockchain Ⓝ), platform blockchain dan transaksi cerdas baru.",
+    "kbTitle": "NEAR Blocks Basis Pengetahuan & Pusat Informasi",
+    "search": "Ketik untuk mencari",
+    "home": "Rumah",
+    "published": "Diterbitkan",
+    "lastUpdated": "Terakhir Diperbarui",
+    "kb": {
+        "metaTitle": "{{post}} | Near Blocks",
+        "metaDescription": "{{post}} | Near Blocks"
+    },
+    "article": {
+        "metaTitle": "{{slug}} | Near Blocks",
+        "metaDescription": "{{slug}} | Near Blocks"
+    }
+}
