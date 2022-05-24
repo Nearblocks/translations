@@ -1,0 +1,17 @@
+{
+  "metaTitle": "NEAR區塊鏈瀏覽器 | Near Blocks",
+  "metaDescription": "Near Blocks是新式區塊鏈和智能合約平台NEAR(Ⓝ)的一個區塊鏈瀏覽器和分析平台。",
+  "kbTitle": "NEAR Blocks知識庫和信息中心",
+  "search": "鍵入以搜索",
+  "home": "家",
+  "published": "發表",
+  "lastUpdated": "上次更新時間",
+  "kb": {
+    "metaTitle": "{{post}} | Near Blocks",
+    "metaDescription": "{{post}} | Near Blocks"
+  },
+  "article": {
+    "metaTitle": "{{slug}} | Near Blocks",
+    "metaDescription": "{{slug}} | Near Blocks"
+  }
+}
