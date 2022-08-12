@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Tất cả những khối gần nhất | Near Blocks",
+  "metaTitle": "Tất cả những khối gần nhất | NearBlocks",
   "metaDescription": "Tất cả các khối được bao gồm trong NEAR blockchain. Các mốc thời gian, tác giả, phí gas được sử dụng, giá phí gas và các giao dịch bao gồm được hiển thị.",
   "heading": "Khối giao thức gần mới nhất",
   "listing": "Khối #{{from}} tới #{{to}} (Trong tất cả {{count}} khối)",
@@ -14,7 +14,7 @@
   "volume": "Số lượng giao dịch",
   "blockError": "Lỗi khối",
   "block": {
-    "metaTitle": "Near Block {{block}} | Near Blocks",
+    "metaTitle": "Near Block {{block}} | NearBlocks",
     "metaDescription": "Chiều cao khối NEAR {{block}}. Mốc thời gian, gas được sử dụng, giá gas, tác giả, số lượng giao dịch và biên nhận trong khối được nêu chi tiết trên Near.",
     "heading": "Khối <0>#{{block}}</0>",
     "height": "Chiều cao Khối",
