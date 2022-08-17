@@ -1,5 +1,5 @@
 {
-  "metaTitle": "NEAR 的最新区块 | NEAR Blocks",
+  "metaTitle": "NEAR 的最新区块 | NearBlocks",
   "metaDescription": "NEAR 区块链中包含的所有 NEAR 区块，显示区块时间、矿工、已使用的Gas、Gas价格和对应的交易记录。",
   "heading": "最新的 Near 协议块",
   "listing": "块 #{{from}} 到 #{{to}} （{{count}} 块的总数）",
@@ -14,7 +14,7 @@
   "volume": "交易量",
   "blockError": "块错误",
   "block": {
-    "metaTitle": "NEAR 区块 {{block}} | NEAR Blocks",
+    "metaTitle": "NEAR 区块 {{block}} | NearBlocks",
     "metaDescription": "NEAR 区块高度： {{block}}。交易时间，使用的Gas，Gas价格，矿工，交易数量和交易回执详细记录在NEAR区块上。",
     "heading": "区块 <0>#{{块}} </0>",
     "height": "区块高度",

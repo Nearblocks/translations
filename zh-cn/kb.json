@@ -1,5 +1,5 @@
 {
-    "metaTitle": "NEAR 区块链浏览器 | NEAR Blocks",
+    "metaTitle": "NEAR 区块链浏览器 | NearBlocks",
     "metaDescription": "NEAR Blocks是一个 NEAR 区块链浏览器和数据分析平台，NEAR是一个新的区块链和智能交易平台。",
     "kbTitle": "NEAR Blocks知識庫和信息中心",
     "search": "鍵入以搜索",
@@ -7,11 +7,11 @@
     "published": "發表",
     "lastUpdated": "上次更新時間",
     "kb": {
-        "metaTitle": "{{post}} | Near Blocks",
-        "metaDescription": "{{post}} | Near Blocks"
+        "metaTitle": "{{post}} | NearBlocks",
+        "metaDescription": "{{post}} | NearBlocks"
     },
     "article": {
-        "metaTitle": "{{slug}} | Near Blocks",
-        "metaDescription": "{{slug}} | Near Blocks"
+        "metaTitle": "{{slug}} | NearBlocks",
+        "metaDescription": "{{slug}} | NearBlocks"
     }
 }

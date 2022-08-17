@@ -1,5 +1,5 @@
 {
-  "metaTitle": "บล็อก Near ล่าสุดทั้งหมด | Near Blocks",
+  "metaTitle": "บล็อก Near ล่าสุดทั้งหมด | NearBlocks",
   "metaDescription": "Near ทั้งหมด (Ⓝ บล็อกที่อยู่บนบล็อกเชน Near โดยไทม์สแตมป์ ชื่อผู้สร้าง ค่าแก๊ส และแก๊สที่ใช้ทั้งหมดจะอยู่ใน Contract ที่แสดงอยู่นี้",
   "heading": "บล็อกโปรโตคอลใกล้ล่าสุด",
   "listing": "บล็อก #{{from}} ไปยัง #{{to}} (เป็นจำนวน {{count}} บล็อก)",
@@ -14,7 +14,7 @@
   "volume": "ปริมาณธุรกรรม",
   "blockError": "บล็อกผิดพลาด",
   "block": {
-    "metaTitle": "Near บล็อก {{block}} | Near Blocks",
+    "metaTitle": "Near บล็อก {{block}} | NearBlocks",
     "metaDescription": "บล็อก Near ลำดับที่ {{block}} โดยไทม์สแตมป์ ชื่อผู้สร้าง ค่าแก๊ส และแก๊สที่ใช้ทั้งหมดจะอยู่ใน Contract ที่แสดงอยู่นี้",
     "heading": "บล๊อก <0>#{{block}}</0>",
     "height": "ลำดับบล็อก",

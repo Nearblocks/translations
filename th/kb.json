@@ -1,5 +1,5 @@
 {
-    "metaTitle": "Near Blockchain Explorer | Near Blocks",
+    "metaTitle": "Near Blockchain Explorer | NearBlocks",
     "metaDescription": "Near Blocks คือแพลตฟอร์ม Block Explorer และ Analytics บนบล็อกเชน Near (Ⓝ) ซึ่งเป็นแพลตฟอร์ม Smart Contract แห่งใหม่ของวงการคริปโต",
     "kbTitle": "NEAR บล็อกฐานความรู้และศูนย์ข้อมูลข่าวสาร",
     "search": "พิมพ์เพื่อค้นหา",
@@ -7,11 +7,11 @@
     "published": "เผย แพร่",
     "lastUpdated": "ปรับปรุงล่าสุด",
     "kb": {
-        "metaTitle": "{{post}} | Near Blocks",
-        "metaDescription": "{{post}} | Near Blocks"
+        "metaTitle": "{{post}} | NearBlocks",
+        "metaDescription": "{{post}} | NearBlocks"
     },
     "article": {
-        "metaTitle": "{{slug}} | Near Blocks",
-        "metaDescription": "{{slug}} | Near Blocks"
+        "metaTitle": "{{slug}} | NearBlocks",
+        "metaDescription": "{{slug}} | NearBlocks"
     }
 }

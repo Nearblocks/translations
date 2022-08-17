@@ -57,14 +57,14 @@
     "yLabel": "누적 계정 증가 근처"
   },
   "txnFee": {
-    "metaTitle": "거래수수료 내역에 가까운 : 거래수수료 | Near Blocks ",
+    "metaTitle": "거래수수료 내역에 가까운 : 거래수수료 | NearBlocks ",
     "metaDescription": "Near 블록체인 거래 수수료 차트는 Near 블록체인(Ⓝ)에서 거래당 하루에 사용된 USD 금액을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near 블록체인에서 직접 가져온 것입니다.",
     "heading": "거래 수수료 차트",
     "description": "이 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
     "yLabel": "거래 수수료(USD)"
   },
   "txnVolume": {
-    "metaTitle": "주변 거래량 차트 : 거래량 | Near Blocks ",
+    "metaTitle": "주변 거래량 차트 : 거래량 | NearBlocks ",
     "metaDescription": "Near 블록체인 거래량 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
     "heading": "거래량 차트",
     "description": "차트는 Near 블록체인에서 거래당 USD로 하루 지출 금액을 보여줍니다.",

@@ -1,5 +1,5 @@
 {
-  "metaTitle": "所有最新的NEAR交易記錄 | Near Blocks",
+  "metaTitle": "所有最新的NEAR交易記錄 | NearBlocks",
   "metaDescription": "所以NEAR區塊鏈確認的交易記錄。這列表包含每一交易的詳情。",
   "heading": "最新的 Near 協議交易",
   "listing": "找到超過{{count}}筆交易",
@@ -35,7 +35,7 @@
     "to": "至："
   },
   "txn": {
-    "metaTitle": "NEAR交易 {{txn}} | Near Blocks",
+    "metaTitle": "NEAR交易 {{txn}} | NearBlocks",
     "metaDescription": "NEAR區塊鏈交易詳情{{txn}}。",
     "heading": "交易詳情",
     "hash": {

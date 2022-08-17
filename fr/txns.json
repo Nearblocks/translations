@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Toutes les dernières transactions en Near | Near Blocks",
+  "metaTitle": "Toutes les dernières transactions en Near | NearBlocks",
   "metaDescription": "Toutes les transactions Near confirmées sur Near Blockchain. La liste se compose des transactions de l'envoi de Near et des détails des transactions pour chaque transaction.",
   "heading": "Dernières transactions proches du protocole",
   "listing": "Plus que > {{count}} opérations trouvées",
@@ -35,7 +35,7 @@
     "to": "À:"
   },
   "txn": {
-    "metaTitle": "Near Transaction {{txn}} | Near Blocks",
+    "metaTitle": "Near Transaction {{txn}} | NearBlocks",
     "metaDescription": "Near Blockchain informations détaillées pour la transaction {{txn}}.",
     "heading": "Détails de la transaction",
     "hash": {

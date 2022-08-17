@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Near帳戶 {{address}} | Near Blocks",
+  "metaTitle": "Near帳戶 {{address}} | NearBlocks",
   "metaDescription": "Near帳戶{{address}}頁面可供用戶查看交易記錄，帳戶餘額，持幣數量和轉帳記錄。",
   "heading": "帳戶: @ <0>{{address}}</0>",
   "overview": "總覽",

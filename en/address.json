@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Near Account {{address}} | Near Blocks",
+  "metaTitle": "Near Account {{address}} | NearBlocks",
   "metaDescription": "Near Account {{address}} page allows users to view transactions, balances, token holdings and transfers.",
   "heading": "Account: @ <0>{{address}}</0>",
   "overview": "Overview",

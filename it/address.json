@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Account Near {{address}} | Near Blocks",
+  "metaTitle": "Account Near {{address}} | NearBlocks",
   "metaDescription": "Account Near {{address}} questa pagina permette agli utenti di vedere transazioni, saldi, token posseduti e trasferimenti.",
   "heading": "Account: @ <0>{{address}}</0>",
   "overview": "Riepilogo",
