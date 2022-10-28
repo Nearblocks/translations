@@ -1,7 +1,7 @@
 {
-  "metaTitle": "All Near Latest Transactions | Near Blocks",
-  "metaDescription": "All Near Transactions confirmed on Near Blockchain. The list consists of transactions from sending Near and the transactions details for each transaction.",
-  "heading": "Transactions",
+  "metaTitle": "All Latest Near Protocol transactions | Near Blocks",
+  "metaDescription": "All Latest Near Protocol transactions confirmed on Near Blockchain. The list consists of transactions from sending Near and the transactions details for each transaction.",
+  "heading": "Latest Near Protocol transactions",
   "listing": "More than > {{count}} transactions found",
   "listingToken": "More than > {{count}} Token transfers found",
   "hash": "Txn Hash",

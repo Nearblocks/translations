@@ -1,7 +1,7 @@
 {
   "metaTitle": "Tất cả những khối gần nhất | Near Blocks",
   "metaDescription": "Tất cả các khối được bao gồm trong NEAR blockchain. Các mốc thời gian, tác giả, phí gas được sử dụng, giá phí gas và các giao dịch bao gồm được hiển thị.",
-  "heading": "Các khối",
+  "heading": "Khối giao thức gần mới nhất",
   "listing": "Khối #{{from}} tới #{{to}} (Trong tất cả {{count}} khối)",
   "blocks": "Khối",
   "type": "Loại",

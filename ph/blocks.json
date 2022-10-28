@@ -1,7 +1,7 @@
 ﻿{
   "metaTitle": "Lahat ng Near Latest Blocks | Nearblocks",
   "metaDescription": " Lahat ng NEAR(Ⓝ Blocks na kasama sa Near blockchain. Ang timestamp, may-akda, gas na ginamit, presyo ng gas at mga kasamang transaksyon ay ipinapakita.",
-  "heading": "Blocks",
+  "heading": "Pinakabagong Near Protocol Blocks",
   "listing": "Block #{{mula sa}} sa #{{sa}} (Kalahatan ng {{bilang}} blocks)",
   "blocks": "Block",
   "type": "Type",

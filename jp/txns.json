@@ -1,7 +1,7 @@
 {
   "metaTitle": "直近の取引| NearBlocks",
   "metaDescription": "NEAR上で処理された取引一覧. 一覧にはNEARから送金された取引と個々の取引の詳細情報を含む",
-  "heading": "取引",
+  "heading": "最新の Near Protocol トランザクション",
   "listing": "以上 > {{count}} 取引が見つかりました",
   "listingToken": "以上 > {{count}} トークンの移動が見つかりました",
   "hash": "取引のハッシュ値",

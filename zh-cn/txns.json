@@ -1,7 +1,7 @@
 {
   "metaTitle": "NEAR 所有的最新交易| NEAR Blocks",
   "metaDescription": "所有在 NEAR 区块链上被确认过的交易，该列表由 NEAR 的每笔交易和交易详情组成",
-  "heading": "交易",
+  "heading": "最新的 Near 协议交易",
   "listing": "找到超过 > 个 {{count}} 事务",
   "listingToken": "超过 > {{count}} 找到令牌转移",
   "hash": "交易哈希",

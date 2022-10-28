@@ -1,7 +1,7 @@
 {
   "metaTitle": "NEAR 的最新区块 | NEAR Blocks",
   "metaDescription": "NEAR 区块链中包含的所有 NEAR 区块，显示区块时间、矿工、已使用的Gas、Gas价格和对应的交易记录。",
-  "heading": "块",
+  "heading": "最新的 Near 协议块",
   "listing": "块 #{{from}} 到 #{{to}} （{{count}} 块的总数）",
   "blocks": "块",
   "type": "类型",
