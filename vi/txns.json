@@ -1,7 +1,7 @@
 {
   "metaTitle": "Tất cả giao dịch Near gần nhất | Near Blocks",
   "metaDescription": "Tất cả giao dịch đã được xác nhận trên Near Blockchain. Danh sách bao gồm các giao dịch gửi Near và chi tiết các giao dịch.",
-  "heading": "Các giao dịch",
+  "heading": "Giao dịch gần đây nhất",
   "listing": "Đã tìm thấy hơn > {{count}} số giao dịch",
   "listingToken": "Đã tìm thấy hơn > {{count}} số giao dịch Tokens",
   "hash": "Băm giao dịch",

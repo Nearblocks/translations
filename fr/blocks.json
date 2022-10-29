@@ -1,7 +1,7 @@
 {
   "metaTitle": "Tous les derniers blocs Near | Near Blocks",
   "metaDescription": "Tous les Near (Ⓝ Blocs inclus dans Near blockchain. L'horodatage, l'auteur, le gas utilisé, le prix du gas et les transactions incluses sont affichés.",
-  "heading": "Blocs",
+  "heading": "Derniers blocs de protocole proche",
   "listing": "Bloc #{{from}} au #{{to}} ( Total de{{count}} blocs)",
   "blocks": "Bloc",
   "type": "Type",
