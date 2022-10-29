@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Cuenta Near {{address}} | Near Blocks",
+  "metaTitle": "Cuenta Near {{address}} | NearBlocks",
   "metaDescription": "La página de Cuenta Near {{address}} permite a los usuarios ver transacciones, balances, tokens adquiridos y transferidos.",
   "heading": "Cuenta: @ <0>{{address}}</0>",
   "overview": "Resumen",

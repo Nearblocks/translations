@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Todas las últimas transacciones de Near | Near Blocks",
+  "metaTitle": "Todas las últimas transacciones de Near | NearBlocks",
   "metaDescription": "Todas las transacciones Near confirmadas en la cadena de bloques de Near. La lista consiste en transacciones de enviar Near y los detalles de transacción para cada transacción.",
   "heading": "Últimas transacciones de Near Protocol",
   "listing": "Más de  > {{count}} transacciones encontradas",
@@ -35,7 +35,7 @@
     "to": "Hacia:"
   },
   "txn": {
-    "metaTitle": "Transacción de Near {{txn}} | Near Blocks",
+    "metaTitle": "Transacción de Near {{txn}} | NearBlocks",
     "metaDescription": "Información detallada por transacción de la cadena de bloques Near {{txn}}.",
     "heading": "Detalles de Transacción",
     "hash": {

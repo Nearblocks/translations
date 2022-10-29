@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Blocchi Near più recenti | Near Blocks",
+  "metaTitle": "Blocchi Near più recenti | NearBlocks",
   "metaDescription": "Tutti i Near (Ⓝ Blocchi inclusi nella Near Blockchain. Il timestamp, l'autore, quantità di gas utilizzato, prezzo del gas e le transazioni incluse sono mostrate.",
   "heading": "Gli ultimi Near Protocol Blocks",
   "listing": "Blocco #{{from}} a #{{to}} (Totale di {{count}} blocchi)",
@@ -14,7 +14,7 @@
   "volume": "Volume Transazione",
   "blockError": "Block Error",
   "block": {
-    "metaTitle": "Near Block {{block}} | Near Blocks",
+    "metaTitle": "Near Block {{block}} | NearBlocks",
     "metaDescription": "Altezza Blocco Near {{block}}. Il timestamp, gas utilizzato, prezzo gas, autore, numero di transazioni e ricevute nel blocco sono specificate su Near.",
     "heading": "Blocco <0>#{{block}}</0>",
     "height": "Altezza Blocco",

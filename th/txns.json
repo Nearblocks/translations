@@ -1,5 +1,5 @@
 {
-  "metaTitle": "ธุรกรรมบน Near ล่าสุด | Near Blocks",
+  "metaTitle": "ธุรกรรมบน Near ล่าสุด | NearBlocks",
   "metaDescription": "ธุรกรรมบน Near ทั้งหมดที่ถูกยืนยันบนบล็อกเชน Near โดยจะแสดงธุรกรรมทั้งหมดที่มีการแลกเปลี่ยน Near และรายละเอียดเพิ่มเติมของธุรกรรรมนั้นๆ",
   "heading": "ธุรกรรม Near Protocol ล่าสุด",
   "listing": "พบธุรกรรมเป็นจำนวนกว่า {{count}} ธุรกรรม",
@@ -35,7 +35,7 @@
     "to": "ไปยัง:"
   },
   "txn": {
-    "metaTitle": "ธุรกรรม Near {{txn}} | Near Blocks",
+    "metaTitle": "ธุรกรรม Near {{txn}} | NearBlocks",
     "metaDescription": "รายละเอียดเพิ่มเติมของธุรกรรมบนบล็อกเชน Near {{txn}}.",
     "heading": "รายละเอียดธุรกรรม",
     "hash": {

@@ -1,5 +1,5 @@
 {
-  "metaTitle": "Tất cả giao dịch Near gần nhất | Near Blocks",
+  "metaTitle": "Tất cả giao dịch Near gần nhất | NearBlocks",
   "metaDescription": "Tất cả giao dịch đã được xác nhận trên Near Blockchain. Danh sách bao gồm các giao dịch gửi Near và chi tiết các giao dịch.",
   "heading": "Giao dịch gần đây nhất",
   "listing": "Đã tìm thấy hơn > {{count}} số giao dịch",
@@ -35,7 +35,7 @@
     "to": "Đến:"
   },
   "txn": {
-    "metaTitle": "Giao dịch Near {{txn}} | Near Blocks",
+    "metaTitle": "Giao dịch Near {{txn}} | NearBlocks",
     "metaDescription": "Thông tin chi tiết về giao dịch Near Blockchain {{txn}}.",
     "heading": "Thông tin chi tiết về giao dịch",
     "hash": {

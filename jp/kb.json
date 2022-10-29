@@ -1,0 +1,17 @@
+{
+    "metaTitle": "Nearチェーンエクスプローラー | NearBlocks",
+    "metaDescription": "NearBlocksは、スマートコントラクトプラットフォームであるNearにおけるエクスプローラーであり、分析プラットフォームである。 (Ⓝ)",
+    "kbTitle": "NEAR Blocks Knowledge Base & Information Center",
+    "search": "検索するタイプ",
+    "home": "家",
+    "published": "公開",
+    "lastUpdated": "最終更新日",
+    "kb": {
+        "metaTitle": "{{post}} | NearBlocks",
+        "metaDescription": "{{post}} | NearBlocks"
+    },
+    "article": {
+        "metaTitle": "{{slug}} | NearBlocks",
+        "metaDescription": "{{slug}} | NearBlocks"
+    }
+}
