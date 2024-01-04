@@ -16,14 +16,11 @@
   "block": {
     "metaTitle": "NEAR區塊#{{block}} | NearBlocks",
     "metaDescription": "NEAR區塊高度{{block}}. 區塊中的時間戳，使用的GAS，GAS價格，礦工，交易筆數和收款筆數等詳情都在NEAR上。",
-    "heading": "區塊 <0>#{{block}}</0>",
+    "heading": ["區塊", "#{{block}}"],
     "height": "區塊高度",
     "hash": "哈希值",
     "timestamp": "時間戳",
-    "transactions": [
-      "交易記錄",
-      "<0>{{txns}}筆交易</0>和{{receipts}}筆收款"
-    ],
+    "transactions": ["交易記錄", "{{txns}}筆交易", "和{{receipts}}筆收款"],
     "fees": "",
     "price": "Ⓝ價格",
     "proof": "證明",

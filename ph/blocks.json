@@ -15,13 +15,15 @@
   "blockError": "Block Error",
   "block": {
     "metaTitle": "Nearblock {{block}} | NearBlocks",
-    "metaDescription": "Nearblock Height {{block}}. Ang timestamp, block gas na ginamit, presyo ng gas, may-akda, bilang ng mga transaksyon at mga resibo sa block ay nakadetalye sa Near.",    "heading": "Block <0>#{{block}}</0>",
+    "metaDescription": "Nearblock Height {{block}}. Ang timestamp, block gas na ginamit, presyo ng gas, may-akda, bilang ng mga transaksyon at mga resibo sa block ay nakadetalye sa Near.",
+    "heading": ["Block", "#{{block}}"],
     "height": "Block Height",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "<0>{{txns}} mga transaction</0> at {{resibo}} resibo"
+      "{{txns}} mga transaction",
+      " at {{receipts}} resibo"
     ],
     "fees": "Bayarin",
     "price": "Ⓝ Price",

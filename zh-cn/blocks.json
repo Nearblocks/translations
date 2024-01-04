@@ -16,14 +16,11 @@
   "block": {
     "metaTitle": "NEAR 区块 {{block}} | NearBlocks",
     "metaDescription": "NEAR 区块高度： {{block}}。交易时间，使用的Gas，Gas价格，矿工，交易数量和交易回执详细记录在NEAR区块上。",
-    "heading": "区块 <0>#{{块}} </0>",
+    "heading": ["区块", "{{块}}"],
     "height": "区块高度",
     "hash": "交易 Hash",
     "timestamp": "区块时间",
-    "transactions": [
-      "交易",
-      "<0>{{txns}} 交易</0>和 {{receipts}} 回执"
-    ],
+    "transactions": ["交易", "{{txns}} 交易", "和 {{receipts}} 回执"],
     "fees": "费用",
     "price": "NEAR 价格",
     "proof": "证明",

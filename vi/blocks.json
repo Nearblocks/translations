@@ -16,13 +16,13 @@
   "block": {
     "metaTitle": "Near Block {{block}} | NearBlocks",
     "metaDescription": "Chiều cao khối NEAR {{block}}. Mốc thời gian, gas được sử dụng, giá gas, tác giả, số lượng giao dịch và biên nhận trong khối được nêu chi tiết trên Near.",
-    "heading": "Khối <0>#{{block}}</0>",
+    "heading": ["Khối", "#{{block}}"],
     "height": "Chiều cao Khối",
     "hash": "Hash",
     "timestamp": "Mốc thời gian",
     "transactions": [
       "Giao dịch",
-      "<0>{{txns}} Giao dịch</0> và {{receipts}} biên nhận"
+      "{{txns}} Giao dịch"," và {{receipts}} biên nhận"
     ],
     "fees": "Phí",
     "price": "Giá Ⓝ",

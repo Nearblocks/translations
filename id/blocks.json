@@ -16,13 +16,14 @@
   "block": {
     "metaTitle": "Dekat  Blok {{blok}} | NearBlocks",
     "metaDescription": "Dekat  Block Height {{block}}. Stempel waktu, gas blok yang digunakan, harga gas, penulis, jumlah transaksi dan tanda terima di blok dirinci pada Near.",
-    "heading": "Blokir <0>#{{blok}}</0>",
+    "heading": ["Blokir", "#{{blok}}"],
     "height": "Tinggi Blok",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "<0>{{txns}} transactions</0> and {{receipts}} receipts"
+      "{{txns}} transactions",
+      " and {{receipts}} receipts"
     ],
     "fees": "Fees",
     "price": "Ⓝ Price",
