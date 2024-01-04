@@ -16,14 +16,11 @@
   "block": {
     "metaTitle": "Nearブロック {{block}} | NearBlocks",
     "metaDescription": "Nearブロック高{{block}}。タイムスタンプ、使用したブロックGAS、GAS価格、生成者、ブロック内のトランザクション数、受領証の詳細がNearに表示されます。",
-    "heading": "ブロック <0>#{{block}}</0>",
+    "heading": ["ブロック", "#{{block}}"],
     "height": "ブロック高",
     "hash": "ハッシュ",
     "timestamp": "タイムスタンプ",
-    "transactions": [
-      "取引",
-      "<0>{{txns}} 取引</0> and {{receipts}} 受領証"
-    ],
+    "transactions": ["取引", "{{txns}} 取引", " and {{receipts}} 受領証"],
     "fees": "手数料",
     "price": "Ⓝ 価格",
     "proof": "証拠",

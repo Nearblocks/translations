@@ -16,13 +16,14 @@
   "block": {
     "metaTitle": "Near Block {{block}} | NearBlocks",
     "metaDescription": "Near Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
-    "heading": "Block <0>#{{block}}</0>",
+    "heading": ["Block", "#{{block}}"],
     "height": "Block Height",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "<0>{{txns}} transactions</0> and {{receipts}} receipts"
+      "{{txns}} transactions",
+      " and {{receipts}} receipts"
     ],
     "fees": "Fees",
     "price": "Ⓝ Price",

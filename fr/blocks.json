@@ -16,13 +16,14 @@
   "block": {
     "metaTitle": "Bloc de Near {{block}} | NearBlocks",
     "metaDescription": "Hauteur du bloc Near {{block}}. l'horodatage, le bloc de gas utilisé, le prix du gas, l'auteur, le nombre de transactions et de reçus dans le bloc sont détaillés sur Near.",
-    "heading": "Bloc <0>#{{block}}</0>",
+    "heading": ["Bloc", "#{{block}}"],
     "height": "Hauteur de bloc",
     "hash": "Hashage",
     "timestamp": "Horodatage",
     "transactions": [
       "Transactions",
-      "<0>{{txns}} transactions</0> et {{receipts}} Reçus"
+      "{{txns}} transactions",
+      " et {{receipts}} Reçus"
     ],
     "fees": "Frais",
     "price": "Ⓝ Prix",

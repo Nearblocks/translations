@@ -16,14 +16,11 @@
   "block": {
     "metaTitle": "블록 {{block}} | 블록 근처",
     "metaDescription": "블록 높이 {{block}} 근처. 타임스탬프, 블록 가스 사용, 가스 가격, 저자, 거래 수 및 영수증은 Near에 자세히 설명되어 있습니다.",
-    "heading": "블록 <0>#{{block}}</0>",
+    "heading": ["블록", "#{{block}}"],
     "height": "블록 높이",
     "hash": "해시",
     "timestamp": "타임 스탬프",
-    "transactions": [
-      "트랜잭션을",
-      "<0>{{txns}} 거래</0> 및 {{receipts}} 영수증"
-    ],
+    "transactions": ["트랜잭션을", "{{txns}} 거래", " 및 {{receipts}} 영수증"],
     "fees": "수수료",
     "price": "가격",
     "proof": "증거",
