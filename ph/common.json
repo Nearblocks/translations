@@ -46,10 +46,11 @@
       "contact": "Contact",
       "terms": "Terms",
       "charts": "Charts & Stats",
-      "api": "APIs",
+      "api": "NEAR Indexer APIs",
       "kb": "Knowledge Base",
       "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "buySell": "Buy, Sell & Trade",
+      "nearValidator": "NEAR Validator list"
     }
   },
   "sponsored": "Sponsored",

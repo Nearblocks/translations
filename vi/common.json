@@ -33,7 +33,7 @@
     "noResults": "Không có kết quả"
   },
   "footer": {
-    "description": "NearBlocks là một Blockchain Explorer và nền tảng phân tích cho Near Protocol, một nền tảng blockchain và hợp đồng thông minh mới.",
+    "description": "NEAR Blocks là trình khám phá blockchain hàng đầu dành riêng cho hệ sinh thái NEAR. Được hỗ trợ bởi giao thức NEAR.",
     "poweredBy": "Cung cấp bởi",
     "links": {
       "explore": "Khám phá",
@@ -43,13 +43,14 @@
       "company": "Công ty",
       "about": "Về chúng tôi",
       "advertise": "Quảng cáo",
-      "contact": "Liên hệ",
+      "contact": "API trình lập chỉ mục NEAR",
       "terms": "Điều khoản",
       "charts": "Biểu đồ và thống kê",
       "api": "APIs",
       "kb": "Kiến thức cơ bản ",
       "fundamentals": "Nền tảng ",
-      "buySell": "Mua bán & trao đổi"
+      "buySell": "Mua bán & trao đổi",
+      "nearValidator": "NEAR danh sách Trình xác thực"
     }
   },
   "sponsored": "Tài trợ bởi",

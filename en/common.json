@@ -33,7 +33,7 @@
     "noResults": "No results"
   },
   "footer": {
-    "description": "NearBlocks is a Blockchain Explorer and Analytics Platform for Near Protocol, a new blockchain and smart transaction platform.",
+    "description": "NEAR Blocks is the leading blockchain explorer dedicated to the NEAR ecosystem. Powered by NEAR Protocol.",
     "poweredBy": "Powered by",
     "links": {
       "explore": "Explore",
@@ -46,10 +46,11 @@
       "contact": "Contact",
       "terms": "Terms",
       "charts": "Charts & Stats",
-      "api": "APIs",
+      "api": "NEAR Indexer APIs",
       "kb": "Knowledge Base",
       "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade"
+      "buySell": "Buy, Sell & Trade",
+      "nearValidator": "NEAR Validator list"
     }
   },
   "sponsored": "Sponsored",

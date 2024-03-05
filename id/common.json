@@ -33,7 +33,7 @@
     "noResults": "No results"
   },
   "footer": {
-    "description": "NearBlocks adalah Blockchain Explorer dan Analytics Platform untuk Near Protocol, blockchain baru dan platform transaksi cerdas.",
+    "description": "Blok NEAR adalah penjelajah blockchain terkemuka yang didedikasikan untuk ekosistem NEAR. Didukung oleh Protokol NEAR.",
     "poweredBy": "Didukung oleh",
     "links": {
       "explore": "Menjelajahi",
@@ -46,10 +46,11 @@
       "contact": "Kontak",
       "terms": "Istilah",
       "charts": "Bagan & Statistik",
-      "api": "Api",
+      "api": "API Pencari NEAR",
       "kb": "Basis Pengetahuan",
       "fundamentals": "Dasar",
-      "buySell": "Beli, Jual & Perdagangan"
+      "buySell": "Beli, Jual & Perdagangan",
+      "nearValidator": "Daftar Pemeriksa NEAR"
     }
   },
   "sponsored": "赞助",
