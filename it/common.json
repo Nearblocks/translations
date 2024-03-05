@@ -46,10 +46,11 @@
       "contact": "Contatta",
       "terms": "Termini",
       "charts": "Grafici e Statistiche",
-      "api": "API",
+      "api": "NEAR API dell'indicizzatore",
       "kb": "Base di conoscenza",
       "fundamentals": "Principi fondamentali",
-      "buySell": "Compra, Vendi e Scambia"
+      "buySell": "Compra, Vendi e Scambia",
+      "nearValidator": "NEAR Elenco dei validatori"
     }
   },
   "sponsored": "Sponsorizzato",

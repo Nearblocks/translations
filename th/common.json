@@ -33,7 +33,7 @@
     "noResults": "ไม่พบผลลัพธ์"
   },
   "footer": {
-    "description": "NearBlocks คือแพลตฟอร์มให้บริการ Block Explorer และ Analytics บนบล็อกเชน Near (Ⓝ) ซึ่งเป็นแพลตฟอร์ม Smart Contract แห่งใหม่ของวงการคริปโต",
+    "description": "NEAR Blocks เป็นตัวสำรวจบล็อกเชนที่นำทางไปทางด้าน NEAR ecosystem อันน่าเชื่อถือที่สุด ที่มีการขับเคลื่อนโดย NEAR Protocol",
     "poweredBy": "Powered by",
     "links": {
       "explore": "สำรวจ",
@@ -46,10 +46,11 @@
       "contact": "ติดต่อ",
       "terms": "ข้อกำหนด",
       "charts": "กราฟ และสถิติ",
-      "api": "API",
+      "api": "API ดัชนี NEAR",
       "kb": "คลังความรู้",
       "fundamentals": "พื้นฐาน",
-      "buySell": "ซื้อ ขาย และเทรด"
+      "buySell": "ซื้อ ขาย และเทรด",
+      "nearValidator": "รายชื่อ NEAR Validator"
     }
   },
   "sponsored": "สนับสนุนโดย",

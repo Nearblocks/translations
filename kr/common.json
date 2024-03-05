@@ -33,7 +33,7 @@
     "noResults": "No results"
   },
   "footer": {
-    "description": "NearBlocks는 새로운 블록 체인 및 스마트 트랜잭션 플랫폼인 Near Protocol을 위한 블록 체인 탐색기 및 분석 플랫폼입니다.",
+    "description": "NEAR Blocks는 NEAR 생태계 전용의 선도적인 블록체인 탐색기입니다. NEAR 프로토콜로 구동됩니다.",
     "poweredBy": "동력으로",
     "links": {
       "explore": "탐험하다",
@@ -46,10 +46,11 @@
       "contact": "접촉",
       "terms": "용어",
       "charts": "차트 및 통계",
-      "api": "API",
+      "api": "NEAR 인덱서 API",
       "kb": "지식 자료",
       "fundamentals": "기본",
-      "buySell": "구매, 판매 및 거래"
+      "buySell": "구매, 판매 및 거래",
+      "nearValidator": "NEAR 검증인 목록"
     }
   },
   "sponsored": "스폰서",

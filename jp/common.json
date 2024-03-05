@@ -33,7 +33,7 @@
     "noResults": "結果がありません"
   },
   "footer": {
-    "description": "NearBlocksは、新しいブロックチェーンとスマートトランザクションのプラットフォームであるNear Protocolのためのブロックチェーンエクスプローラーとアナリティクスプラットフォームです。",
+    "description": "NEAR Blocks は、NEAR エコシステム専用の主要なブロックチェーン エクスプローラーです。 NEARプロトコルを採用。",
     "poweredBy": "によって提供されています",
     "links": {
       "explore": "探す",
@@ -46,10 +46,11 @@
       "contact": "お問い合わせ",
       "terms": "利用規約",
       "charts": "チャート&スタッツ",
-      "api": "APIs",
+      "api": "NEAR インデクサー API",
       "kb": "ナレッジベース",
       "fundamentals": "ファンダメンタルズ",
-      "buySell": "買う、売る＆トレード"
+      "buySell": "買う、売る＆トレード",
+      "nearValidator": "NEAR バリデーターリスト"
     }
   },
   "sponsored": "スポンサード",

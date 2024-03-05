@@ -33,7 +33,7 @@
     "noResults": "抱歉，未找到对应结果"
   },
   "footer": {
-    "description": "NEAR Blocks是一个NEAR区块链浏览器和数据分析平台，NEAR是一个新的区块链和智能交易平台。",
+    "description": "NEAR Blocks 是致力于 NEAR 生态系统的领先区块链浏览器。由 NEAR 协议提供支持。",
     "poweredBy": "poweredBy",
     "links": {
       "explore": "探索",
@@ -46,10 +46,11 @@
       "contact": "联系我们",
       "terms": "条款",
       "charts": "图表和统计",
-      "api": "API",
+      "api": "NEAR 索引器 API",
       "kb": "知识库",
       "fundamentals": "基础",
-      "buySell": "购买，出售和交易"
+      "buySell": "购买，出售和交易",
+      "nearValidator": "NEAR 验证者列表"
     }
   },
   "sponsored": "赞助",

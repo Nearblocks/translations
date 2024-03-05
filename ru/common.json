@@ -33,7 +33,7 @@
     "noResults": "No results"
   },
   "footer": {
-    "description": "NearBlocks - это blockchain Explorer and Analytics Platform for Near Protocol, новая платформа блокчейна и интеллектуальных транзакций.",
+    "description": "NEAR Blocks — ведущий исследователь блокчейнов, посвященный экосистеме NEAR. Работает по протоколу NEAR.",
     "poweredBy": "Руководствовался",
     "links": {
       "explore": "Исследовать",
@@ -46,10 +46,11 @@
       "contact": "Контакт",
       "terms": "Условия",
       "charts": "Чарты и статистика",
-      "api": "Пчела",
+      "api": "API-интерфейсы индексатора NEAR",
       "kb": "База знаний",
       "fundamentals": "Основы",
-      "buySell": "Покупка, продажа и торговля"
+      "buySell": "Покупка, продажа и торговля",
+      "nearValidator": "Список валидаторов NEAR"
     }
   },
   "sponsored": "Спонсированные",

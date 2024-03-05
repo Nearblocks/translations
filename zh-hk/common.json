@@ -33,7 +33,7 @@
     "noResults": "找不到結果"
   },
   "footer": {
-    "description": "Near Blocks是去中心化智能合約平台的NEAR區塊鏈上領先的區塊鏈瀏覽器，搜尋，數據接口和分析平台。",
+    "description": "NEAR Blocks 是致力於 NEAR 生態系統的領先區塊鏈瀏覽器。由 NEAR 協議提供支援。",
     "poweredBy": "技術支持：",
     "links": {
       "explore": "瀏覽",
@@ -46,10 +46,11 @@
       "contact": "聯繫方式",
       "terms": "條款",
       "charts": "圖表及數據",
-      "api": "數據接口",
+      "api": "NEAR 索引器 API",
       "kb": "知識庫",
       "fundamentals": "基本面",
-      "buySell": "買，賣和交易"
+      "buySell": "買，賣和交易",
+      "nearValidator": "NEAR 驗證者列表"
     }
   },
   "sponsored": "贊助",
