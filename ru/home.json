@@ -1,16 +1,16 @@
 {
-  "metaTitle": "Рядом с обозревателем протоколов | Рядом с блоками",
+  "metaTitle": "Near Protocol Explorer | NearBlocks",
   "metaDescription": "Near Blocks - это Block Explorer и аналитическая платформа для Near blockchain (Ⓝ), новой платформы блокчейна и интеллектуальных транзакций.",
-  "heroTitle": "Рядом с обозревателем протоколов",
-  "nearPrice": "Цена рядом",
-  "nearFarmed": "Рядом с фермой",
+  "heroTitle": "Near Protocol Explorer",
+  "nearPrice": "Цена Near",
+  "nearFarmed": "Сфармленный Near",
   "difficulty": "Трудность",
   "mempoolSize": "Размер Мемпула",
   "currentBlock": "Текущий блок",
   "netspace": "Сетевое пространство",
   "transactionHistory": "Рядом с историей транзакций в {{days}} дней",
   "banner": {
-    "title": "Здесь начинается близкая экосистема",
+    "title": "Здесь начинается экосистема Near",
     "description": "У вас есть продукт или услуга, связанная с Near? Свяжитесь с нами и получите доступ к просмотру номера # 1 Near blockchain explorer для Near."
   },
   "latestBlocks": "Последние блоки",
