@@ -23,8 +23,8 @@
   "blockHeight": "Висота блоку",
   "from": "Від",
   "to": "До",
-  "txnIn": "У",
-  "txnOut": "ВІД",
+  "txnIn": "ВХІД",
+  "txnOut": "ВИХІД",
   "amount": "Кількість",
   "filter": {
     "placeholder": "Пошук за адресою, наприклад  Ⓝ..",
