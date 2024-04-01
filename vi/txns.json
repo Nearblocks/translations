@@ -30,9 +30,9 @@
     "placeholder": "Tìm bằng địa chỉ v.d. Ⓝ..",
     "filter": "Bộ lọc",
     "clear": "Làm trống",
-    "by": "Lọc:",
-    "from": "Từ:",
-    "to": "Đến:"
+    "by": "Lọc",
+    "from": "Từ",
+    "to": "Đến"
   },
   "txn": {
     "metaTitle": "Giao dịch Near {{txn}} | NearBlocks",

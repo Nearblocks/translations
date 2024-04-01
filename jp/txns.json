@@ -30,9 +30,9 @@
     "placeholder": "アドレスで探す e.g. Ⓝ..",
     "filter": "フィルター",
     "clear": "クリア",
-    "by": "で抽出する:",
-    "from": "から:",
-    "to": "へ:"
+    "by": "で抽出する",
+    "from": "から",
+    "to": "へ"
   },
   "txn": {
     "metaTitle": "NEARでの取引 {{txn}} | NearBlocks",

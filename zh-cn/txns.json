@@ -30,9 +30,9 @@
     "placeholder": "按地址搜索，例如Ⓝ..",
     "filter": "过滤器",
     "clear": "清除",
-    "by": "过滤条件：",
-    "from": "从：",
-    "to": "自："
+    "by": "过滤条件",
+    "from": "从",
+    "to": "自"
   },
   "txn": {
     "metaTitle": "NEAR Transaction {{txn}} | NearBlocks",

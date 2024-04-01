@@ -30,9 +30,9 @@
     "placeholder": "Search by address e.g. Ⓝ..",
     "filter": "Filter",
     "clear": "Clear",
-    "by": "Filtered By:",
-    "from": "From:",
-    "to": "To:"
+    "by": "Filtered By",
+    "from": "From",
+    "to": "To"
   },
   "txn": {
     "metaTitle": "Transaksyon ng Near {{txn}} | NearBlocks",

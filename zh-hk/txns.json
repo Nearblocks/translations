@@ -30,9 +30,9 @@
     "placeholder": "以地址搜尋，如Ⓝ..",
     "filter": "籂選",
     "clear": "清除",
-    "by": "籂選條件：",
-    "from": "由：",
-    "to": "至："
+    "by": "籂選條件",
+    "from": "由",
+    "to": "至"
   },
   "txn": {
     "metaTitle": "NEAR交易 {{txn}} | NearBlocks",

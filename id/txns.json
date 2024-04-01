@@ -30,9 +30,9 @@
     "placeholder": "Cari berdasarkan alamat misalnya  Ⓝ ..",
     "filter": "Saringan",
     "clear": "Jelas",
-    "by": "Disaring oleh:",
-    "from": "Dari:",
-    "to": "Ke:"
+    "by": "Disaring oleh",
+    "from": "Dari",
+    "to": "Ke"
   },
   "txn": {
     "metaTitle": "Near (N) Transaction {{txn}} | NearBlocks",
