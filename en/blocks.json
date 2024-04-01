@@ -30,10 +30,10 @@
     "proof": "Proof",
     "gasUsed": "GAS Used",
     "gasPrice": "GAS Price",
-    "parenthash": "Parent hash",
+    "parenthash": "Parent Hash",
     "author": "Author",
     "receipt": "Receipt",
-    "gasLimit": "Gas limit",
+    "gasLimit": "Gas Limit",
     "gasFee": "Gas Fee"
   },
   "testnetNotice": "[ This is a Testnet block only ]",
