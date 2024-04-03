@@ -12,7 +12,7 @@
   "tag": "Tag:",
   "links": "Link Verificati:",
   "requestChange": "Richiedi cambio",
-  "txns": "Transazioni",  
+  "txns": "Transazioni",
   "none": "Nessuno",
   "comments": "Commenti",
   "latestRecords": "Ultimi 25 Trasferimenti di Token",
@@ -27,5 +27,7 @@
   "hash": "Hash di transazione",
   "locked": "Bloccati",
   "codeHash": "Codice hash",
-  "tokenTxns": "Txns di Token"
+  "tokenTxns": "Txns di Token",
+  "nftTokenTxns": "NFT Token Txns",
+  "accessKeys": "Kunci Akses"
 }

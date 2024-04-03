@@ -30,9 +30,9 @@
     "placeholder": "Rechercher par adresse e.g. Ⓝ..",
     "filter": "Filtre",
     "clear": "claire",
-    "by": "Filtré par:",
-    "from": "De:",
-    "to": "À:"
+    "by": "Filtré par",
+    "from": "De",
+    "to": "À"
   },
   "txn": {
     "metaTitle": "Near Transaction {{txn}} | NearBlocks",

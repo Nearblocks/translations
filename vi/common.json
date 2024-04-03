@@ -12,7 +12,8 @@
       "toptoken": "Top Tokens",
       "viewTokenTrasfers": "View Token Transfers",
       "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "View NFT Transfers"
+      "viewNftTrasfers": "View NFT Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {

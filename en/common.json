@@ -10,9 +10,10 @@
       "topAccounts": "Top Accounts",
       "tokens": "Tokens",
       "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers",
+      "viewTokenTrasfers": "Token Transfers",
       "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "View NFT Transfers"
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {

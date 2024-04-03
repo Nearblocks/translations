@@ -27,5 +27,7 @@
   "hash": "交易哈希",
   "locked": "锁定",
   "codeHash": "代码哈希", 
-  "tokenTxns": "代币交易Hash"
+  "tokenTxns": "代币交易Hash",
+  "nftTokenTxns": "NFT 代币交易",
+  "accessKeys": "访问键"
 }

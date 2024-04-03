@@ -27,5 +27,7 @@
   "hash": "Hash de Transacción",
   "locked": "Bloqueado",
   "codeHash": "Hash de Código",
-  "tokenTxns": "Transacciones de tokens"
+  "tokenTxns": "Transacciones de tokens",
+  "nftTokenTxns": "NFT Token Txns",
+  "accessKeys": "Access Keys"
 }

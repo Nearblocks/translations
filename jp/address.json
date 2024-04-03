@@ -12,7 +12,7 @@
   "tag": "タグ:",
   "links": "リンク:",
   "requestChange": "変更",
-  "txns": "取引",  
+  "txns": "取引",
   "none": "皆無",
   "comments": "コメント",
   "latestRecords": "直近25回のトークン送信履歴",
@@ -27,5 +27,7 @@
   "hash": "取引ハッシュ",
   "locked": "ロックされている",
   "codeHash": "コードハッシュ",
-  "tokenTxns": "トークン取引"
+  "tokenTxns": "トークン取引",
+  "nftTokenTxns": "NFTトークン送信",
+  "accessKeys": "アクセスキー"
 }

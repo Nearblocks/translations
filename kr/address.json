@@ -27,5 +27,7 @@
   "hash": "트랜잭션 해시",
   "locked": "잠긴",
   "codeHash": "코드 해시",
-  "tokenTxns": "토큰 트랜잭션"
+  "tokenTxns": "토큰 트랜잭션",
+  "nftTokenTxns": "NFT 토큰 거래",
+  "accessKeys": "액세스 키"
 }

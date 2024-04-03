@@ -27,5 +27,7 @@
   "hash": "Хеш транзакцій",
   "locked": "Заблокований",
   "codeHash": "Хеш коду",
-  "tokenTxns": "Транзакції токенами"
+  "tokenTxns": "Транзакції токенами",
+  "nftTokenTxns": "Txns токенів NFT",
+  "accessKeys": "Ключі доступу"
 }
