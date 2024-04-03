@@ -12,7 +12,7 @@
   "tag": "Tag:",
   "links": "Links đã được xác thực:",
   "requestChange": "Yêu cầu thay đổi",
-  "txns": "Giao dịch",  
+  "txns": "Giao dịch",
   "none": "Không có",
   "comments": "Bình luận",
   "latestRecords": "25 sự kiện giao dịch token gần nhất",
@@ -27,5 +27,7 @@
   "hash": "Băm của Giao dịch",
   "locked": "Khóa",
   "codeHash": "Mã Băm",
-  "tokenTxns": "Giao dịch token"
+  "tokenTxns": "Giao dịch token",
+  "nftTokenTxns": "Mã thông báo NFT Txns",
+  "accessKeys": "Phím truy cập"
 }

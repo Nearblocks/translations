@@ -12,7 +12,8 @@
       "toptoken": "最佳代币",
       "viewTokenTrasfers": "查看 Token 交易",
       "topnft": "最佳 NFT",
-      "viewNftTrasfers": "查看 NFT 交易"
+      "viewNftTrasfers": "查看 NFT 交易",
+      "nodeExplorer": "节点浏览器"
     }
   },
   "search": {

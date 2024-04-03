@@ -12,7 +12,7 @@
   "tag": "Tag:",
   "links": "Liens vérifiés:",
   "requestChange": "Demander un changement",
-  "txns": "Transactions",  
+  "txns": "Transactions",
   "none": "Rien",
   "comments": "commentaires",
   "latestRecords": "25 derniers événements de transfert de jetons",
@@ -26,5 +26,8 @@
   "lastUpdated": "Dernière mise à jour",
   "hash": "Hachage de la transaction",
   "locked": "Fermé",
-  "codeHash": "Hachage de code"
+  "codeHash": "Hachage de code",
+  "tokenTxns": "Txns de jeton",
+  "nftTokenTxns": "Txns de jeton NFT",
+  "accessKeys": "Clés d'accès"
 }
