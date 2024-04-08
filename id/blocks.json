@@ -1,6 +1,6 @@
 {
   "metaTitle": "Semua Blok Terbaru Dekat  | NearBlocks",
-  "metaDescription": "Semua Blok Dekat  yang disertakan dalam Near blockchain. Stempel waktu, penulis, gas yang digunakan, harga gas dan termasuk transaksi ditampilkan.",
+  "metaDescription": "Semua Blok Dekat yang disertakan dalam Near blockchain. Stempel waktu, penulis, gas yang digunakan, harga gas dan termasuk transaksi ditampilkan.",
   "heading": "Blok Protokol Dekat Terbaru",
   "listing": "Blokir #{{from}} ke #{{{to}} (Total blok {{count}} )",
   "blocks": "Halangi",
@@ -14,7 +14,7 @@
   "volume": "Volume Transaksi",
   "blockError": "Blokir Kesalahan",
   "block": {
-    "metaTitle": "Dekat  Blok {{blok}} | NearBlocks",
+    "metaTitle": "Dekat Blok {{blok}} | NearBlocks",
     "metaDescription": "Dekat  Block Height {{block}}. Stempel waktu, gas blok yang digunakan, harga gas, penulis, jumlah transaksi dan tanda terima di blok dirinci pada Near.",
     "heading": ["Blokir", "#{{blok}}"],
     "height": "Tinggi Blok",
@@ -29,11 +29,11 @@
     "price": "Ⓝ Price",
     "proof": "Bukti",
     "gasUsed": "GAS yang Digunakan",
-    "gasPrice": "Harga GAS",
-    "parenthash": "Hash induk",
+    "gasPrice": "Harga Gas",
+    "parenthash": "Hash Induk",
     "author": "Pengarang",
     "receipt": "Kwitansi",
-    "gasLimit": "Batas gas",
+    "gasLimit": "Batas Gas",
     "gasFee": "Biaya Gas"
   },
   "testnetNotice": "[ Ini hanya blok Testnet ]",

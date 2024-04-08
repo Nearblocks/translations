@@ -12,7 +12,7 @@
   "tag": "標籤：",
   "links": "已驗證的連結：",
   "requestChange": "申請更改",
-  "txns": "交易記錄",  
+  "txns": "交易記錄",
   "none": "無",
   "comments": "留言",
   "latestRecords": "最新的25筆代幣轉帳記錄",
@@ -27,5 +27,7 @@
   "hash": "交易記錄哈希值",
   "locked": "已鎖定",
   "codeHash": "代碼哈希值",
-  "tokenTxns": "代幣轉帳記錄"
+  "tokenTxns": "代幣轉帳記錄",
+  "nftTokenTxns": "NFT 代幣交易",
+  "accessKeys": "存取鍵"
 }

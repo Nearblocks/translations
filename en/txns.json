@@ -1,7 +1,7 @@
 {
   "metaTitle": "All Latest Near Protocol transactions | NearBlocks",
   "metaDescription": "All Latest Near Protocol transactions confirmed on Near Blockchain. The list consists of transactions from sending Near and the transactions details for each transaction.",
-  "heading": "Latest Near Protocol transactions",
+  "heading": "Latest Near Protocol Transactions",
   "listing": "More than > {{count}} transactions found",
   "listingToken": "More than > {{count}} Token transfers found",
   "hash": "Txn Hash",
@@ -30,9 +30,9 @@
     "placeholder": "Search by address e.g. Ⓝ..",
     "filter": "Filter",
     "clear": "Clear",
-    "by": "Filtered By:",
-    "from": "From:",
-    "to": "To:"
+    "by": "Filtered By",
+    "from": "From",
+    "to": "To"
   },
   "txn": {
     "metaTitle": "Near Transaction {{txn}} | NearBlocks",
@@ -58,7 +58,7 @@
     },
     "block": {
       "text": [
-        "Block height"
+        "Block Height"
       ],
       "tooltip": "The number of the block in which the transaction was recorded."
     },
@@ -76,7 +76,7 @@
     },
     "fee": {
       "text": [
-        "Transaction fee"
+        "Transaction Fee"
       ],
       "tooltip": "Total fee paid in NEAR to execute this transaction."
     },

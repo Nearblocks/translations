@@ -10,7 +10,8 @@
       "topAccounts": "Principaux comptes",
       "tokens": "Jetons",
       "toptoken": "ERC20 Principaux comptes",
-      "viewTokenTrasfers": "Voir les transferts ERC20"
+      "viewTokenTrasfers": "Voir les transferts ERC20",
+      "nodeExplorer": "Explorateur de nœuds"
     }
   },
   "search": {

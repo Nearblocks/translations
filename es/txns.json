@@ -30,24 +30,20 @@
     "placeholder": "Buscar por dirección p.e. Ⓝ..",
     "filter": "Filtro",
     "clear": "Limpiar",
-    "by": "Filtrado por:",
-    "from": "Desde:",
-    "to": "Hacia:"
+    "by": "Filtrado por",
+    "from": "Desde",
+    "to": "Hacia"
   },
   "txn": {
     "metaTitle": "Transacción de Near {{txn}} | NearBlocks",
     "metaDescription": "Información detallada por transacción de la cadena de bloques Near {{txn}}.",
     "heading": "Detalles de Transacción",
     "hash": {
-      "text": [
-        "Hash de Txn"
-      ],
+      "text": ["Hash de Txn"],
       "tooltip": "IdentifIcador único (hash) de ésta transacción."
     },
     "status": {
-      "text": [
-        "Estado"
-      ],
+      "text": ["Estado"],
       "status": {
         "NotStarted": "No iniciada",
         "Started": "Iniciada",
@@ -57,58 +53,39 @@
       "tooltip": "El estado de la transacción."
     },
     "block": {
-      "text": [
-        "Altura del Bloque"
-      ],
+      "text": ["Altura del Bloque"],
       "tooltip": "El número del bloque en el que la transacción fue grabada."
     },
     "timestamp": {
-      "text": [
-        "Marca de tiempo"
-      ],
+      "text": ["Marca de tiempo"],
       "tooltip": "Marca de tiempo de cuando esta transacción fue enviada."
     },
     "deposit": {
-      "text": [
-        "Valor de Depósito"
-      ],
+      "text": ["Valor de Depósito"],
       "tooltip": "Suma de todos los tokens NEAR transferidos desde la cuenta Firmante a la cuenta del Receptor. Esto incluye los tokens enviados en una acción de Transferencia y como depósitos en una acción de Llamada de Función."
     },
     "fee": {
-      "text": [
-        "Tarifa de Transacción"
-      ],
+      "text": ["Tarifa de Transacción"],
       "tooltip": "Tarifa total pagada en NEAR para ejecutar esta transacción."
     },
     "price": {
-      "text": [
-        "Precio Ⓝ"
-      ],
+      "text": ["Precio Ⓝ"],
       "tooltip": "Precio de cierre de Ⓝ en la fecha de la transacción"
     },
     "from": {
-      "text": [
-        "From"
-      ],
+      "text": ["From"],
       "tooltip": "Cuenta que firma y enviar la transacción"
     },
     "to": {
-      "text": [
-        "Hacia"
-      ],
+      "text": ["Hacia"],
       "tooltip": "Cuenta recibiendo la transacción."
     },
     "type": {
-      "text": [
-        "Tipo",
-        "Transaction"
-      ],
+      "text": ["Tipo", "Transaction"],
       "tooltip": "Tipo de transacción."
     },
     "gas": {
-      "text": [
-        "Límite y Uso de Gas por Txn"
-      ],
+      "text": ["Límite y Uso de Gas por Txn"],
       "tooltip": "Cantidad máxima de gas asignado para la transacción & la cantidad eventualmente usada."
     },
     "parentCoin": "Moneda Pariente",
@@ -118,15 +95,11 @@
     "claimToken": "Token de Reclamo",
     "token": "Token",
     "burnt": {
-      "text": [
-        "Gas & Tokens quemados por Txn"
-      ],
+      "text": ["Gas & Tokens quemados por Txn"],
       "tooltip": "Cantidad total de Gas & Token quemados de ésta transacción."
     },
     "actions": {
-      "text": [
-        "Acciones"
-      ],
+      "text": ["Acciones"],
       "tooltip": "Las acciones realizadas durante ésta transacción.",
       "addKey": [
         "Nueva llave",
@@ -137,34 +110,16 @@
         "para llamar",
         "métodos"
       ],
-      "createAccount": [
-        "Nueva Cuenta",
-        "creada"
-      ],
+      "createAccount": ["Nueva Cuenta", "creada"],
       "deleteAccount": [
         "Eliminar cuenta",
         "y transferir fondos restante hacia"
       ],
-      "deleteKey": [
-        "Llave",
-        "eliminada"
-      ],
-      "deployContract": [
-        "Contract",
-        "deployed"
-      ],
-      "functionCall": [
-        "Método llamado",
-        "en contrato"
-      ],
-      "stake": [
-        "Apostado",
-        "con"
-      ],
-      "transfer": [
-        "Transferido",
-        "hacia"
-      ]
+      "deleteKey": ["Llave", "eliminada"],
+      "deployContract": ["Contract", "deployed"],
+      "functionCall": ["Método llamado", "en contrato"],
+      "stake": ["Apostado", "con"],
+      "transfer": ["Transferido", "hacia"]
     },
     "tabs": {
       "overview": "Resumen",
@@ -172,55 +127,36 @@
       "comments": "Comentarios"
     },
     "receipts": {
-      "receipt":{
-        "text": [
-          "Recibo"
-        ],
+      "receipt": {
+        "text": ["Recibo"],
         "tooltip": "Identificador único (hash) de éste recibo."
       },
-      "block":{
-        "text": [
-          "Bloque"
-        ],
+      "block": {
+        "text": ["Bloque"],
         "tooltip": "El hash del bloque en el cual el recibido fue ejecutado."
       },
-      "from":{
-        "text": [
-          "Desde"
-        ],
+      "from": {
+        "text": ["Desde"],
         "tooltip": "La cuenta que emitió un recibo."
       },
-      "to":{
-        "text": [
-          "To"
-        ],
+      "to": {
+        "text": ["To"],
         "tooltip": "La cuenta de destino del recibo."
       },
       "burnt": {
-        "text": [
-          "Gas & Tokens quemados por el Recibo"
-        ],
+        "text": ["Gas & Tokens quemados por el Recibo"],
         "tooltip": "Cantidad total de Gas & Token quemados desde éste recibo."
       },
-      "actions":{
-        "text": [
-          "Acciones"
-        ],
+      "actions": {
+        "text": ["Acciones"],
         "tooltip": "Las acciones realizadas durante el procesamiento del recibo."
       },
-      "result":{
-        "text": [
-          "Resultado",
-          "Sin Resultado",
-          "Resultado Vácio"
-        ],
+      "result": {
+        "text": ["Resultado", "Sin Resultado", "Resultado Vácio"],
         "tooltip": "El resultado de la ejecución del recibo."
       },
-      "logs":{
-        "text": [
-          "Logeos",
-          "Sin Logeos"
-        ],
+      "logs": {
+        "text": ["Logeos", "Sin Logeos"],
         "tooltip": "Logeos incluidos en el recibo."
       }
     }

@@ -27,6 +27,8 @@
   "hash": "Hash transaksi",
   "locked": "Terkunci",
   "codeHash": "Hash kode",
-  "tokenTxns": "Transaksi Token"
+  "tokenTxns": "Transaksi Token",
+  "nftTokenTxns": "Txns de jeton NFT",
+  "accessKeys": "Clés d'accès"
 
 }

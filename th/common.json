@@ -12,7 +12,8 @@
       "toptoken": "โทเคนอันดับสูงสุด",
       "viewTokenTrasfers": "ดูการโอนย้ายโทเคน",
       "topnft": "โทเคน NFT",
-      "viewNftTrasfers": "ดูการโอนย้าย NFT"
+      "viewNftTrasfers": "ดูการโอนย้าย NFT",
+      "nodeExplorer": "โหนด Explorer"
     }
   },
   "search": {
