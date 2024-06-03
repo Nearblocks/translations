@@ -111,6 +111,10 @@
       ],
       "tooltip": "取引に割り当てられたGAS代の最大値と実際に使用されたGAS代"
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "親コイン",
     "childCoins": "子コイン",
     "siblingCoins": "兄弟コイン",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "概観",
       "execution": "実行",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "コメント"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "取引手数料",
   "txnSelf": "自分自身",
   "noTxns": "取引なし",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ これはテストネット取引のみ]"
 }

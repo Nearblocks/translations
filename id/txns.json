@@ -111,6 +111,10 @@
       ],
       "tooltip": "Jumlah maksimum gas yang dialokasikan untuk transaksi dan jumlah yang akhirnya digunakan."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Koin Induk",
     "childCoins": "Koin Anak",
     "siblingCoins": "Koin Saudara Kandung",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Biaya txn",
   "txnSelf": "Mandiri",
   "noTxns": "Tidak ada transaksi",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Ini hanya transaksi Testnet ]"
 }

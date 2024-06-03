@@ -37,8 +37,10 @@
     "author": "Автор",
     "receipt": "Квитанція",
     "gasLimit": "Ліміт Газу",
-    "gasFee": "Вартість Газу"
+    "gasFee": "Вартість Газу",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ Це лише Testnet блок]",
-  "noBlocks": "Немає блоків"
+  "noBlocks": "Немає блоків",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

@@ -111,6 +111,10 @@
       ],
       "tooltip": "Максимальное количество газа, выделенного для транзакции, и сумма, которая в конечном итоге используется."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Родительская монета",
     "childCoins": "Детские монеты",
     "siblingCoins": "Монеты братьев и сестер",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Комиссия за перевод",
   "txnSelf": "Самостоятельно",
   "noTxns": "Нет транзакции",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Это только транзакция Testnet ]"
 }

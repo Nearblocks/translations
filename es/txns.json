@@ -88,6 +88,10 @@
       "text": ["Límite y Uso de Gas por Txn"],
       "tooltip": "Cantidad máxima de gas asignado para la transacción & la cantidad eventualmente usada."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Moneda Pariente",
     "childCoins": "Monedas Hijas",
     "siblingCoins": "Monedas Hermanas",
@@ -124,6 +128,9 @@
     "tabs": {
       "overview": "Resumen",
       "execution": "Plan de Ejecución",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comentarios"
     },
     "receipts": {
@@ -166,5 +173,6 @@
   "txnFee": "Tarifa de Txn",
   "txnSelf": "Propia",
   "noTxns": "Sin transacciones",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Esta es solamente una transacción de Testnet ]"
 }

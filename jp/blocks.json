@@ -30,8 +30,10 @@
     "author": "生成者",
     "receipt": "受領証",
     "gasLimit": "Gas代上限",
-    "gasFee": "Gas代"
+    "gasFee": "Gas代",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ これはテストネットのブロックのみです ]",
-  "noBlocks": "ブロックがありません"
+  "noBlocks": "ブロックがありません",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

@@ -34,8 +34,10 @@
     "author": "Автор",
     "receipt": "Квитанция",
     "gasLimit": "Лимит газа",
-    "gasFee": "Плата за газ"
+    "gasFee": "Плата за газ",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ Это только блок Testnet ]",
-  "noBlocks": "Без блоков"
+  "noBlocks": "Без блоков",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

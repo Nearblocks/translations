@@ -111,6 +111,10 @@
       ],
       "tooltip": "เพดานค่าแก๊สสูงสุด และแก๊สที่ใช้จริงในการทำธุรกรรม"
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Parent คอยน์",
     "childCoins": "Child คอยน์",
     "siblingCoins": "Sibling คอยน์",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "ภาพรวม",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "ความคิดเห็น"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "ค่าธรรมเนียมธุรกรรม",
   "txnSelf": "Self",
   "noTxns": "ไม่พบธุรกรรม",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ นี่เป็นเพียงธุรกรรมบน Testnet เท่านั้น ]"
 }
