@@ -34,8 +34,10 @@
     "author": "Author",
     "receipt": "Receipt",
     "gasLimit": "Gas Limit",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ This is a Testnet block only ]",
-  "noBlocks": "No blocks"
+  "noBlocks": "No blocks",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

@@ -34,8 +34,10 @@
     "author": "ผู้สร้าง",
     "receipt": "ใบเสร็จ",
     "gasLimit": "แก๊สลิมิต",
-    "gasFee": "ค่าแก๊ส"
+    "gasFee": "ค่าแก๊ส",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ นี่เป็นเพียงบล็อกบน Testnet เท่านั้น ]",
-  "noBlocks": "ไม่มีบล็อก"
+  "noBlocks": "ไม่มีบล็อก",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

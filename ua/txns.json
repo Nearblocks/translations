@@ -111,6 +111,10 @@
       ],
       "tooltip": "Максимальна кількість газу, виділена для транзакції, та сума, яка в кінцевому підсумку використовується."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Parent Монета",
     "childCoins": "Child Монети",
     "siblingCoins": "Sibling Монети",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Огляд",
       "execution": "План Виконання",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Коментарі"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Комісія за транзакцію",
   "txnSelf": "Self",
   "noTxns": "Немає транзакцій",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Це лише Testnet транзакція ]"
 }

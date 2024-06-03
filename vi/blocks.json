@@ -33,8 +33,10 @@
     "author": "Tác giả",
     "receipt": "Biên nhận",
     "gasLimit": "Giới hạn Gas",
-    "gasFee": "Phí Gas"
+    "gasFee": "Phí Gas",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ Đây là khối Testnet! ]",
-  "noBlocks": "Không có khối"
+  "noBlocks": "Không có khối",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

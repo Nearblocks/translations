@@ -111,6 +111,10 @@
       ],
       "tooltip": "Maximum amount of gas allocated for the transaction & the amount eventually used."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Txn fee",
   "txnSelf": "Self",
   "noTxns": "No transactions",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ This is a Testnet transaction only ]"
 }

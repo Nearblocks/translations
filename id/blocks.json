@@ -34,8 +34,10 @@
     "author": "Pengarang",
     "receipt": "Kwitansi",
     "gasLimit": "Batas Gas",
-    "gasFee": "Biaya Gas"
+    "gasFee": "Biaya Gas",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ Ini hanya blok Testnet ]",
-  "noBlocks": "Tidak ada blok"
+  "noBlocks": "Tidak ada blok",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

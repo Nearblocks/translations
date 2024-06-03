@@ -111,6 +111,10 @@
       ],
       "tooltip": "Lượng Gas tối đa được phân bổ cho giao dịch và số lượng cuối cùng được sử dụng."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Coin mẫu",
     "childCoins": "Coin con",
     "siblingCoins": "Coin họ",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Tổng quát",
       "execution": "Kế hoạch thực hiện",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Bình luận"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Phí giao dịch",
   "txnSelf": "Bản thân",
   "noTxns": "Không có giao dịch",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Đây chỉ là giao dịch testnet ]"
 }

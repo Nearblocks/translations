@@ -34,8 +34,10 @@
     "author": "May-akda",
     "receipt": "Resibo",
     "gasLimit": "Limitasyon ng gas",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ Ito ay isang Testnet block lamang ]",
-  "noBlocks": "No blocks"
+  "noBlocks": "No blocks",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }

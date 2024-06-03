@@ -111,6 +111,10 @@
       ],
       "tooltip": "트랜잭션에 할당된 최대 가스 량및 결국 사용된 금액입니다."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "모시 코인",
     "childCoins": "어린이 동전",
     "siblingCoins": "형제 동전",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "송금수수료",
   "txnSelf": "자신",
   "noTxns": "거래 없음",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ 테스트넷 거래 전용 ]"
 }

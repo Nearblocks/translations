@@ -30,8 +30,10 @@
     "author": "礦工",
     "receipt": "收款",
     "gasLimit": "GAS限制",
-    "gasFee": "GAS費"
+    "gasFee": "GAS費",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ 這只是一個測試區塊 ]",
-  "noBlocks": "沒有區塊"
+  "noBlocks": "沒有區塊",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }
