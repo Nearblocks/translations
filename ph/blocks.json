@@ -2,7 +2,7 @@
   "metaTitle": "Lahat ng Near Latest Blocks | NearBlocks",
   "metaDescription": " Lahat ng NEAR(Ⓝ Blocks na kasama sa Near blockchain. Ang timestamp, may-akda, gas na ginamit, presyo ng gas at mga kasamang transaksyon ay ipinapakita.",
   "heading": "Pinakabagong Near Protocol Blocks",
-  "listing": "Block #{{mula sa}} sa #{{sa}} (Kalahatan ng {{bilang}} blocks)",
+  "listing": "Block #{mula sa} sa #{sa} (Kalahatan ng {bilang} blocks)",
   "blocks": "Block",
   "type": "Type",
   "typeBlock": "Block",
@@ -14,16 +14,16 @@
   "volume": "Dami ng Transaksyon",
   "blockError": "Block Error",
   "block": {
-    "metaTitle": "Nearblock {{block}} | NearBlocks",
-    "metaDescription": "Nearblock Height {{block}}. Ang timestamp, block gas na ginamit, presyo ng gas, may-akda, bilang ng mga transaksyon at mga resibo sa block ay nakadetalye sa Near.",
-    "heading": ["Block", "#{{block}}"],
+    "metaTitle": "Nearblock {block} | NearBlocks",
+    "metaDescription": "Nearblock Height {block}. Ang timestamp, block gas na ginamit, presyo ng gas, may-akda, bilang ng mga transaksyon at mga resibo sa block ay nakadetalye sa Near.",
+    "heading": ["Block", "#{block}"],
     "height": "Block Height",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "{{txns}} mga transaction",
-      " at {{receipts}} resibo"
+      "{txns} mga transaction",
+      " at {receipts} resibo"
     ],
     "fees": "Bayarin",
     "price": "Ⓝ Price",
