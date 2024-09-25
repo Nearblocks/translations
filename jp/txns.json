@@ -2,8 +2,8 @@
   "metaTitle": "直近の取引| NearBlocks",
   "metaDescription": "NEAR上で処理された取引一覧. 一覧にはNEARから送金された取引と個々の取引の詳細情報を含む",
   "heading": "最新の Near Protocol トランザクション",
-  "listing": "以上 > {{count}} 取引が見つかりました",
-  "listingToken": "以上 > {{count}} トークンの移動が見つかりました",
+  "listing": "以上 > {count , number} 取引が見つかりました",
+  "listingToken": "以上 > {count} トークンの移動が見つかりました",
   "hash": "取引のハッシュ値",
   "type": "タイプ",
   "typeTxn": "取引",
@@ -35,8 +35,8 @@
     "to": "へ"
   },
   "txn": {
-    "metaTitle": "NEARでの取引 {{txn}} | NearBlocks",
-    "metaDescription": "NEARの取引詳細情報{{txn}}.",
+    "metaTitle": "NEARでの取引 {txn} | NearBlocks",
+    "metaDescription": "NEARの取引詳細情報{txn}.",
     "heading": "取引詳細",
     "hash": {
       "text": [
@@ -225,7 +225,7 @@
       }
     }
   },
-  "info": "最新の記録のみ {{count}} を表示する",
+  "info": "最新の記録のみ {count} を表示する",
   "depositValue": "預金価値",
   "txnFee": "取引手数料",
   "txnSelf": "自分自身",

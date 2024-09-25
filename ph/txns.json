@@ -2,8 +2,8 @@
   "metaTitle": "Lahat ng NEAR sa Pinakabagong Transaksyon | NearBlocks",
   "metaDescription": "Lahat ng NEAR na Transaksyon ay nakumpirma sa Near Blockchain. Ang listahan ay binubuo ng mga transaksyon mula sa pagpapadala ng Near at ang mga detalye ng transaksyon para sa bawat transaksyon.",
   "heading": "Pinakabagong Near Protocol na mga transaksyon",
-  "listing": "More than > {{count}} transactions found",
-  "listingToken": "More than > {{count}} Token transfers found",
+  "listing": "More than > {count , number} transactions found",
+  "listingToken": "More than > {count} Token transfers found",
   "hash": "Txn Hash",
   "type": "Method",
   "typeTxn": "Transaction",
@@ -35,8 +35,8 @@
     "to": "To"
   },
   "txn": {
-    "metaTitle": "Transaksyon ng Near {{txn}} | NearBlocks",
-    "metaDescription": "Near Blockchain detalyadong impormasyon sa transaksyon {{txn}}.",
+    "metaTitle": "Transaksyon ng Near {txn} | NearBlocks",
+    "metaDescription": "Near Blockchain detalyadong impormasyon sa transaksyon {txn}.",
     "heading": "Detalye ng Transaksyon",
     "hash": {
       "text": [
@@ -225,7 +225,7 @@
       }
     }
   },
-  "info": "Ipinakita lamang ang huling {{count}} ng mga tala",
+  "info": "Ipinakita lamang ang huling {count} ng mga tala",
   "depositValue": "Deposit value",
   "txnFee": "Txn fee",
   "txnSelf": "Self",

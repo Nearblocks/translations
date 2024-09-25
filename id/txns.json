@@ -2,8 +2,8 @@
   "metaTitle": "Semua Transaksi NEAR | NearBlocks",
   "metaDescription": "Semua Transaksi NEAR dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
   "heading": "Transaksi Near Protocol terbaru",
-  "listing": "Lebih dari > {{count}} transaksi ditemukan",
-  "listingToken": "Lebih dari > {{count}} transaksi token ditemukan",
+  "listing": "Lebih dari > {count , number} transaksi ditemukan",
+  "listingToken": "Lebih dari > {count} transaksi token ditemukan",
   "hash": "Txn Hash",
   "type": "Metode",
   "typeTxn": "Transaksi",
@@ -35,8 +35,8 @@
     "to": "Ke"
   },
   "txn": {
-    "metaTitle": "Near (N) Transaction {{txn}} | NearBlocks",
-    "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {{txn}}.",
+    "metaTitle": "Near (N) Transaction {txn} | NearBlocks",
+    "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {txn}.",
     "heading": "Detail Transaksi",
     "hash": {
       "text": [
@@ -225,7 +225,7 @@
       }
     }
   },
-  "info": "Menampilkan catatan {{count}} terakhir saja",
+  "info": "Menampilkan catatan {count} terakhir saja",
   "depositValue": "Nilai setoran",
   "txnFee": "Biaya txn",
   "txnSelf": "Mandiri",
