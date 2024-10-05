@@ -2,7 +2,7 @@
   "metaTitle": "Todos los Últimos Bloques de Near | NearBlocks",
   "metaDescription": "Todos los Bloques de Near (Ⓝ que están incluidos en la cadena de bloques Near. La marca de tiempo, autor, gas usado, precio de gas y transacciones incluidas son mostradas.",
   "heading": "Últimos bloques de protocolo cercano",
-  "listing": "Bloque #{from} a #{to} (Total de {count , number} bloques)",
+  "listing": "Bloque #{from} a #{to} (Total de {count} bloques)",
   "blocks": "Bloques",
   "type": "Tipo",
   "typeBlock": "Bloque",
