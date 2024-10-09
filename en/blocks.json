@@ -1,5 +1,4 @@
 {
-  "blocks":{
   "metaTitle": "All Near Latest Protocol Blocks | NearBlocks",
   "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, author, gas used, gas price and included transactions are shown.",
   "heading": "Latest Near Protocol Blocks",
@@ -39,5 +38,4 @@
   },
   "testnetNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"
-  }
 }

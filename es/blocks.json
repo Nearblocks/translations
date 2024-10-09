@@ -1,5 +1,4 @@
 {
-  "blocks":{
   "metaTitle": "Todos los Últimos Bloques de Near | NearBlocks",
   "metaDescription": "Todos los Bloques de Near (Ⓝ que están incluidos en la cadena de bloques Near. La marca de tiempo, autor, gas usado, precio de gas y transacciones incluidas son mostradas.",
   "heading": "Últimos bloques de protocolo cercano",
@@ -39,5 +38,4 @@
   },
   "testnetNotice": "[ Este solamente es un bloque de Testnet ]",
   "noBlocks": "No hay bloques"
-  }
 }
