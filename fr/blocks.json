@@ -1,4 +1,5 @@
 {
+ "blocks":{
   "metaTitle": "Tous les derniers blocs Near | NearBlocks",
   "metaDescription": "Tous les Near (Ⓝ Blocs inclus dans Near blockchain. L'horodatage, l'auteur, le gas utilisé, le prix du gas et les transactions incluses sont affichés.",
   "heading": "Derniers blocs de protocole proche",
@@ -38,4 +39,5 @@
   },
   "testnetNotice": "[ Ceci est un bloc Testnet uniquement ]",
   "noBlocks": "Pas de blocs"
+ }
 }

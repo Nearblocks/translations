@@ -1,5 +1,6 @@
 {
-  "metaTitle": "Blocchi Near più recenti | NearBlocks",
+  "blocks" : {
+    "metaTitle": "Blocchi Near più recenti | NearBlocks",
   "metaDescription": "Tutti i Near (Ⓝ Blocchi inclusi nella Near Blockchain. Il timestamp, l'autore, quantità di gas utilizzato, prezzo del gas e le transazioni incluse sono mostrate.",
   "heading": "Gli ultimi Near Protocol Blocks",
   "listing": "Blocco #{from} a #{to} (Totale di {count} blocchi)",
@@ -38,4 +39,5 @@
   },
   "testnetNotice": "[ Questo è un blocco esclusivo del Testnet ]",
   "noBlocks": "Nessun blocco"
+  }
 }

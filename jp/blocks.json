@@ -1,4 +1,5 @@
 {
+ "blocks" : {
   "metaTitle": "Nearでの直近の取引 | NearBlocks",
   "metaDescription": "Nearチェーンに含まれる全てのNear（Ⓝブロック、タイムスタンプ、生成者、GASトークン、GAS代、トランザクションが表示される。",
   "heading": "最新の Near Protocol ブロッ​​ク",
@@ -34,4 +35,5 @@
   },
   "testnetNotice": "[ これはテストネットのブロックのみです ]",
   "noBlocks": "ブロックがありません"
+ }
 }

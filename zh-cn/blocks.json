@@ -1,4 +1,5 @@
 {
+ "blocks" : {
   "metaTitle": "NEAR 的最新区块 | NearBlocks",
   "metaDescription": "NEAR 区块链中包含的所有 NEAR 区块，显示区块时间、矿工、已使用的Gas、Gas价格和对应的交易记录。",
   "heading": "最新的 Near 协议块",
@@ -34,4 +35,5 @@
   },
   "testnetNotice": "[这只是一个测试网块]",
   "noBlocks": "没有区块"
+ }
 }

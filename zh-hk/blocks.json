@@ -1,4 +1,5 @@
 {
+ "blocks" : {
   "metaTitle": "所有NEAR最新的區塊 | NearBlocks",
   "metaDescription": "展示所有在NEAR區塊鏈上的NEARⓃ區塊，時間戳，礦工，使用的GAS，GAS價格和所包含的交易記錄。",
   "heading": "最新的 Near 協議塊",
@@ -34,4 +35,5 @@
   },
   "testnetNotice": "[ 這只是一個測試區塊 ]",
   "noBlocks": "沒有區塊"
+ }
 }
