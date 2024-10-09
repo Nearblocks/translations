@@ -1,7 +1,7 @@
 {
   "metaTitle": "Semua Blok Terbaru Dekat  | NearBlocks",
   "metaDescription": "Semua Blok Dekat yang disertakan dalam Near blockchain. Stempel waktu, penulis, gas yang digunakan, harga gas dan termasuk transaksi ditampilkan.",
-  "heading": "Blok Protokol Dekat Terbaru",
+  "blockHeading": "Blok Protokol Dekat Terbaru",
   "listing": "Blokir #{from} ke #{to} (Total blok {count} )",
   "blocks": "Halangi",
   "type": "Jenis",

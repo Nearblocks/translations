@@ -1,7 +1,7 @@
 {
   "metaTitle": "모든 근처 최신 블록 | 블록 근처",
   "metaDescription": "근처 블록 체인에 포함 된 모든 Near 블록. 타임스탬프, 저자, 가스 사용, 가스 가격 및 포함된 거래가 표시됩니다.",
-  "heading": "최신 근거리 프로토콜 블록",
+  "blockHeading": "최신 근거리 프로토콜 블록",
   "listing": "블록 #{from} #{to} ({count} 블록 합계)",
   "blocks": "차단",
   "type": "형",

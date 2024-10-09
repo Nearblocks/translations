@@ -1,7 +1,7 @@
 {
   "metaTitle": "Nearでの直近の取引 | NearBlocks",
   "metaDescription": "Nearチェーンに含まれる全てのNear（Ⓝブロック、タイムスタンプ、生成者、GASトークン、GAS代、トランザクションが表示される。",
-  "heading": "最新の Near Protocol ブロッ​​ク",
+  "blockHeading": "最新の Near Protocol ブロッ​​ク",
   "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)",
   "blocks": "ブロック",
   "type": "タイプ",
