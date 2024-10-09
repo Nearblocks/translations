@@ -34,7 +34,9 @@
     "author": "ผู้สร้าง",
     "receipt": "ใบเสร็จ",
     "gasLimit": "แก๊สลิมิต",
-    "gasFee": "ค่าแก๊ส"
+    "gasFee": "ค่าแก๊ส",
+    "listing": "บล็อก #{from} ไปยัง #{to} (เป็นจำนวน {count} บล็อก)"
+
   },
   "testnetNotice": "[ นี่เป็นเพียงบล็อกบน Testnet เท่านั้น ]",
   "noBlocks": "ไม่มีบล็อก"

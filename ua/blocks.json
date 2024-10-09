@@ -37,7 +37,8 @@
     "author": "Автор",
     "receipt": "Квитанція",
     "gasLimit": "Ліміт Газу",
-    "gasFee": "Вартість Газу"
+    "gasFee": "Вартість Газу",
+    "listing": "Блок #{from} до #{to} (Усього блоків {count})"
   },
   "testnetNotice": "[ Це лише Testnet блок]",
   "noBlocks": "Немає блоків"

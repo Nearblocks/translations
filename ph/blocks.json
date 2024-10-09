@@ -34,7 +34,9 @@
     "author": "May-akda",
     "receipt": "Resibo",
     "gasLimit": "Limitasyon ng gas",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "listing": "Block #{mula sa} sa #{sa} (Kalahatan ng {bilang} blocks)"
+
   },
   "testnetNotice": "[ Ito ay isang Testnet block lamang ]",
   "noBlocks": "No blocks"

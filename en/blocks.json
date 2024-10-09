@@ -34,7 +34,9 @@
     "author": "Author",
     "receipt": "Receipt",
     "gasLimit": "Gas Limit",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "listing": "Block #{from} to #{to} (Total of {count} blocks)"
+
   },
   "testnetNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"

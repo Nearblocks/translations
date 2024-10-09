@@ -33,7 +33,8 @@
     "author": "Tác giả",
     "receipt": "Biên nhận",
     "gasLimit": "Giới hạn Gas",
-    "gasFee": "Phí Gas"
+    "gasFee": "Phí Gas",
+    "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)"
   },
   "testnetNotice": "[ Đây là khối Testnet! ]",
   "noBlocks": "Không có khối"

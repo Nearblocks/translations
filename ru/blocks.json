@@ -34,7 +34,9 @@
     "author": "Автор",
     "receipt": "Квитанция",
     "gasLimit": "Лимит газа",
-    "gasFee": "Плата за газ"
+    "gasFee": "Плата за газ",
+    "listing": "Блок #{from} до #{to} (Всего блоков {count})"
+
   },
   "testnetNotice": "[ Это только блок Testnet ]",
   "noBlocks": "Без блоков"

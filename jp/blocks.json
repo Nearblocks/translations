@@ -30,7 +30,9 @@
     "author": "生成者",
     "receipt": "受領証",
     "gasLimit": "Gas代上限",
-    "gasFee": "Gas代"
+    "gasFee": "Gas代",
+    "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)"
+
   },
   "testnetNotice": "[ これはテストネットのブロックのみです ]",
   "noBlocks": "ブロックがありません"

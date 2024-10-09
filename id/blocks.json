@@ -34,7 +34,9 @@
     "author": "Pengarang",
     "receipt": "Kwitansi",
     "gasLimit": "Batas Gas",
-    "gasFee": "Biaya Gas"
+    "gasFee": "Biaya Gas",
+    "listing": "Blokir #{from} ke #{to} (Total blok {count} )"
+
   },
   "testnetNotice": "[ Ini hanya blok Testnet ]",
   "noBlocks": "Tidak ada blok"

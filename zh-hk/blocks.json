@@ -30,7 +30,9 @@
     "author": "礦工",
     "receipt": "收款",
     "gasLimit": "GAS限制",
-    "gasFee": "GAS費"
+    "gasFee": "GAS費",
+    "listing": "區塊#{from}至#{to}(共{count}區塊)"
+
   },
   "testnetNotice": "[ 這只是一個測試區塊 ]",
   "noBlocks": "沒有區塊"
