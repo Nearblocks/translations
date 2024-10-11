@@ -2,7 +2,7 @@
   "metaTitle": "所有最新的NEAR交易記錄 | NearBlocks",
   "metaDescription": "所以NEAR區塊鏈確認的交易記錄。這列表包含每一交易的詳情。",
   "txnsHeading": "最新的 Near 協議交易",
-  "txnsListing": "找到超過{count , number}筆交易",
+  "txnsListing": "找到超過{count}筆交易",
   "listingToken": "找到超過{count}筆代幣轉帳記錄",
   "hash": "交易哈希值",
   "type": "Method",

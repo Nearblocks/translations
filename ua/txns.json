@@ -2,7 +2,7 @@
   "metaTitle": "Усі Останні Транзакції Near Protocol | NearBlocks",
   "metaDescription": "Усі Транзакції near підтверджені на блокчейні Near. Список складається з транзакцій від відправки Near Ⓝ та деталей транзакцій для кожної транзакції.",
   "txnsHeading": "Останні Транзакції Near Protocol",
-  "txnsListing": "Більше ніж > транзакцій {count , number}",
+  "txnsListing": "Більше ніж > транзакцій {count}",
   "listingToken": "Більше ніж > {count} Знайдені перекази токенів",
   "hash": "Хеш Транзакції",
   "type": "Метод",

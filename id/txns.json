@@ -2,7 +2,7 @@
   "metaTitle": "Semua Transaksi NEAR | NearBlocks",
   "metaDescription": "Semua Transaksi NEAR dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
   "txnsHeading": "Transaksi Near Protocol terbaru",
-  "txnsListing": "Lebih dari > {count , number} transaksi ditemukan",
+  "txnsListing": "Lebih dari > {count} transaksi ditemukan",
   "listingToken": "Lebih dari > {count} transaksi token ditemukan",
   "hash": "Txn Hash",
   "type": "Metode",

@@ -2,7 +2,7 @@
   "metaTitle": "Lahat ng NEAR sa Pinakabagong Transaksyon | NearBlocks",
   "metaDescription": "Lahat ng NEAR na Transaksyon ay nakumpirma sa Near Blockchain. Ang listahan ay binubuo ng mga transaksyon mula sa pagpapadala ng Near at ang mga detalye ng transaksyon para sa bawat transaksyon.",
   "txnsHeading": "Pinakabagong Near Protocol na mga transaksyon",
-  "txnsListing": "More than > {count , number} transactions found",
+  "txnsListing": "More than > {count} transactions found",
   "listingToken": "More than > {count} Token transfers found",
   "hash": "Txn Hash",
   "type": "Method",
