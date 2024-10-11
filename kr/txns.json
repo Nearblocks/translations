@@ -2,7 +2,7 @@
   "metaTitle": "모든 근처 최신 트랜잭션 | 블록 근처",
   "metaDescription": "모든 근처 거래는 근처 블록 체인에서 확인. 목록은 NearⓃ 전송에서 트랜잭션및 각 트랜잭션에 대한 트랜잭션 세부 정보로 구성됩니다.",
   "txnsHeading": "최근 근거리 프로토콜 거래",
-  "TxnsListing": "> {count , number} 트랜잭션 을 이상 발견했습니다.",
+  "txnsListing": "> {count , number} 트랜잭션 을 이상 발견했습니다.",
   "listingToken": "> 이상의 {count} 토큰 전송 발견",
   "hash": "Txn 해시",
   "type": "방법",

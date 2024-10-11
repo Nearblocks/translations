@@ -2,7 +2,7 @@
   "metaTitle": "ธุรกรรมบน Near ล่าสุด | NearBlocks",
   "metaDescription": "ธุรกรรมบน Near ทั้งหมดที่ถูกยืนยันบนบล็อกเชน Near โดยจะแสดงธุรกรรมทั้งหมดที่มีการแลกเปลี่ยน Near และรายละเอียดเพิ่มเติมของธุรกรรรมนั้นๆ",
   "txnsHeading": "ธุรกรรม Near Protocol ล่าสุด",
-  "TxnsListing": "พบธุรกรรมเป็นจำนวนกว่า {count , number} ธุรกรรม",
+  "txnsListing": "พบธุรกรรมเป็นจำนวนกว่า {count , number} ธุรกรรม",
   "listingToken": "พบการแลกเปลี่ยนโทเคนเป็นจำนวนกว่า {count} ครั้ง",
   "hash": "แฮชธุรกรรม",
   "type": "Method",
