@@ -1,8 +1,8 @@
 {
   "metaTitle": "Все ближайшие Последние транзакции | Рядом с блоками",
   "metaDescription": "Все near транзакции подтверждены на Near Blockchain. Список состоит из транзакций от отправки Near Ⓝ и деталей транзакций для каждой транзакции.",
-  "heading": "Последние транзакции Near Protocol",
-  "listing": "Найдено более > транзакций {count , number}",
+  "txnsHeading": "Последние транзакции Near Protocol",
+  "TxnsListing": "Найдено более > транзакций {count , number}",
   "listingToken": "Найдено более > {count} Найдены переводы токенов",
   "hash": "Txn Хэш",
   "type": "Метод",

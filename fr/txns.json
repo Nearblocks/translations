@@ -1,8 +1,8 @@
 {
   "metaTitle": "Toutes les dernières transactions en Near | NearBlocks",
   "metaDescription": "Toutes les transactions Near confirmées sur Near Blockchain. La liste se compose des transactions de l'envoi de Near et des détails des transactions pour chaque transaction.",
-  "heading": "Dernières transactions proches du protocole",
-  "listing": "Plus que > {count , number} opérations trouvées",
+  "txnsHeading": "Dernières transactions proches du protocole",
+  "TxnsListing": "Plus que > {count , number} opérations trouvées",
   "listingToken": "Plus que > {count} Transferts de jetons trouvés",
   "hash": "Txn Hashage",
   "type": "Méthode",
