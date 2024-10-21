@@ -1,69 +1,71 @@
 {
-  "metaTitle": " 차트 및 통계 | 블록 근처 ",
-  "metaDescription": "Near는 가격, 공급, 시가총액, 거래 수수료 등 근거리 블록에 대한 모든 것을 추적하기 위한 실시간 근거리 데이터 차트 및 통계를 제공합니다.",
-  "heading": "차트 및 통계 근처",
-  "otherHeading": "기타 근거리 블록체인 차트 및 통계",
-  "nearPrice": {
-    "metaTitle": "근처 Ⓝ) 가격 오늘 : 정보, 차트, 블록 근처 통계 ",
-    "metaDescription": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near  블록 체인에서 직접 가져온 것입니다.",
-    "heading": "근처 일일 가격 (USD) 차트",
-    "description": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다.",
-    "yLabel": "근처 가격 (USD)",
-    "statistics": {
-      "heading": "근가 통계",
-      "price": "근처 가격 (USD)",
-      "marketCap": "시가총액",
-      "volume": "거래량",
-      "volumeMarketCap": "볼륨 / 시가 총액",
-      "high24": "24h 높음",
-      "low24": "24h 로우",
-      "highAll": "역대 최고",
-      "lowAll": "All-Time Low"
+  "charts": {
+    "metaTitle": " 차트 및 통계 | 블록 근처 ",
+    "metaDescription": "Near는 가격, 공급, 시가총액, 거래 수수료 등 근거리 블록에 대한 모든 것을 추적하기 위한 실시간 근거리 데이터 차트 및 통계를 제공합니다.",
+    "heading": "차트 및 통계 근처",
+    "otherHeading": "기타 근거리 블록체인 차트 및 통계",
+    "nearPrice": {
+      "metaTitle": "근처 Ⓝ) 가격 오늘 : 정보, 차트, 블록 근처 통계 ",
+      "metaDescription": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near  블록 체인에서 직접 가져온 것입니다.",
+      "heading": "근처 일일 가격 (USD) 차트",
+      "description": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다.",
+      "yLabel": "근처 가격 (USD)",
+      "statistics": {
+        "heading": "근가 통계",
+        "price": "근처 가격 (USD)",
+        "marketCap": "시가총액",
+        "volume": "거래량",
+        "volumeMarketCap": "볼륨 / 시가 총액",
+        "high24": "24h 높음",
+        "low24": "24h 로우",
+        "highAll": "역대 최고",
+        "lowAll": "All-Time Low"
+      }
     }
   },
-  "marketCap": {
+  "marketCapCharts": {
     "metaTitle": "근처   시가 총액 차트 | 블록 근처 ",
     "metaDescription": "  시가총액 차트는 현재 의외의 시가총액과 가격을 기록했습니다. 모든 데이터는 실시간으로 정확하며 Near   블록 체인에서 직접 가져온 것입니다.",
     "heading": "근대시가총액 차트",
     "description": "근로시가총액 차트는 거의 일일 시가총액과 가격의 역사적 붕괴를 보여줍니다.",
     "yLabel": "근처 시가총액(USD)"
   },
-  "nearSupply": {
+  "nearSupplyCharts": {
     "metaTitle": "Near  Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
     "metaDescription": "Near blockchain  Supply Growth Chart shows a breakdown of daily block reward and the total Near  supply. All data is real-time, accurate and pulled directly from Near  blockchain.",
     "heading": "Near Supply Growth Chart",
     "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
     "yLabel": "Near Supply"
   },
-  "txns": {
+  "txnsCharts": {
     "metaTitle": "  거래 차트 근처 : 정보, 통계, 성장 | 블록 근처 ",
     "metaDescription": "  거래 차트는 Near blockchain 블록 체인의 총 거래 수를 강조하며 총 트랜잭션, 총 블록 및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
     "heading": "근처 일일 거래 차트",
     "description": "차트는 Near blockchain의 총 거래 수를 강조하며, 총 블록및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
     "yLabel": "일일 거래"
   },
-  "blocks": {
+  "blocksCharts": {
     "metaTitle": "근처   블록 카운트 차트 | 블록 근처 ",
     "metaDescription": "블록체인 Ⓝ에 가까운 블록 카운트 차트는 근거리 블록체인에서 매일 생산되는 블록의 역사적 수를 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near   블록 체인에서 직접 가져온 것입니다.",
     "heading": "블록 카운트 근처",
     "description": "블록 카운트 차트 근처는 가까운 블록 체인에서 매일 생산 되는 블록의 역사적인 수를 보여줍니다.",
     "yLabel": "일일 블록"
   },
-  "addresses": {
+  "addressesCharts": {
     "metaTitle": "  고유 계정 차트 | 블록 근처 ",
     "metaDescription": "블록체인  내 고유한 계정 차트는 근거리 블록체인의 계정 총 수와 매일 계정 수가 증가하는 것을 보여줍니다.",
     "heading": "고유 계정 차트 에 가까운",
     "description": "차트는 Near blockchain의 계정 의 총 고유 번호와 매일 계정 의 수를 증가 보여줍니다.",
     "yLabel": "누적 계정 증가 근처"
   },
-  "txnFee": {
+  "txnFeeCharts": {
     "metaTitle": "거래수수료 내역에 가까운 : 거래수수료 | NearBlocks ",
     "metaDescription": "Near 블록체인 거래 수수료 차트는 Near 블록체인(Ⓝ)에서 거래당 하루에 사용된 USD 금액을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near 블록체인에서 직접 가져온 것입니다.",
     "heading": "거래 수수료 차트",
     "description": "이 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
     "yLabel": "거래 수수료(USD)"
   },
-  "txnVolume": {
+  "txnVolumeCharts": {
     "metaTitle": "주변 거래량 차트 : 거래량 | NearBlocks ",
     "metaDescription": "Near 블록체인 거래량 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
     "heading": "거래량 차트",

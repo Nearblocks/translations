@@ -1,69 +1,71 @@
 {
-  "metaTitle": "Grafici e Statistiche di Near | NearBlocks ",
-  "metaDescription": "Near fornisce una suite di grafici e statistiche in tempo reale per monitorare tutto ciò che riguarda Near Blocks: Prezzo, Offerta, Marketcap, Spese di Transazioni e altro.",
-  "heading": "Grafici e Statistiche di Near",
-  "otherHeading": "Altri Grafici e Statistiche di Near Blockchain",
-  "nearPrice": {
-    "metaTitle": "Prezzo di Near Oggi : Info, Grafici, Statistiche | NearBlocks ",
-    "metaDescription": "Prezzo di Near Giornaliero (USD) il grafico rappresenta il prezzo storico giornaliero di Near in USD. Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain.",
-    "heading": "Grafico sul Prezzo di Near Giornaliero (USD)  ",
-    "description": "Prezzo di Near Giornaliero (USD)  il grafico rappresenta il prezzo storico giornaliero di Near in USD.",
-    "yLabel": "Prezzo Near (USD)",
-    "statistics": {
-      "heading": "Statistiche Prezzo di Near",
-      "price": "Prezzo di Near (USD)",
-      "marketCap": "Capitalizzazione di Mercato",
-      "volume": "Volume di scambio",
-      "volumeMarketCap": "Volume / Market Cap",
-      "high24": "Massimo 24h",
-      "low24": "Minimo 24h",
-      "highAll": "Massimo storico",
-      "lowAll": "Minimo storico"
+  "charts": {
+    "metaTitle": "Grafici e Statistiche di Near | NearBlocks ",
+    "metaDescription": "Near fornisce una suite di grafici e statistiche in tempo reale per monitorare tutto ciò che riguarda Near Blocks: Prezzo, Offerta, Marketcap, Spese di Transazioni e altro.",
+    "heading": "Grafici e Statistiche di Near",
+    "otherHeading": "Altri Grafici e Statistiche di Near Blockchain",
+    "nearPrice": {
+      "metaTitle": "Prezzo di Near Oggi : Info, Grafici, Statistiche | NearBlocks ",
+      "metaDescription": "Prezzo di Near Giornaliero (USD) il grafico rappresenta il prezzo storico giornaliero di Near in USD. Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain.",
+      "heading": "Grafico sul Prezzo di Near Giornaliero (USD)  ",
+      "description": "Prezzo di Near Giornaliero (USD)  il grafico rappresenta il prezzo storico giornaliero di Near in USD.",
+      "yLabel": "Prezzo Near (USD)",
+      "statistics": {
+        "heading": "Statistiche Prezzo di Near",
+        "price": "Prezzo di Near (USD)",
+        "marketCap": "Capitalizzazione di Mercato",
+        "volume": "Volume di scambio",
+        "volumeMarketCap": "Volume / Market Cap",
+        "high24": "Massimo 24h",
+        "low24": "Minimo 24h",
+        "highAll": "Massimo storico",
+        "lowAll": "Minimo storico"
+      }
     }
   },
-  "marketCap": {
+  "marketCapCharts": {
     "metaTitle": "Grafico sulla Capitalizzazione di Mercato di Near | NearBlocks ",
     "metaDescription": "Il Grafico sulla Capitalizzazione di Mercato di Near rappresenta il resoconto storico della capitalizzazione di mercato e prezzo giornaliero. Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain. ",
     "heading": "Grafico sulla Capitalizzazione di Mercato di Near",
     "description": "Il Grafico sulla Capitalizzazione di Mercato di Near rappresenta il resoconto storico della capitalizzazione di mercato e prezzo giornaliero.",
     "yLabel": "Capitalizzazione di Mercato di Near (USD)"
   },
-  "nearSupply": {
+  "nearSupplyCharts": {
     "metaTitle": "Grafico sulla Fornitura di Near : Fornitura totale, in circolazione | NearBlocks ",
     "metaDescription": "Il grafico sulla Crescita della fornitura di Near Blockchain rappresenta nel dettaglio le ricompense giornaliere per i blocchi e la fornitura totale di Near. Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain.",
     "heading": "Grafico sulla Crescita della fornitura di Near Blockchain",
     "description": "Il grafico sulla Crescita della fornitura di Near Blockchain rappresenta nel dettaglio le ricompense giornaliere per i blocchi e la fornitura totale di Near",
     "yLabel": "Fornitura Near"
   },
-  "txns": {
+  "txnsCharts": {
     "metaTitle": "Grafico sulle Transazioni di Near : Info, Statistiche, Crescita | NearBlocks ",
     "metaDescription": "Il grafico sulle transazioni di Near mette in evidenza il numero totale di transazioni sulla Near blockchain con un'analisi individuale giornaliero del totale di transazioni, blocchi totali e nuovi account.",
     "heading": "Grafico sulle Transazioni Giornaliere di Near",
     "description": "Il grafico mette in evidenza il numero totale di transazioni sulla Near blockchain con un'analisi individuale giornaliero del totale di transazioni, blocchi totali e nuovi account.",
     "yLabel": "Transazioni al giorno"
   },
-  "blocks": {
+  "blocksCharts": {
     "metaTitle": "Grafico sul Conteggio dei Blocchi di Near | NearBlocks ",
     "metaDescription": "Il grafico sul Conteggio dei blocchi di Near mostra il numero storico di blocchi prodotti giornalmente sulla Near blockchain. Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain.",
     "heading": "Numero Blocchi di Near",
     "description": "Il grafico sul Conteggio dei blocchi di Near mostra il numero storico di blocchi prodotti giornalmente sulla Near blockchain.",
     "yLabel": "Blocchi al giorno"
   },
-  "addresses": {
+  "addressesCharts": {
     "metaTitle": "Grafico sugli Account Unici di Near | NearBlocks ",
     "metaDescription": "Il grafico di Account Unici di Near mostra il totale di account unici sulla Near Blockchain e l'aumento giornaliero nel numero di account.",
     "heading": "Grafico sugli account Unici di Near",
     "description": "Il grafico sugli Account Unici di Near mostra il totale di account unici sulla Near Blockchain e l'aumento giornaliero nel numero di account",
     "yLabel": "Aumento Complessivo di Account di Near"
   },
-  "txnFee": {
+  "txnFeeCharts": {
     "metaTitle": "Cronologia dei Costi di Transazione di Near : Costi di Transazione | NearBlocks ",
     "metaDescription": "Il grafico sui costi di transazione di Near Blockchain mostra la quantità spesa giornalmente in USD per transazione sulla Near Blockchain (Ⓝ). Tutti i dati sono in tempo reale, precisi ed estratti direttamente dalla Near Blockchain.",
     "heading": "Grafico sui Costi di Transazione",
     "description": "Il grafico mostra la quantità spesa giornalmente in USD per transazione sulla Near Blockchain.",
     "yLabel": "Costi di Transazione (USD)"
   },
-  "txnVolume": {
+  "txnVolumeCharts": {
     "metaTitle": "Grafico sul Volume di Transazioni di Near : Volume Transazioni | NearBlocks ",
     "metaDescription": "Il grafico sul Volume di Transazioni di Near rappresenta la quantità spesa giornalmente di USD per ogni transazione sulla Near Blockchain.",
     "heading": "Grafico sul Volume di Transazioni",

@@ -1,69 +1,71 @@
 {
-  "metaTitle": "NEAR圖表和數據 | NearBlocks ",
-  "metaDescription": "Near Blocks提供一系列實時NEAR圖表和數據讓你輕鬆全方面追蹤NEAR上的所有事：價格，供應量，市值，交易費等。",
-  "heading": "NEAR圖表和數據",
-  "otherHeading": "其他NEAR圖表和數據",
-  "nearPrice": {
-    "metaTitle": "NEAR今日價格：資訊，圖表，數據 | NearBlocks ",
-    "metaDescription": "NEAR每日價格（美金）圖表展示了每日NEAR對應的美金價格歷史。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
-    "heading": "NEAR每日價格(美金)圖表",
-    "description": "NEAR每日價格(美金)圖表顯示NEAR每日美金價格歷史。",
-    "yLabel": "NEAR價格(美金)",
-    "statistics": {
-      "heading": "NEAR價格數據",
-      "price": "NEAR價格(美金)",
-      "marketCap": "市值",
-      "volume": "交易額",
-      "volumeMarketCap": "交易額 / 市值",
-      "high24": "24小時最高位",
-      "low24": "24小時最低位",
-      "highAll": "歷史最高位",
-      "lowAll": "歷史最低位"
+  "charts": {
+    "metaTitle": "NEAR圖表和數據 | NearBlocks ",
+    "metaDescription": "Near Blocks提供一系列實時NEAR圖表和數據讓你輕鬆全方面追蹤NEAR上的所有事：價格，供應量，市值，交易費等。",
+    "heading": "NEAR圖表和數據",
+    "otherHeading": "其他NEAR圖表和數據",
+    "nearPrice": {
+      "metaTitle": "NEAR今日價格：資訊，圖表，數據 | NearBlocks ",
+      "metaDescription": "NEAR每日價格（美金）圖表展示了每日NEAR對應的美金價格歷史。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
+      "heading": "NEAR每日價格(美金)圖表",
+      "description": "NEAR每日價格(美金)圖表顯示NEAR每日美金價格歷史。",
+      "yLabel": "NEAR價格(美金)",
+      "statistics": {
+        "heading": "NEAR價格數據",
+        "price": "NEAR價格(美金)",
+        "marketCap": "市值",
+        "volume": "交易額",
+        "volumeMarketCap": "交易額 / 市值",
+        "high24": "24小時最高位",
+        "low24": "24小時最低位",
+        "highAll": "歷史最高位",
+        "lowAll": "歷史最低位"
+      }
     }
   },
-  "marketCap": {
+  "marketCapCharts": {
     "metaTitle": "NEAR市值圖表 | NearBlocks ",
     "metaDescription": "NEAR市值圖表展示了NEAR每日市值和價格的歷史數據。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
     "heading": "NEAR市值圖表",
     "description": "NEAR市值圖表展示了NEAR每日市值和價格的歷史數據。",
     "yLabel": "NEAR市值(美金)"
   },
-  "nearSupply": {
+  "nearSupplyCharts": {
     "metaTitle": "NEAR供應量圖表：流通量，總供應量 | NearBlocks ",
     "metaDescription": "NEAR供應量圖表展示了NEAR每日和總的供應量的詳細數據。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
     "heading": "NEAR供應量圖表",
     "description": "NEAR供應量圖表展示了NEAR每日和總的供應量的詳細數據。",
     "yLabel": "NEAR供應量"
   },
-  "txns": {
+  "txnsCharts": {
     "metaTitle": "NEAR每日交易記錄圖表：資訊，數據，增長 | NearBlocks ",
     "metaDescription": "NEAR每日交易記錄圖表突出了在NEAR區塊鏈上的交易總數和每天總交易數，總區塊數和新帳戶總數。",
     "heading": "NEAR每日交易記錄圖表",
     "description": "NEAR每日交易記錄圖表突出了在NEAR區塊鏈上的交易總數和每天總交易數，總區塊數和新帳戶總數。",
     "yLabel": "每日交易記錄"
   },
-  "blocks": {
+  "blocksCharts": {
     "metaTitle": "NEAR區塊數量圖表 | NearBlocks ",
     "metaDescription": "NEAR區塊數量圖表展示了NEAR區塊鏈上每天新增區塊數量的歷史數據。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
     "heading": "NEAR區塊數量",
     "description": "NEAR區塊數量圖表展示了NEAR區塊鏈上每天新增區塊數量的歷史數據。",
     "yLabel": "每天區塊數"
   },
-  "addresses": {
+  "addressesCharts": {
     "metaTitle": "NEAR去重帳戶圖表 | NearBlocks ",
     "metaDescription": "NEAR去重帳戶圖表展示了NEAR區塊鏈上每天新增的帳戶去重總數。",
     "heading": "NEAR去重帳戶圖表",
     "description": "此圖表展示了NEAR區塊鏈上每天新增的帳戶去重總數。",
     "yLabel": "NEAR累計帳戶增長"
   },
-  "txnFee": {
+  "txnFeeCharts": {
     "metaTitle": "NEAR交易費歷史圖表：交易費 | NearBlocks ",
     "metaDescription": "NEAR交易費歷史圖表展示了在NEAR區塊鏈上每日交易費的相應美金價值。所有數據都是實時從NEAR區塊鏈上直接獲取的準確數據。",
     "heading": "交易費圖表",
     "description": "此圖表展示了在NEAR區塊鏈上每日交易費的相應美金價值。",
     "yLabel": "交易費（美金）"
   },
-  "txnVolume": {
+  "txnVolumeCharts": {
     "metaTitle": "NEAR交易額圖表：交易額 | NearBlocks ",
     "metaDescription": "NEAR交易額圖表展示了在NEAR區塊鏈上每日交易的美金價值。",
     "heading": "交易額圖表",
