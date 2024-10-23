@@ -9,7 +9,7 @@
     "mempoolSize": "Размер Мемпула",
     "currentBlock": "Текущий блок",
     "netspace": "Сетевое пространство",
-    "transactionHistory": "История транзакций Near за {{days}} дней",
+    "transactionHistory": "История транзакций Near за {days} дней",
     "banner": {
       "title": "Здесь начинается экосистема Near",
       "description": "У вас есть продукт или услуга, связанная с Near? Свяжитесь с нами и получите доступ к просмотру номера # 1 Near blockchain explorer для Near."

@@ -9,7 +9,7 @@
     "mempoolSize": "Ukuran Mempool",
     "currentBlock": "Blok Saat Ini",
     "netspace": "Netspace",
-    "transactionHistory": "NEAR riwayat transaksi di {{days}} hari",
+    "transactionHistory": "NEAR riwayat transaksi di {days} hari",
     "banner": {
       "title": "Ekosistem NEAR dimulai di sini",
       "description": "Apakah Anda memiliki produk atau layanan terkait NEAR? Hubungi kami dan dapatkan tampilan eksposur nomor # 1 NEAR penjelajah blockchain untuk Near."

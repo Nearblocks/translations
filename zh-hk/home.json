@@ -9,7 +9,7 @@
     "mempoolSize": "內存池大小",
     "currentBlock": "目前區塊",
     "netspace": "Netspace",
-    "transactionHistory": "{{days}}天的NEAR交易記錄",
+    "transactionHistory": "{days}天的NEAR交易記錄",
     "banner": {
       "title": "NEAR生態從這裏開始",
       "description": "你也有NEAR相關的產品台服務提供？聯絡我們並透過NEAR上第一的區塊鏈瀏覽器來增加曝光率吧。"

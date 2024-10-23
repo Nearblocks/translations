@@ -9,7 +9,7 @@
     "mempoolSize": "ขนาด Mempool",
     "currentBlock": "บล็อกปัจจุบัน",
     "netspace": "Netspace",
-    "transactionHistory": "ประวัติธุรกรรมบนบล็อกเชน Near ใน {{days}} วัน",
+    "transactionHistory": "ประวัติธุรกรรมบนบล็อกเชน Near ใน {days} วัน",
     "banner": {
       "title": "Near Ecosystem เริ่มต้น ณ ที่นี่",
       "description": "คุณมีผลิตภัณฑ์ หรือบริการที่เกี่ยวข้องกับบล็อกเชน Near หรือไม่? พูดคุยกับเราเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับ Blockchain Explorer แพลตฟอร์มค้นหาอันดับหนึ่งบน Near"

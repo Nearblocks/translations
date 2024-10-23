@@ -9,7 +9,7 @@
     "mempoolSize": "Mempool Size",
     "currentBlock": "Current Block",
     "netspace": "Netspace",
-    "transactionHistory": "Mga history ng transaksyon sa NEAR in {{days}} days",
+    "transactionHistory": "Mga history ng transaksyon sa NEAR in {days} days",
     "banner": {
       "title": "Near ecosystem simula dito",
       "description": "Meron ka bang Near na produkto na may kaugnayan or serbisyo? Kontakin kami at makukuha ng exposure tignan ang numero #1 Near blockchain explorer for Near."

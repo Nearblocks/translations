@@ -9,7 +9,7 @@
     "mempoolSize": "Tamaño Mempool",
     "currentBlock": "Bloque Actual",
     "netspace": "Espacio de red",
-    "transactionHistory": "Historial de transacciones Near en {{days}} días",
+    "transactionHistory": "Historial de transacciones Near en {days} días",
     "banner": {
       "title": "El ecocistema Near comienza acá",
       "description": "Tienes un producto o servicio relaciondo con Near? Contáctanos y gana exposición en el explorador de bloques Near número #1."
