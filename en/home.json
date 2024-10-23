@@ -9,7 +9,7 @@
     "mempoolSize": "Mempool Size",
     "currentBlock": "Current Block",
     "netspace": "Netspace",
-    "transactionHistory": "Near transaction history in {{days}} days",
+    "transactionHistory": "Near transaction history in {days} days",
     "banner": {
       "title": "Near ecosystem starts here",
       "description": "Do you have a Near related product or service? Contact us and gain exposure view the number #1 Near blockchain explorer for Near."
