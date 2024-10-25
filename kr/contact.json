@@ -1,52 +1,54 @@
 {
-  "metaTitle": "저희에게 연락| 블록 근처",
-  "metaDescription": "당사 웹사이트 및 도구와 관련된 문의는 가까운 블록 팀에 문의하십시오. 블록 탐색기 서비스와 직접 관련된 문제만 지원할 수 있습니다.",
-  "heading": "블록 근처 연락처",
-  "info": {
-    "heading": "우리에게 메시지를 드롭,하지만 유의하시기 바랍니다 :",
-    "points": [
-      {
-        "heading": "보류 중인 트랜잭션",
-        "content": "당사는 거래를 처리하지 않으므로 거래를 신속하게 처리하거나 취소하거나 교체할 수 없습니다. 보류 중인 거래에 문제가 있는 경우 여기를 참조하십시오."
-      },
-      {
-        "heading": "블록 탐색기 근처",
-        "content": "근거리 블록은 다른 서비스 공급자와 관련이 없는 독립적인 블록 탐색기이므로 다른 서비스 공급자와 관련된 문의에 대한 정확한 응답을 제공할 수 없습니다."
-      },
-      {
-        "heading": "지갑 / 교환 / 프로젝트 관련 문제",
-        "content": "지갑 서비스 제공업체, 교환 또는 프로젝트/계약 소유자에게 연락하여 플랫폼 및 플랫폼과 관련된 문제를 지원할 수 있는 더 나은 위치에 있으므로 추가 지원을 받을 수 있습니다."
-      }
-    ]
-  },
-  "form": {
-    "heading": "연락처 양식:",
-    "name": {
-      "label": "이름",
-      "placeholder": "이름"
-    },
-    "email": {
-      "label": "이메일",
-      "placeholder": "이메일"
-    },
-    "subject": {
-      "label": "제목",
-      "placeholder": "제목",
-      "options": [
-        "일반 문의",
-        "지원 / 기술",
-        "Partnership",
-        "API / Development",
-        "Name tagging / Label address",
-        "Advertise"
+  "contact": {
+    "metaTitle": "저희에게 연락| 블록 근처",
+    "metaDescription": "당사 웹사이트 및 도구와 관련된 문의는 가까운 블록 팀에 문의하십시오. 블록 탐색기 서비스와 직접 관련된 문제만 지원할 수 있습니다.",
+    "heading": "블록 근처 연락처",
+    "info": {
+      "heading": "우리에게 메시지를 드롭,하지만 유의하시기 바랍니다 :",
+      "points": [
+        {
+          "heading": "보류 중인 트랜잭션",
+          "content": "당사는 거래를 처리하지 않으므로 거래를 신속하게 처리하거나 취소하거나 교체할 수 없습니다. 보류 중인 거래에 문제가 있는 경우 여기를 참조하십시오."
+        },
+        {
+          "heading": "블록 탐색기 근처",
+          "content": "근거리 블록은 다른 서비스 공급자와 관련이 없는 독립적인 블록 탐색기이므로 다른 서비스 공급자와 관련된 문의에 대한 정확한 응답을 제공할 수 없습니다."
+        },
+        {
+          "heading": "지갑 / 교환 / 프로젝트 관련 문제",
+          "content": "지갑 서비스 제공업체, 교환 또는 프로젝트/계약 소유자에게 연락하여 플랫폼 및 플랫폼과 관련된 문제를 지원할 수 있는 더 나은 위치에 있으므로 추가 지원을 받을 수 있습니다."
+        }
       ]
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message"
-    },
-    "button": "Send Message",
-    "successMessage": "Thank you, we will get back to you soon",
-    "errorMessage": "Something went wrong!"
+    "form": {
+      "heading": "연락처 양식:",
+      "name": {
+        "label": "이름",
+        "placeholder": "이름"
+      },
+      "email": {
+        "label": "이메일",
+        "placeholder": "이메일"
+      },
+      "subject": {
+        "label": "제목",
+        "placeholder": "제목",
+        "options": [
+          "일반 문의",
+          "지원 / 기술",
+          "Partnership",
+          "API / Development",
+          "Name tagging / Label address",
+          "Advertise"
+        ]
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Message"
+      },
+      "button": "Send Message",
+      "successMessage": "Thank you, we will get back to you soon",
+      "errorMessage": "Something went wrong!"
+    }
   }
 }

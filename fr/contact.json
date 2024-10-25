@@ -1,52 +1,54 @@
 {
-  "metaTitle": "Contacter nous | NearBlocks",
-  "metaDescription": "Contactez l'équipe de Near Blocks pour toute demande relative à notre site Web et à nos outils. Veuillez comprendre que nous ne pouvons vous aider que pour les problèmes directement liés aux services de l'explorateur de blocs.",
-  "heading": "Contacter Near Blocks",
-  "info": {
-    "heading": "Envoyez-nous un message, mais sachez que :",
-    "points": [
-      {
-        "heading": "Transaction en attente",
-        "content": "Nous ne traitons pas les transactions et ne sommes donc pas en mesure de les accélérer, de les annuler ou de les remplacer. Si vous rencontrez des problèmes avec les transactions en attente, veuillez vous référer ici."
-      },
-      {
-        "heading": "Near Block Explorer",
-        "content": "Near Blocks est un explorateur de blocs indépendant sans lien avec d'autres fournisseurs de services (sauf indication contraire explicite) et n'est donc pas en mesure de fournir une réponse précise aux demandes spécifiques à d'autres fournisseurs de services."
-      },
-      {
-        "heading": "Portefeuille / Exchange / Problèmes liés au projet",
-        "content": "Veuillez contacter votre fournisseur de services de portefeuille, vos échanges ou votre propriétaire de projet/contrat pour une assistance supplémentaire, car ils sont mieux placés pour vous aider sur les problèmes liés à et à partir de leurs plateformes."
-      }
-    ]
-  },
-  "form": {
-    "heading": "Formulaire de contact :",
-    "name": {
-      "label": "Nom",
-      "placeholder": "Nom"
-    },
-    "email": {
-      "label": "Email",
-      "placeholder": "Email"
-    },
-    "subject": {
-      "label": "Sujet",
-      "placeholder": "Sujet",
-      "options": [
-        "Enquête générale",
-         "Assistance / Technique",
-         "Partenariat",
-         "API / Développement",
-         "tag nom / Adresse Label",
-         "Afficher"
+  "contact": {
+    "metaTitle": "Contacter nous | NearBlocks",
+    "metaDescription": "Contactez l'équipe de Near Blocks pour toute demande relative à notre site Web et à nos outils. Veuillez comprendre que nous ne pouvons vous aider que pour les problèmes directement liés aux services de l'explorateur de blocs.",
+    "heading": "Contacter Near Blocks",
+    "info": {
+      "heading": "Envoyez-nous un message, mais sachez que :",
+      "points": [
+        {
+          "heading": "Transaction en attente",
+          "content": "Nous ne traitons pas les transactions et ne sommes donc pas en mesure de les accélérer, de les annuler ou de les remplacer. Si vous rencontrez des problèmes avec les transactions en attente, veuillez vous référer ici."
+        },
+        {
+          "heading": "Near Block Explorer",
+          "content": "Near Blocks est un explorateur de blocs indépendant sans lien avec d'autres fournisseurs de services (sauf indication contraire explicite) et n'est donc pas en mesure de fournir une réponse précise aux demandes spécifiques à d'autres fournisseurs de services."
+        },
+        {
+          "heading": "Portefeuille / Exchange / Problèmes liés au projet",
+          "content": "Veuillez contacter votre fournisseur de services de portefeuille, vos échanges ou votre propriétaire de projet/contrat pour une assistance supplémentaire, car ils sont mieux placés pour vous aider sur les problèmes liés à et à partir de leurs plateformes."
+        }
       ]
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message"
-    },
-    "button": "Envoyer Message",
-    "successMessage": "Merci, nous vous répondrons bientôt",
-    "errorMessage": "Quelque chose s'est mal passé!"
+    "form": {
+      "heading": "Formulaire de contact :",
+      "name": {
+        "label": "Nom",
+        "placeholder": "Nom"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Email"
+      },
+      "subject": {
+        "label": "Sujet",
+        "placeholder": "Sujet",
+        "options": [
+          "Enquête générale",
+          "Assistance / Technique",
+          "Partenariat",
+          "API / Développement",
+          "tag nom / Adresse Label",
+          "Afficher"
+        ]
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Message"
+      },
+      "button": "Envoyer Message",
+      "successMessage": "Merci, nous vous répondrons bientôt",
+      "errorMessage": "Quelque chose s'est mal passé!"
+    }
   }
 }
