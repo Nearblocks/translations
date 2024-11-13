@@ -33,7 +33,7 @@
     "metaDescription": "Le graphique de croissance de l'offre Near blockchain montre une répartition de la récompense de bloc quotidienne et l'offre totale Near. Toutes les données sont en temps réel, précises et extraites directement de la blockchain Near.",
     "heading": "Le graphique de croissance de l'offre du Near",
     "description": "Le graphique de croissance de l'offre du Near montre une répartition de l'offre quotidienne et de l'offre totale de proximité. Le graphique de croissance de l'offre du Near montre une répartition de l'offre quotidienne et de l'offre totale de proximité.",
-    "yLabel": "Near circulation" 
+    "yLabel": "Near circulation"
   },
   "txns": {
     "metaTitle": "Graphique des transactions du Near : Info, Statistiques, Croissance | NearBlocks ",
@@ -69,5 +69,12 @@
     "heading": "Graphique du volume des transactions",
     "description": "Le graphique montre le montant quotidien en USD dépensé par transaction sur la blockchain Near.",
     "yLabel": "Volume de transaction (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Graphique des Transactions Multichaînes | NearBlocks",
+    "metaDescription": "Le graphique des transactions multichaînes met en évidence le nombre total de transactions multichaînes sur la blockchain Near.",
+    "heading": "Graphique des Transactions Multichaînes",
+    "description": "Le graphique met en évidence le nombre total de transactions multichaînes sur la blockchain Near.",
+    "yLabel": "Transactions Multichaînes par Jour"
   }
 }

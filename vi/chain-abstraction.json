@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Tất cả giao dịch đa chuỗi mới nhất | NearBlocks",
+  "metaDescription": "Tất cả các giao dịch đa chuỗi mới nhất được xác nhận trên Near Blockchain.",
+  "heading": "Giao Dịch Đa Chuỗi Mới Nhất",
+  "count": "Tổng cộng có {{count}} giao dịch đa chuỗi",
+  "receiptId": "ID BIÊN NHẬN",
+  "sourceTxn": "HASH TXN NGUỒN",
+  "from": "Từ",
+  "destinationTxn": "HASH TXN ĐÍCH",
+  "destinationAddress": "ĐỊA CHỈ ĐÍCH",
+  "filter": {
+    "placeholder": "Tìm kiếm theo địa chỉ, ví dụ Ⓝ..",
+    "placeholderForeign": "Tìm kiếm theo địa chỉ",
+    "filter": "Bộ lọc",
+    "clear": "Xóa",
+    "by": "Lọc Theo",
+    "from": "Từ",
+    "to": "Đến"
+  },
+  "age": "Thời Gian",
+  "ageDT": "Ngày Giờ (UTC)",
+  "noTxns": "Không có giao dịch",
+  "totalTxns": "TỔNG SỐ GIAO DỊCH",
+  "volume": "KHỐI LƯỢNG(24H)",
+  "networks": "MẠNG LƯỚI"
+}

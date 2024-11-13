@@ -7,7 +7,8 @@
     "metaTitle": "Near Price Ngayon : Info, Chart, Stats | NearBlocks ",
     "metaDescription": "Ipinapakita ng chart ng Near Daily Price (USD) ang pang-araw-araw na historical price para sa Near sa USD. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
     "heading": "Near Daily Price (USD) Chart",
-    "description": "Near Daily Price (USD) chart ay ipinapakita ang pang-araw-araw na historical price para sa Near sa USD.",    "yLabel": "Near Price (USD)",
+    "description": "Near Daily Price (USD) chart ay ipinapakita ang pang-araw-araw na historical price para sa Near sa USD.",
+    "yLabel": "Near Price (USD)",
     "statistics": {
       "heading": "Near Price Statistics",
       "price": "Near Price (USD)",
@@ -29,7 +30,8 @@
   },
   "nearSupply": {
     "metaTitle": "Near Supply Chart : Circulating, Total Supply | NearBlocks ",
-    "metaDescription": "Ang Near Blockchain Supply Growth Chart ay nagpapakita ng breakdown ng daily block reward at ang kabuuang Near supply. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",    "heading": "Near Supply Growth Chart",
+    "metaDescription": "Ang Near Blockchain Supply Growth Chart ay nagpapakita ng breakdown ng daily block reward at ang kabuuang Near supply. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
+    "heading": "Near Supply Growth Chart",
     "description": "Ang Near Supply Growth Chart ay nagpapakita ng breakdown ng araw-araw at ang kabuuang Near supply.",
     "yLabel": "Near Supply"
   },
@@ -67,5 +69,12 @@
     "heading": "Transaction Volume Chart",
     "description": "Ipinapakita ng chart ang pang-araw-araw na halaga sa USD na ginastos sa bawat transaksyon sa Near blockchain.",
     "yLabel": "Transaction Volume (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Chart ng Multichain na Transaksyon | NearBlocks",
+    "metaDescription": "Ang Chart ng Multichain na Transaksyon ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "heading": "Chart ng Multichain na Transaksyon",
+    "description": "Ang chart ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "yLabel": "Multichain na Transaksyon Kada Araw"
   }
 }

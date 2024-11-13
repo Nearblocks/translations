@@ -66,8 +66,15 @@
   "txnVolume": {
     "metaTitle": "NEAR Grafik Volume Transaksi : Volume Transaksi | NearBlocks ",
     "metaDescription": "NEAR blockchain grafik volume transaksi menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
-    "heading": "Bagan Volume Transaksi" ,
+    "heading": "Bagan Volume Transaksi",
     "description": "Bagan ini menunjukkan jumlah harian dalam USD yang dihabiskan per transaksi di Near blockchain.",
     "yLabel": "Volume Transaksi (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Grafik Transaksi Multirantai | NearBlocks",
+    "metaDescription": "Grafik Transaksi Multirantai menyoroti jumlah total transaksi multirantai di blockchain Near.",
+    "heading": "Grafik Transaksi Multirantai",
+    "description": "Grafik ini menyoroti jumlah total transaksi multirantai di blockchain Near.",
+    "yLabel": "Transaksi Multirantai per Hari"
   }
 }

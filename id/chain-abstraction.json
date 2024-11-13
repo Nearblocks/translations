@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Semua Transaksi Multirantai Terbaru | NearBlocks",
+  "metaDescription": "Semua transaksi multirantai terbaru yang dikonfirmasi di blockchain Near.",
+  "heading": "Transaksi Multirantai Terbaru",
+  "count": "Total {{count}} transaksi Multirantai ditemukan",
+  "receiptId": "ID BUKTI",
+  "sourceTxn": "HASH TXN SUMBER",
+  "from": "Dari",
+  "destinationTxn": "HASH TXN TUJUAN",
+  "destinationAddress": "ALAMAT TUJUAN",
+  "filter": {
+    "placeholder": "Cari berdasarkan alamat, mis. Ⓝ..",
+    "placeholderForeign": "Cari berdasarkan alamat",
+    "filter": "Filter",
+    "clear": "Bersihkan",
+    "by": "Difilter Berdasarkan",
+    "from": "Dari",
+    "to": "Ke"
+  },
+  "age": "Umur",
+  "ageDT": "Tanggal Waktu (UTC)",
+  "noTxns": "Tidak ada transaksi",
+  "totalTxns": "TOTAL TRANSAKSI",
+  "volume": "VOLUME(24H)",
+  "networks": "JARINGAN"
+}
