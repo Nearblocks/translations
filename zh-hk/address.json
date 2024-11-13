@@ -29,5 +29,12 @@
   "codeHash": "代碼哈希值",
   "tokenTxns": "代幣轉帳記錄",
   "nftTokenTxns": "NFT 代幣交易",
-  "accessKeys": "存取鍵"
+  "accessKeys": "存取鍵",
+  "multichainInfo": "多鏈信息",
+  "noAddresses": "無",
+  "address": "地址",
+  "addresses": "地址",
+  "foundOn": "發現於",
+  "foreignChain": "外部鏈",
+  "multichainTxns": "多鏈交易"
 }

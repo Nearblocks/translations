@@ -69,5 +69,12 @@
     "heading": "Grafico sul Volume di Transazioni",
     "description": "Il grafico rappresenta la quantità spesa giornalmente di USD per ogni transazione sulla Near Blockchain.",
     "yLabel": "Volume Transazioni (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Grafico delle Transazioni Multicatena | NearBlocks",
+    "metaDescription": "Il grafico delle Transazioni Multicatena evidenzia il numero totale di transazioni multicatena sulla blockchain Near.",
+    "heading": "Grafico delle Transazioni Multicatena",
+    "description": "Il grafico evidenzia il numero totale di transazioni multicatena sulla blockchain Near.",
+    "yLabel": "Transazioni Multicatena per Giorno"
   }
 }

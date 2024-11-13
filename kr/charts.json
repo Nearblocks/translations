@@ -69,5 +69,12 @@
     "heading": "거래량 차트",
     "description": "차트는 Near 블록체인에서 거래당 USD로 하루 지출 금액을 보여줍니다.",
     "yLabel": "Transaction Volume (USD) )"
+  },
+  "multichainTxns": {
+    "metaTitle": "멀티체인 트랜잭션 차트 | NearBlocks",
+    "metaDescription": "멀티체인 트랜잭션 차트는 Near 블록체인에서 멀티체인 트랜잭션의 총 수를 강조합니다.",
+    "heading": "멀티체인 트랜잭션 차트",
+    "description": "차트는 Near 블록체인에서 멀티체인 트랜잭션의 총 수를 강조합니다.",
+    "yLabel": "일일 멀티체인 트랜잭션"
   }
 }

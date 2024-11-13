@@ -29,5 +29,12 @@
   "codeHash": "コードハッシュ",
   "tokenTxns": "トークン取引",
   "nftTokenTxns": "NFTトークン送信",
-  "accessKeys": "アクセスキー"
+  "accessKeys": "アクセスキー",
+  "multichainInfo": "マルチチェーン情報",
+  "noAddresses": "なし",
+  "address": "アドレス",
+  "addresses": "アドレス",
+  "foundOn": "見つかった場所",
+  "foreignChain": "外部チェーン",
+  "multichainTxns": "マルチチェーントランザクション"
 }

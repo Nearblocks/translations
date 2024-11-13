@@ -29,5 +29,12 @@
   "codeHash": "Hachage de code",
   "tokenTxns": "Txns de jeton",
   "nftTokenTxns": "Txns de jeton NFT",
-  "accessKeys": "Clés d'accès"
+  "accessKeys": "Clés d'accès",
+  "multichainInfo": "Informations Multichaîne",
+  "noAddresses": "Non",
+  "address": "adresse",
+  "addresses": "adresses",
+  "foundOn": "trouvé sur",
+  "foreignChain": "Chaîne Étrangère",
+  "multichainTxns": "Transactions Multichaîne"
 }
