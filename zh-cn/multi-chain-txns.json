@@ -1,8 +1,8 @@
 {
-  "metaTitle": "所有最新多链交易 | NearBlocks",
+  "metaTitle": "所有最新的多链交易",
   "metaDescription": "Near区块链上确认的所有最新多链交易。",
   "heading": "最新多链交易",
-  "count": "共找到 {{count}} 笔多链交易",
+  "count": "共找到{{count}}笔多链交易",
   "receiptId": "收据 ID",
   "sourceTxn": "源交易哈希",
   "from": "来自",
@@ -11,16 +11,16 @@
   "filter": {
     "placeholder": "按地址搜索，例如 Ⓝ..",
     "placeholderForeign": "按地址搜索",
-    "filter": "筛选",
+    "filter": "过滤",
     "clear": "清除",
-    "by": "筛选条件",
-    "from": "来自",
+    "by": "过滤条件",
+    "from": "从",
     "to": "到"
   },
-  "age": "时间",
+  "age": "年龄",
   "ageDT": "日期时间 (UTC)",
   "noTxns": "无交易",
-  "totalTxns": "总交易量",
-  "volume": "交易量(24H)",
+  "totalTxns": "总交易数",
+  "volume": "成交量(24h)",
   "networks": "网络"
 }

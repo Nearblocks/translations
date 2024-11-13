@@ -1,18 +1,18 @@
 {
-  "metaTitle": "Tutte le ultime transazioni multicatena | NearBlocks",
+  "metaTitle": "Tutte le ultime transazioni multicatena",
   "metaDescription": "Tutte le ultime transazioni multicatena confermate sulla blockchain Near.",
-  "heading": "Ultime Transazioni Multicatena",
+  "heading": "Ultime Transazioni multicatena",
   "count": "Totale di {{count}} transazioni multicatena trovate",
-  "receiptId": "ID RICEVUTA",
-  "sourceTxn": "HASH TXN ORIGINE",
+  "receiptId": "Id Ricevuta",
+  "sourceTxn": "Hash della Transazione di Origine",
   "from": "Da",
-  "destinationTxn": "HASH TXN DESTINAZIONE",
-  "destinationAddress": "INDIRIZZO DESTINAZIONE",
+  "destinationTxn": "Hash della Transazione di Destinazione",
+  "destinationAddress": "Indirizzo di Destinazione",
   "filter": {
     "placeholder": "Cerca per indirizzo, es. Ⓝ..",
     "placeholderForeign": "Cerca per indirizzo",
     "filter": "Filtra",
-    "clear": "Pulisci",
+    "clear": "Cancella",
     "by": "Filtrato Per",
     "from": "Da",
     "to": "A"
@@ -20,7 +20,7 @@
   "age": "Età",
   "ageDT": "Data Ora (UTC)",
   "noTxns": "Nessuna transazione",
-  "totalTxns": "TOTALE TRANSAZIONI",
-  "volume": "VOLUME(24H)",
-  "networks": "RETI"
+  "totalTxns": "Transazioni Totali",
+  "volume": "Volume(24h)",
+  "networks": "Reti"
 }
