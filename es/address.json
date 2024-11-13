@@ -29,5 +29,12 @@
   "codeHash": "Hash de Código",
   "tokenTxns": "Transacciones de tokens",
   "nftTokenTxns": "NFT Token Txns",
-  "accessKeys": "Access Keys"
+  "accessKeys": "Access Keys",
+  "multichainInfo": "Información Multicadena",
+  "noAddresses": "No",
+  "address": "dirección",
+  "addresses": "direcciones",
+  "foundOn": "encontrado en",
+  "foreignChain": "Cadena Extranjera",
+  "multichainTxns": "Transacciones Multicadena"
 }

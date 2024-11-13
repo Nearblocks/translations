@@ -1,0 +1,26 @@
+{
+  "metaTitle": "All Latest Multichain transactions | NearBlocks",
+  "metaDescription": "All Latest multichain transactions confirmed on Near Blockchain.",
+  "heading": "Latest Multichain Transactions",
+  "count": "A total of {{count}}  multichain transactions found",
+  "receiptId": "RECEIPT ID",
+  "sourceTxn": "SOURCE TXN HASH",
+  "from": "From",
+  "destinationTxn": "DESTINATION TXN HASH",
+  "destinationAddress": "DESTINATION ADDRESS",
+  "filter": {
+    "placeholder": "Search by address e.g. Ⓝ..",
+    "placeholderForeign": "Search by address",
+    "filter": "Filter",
+    "clear": "Clear",
+    "by": "Filtered By",
+    "from": "From",
+    "to": "To"
+  },
+  "age": "Age",
+  "ageDT": "Date Time (UTC)",
+  "noTxns": "No transactions",
+  "totalTxns": "TOTAL TRANSACTIONS",
+  "volume": "VOLUME(24H)",
+  "networks": "NETWORKS"
+}

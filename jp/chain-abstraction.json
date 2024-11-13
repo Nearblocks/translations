@@ -1,0 +1,26 @@
+{
+  "metaTitle": "最新のマルチチェーントランザクション | NearBlocks",
+  "metaDescription": "Nearブロックチェーンで確認された最新のマルチチェーントランザクション。",
+  "heading": "最新のマルチチェーントランザクション",
+  "count": "合計{{count}}のマルチチェーントランザクションが見つかりました",
+  "receiptId": "レシートID",
+  "sourceTxn": "送信元TXNハッシュ",
+  "from": "送信元",
+  "destinationTxn": "送信先TXNハッシュ",
+  "destinationAddress": "送信先アドレス",
+  "filter": {
+    "placeholder": "アドレスで検索例: Ⓝ..",
+    "placeholderForeign": "アドレスで検索",
+    "filter": "フィルター",
+    "clear": "クリア",
+    "by": "フィルター基準",
+    "from": "送信元",
+    "to": "送信先"
+  },
+  "age": "経過時間",
+  "ageDT": "日時（UTC）",
+  "noTxns": "トランザクションなし",
+  "totalTxns": "総トランザクション数",
+  "volume": "ボリューム(24H)",
+  "networks": "ネットワーク"
+}

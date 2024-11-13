@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Lahat ng Pinakabagong Multichain na Transaksyon | NearBlocks",
+  "metaDescription": "Lahat ng pinakabagong multichain na transaksyon na nakumpirma sa Near Blockchain.",
+  "heading": "Pinakabagong Multichain na Transaksyon",
+  "count": "May kabuuang {{count}} multichain na transaksyon na natagpuan",
+  "receiptId": "ID NG RESIBO",
+  "sourceTxn": "HASH NG PINAGMULAN NA TXN",
+  "from": "Mula sa",
+  "destinationTxn": "HASH NG PINAGTUTUNGUHAN NA TXN",
+  "destinationAddress": "ADRES NG PINAGTUTUNGUHAN",
+  "filter": {
+    "placeholder": "Maghanap batay sa adres, hal. Ⓝ..",
+    "placeholderForeign": "Maghanap batay sa adres",
+    "filter": "Filter",
+    "clear": "Linisin",
+    "by": "Na-filter Batay sa",
+    "from": "Mula sa",
+    "to": "Patungo sa"
+  },
+  "age": "Edad",
+  "ageDT": "Petsa at Oras (UTC)",
+  "noTxns": "Walang transaksyon",
+  "totalTxns": "KABUUANG TRANSAKSIYON",
+  "volume": "DAMIHAN(24H)",
+  "networks": "NETWORKS"
+}
