@@ -71,5 +71,12 @@
     "heading": "交易額圖表",
     "description": "此圖表展示了在NEAR區塊鏈上每日交易的美金價值。",
     "yLabel": "交易額（美金）"
+  },
+  "multichainTxns": {
+    "metaTitle": "多鏈交易圖表 | NearBlocks",
+    "metaDescription": "多鏈交易圖表顯示 Near 區塊鏈上的多鏈交易總數。",
+    "heading": "多鏈交易圖表",
+    "description": "此圖表顯示 Near 區塊鏈上的多鏈交易總數。",
+    "yLabel": "每日多鏈交易"
   }
 }

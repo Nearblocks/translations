@@ -71,5 +71,12 @@
     "heading": "Biểu đồ khối lượng giao dịch",
     "description": "Biểu đồ hiển thị số tiền hàng ngày bằng USD được chi tiêu cho mỗi giao dịch trên chuỗi khối Near.",
     "yLabel": "Khối lượng giao dịch (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Biểu Đồ Giao Dịch Đa Chuỗi | NearBlocks",
+    "metaDescription": "Biểu đồ Giao dịch Đa chuỗi hiển thị tổng số giao dịch đa chuỗi trên blockchain Near.",
+    "heading": "Biểu Đồ Giao Dịch Đa Chuỗi",
+    "description": "Biểu đồ này hiển thị tổng số giao dịch đa chuỗi trên blockchain Near.",
+    "yLabel": "Giao Dịch Đa Chuỗi Mỗi Ngày"
   }
 }

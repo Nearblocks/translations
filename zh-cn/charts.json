@@ -71,5 +71,12 @@
     "heading": "交易量图表",
     "description": "该图表显示了每天 NEAR 区块链上产生的交易数量 (USD)。",
     "yLabel": "交易量 (USD )"
+  },
+  "multichainTxns": {
+    "metaTitle": "多链交易图表 | NearBlocks",
+    "metaDescription": "多链交易图表显示 Near 区块链上的多链交易总数。",
+    "heading": "多链交易图表",
+    "description": "该图表显示 Near 区块链上的多链交易总数。",
+    "yLabel": "每日多链交易量"
   }
 }

@@ -71,5 +71,12 @@
     "heading": "Transaction Volume Chart",
     "description": "Ipinapakita ng chart ang pang-araw-araw na halaga sa USD na ginastos sa bawat transaksyon sa Near blockchain.",
     "yLabel": "Transaction Volume (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Chart ng Multichain na Transaksyon | NearBlocks",
+    "metaDescription": "Ang Chart ng Multichain na Transaksyon ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "heading": "Chart ng Multichain na Transaksyon",
+    "description": "Ang chart ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "yLabel": "Multichain na Transaksyon Kada Araw"
   }
 }
