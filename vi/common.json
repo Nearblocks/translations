@@ -76,5 +76,5 @@
     "centralisedExchange": "Sàn tập trung (CEX)",
     "decentralisedExchange": "Sàn phi tập trung (DEX)"
   },
-  "outofSync": "Blockchain Explorer này đang không đồng bộ. Một vài khối hoặc giao dịch có thể bị trì hoãn."
+  "outofSync": "Do bảo trì đột xuất, Nearblocks không đồng bộ. Một số khối hoặc giao dịch có thể bị trì hoãn."
 }

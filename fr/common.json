@@ -74,5 +74,5 @@
     "centralisedExchange": "Échange centralisé",
     "decentralisedExchange": "Échange décentralisé"
   },
-  "outofSync": "Cet explorateur de blockchain est désynchronisé. Certains blocs ou transactions peuvent être retardés."
+  "outofSync": "En raison d'une maintenance imprévue, Nearblocks est désynchronisé. Certains blocs ou transactions peuvent être retardés."
 }
