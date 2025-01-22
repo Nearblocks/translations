@@ -76,5 +76,5 @@
     "centralisedExchange": "中心化交易所",
     "decentralisedExchange": "去中心化交易所"
   },
-  "outofSync": "區塊記錄同步中，部分區塊或交易記錄可能會有所延遲。"
+  "outofSync": "由於意外維護，Nearblocks未完全同步，部分區塊或交易記錄可能會有所延遲。"
 }

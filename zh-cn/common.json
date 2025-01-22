@@ -76,5 +76,5 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "区块链浏览器未完全同步，一些区块或交易可能会延迟显示。"
+  "outofSync": "由于意外维护，Nearblocks未完全同步，一些区块或交易可能会延迟显示。"
 }

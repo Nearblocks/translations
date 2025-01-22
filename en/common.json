@@ -76,5 +76,5 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "This blockchain explorer is out of sync. Some blocks or transactions may be delayed."
+  "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed."
 }

@@ -76,5 +76,5 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Itong blockchain explorer ay Nawala sa sync. Ibang blocks o transaksyon ma-aaring mag tagal."
+  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan."
 }

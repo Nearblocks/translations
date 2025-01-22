@@ -76,5 +76,5 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Этот обозреватель блокчейна не синхронизирован. Некоторые блоки или транзакции могут быть задержаны."
+  "outofSync": "Из-за непредвиденного обслуживания Nearblocks не синхронизирован. Некоторые блоки или транзакции могут быть задержаны."
 }

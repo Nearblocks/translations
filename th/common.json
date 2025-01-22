@@ -76,5 +76,5 @@
     "centralisedExchange": "Exchange ไม่กระจายศูนย์",
     "decentralisedExchange": "Exchange กระจายศูนย์"
   },
-  "outofSync": "Blockchain Explorer ไม่สามารถ Sync ข้อมูลได้ อาจมีความล้าช้าในการสร้างบล็อก และธุรกรรม"
+  "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่สามารถซิงค์ได้ อาจมีความล่าช้าในบางบล็อกหรือธุรกรรม"
 }
