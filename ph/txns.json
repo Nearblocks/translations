@@ -111,6 +111,10 @@
       ],
       "tooltip": "Pinaka mataas na halaga ng gas na inilaan para sa transaksyon at ang halagang nagamit sa huli."
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "Parent Coin",
     "childCoins": "Child Coins",
     "siblingCoins": "Sibling Coins",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Txn fee",
   "txnSelf": "Self",
   "noTxns": "Walang transaksyon",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[ Testnet transaksyon lang ito ]"
 }

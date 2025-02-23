@@ -111,6 +111,10 @@
       ],
       "tooltip": "为交易分配的最大Gas量和最终使用的量。"
     },
+    "shards": {
+      "text": ["Shard Number"],
+      "tooltip": "The shard number in which the transaction was executed in."
+    },
     "parentCoin": "parentCoin",
     "childCoins": "childCoins",
     "siblingCoins": "siblingCoins",
@@ -169,6 +173,9 @@
     "tabs": {
       "overview": "Overview",
       "execution": "Execution Plan",
+      "enhanced": "Enhanced Plan",
+      "tree": "Tree Plan",
+      "summary": "Receipt Summary",
       "comments": "Comments"
     },
     "receipts": {
@@ -230,5 +237,6 @@
   "txnFee": "Txn 费用",
   "txnSelf": "自己",
   "noTxns": "没有交易",
+  "errorMessage": "Sorry, We are unable to locate this TxnHash",
   "testnetNotice": "[这只是一个测试网交易]"
 }

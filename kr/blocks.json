@@ -30,8 +30,10 @@
     "author": "저자",
     "receipt": "영수증",
     "gasLimit": "가스 제한",
-    "gasFee": "가스 요금"
+    "gasFee": "가스 요금",
+    "shards": "Shard Number"
   },
   "testnetNotice": "[ 테스트넷 블록 전용 ]",
-  "noBlocks": "블록 없음"
+  "noBlocks": "블록 없음",
+  "errorMessage": "Sorry, We are unable to locate this BlockHash"
 }
