@@ -26,8 +26,15 @@
   "lastUpdated": "最近更新时间",
   "hash": "交易哈希",
   "locked": "锁定",
-  "codeHash": "代码哈希", 
+  "codeHash": "代码哈希",
   "tokenTxns": "代币交易Hash",
   "nftTokenTxns": "NFT 代币交易",
-  "accessKeys": "访问键"
+  "accessKeys": "访问键",
+  "multichainInfo": "多链信息",
+  "noAddresses": "没有",
+  "address": "地址",
+  "addresses": "地址",
+  "foundOn": "发现于",
+  "foreignChain": "外链",
+  "multi-chainTxns": "多链交易"
 }

@@ -1,13 +1,14 @@
 {
   "metaTitle": "Semua Transaksi NEAR | NearBlocks",
   "metaDescription": "Semua Transaksi NEAR dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
-  "heading": "Transaksi Near Protocol terbaru",
-  "listing": "Lebih dari > {count , number} transaksi ditemukan",
+  "txnsHeading": "Transaksi Near Protocol terbaru",
+  "txnsListing": "Lebih dari > {count} transaksi ditemukan",
   "listingToken": "Lebih dari > {count} transaksi token ditemukan",
   "hash": "Txn Hash",
   "type": "Metode",
   "typeTxn": "Transaksi",
   "typeToken": "Transaksi token",
+  "tokenPlaceholder": "Cari berdasarkan token",
   "unknownType": "Tidak diketahui",
   "batchTxns": "Transaksi Batch",
   "createAccount": "Buat Akun",
@@ -34,7 +35,7 @@
     "from": "Dari",
     "to": "Ke"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Near (N) Transaction {txn} | NearBlocks",
     "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {txn}.",
     "heading": "Detail Transaksi",

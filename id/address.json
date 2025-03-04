@@ -29,6 +29,12 @@
   "codeHash": "Hash kode",
   "tokenTxns": "Transaksi Token",
   "nftTokenTxns": "Txns de jeton NFT",
-  "accessKeys": "Clés d'accès"
-
+  "accessKeys": "Clés d'accès",
+  "multichainInfo": "Informasi Multirantai",
+  "noAddresses": "Tidak",
+  "address": "alamat",
+  "addresses": "alamat",
+  "foundOn": "ditemukan di",
+  "foreignChain": "Rantai Asing",
+  "multi-chainTxns": "Transaksi Multirantai"
 }

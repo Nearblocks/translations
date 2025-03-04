@@ -1,13 +1,14 @@
 {
   "metaTitle": "NEAR 所有的最新交易| NearBlocks",
   "metaDescription": "所有在 NEAR 区块链上被确认过的交易，该列表由 NEAR 的每笔交易和交易详情组成",
-  "heading": "最新的 Near 协议交易",
-  "listing": "找到超过 > 个 {count , number} 事务",
+  "txnsHeading": "最新的 Near 协议交易",
+  "txnsListing": "找到超过 > 个 {count} 事务",
   "listingToken": "超过 > {count} 找到令牌转移",
   "hash": "交易哈希",
   "type": "类型",
   "typeTxn": "交易",
   "typeToken": "交易代币",
+  "tokenPlaceholder": "按代币搜索",
   "unknownType": "未知",
   "batchTxns": "批量交易",
   "createAccount": "创建账户",
@@ -34,7 +35,7 @@
     "from": "从",
     "to": "自"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "NEAR Transaction {txn} | NearBlocks",
     "metaDescription": "NEAR 区块链交易{{txn}}的详细信息。",
     "heading": "交易详情",

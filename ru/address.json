@@ -29,5 +29,12 @@
   "codeHash": "Хэш кода",
   "tokenTxns": "Транзакции токенами",
   "nftTokenTxns": "Передача токенов NFT",
-  "accessKeys": "Ключи доступа"
+  "accessKeys": "Ключи доступа",
+  "multichainInfo": "Информация о мультичейне",
+  "noAddresses": "Нет",
+  "address": "адрес",
+  "addresses": "адреса",
+  "foundOn": "найдено на",
+  "foreignChain": "Иностранная цепь",
+  "multi-chainTxns": "Мультичейн Транзакции"
 }

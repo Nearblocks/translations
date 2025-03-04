@@ -12,7 +12,7 @@
   "tag": "Tag:",
   "links": "Mga Na-verify na Link:",
   "requestChange": "Humiling ng pagbabago",
-  "txns": "Mga transaksyon",  
+  "txns": "Mga transaksyon",
   "none": "None",
   "comments": "Mga komento",
   "latestRecords": "Pinakabagong 25 Token Transfer Events",
@@ -29,5 +29,12 @@
   "codeHash": "Code hash",
   "tokenTxns": "Token Txns",
   "nftTokenTxns": "NFT Token Txns",
-  "accessKeys": "Access Keys"
+  "accessKeys": "Access Keys",
+  "multichainInfo": "Impormasyon sa Multichain",
+  "noAddresses": "Wala",
+  "address": "address",
+  "addresses": "mga address",
+  "foundOn": "natagpuan sa",
+  "foreignChain": "Ibang Chain",
+  "multi-chainTxns": "Mga Transaksyon ng Multichain"
 }

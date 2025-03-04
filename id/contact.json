@@ -1,52 +1,54 @@
 {
-  "metaTitle": "Hubungi kami | NearBlocks",
-  "metaDescription": "Hubungi tim Near Blocks untuk pertanyaan apa pun yang terkait dengan situs web dan alat kami. Harap dipahami bahwa kami hanya dapat membantu dengan masalah yang terkait langsung dengan layanan penjelajah blok.",
-  "heading": "Kontak Dekat Blok",
-  "info": {
-    "heading": "Kirimkan pesan kepada kami, tetapi perlu diketahui bahwa:",
-    "points": [
-      {
-        "heading": "Transaksi Tertunda",
-        "content": "Oleh karena itu kami tidak memproses transaksi dan karena itu tidak dapat mempercepat, membatalkan, atau menggantinya. Jika Anda mengalami masalah dengan transaksi yang tertunda, silakan lihat di sini."
-      },
-      {
-        "heading": "Near Protocol Blockchain Explorer",
-        "content": "Near Blocks adalah penjelajah blok independen yang tidak terkait dengan penyedia layanan lain (kecuali dinyatakan secara eksplisit sebaliknya) dan karena itu tidak dapat memberikan tanggapan yang tepat untuk pertanyaan yang khusus untuk penyedia layanan lain."
-      },
-      {
-        "heading": "Masalah terkait Dompet / Pertukaran / Proyek",
-        "content": "Silakan hubungi penyedia layanan dompet Anda, pertukaran atau pemilik proyek / kontrak untuk dukungan lebih lanjut karena mereka berada dalam posisi yang lebih baik untuk membantu Anda dalam masalah yang berkaitan dengan dan dari platform mereka."
-      }
-    ]
-  },
-  "form": {
-    "heading": "Formulir Kontak:",
-    "name": {
-      "label": "Nama",
-      "placeholder": "Nama"
-    },
-    "email": {
-      "label": "Email",
-      "placeholder": "Email"
-    },
-    "subject": {
-      "label": "Subyek",
-      "placeholder": "Subyek",
-      "options": [
-        "Penyelidikan umum",
-        "Dukungan / Teknis",
-        "Partnership",
-        "API / Development",
-        "Name tagging / Label address",
-        "Advertise"
+  "contact": {
+    "metaTitle": "Hubungi kami | NearBlocks",
+    "metaDescription": "Hubungi tim Near Blocks untuk pertanyaan apa pun yang terkait dengan situs web dan alat kami. Harap dipahami bahwa kami hanya dapat membantu dengan masalah yang terkait langsung dengan layanan penjelajah blok.",
+    "heading": "Kontak Dekat Blok",
+    "info": {
+      "heading": "Kirimkan pesan kepada kami, tetapi perlu diketahui bahwa:",
+      "points": [
+        {
+          "heading": "Transaksi Tertunda",
+          "content": "Oleh karena itu kami tidak memproses transaksi dan karena itu tidak dapat mempercepat, membatalkan, atau menggantinya. Jika Anda mengalami masalah dengan transaksi yang tertunda, silakan lihat di sini."
+        },
+        {
+          "heading": "Near Protocol Blockchain Explorer",
+          "content": "Near Blocks adalah penjelajah blok independen yang tidak terkait dengan penyedia layanan lain (kecuali dinyatakan secara eksplisit sebaliknya) dan karena itu tidak dapat memberikan tanggapan yang tepat untuk pertanyaan yang khusus untuk penyedia layanan lain."
+        },
+        {
+          "heading": "Masalah terkait Dompet / Pertukaran / Proyek",
+          "content": "Silakan hubungi penyedia layanan dompet Anda, pertukaran atau pemilik proyek / kontrak untuk dukungan lebih lanjut karena mereka berada dalam posisi yang lebih baik untuk membantu Anda dalam masalah yang berkaitan dengan dan dari platform mereka."
+        }
       ]
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message"
-    },
-    "button": "Send Message",
-    "successMessage": "Thank you, we will get back to you soon",
-    "errorMessage": "Something went wrong!"
+    "form": {
+      "heading": "Formulir Kontak:",
+      "name": {
+        "label": "Nama",
+        "placeholder": "Nama"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Email"
+      },
+      "subject": {
+        "label": "Subyek",
+        "placeholder": "Subyek",
+        "options": [
+          "Penyelidikan umum",
+          "Dukungan / Teknis",
+          "Partnership",
+          "API / Development",
+          "Name tagging / Label address",
+          "Advertise"
+        ]
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Message"
+      },
+      "button": "Send Message",
+      "successMessage": "Thank you, we will get back to you soon",
+      "errorMessage": "Something went wrong!"
+    }
   }
 }

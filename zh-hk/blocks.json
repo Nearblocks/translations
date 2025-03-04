@@ -1,8 +1,8 @@
 {
   "metaTitle": "所有NEAR最新的區塊 | NearBlocks",
   "metaDescription": "展示所有在NEAR區塊鏈上的NEARⓃ區塊，時間戳，礦工，使用的GAS，GAS價格和所包含的交易記錄。",
-  "heading": "最新的 Near 協議塊",
-  "listing": "區塊#{from}至#{to}(共{count , number}區塊)",
+  "blockHeading": "最新的 Near 協議塊",
+  "listing": "區塊#{from}至#{to}(共{count}區塊)",
   "blocks": "區塊",
   "type": "類型",
   "typeBlock": "區塊",
@@ -30,7 +30,9 @@
     "author": "礦工",
     "receipt": "收款",
     "gasLimit": "GAS限制",
-    "gasFee": "GAS費"
+    "gasFee": "GAS費",
+    "listing": "區塊#{from}至#{to}(共{count}區塊)"
+
   },
   "testnetNotice": "[ 這只是一個測試區塊 ]",
   "noBlocks": "沒有區塊"

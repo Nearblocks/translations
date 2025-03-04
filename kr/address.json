@@ -29,5 +29,12 @@
   "codeHash": "코드 해시",
   "tokenTxns": "토큰 트랜잭션",
   "nftTokenTxns": "NFT 토큰 거래",
-  "accessKeys": "액세스 키"
+  "accessKeys": "액세스 키",
+  "multichainInfo": "멀티체인 정보",
+  "noAddresses": "없음",
+  "address": "주소",
+  "addresses": "주소들",
+  "foundOn": "에서 발견",
+  "foreignChain": "외부 체인",
+  "multi-chainTxns": "멀티체인 트랜잭션"
 }

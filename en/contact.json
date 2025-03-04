@@ -1,52 +1,54 @@
 {
-  "metaTitle": "Contact Us | NearBlocks",
-  "metaDescription": "Contact the Near Blocks team for any enquiries related to our website and tools. Please understand that we can only assist with issues directly related to the block explorer services.",
-  "heading": "Contact Near Blocks",
-  "info": {
-    "heading": "Drop us a message, but please be aware that:",
-    "points": [
-      {
-        "heading": "Pending Transaction",
-        "content": "We do not process transactions and are therefore unable to expedite, cancel or replace them. If you are having issues with pending transactions, please refer here."
-      },
-      {
-        "heading": "Near Block Explorer",
-        "content": "Near Blocks is an independent block explorer unrelated to other service providers (unless stated explicitly otherwise) and is therefore unable to provide a precise response for inquiries that are specific to other service providers."
-      },
-      {
-        "heading": "Wallet / Exchange / Project related issues",
-        "content": "Kindly reach out to your wallet service provider, exchanges or project/contract owner for further support as they are in a better position to assist you on the issues related to and from their platforms."
-      }
-    ]
-  },
-  "form": {
-    "heading": "Contact Form:",
-    "name": {
-      "label": "Name",
-      "placeholder": "Name"
-    },
-    "email": {
-      "label": "Email",
-      "placeholder": "Email"
-    },
-    "subject": {
-      "label": "Subject",
-      "placeholder": "Subject",
-      "options": [
-        "General enquiry",
-        "Support / Technical",
-        "Partnership",
-        "API / Development",
-        "Name tagging / Label address",
-        "Advertise"
+  "contact": {
+    "metaTitle": "Contact Us | NearBlocks",
+    "metaDescription": "Contact the Near Blocks team for any enquiries related to our website and tools. Please understand that we can only assist with issues directly related to the block explorer services.",
+    "heading": "Contact Near Blocks",
+    "info": {
+      "heading": "Drop us a message, but please be aware that:",
+      "points": [
+        {
+          "heading": "Pending Transaction",
+          "content": "We do not process transactions and are therefore unable to expedite, cancel or replace them. If you are having issues with pending transactions, please refer here."
+        },
+        {
+          "heading": "Near Block Explorer",
+          "content": "Near Blocks is an independent block explorer unrelated to other service providers (unless stated explicitly otherwise) and is therefore unable to provide a precise response for inquiries that are specific to other service providers."
+        },
+        {
+          "heading": "Wallet / Exchange / Project related issues",
+          "content": "Kindly reach out to your wallet service provider, exchanges or project/contract owner for further support as they are in a better position to assist you on the issues related to and from their platforms."
+        }
       ]
     },
-    "message": {
-      "label": "Message",
-      "placeholder": "Message"
-    },
-    "button": "Send Message",
-    "successMessage": "Thank you, we will get back to you soon",
-    "errorMessage": "Something went wrong!"
+    "form": {
+      "heading": "Contact Form:",
+      "name": {
+        "label": "Name",
+        "placeholder": "Name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Email"
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "Subject",
+        "options": [
+          "General enquiry",
+          "Support / Technical",
+          "Partnership",
+          "API / Development",
+          "Name tagging / Label address",
+          "Advertise"
+        ]
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Message"
+      },
+      "button": "Send Message",
+      "successMessage": "Thank you, we will get back to you soon",
+      "errorMessage": "Something went wrong!"
+    }
   }
 }

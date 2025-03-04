@@ -1,6 +1,8 @@
 {
-  "metaTitle": "Tentang Kami | NearBlocks",
-  "metaDescription": "NearBlocks adalah Platform Blockchain Explorer, Search, API, dan Analytics terkemuka untuk blockchain NEAR, platform kontrak pintar terdesentralisasi.",
-  "heading": "Tentang NearBlocks",
-  "content": "NearBlocks adalah Platform Blockchain Explorer, Search, API, dan Analytics terkemuka untuk blockchain NEAR, platform kontrak pintar terdesentralisasi."
+  "aboutNear": {
+    "metaTitle": "Tentang Kami | NearBlocks",
+    "metaDescription": "NearBlocks adalah Platform Blockchain Explorer, Search, API, dan Analytics terkemuka untuk blockchain NEAR, platform kontrak pintar terdesentralisasi.",
+    "heading": "Tentang NearBlocks",
+    "content": "NearBlocks adalah Platform Blockchain Explorer, Search, API, dan Analytics terkemuka untuk blockchain NEAR, platform kontrak pintar terdesentralisasi."
+  }
 }

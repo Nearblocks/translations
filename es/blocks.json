@@ -1,8 +1,8 @@
 {
   "metaTitle": "Todos los Últimos Bloques de Near | NearBlocks",
   "metaDescription": "Todos los Bloques de Near (Ⓝ que están incluidos en la cadena de bloques Near. La marca de tiempo, autor, gas usado, precio de gas y transacciones incluidas son mostradas.",
-  "heading": "Últimos bloques de protocolo cercano",
-  "listing": "Bloque #{from} a #{to} (Total de {count , number} bloques)",
+  "blockHeading": "Últimos bloques de protocolo cercano",
+  "listing": "Bloque #{from} a #{to} (Total de {count} bloques)",
   "blocks": "Bloques",
   "type": "Tipo",
   "typeBlock": "Bloque",
@@ -34,7 +34,9 @@
     "author": "Autor",
     "receipt": "Recibo",
     "gasLimit": "Límite de Gas",
-    "gasFee": "Tarifa de Gas"
+    "gasFee": "Tarifa de Gas",
+    "listing": "Bloque #{from} a #{to} (Total de {count} bloques)"
+
   },
   "testnetNotice": "[ Este solamente es un bloque de Testnet ]",
   "noBlocks": "No hay bloques"

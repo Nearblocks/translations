@@ -1,13 +1,14 @@
 {
   "metaTitle": "Tutte le ultime Transazioni Near | NearBlocks",
   "metaDescription": "Tutte le Transazioni Near confermate sulla Near Blockchain. L'elenco consiste di transazioni che inviano Near e i dettagli delle transazioni.",
-  "heading": "Ultime transazioni Near Protocol",
-  "listing": "Più di > {count , number} transazioni trovate",
+  "txnsHeading": "Ultime transazioni Near Protocol",
+  "txnsListing": "Più di > {count} transazioni trovate",
   "listingToken": "Più di > {count} transazioni di Token trovate",
   "hash": "Hash di Txn",
   "type": "Metodo",
   "typeTxn": "Transazione",
   "typeToken": "Transazione di Token",
+  "tokenPlaceholder": "Cerca per token",
   "unknownType": "Sconosciuto",
   "batchTxns": "Transazione Batch",
   "createAccount": "Crea Account",
@@ -34,7 +35,7 @@
     "from": "Da",
     "to": "A"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "Transazione Near {txn} | NearBlocks",
     "metaDescription": "Info dettagliate di transazioni su Near Blockchain {txn}.",
     "heading": "Dettagli della Transazione",

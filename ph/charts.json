@@ -1,71 +1,82 @@
-﻿{
-  "metaTitle": "Near Charts at Statistics | NearBlocks ",
-  "metaDescription": "Nagbibigay ang Near ng suite of real-time Near data chart at statistics upang subaybayan ang lahat tungkol sa Nearblocks : Presyo, Supply, Marketcap, Transaksyon Fee at iba pa.",
-  "heading": "Near Charts at Statistics",
-  "otherHeading": "Iba pang Near Blockchain Charts at Statistics",
-  "nearPrice": {
-    "metaTitle": "Near Price Ngayon : Info, Chart, Stats | NearBlocks ",
-    "metaDescription": "Ipinapakita ng chart ng Near Daily Price (USD) ang pang-araw-araw na historical price para sa Near sa USD. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
-    "heading": "Near Daily Price (USD) Chart",
-    "description": "Near Daily Price (USD) chart ay ipinapakita ang pang-araw-araw na historical price para sa Near sa USD.",    "yLabel": "Near Price (USD)",
-    "statistics": {
-      "heading": "Near Price Statistics",
-      "price": "Near Price (USD)",
-      "marketCap": "Market Cap",
-      "volume": "Trading Volume",
-      "volumeMarketCap": "Volume / Market Cap",
-      "high24": "24h High",
-      "low24": "24h Low",
-      "highAll": "All-Time High",
-      "lowAll": "All-Time Low"
+{
+  "charts": {
+    "metaTitle": "Near Charts at Statistics | NearBlocks ",
+    "metaDescription": "Nagbibigay ang Near ng suite of real-time Near data chart at statistics upang subaybayan ang lahat tungkol sa Nearblocks : Presyo, Supply, Marketcap, Transaksyon Fee at iba pa.",
+    "heading": "Near Charts at Statistics",
+    "otherHeading": "Iba pang Near Blockchain Charts at Statistics",
+    "nearPrice": {
+      "metaTitle": "Near Price Ngayon : Info, Chart, Stats | NearBlocks ",
+      "metaDescription": "Ipinapakita ng chart ng Near Daily Price (USD) ang pang-araw-araw na historical price para sa Near sa USD. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
+      "heading": "Near Daily Price (USD) Chart",
+      "description": "Near Daily Price (USD) chart ay ipinapakita ang pang-araw-araw na historical price para sa Near sa USD.",
+      "yLabel": "Near Price (USD)",
+      "statistics": {
+        "heading": "Near Price Statistics",
+        "price": "Near Price (USD)",
+        "marketCap": "Market Cap",
+        "volume": "Trading Volume",
+        "volumeMarketCap": "Volume / Market Cap",
+        "high24": "24h High",
+        "low24": "24h Low",
+        "highAll": "All-Time High",
+        "lowAll": "All-Time Low"
+      }
     }
   },
-  "marketCap": {
+  "marketCapCharts": {
     "metaTitle": "Near Market Capitalization Chart | NearBlocks ",
     "metaDescription": "Ipinapakita ng Near Market Capitalization chart ang historical breakdown ng Near daily market capitalization at presyo. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
     "heading": "Near Market Capitalization Chart",
     "description": "Ipinapakita ng Near Market Capitalization chart ang historical breakdown ng Near daily market capitalization at presyo.",
     "yLabel": "Near Market Cap (USD)"
   },
-  "nearSupply": {
+  "nearSupplyCharts": {
     "metaTitle": "Near Supply Chart : Circulating, Total Supply | NearBlocks ",
-    "metaDescription": "Ang Near Blockchain Supply Growth Chart ay nagpapakita ng breakdown ng daily block reward at ang kabuuang Near supply. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",    "heading": "Near Supply Growth Chart",
+    "metaDescription": "Ang Near Blockchain Supply Growth Chart ay nagpapakita ng breakdown ng daily block reward at ang kabuuang Near supply. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
+    "heading": "Near Supply Growth Chart",
     "description": "Ang Near Supply Growth Chart ay nagpapakita ng breakdown ng araw-araw at ang kabuuang Near supply.",
     "yLabel": "Near Supply"
   },
-  "txns": {
+  "txnsCharts": {
     "metaTitle": "Near Transactions Chart : Impormasyon, Statistics, Growth | NearBlocks ",
     "metaDescription": "Ang Near transactions chart ay nagha-highlight sa kabuuang bilang ng mga transaksyon sa Near blockchain blockchain na may araw-araw na individual breakdown para sa kabuuang transaksyon, kabuuang mga block at kabuuang bagong account na nakita.",
     "heading": "Near Daily Transactions Chart",
     "description": "Itinatampok ng chart ang kabuuang bilang ng mga transaksyon sa Near blockchain na may pang-araw-araw na individual breakdown para sa kabuuang mga block at kabuuang bagong account na nakita.",
     "yLabel": "Mga Transaksyon bawat Araw"
   },
-  "blocks": {
+  "blocksCharts": {
     "metaTitle": "Nearblock Count Chart | NearBlocks ",
     "metaDescription": "Ang Near blockchain Block Count Chart ay nagpapakita ng makasaysayang bilang ng mga block na ginawa araw-araw sa Near blockchain. Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
     "heading": "Nearblock Count",
     "description": "Ipinapakita ng Nearblock Count Chart ang makasaysayang bilang ng mga block na ginawa araw-araw sa Near blockchain.",
     "yLabel": "Blocks kada Araw"
   },
-  "addresses": {
+  "addressesCharts": {
     "metaTitle": "Near Unique Accounts Chart | NearBlocks ",
     "metaDescription": "Ang Near blockchain unique accounts chart ay nagpapakita ng total distinct number ng mga account sa Near blockchain at ang pagtaas ng bilang ng account araw-araw.",
     "heading": "Near Unique Accounts Chart",
     "description": "Ipinapakita ng chart ang total distinct number ng mga account sa Near blockchain at ang pagtaas ng bilang ng account araw-araw.",
     "yLabel": "Near Cumulative Accounts Growth"
   },
-  "txnFee": {
+  "txnFeeCharts": {
     "metaTitle": "Near Transaction Fee History : Transaction Fee | NearBlocks ",
     "metaDescription": "Ipinapakita ng chart ng bayarin sa transaksyon ng Near blockchain ang pang-araw-araw na halaga sa USD na ginastos sa bawat transaksyon sa Near blockchain (Ⓝ). Ang lahat ng data ay real-time, tumpak at direktang nakuha mula sa Near blockchain.",
     "heading": "Transaction Fee Chart",
     "description": "Ipinapakita ng chart ang pang-araw-araw na halaga sa USD na ginastos sa bawat transaksyon sa Near blockchain.",
     "yLabel": "Transaction Fee (USD)"
   },
-  "txnVolume": {
+  "txnVolumeCharts": {
     "metaTitle": "Near Transaction Volume Chart : Transaction Volume | NearBlocks ",
     "metaDescription": "Ang Near blockchain transaction volume chart ay nagpapakita ng pang-araw-araw na halaga sa USD na ginagastos sa bawat transaksyon sa Near blockchain.",
     "heading": "Transaction Volume Chart",
     "description": "Ipinapakita ng chart ang pang-araw-araw na halaga sa USD na ginastos sa bawat transaksyon sa Near blockchain.",
     "yLabel": "Transaction Volume (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Chart ng Multichain na Transaksyon | NearBlocks",
+    "metaDescription": "Ang Chart ng Multichain na Transaksyon ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "heading": "Chart ng Multichain na Transaksyon",
+    "description": "Ang chart ay nagpapakita ng kabuuang bilang ng mga multichain na transaksyon sa Near blockchain.",
+    "yLabel": "Multichain na Transaksyon Kada Araw"
   }
 }

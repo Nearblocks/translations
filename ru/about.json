@@ -1,6 +1,8 @@
 {
-  "metaTitle": "О нас | Near Bloacks",
-  "metaDescription": "Near Blocks является ведущей платформой Blockchain Explorer, Search, API и Analytics для блокчейна NEAR, децентрализованной платформы смарт-контрактов.",
-  "heading": "О Near Blocks",
-  "content": "Near Blocks является ведущей платформой Blockchain Explorer, Search, API и Analytics для блокчейна NEAR, децентрализованной платформы смарт-контрактов."
+  "aboutNear": {
+    "metaTitle": "О нас | Near Bloacks",
+    "metaDescription": "Near Blocks является ведущей платформой Blockchain Explorer, Search, API и Analytics для блокчейна NEAR, децентрализованной платформы смарт-контрактов.",
+    "heading": "О Near Blocks",
+    "content": "Near Blocks является ведущей платформой Blockchain Explorer, Search, API и Analytics для блокчейна NEAR, децентрализованной платформы смарт-контрактов."
+  }
 }

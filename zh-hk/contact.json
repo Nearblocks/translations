@@ -1,52 +1,54 @@
 {
-  "metaTitle": "聯絡我們 | NearBlocks",
-  "metaDescription": "如對我們的網站和工具有任何疑問，可以聯絡Near Blocks團隊。請留意，我們只能協助解決與我們的區塊鏈瀏覽器服務直接相關的問題。",
-  "heading": "聯絡Near Blocks",
-  "info": {
-    "heading": "發送訊息給我們前，請注意：",
-    "points": [
-      {
-        "heading": "未確認交易",
-        "content": "我們不會處理交易，故此亦無法加速，取消或取代任何未確認交易。若你有任何關於未確認交易的問題，請參考這裏。"
-      },
-      {
-        "heading": "NEAR區塊鏈瀏覽器",
-        "content": "Near Blocks是一個獨立區塊鏈瀏覽器，與其他服務供應商沒有關係（特別註明的例外），故此亦無法為其他服務供應商相關的問題提供解答。"
-      },
-      {
-        "heading": "錢包 / 交易所 / 項目相關問題",
-        "content": "請聯繫你的錢包，交易所或項目/合約擁有人以讓他們為你遇到的相關問題提供更合適的支援。"
-      }
-    ]
-  },
-  "form": {
-    "heading": "聯絡表單：",
-    "name": {
-      "label": "名稱",
-      "placeholder": "名稱"
-    },
-    "email": {
-      "label": "電郵",
-      "placeholder": "電郵"
-    },
-    "subject": {
-      "label": "標題",
-      "placeholder": "標題",
-      "options": [
-        "一般咨詢",
-        "支援 / 技術",
-        "合作",
-        "數據接口 / 開發",
-        "名稱標籤 / 標籤地址",
-        "廣告宣傳"
+  "contact": {
+    "metaTitle": "聯絡我們 | NearBlocks",
+    "metaDescription": "如對我們的網站和工具有任何疑問，可以聯絡Near Blocks團隊。請留意，我們只能協助解決與我們的區塊鏈瀏覽器服務直接相關的問題。",
+    "heading": "聯絡Near Blocks",
+    "info": {
+      "heading": "發送訊息給我們前，請注意：",
+      "points": [
+        {
+          "heading": "未確認交易",
+          "content": "我們不會處理交易，故此亦無法加速，取消或取代任何未確認交易。若你有任何關於未確認交易的問題，請參考這裏。"
+        },
+        {
+          "heading": "NEAR區塊鏈瀏覽器",
+          "content": "Near Blocks是一個獨立區塊鏈瀏覽器，與其他服務供應商沒有關係（特別註明的例外），故此亦無法為其他服務供應商相關的問題提供解答。"
+        },
+        {
+          "heading": "錢包 / 交易所 / 項目相關問題",
+          "content": "請聯繫你的錢包，交易所或項目/合約擁有人以讓他們為你遇到的相關問題提供更合適的支援。"
+        }
       ]
     },
-    "message": {
-      "label": "訊息內容",
-      "placeholder": "訊息內容"
-    },
-    "button": "發送訊息",
-    "successMessage": "感謝，我們會盡快回覆",
-    "errorMessage": "發生錯誤!"
+    "form": {
+      "heading": "聯絡表單：",
+      "name": {
+        "label": "名稱",
+        "placeholder": "名稱"
+      },
+      "email": {
+        "label": "電郵",
+        "placeholder": "電郵"
+      },
+      "subject": {
+        "label": "標題",
+        "placeholder": "標題",
+        "options": [
+          "一般咨詢",
+          "支援 / 技術",
+          "合作",
+          "數據接口 / 開發",
+          "名稱標籤 / 標籤地址",
+          "廣告宣傳"
+        ]
+      },
+      "message": {
+        "label": "訊息內容",
+        "placeholder": "訊息內容"
+      },
+      "button": "發送訊息",
+      "successMessage": "感謝，我們會盡快回覆",
+      "errorMessage": "發生錯誤!"
+    }
   }
 }

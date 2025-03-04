@@ -1,8 +1,8 @@
 {
   "metaTitle": "All Near Latest Protocol Blocks | NearBlocks",
   "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, author, gas used, gas price and included transactions are shown.",
-  "heading": "Latest Near Protocol Blocks",
-  "listing": "Block #{from} to #{to} (Total of {count, number} blocks)",
+  "blockHeading": "Latest Near Protocol Blocks",
+  "listing": "Block #{from} to #{to} (Total of {count} blocks)",
   "blocks": "Block",
   "type": "Type",
   "typeBlock": "Block",
@@ -34,7 +34,9 @@
     "author": "Author",
     "receipt": "Receipt",
     "gasLimit": "Gas Limit",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "listing": "Block #{from} to #{to} (Total of {count} blocks)"
+
   },
   "testnetNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"

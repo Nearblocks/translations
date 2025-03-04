@@ -1,8 +1,8 @@
 {
   "metaTitle": "Tất cả những khối gần nhất | NearBlocks",
   "metaDescription": "Tất cả các khối được bao gồm trong NEAR blockchain. Các mốc thời gian, tác giả, phí gas được sử dụng, giá phí gas và các giao dịch bao gồm được hiển thị.",
-  "heading": "Khối giao thức gần mới nhất",
-  "listing": "Khối #{from} tới #{to} (Trong tất cả {count , number} khối)",
+  "blockHeading": "Khối giao thức gần mới nhất",
+  "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)",
   "blocks": "Khối",
   "type": "Loại",
   "typeBlock": "Khối",
@@ -33,7 +33,8 @@
     "author": "Tác giả",
     "receipt": "Biên nhận",
     "gasLimit": "Giới hạn Gas",
-    "gasFee": "Phí Gas"
+    "gasFee": "Phí Gas",
+    "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)"
   },
   "testnetNotice": "[ Đây là khối Testnet! ]",
   "noBlocks": "Không có khối"

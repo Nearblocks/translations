@@ -1,6 +1,8 @@
 {
-  "metaTitle": "เกี่ยวกับเรา | NearBlocks",
-  "metaDescription": "NearBlocks คือแพลตฟอร์มกระจายศูนย์ชั้นนำบน Near Blockchain ที่มีบริการมากมายไม่ว่าจะเป็น Blockchain Explorer การค้นหา API และ Analytics",
-  "heading": "เกี่ยวกับ NearBlocks",
-  "content": "NearBlocks คือแพลตฟอร์มกระจายศูนย์ชั้นนำบน Near Blockchain ที่มีบริการมากมายไม่ว่าจะเป็น Blockchain Explorer การค้นหา API และ Analytics"
+  "aboutNear": {
+    "metaTitle": "เกี่ยวกับเรา | NearBlocks",
+    "metaDescription": "NearBlocks คือแพลตฟอร์มกระจายศูนย์ชั้นนำบน Near Blockchain ที่มีบริการมากมายไม่ว่าจะเป็น Blockchain Explorer การค้นหา API และ Analytics",
+    "heading": "เกี่ยวกับ NearBlocks",
+    "content": "NearBlocks คือแพลตฟอร์มกระจายศูนย์ชั้นนำบน Near Blockchain ที่มีบริการมากมายไม่ว่าจะเป็น Blockchain Explorer การค้นหา API และ Analytics"
+  }
 }
