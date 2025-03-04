@@ -1,13 +1,14 @@
 {
   "metaTitle": "所有最新的NEAR交易記錄 | NearBlocks",
   "metaDescription": "所以NEAR區塊鏈確認的交易記錄。這列表包含每一交易的詳情。",
-  "heading": "最新的 Near 協議交易",
-  "listing": "找到超過{{count}}筆交易",
-  "listingToken": "找到超過{{count}}筆代幣轉帳記錄",
+  "txnsHeading": "最新的 Near 協議交易",
+  "txnsListing": "找到超過{count}筆交易",
+  "listingToken": "找到超過{count}筆代幣轉帳記錄",
   "hash": "交易哈希值",
   "type": "Method",
   "typeTxn": "交易",
   "typeToken": "代幣轉帳",
+  "tokenPlaceholder": "按代幣搜尋",
   "unknownType": "不明",
   "batchTxns": "批量交易",
   "createAccount": "創建帳戶",
@@ -34,7 +35,7 @@
     "from": "由",
     "to": "至"
   },
-  "txn": {
+  "txnDetails": {
     "metaTitle": "NEAR交易 {{txn}} | NearBlocks",
     "metaDescription": "NEAR區塊鏈交易詳情{{txn}}。",
     "heading": "交易詳情",

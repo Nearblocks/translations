@@ -1,13 +1,14 @@
 {
   "metaTitle": "Todas las últimas transacciones de Near | NearBlocks",
   "metaDescription": "Todas las transacciones Near confirmadas en la cadena de bloques de Near. La lista consiste en transacciones de enviar Near y los detalles de transacción para cada transacción.",
-  "heading": "Últimas transacciones de Near Protocol",
-  "listing": "Más de  > {{count}} transacciones encontradas",
-  "listingToken": "Más de > {{count}} transferencias de Token encontradas",
+  "txnsHeading": "Últimas transacciones de Near Protocol",
+  "txnsListing": "Más de  > {count} transacciones encontradas",
+  "listingToken": "Más de > {count} transferencias de Token encontradas",
   "hash": "Has de Txn",
   "type": "Método",
   "typeTxn": "Transacción",
   "typeToken": "Transacción de Token",
+  "tokenPlaceholder": "Buscar por token",
   "unknownType": "Desconocido",
   "batchTxns": "Transacción por Lote",
   "createAccount": "Crear Cuenta",
@@ -34,8 +35,8 @@
     "from": "Desde",
     "to": "Hacia"
   },
-  "txn": {
-    "metaTitle": "Transacción de Near {{txn}} | NearBlocks",
+  "txnDetails": {
+    "metaTitle": "Transacción de Near {txn} | NearBlocks",
     "metaDescription": "Información detallada por transacción de la cadena de bloques Near {{txn}}.",
     "heading": "Detalles de Transacción",
     "hash": {
@@ -161,7 +162,7 @@
       }
     }
   },
-  "info": "Mostrando los últimos {{count}} registros solamente",
+  "info": "Mostrando los últimos {count ,number} registros solamente",
   "depositValue": "Valor de Depósito",
   "txnFee": "Tarifa de Txn",
   "txnSelf": "Propia",

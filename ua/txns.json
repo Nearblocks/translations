@@ -1,12 +1,13 @@
 {
   "metaTitle": "Усі Останні Транзакції Near Protocol | NearBlocks",
   "metaDescription": "Усі Транзакції near підтверджені на блокчейні Near. Список складається з транзакцій від відправки Near Ⓝ та деталей транзакцій для кожної транзакції.",
-  "heading": "Останні Транзакції Near Protocol",
-  "listing": "Більше ніж > транзакцій {{count}}",
-  "listingToken": "Більше ніж > {{count}} Знайдені перекази токенів",
+  "txnsHeading": "Останні Транзакції Near Protocol",
+  "txnsListing": "Більше ніж > транзакцій {count}",
+  "listingToken": "Більше ніж > {count} Знайдені перекази токенів",
   "hash": "Хеш Транзакції",
   "type": "Метод",
   "typeTxn": "Транзакція",
+  "tokenPlaceholder": "Пошук за маркером",
   "typeToken": "Транзакція токена",
   "unknownType": "Невідомо",
   "batchTxns": "Пакетна Транзакція",
@@ -34,9 +35,9 @@
     "from": "Від:",
     "to": "До:"
   },
-  "txn": {
-    "metaTitle": "Транзакція Near {{txn}} | NearBlocks",
-    "metaDescription": "Детальна інформація з блокчейну Near для транзакції {{txn}}.",
+  "txnDetails": {
+    "metaTitle": "Транзакція Near {txn} | NearBlocks",
+    "metaDescription": "Детальна інформація з блокчейну Near для транзакції {txn}.",
     "heading": "Деталі транзакції",
     "hash": {
       "text": [
@@ -225,7 +226,7 @@
       }
     }
   },
-  "info": "Показано лише останні {{count}} записів",
+  "info": "Показано лише останні {count} записів",
   "depositValue": "Сума депозиту",
   "txnFee": "Комісія за транзакцію",
   "txnSelf": "Self",

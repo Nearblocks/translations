@@ -1,0 +1,26 @@
+{
+  "metaTitle": "所有最新的多鏈交易",
+  "metaDescription": "Near區塊鏈上確認的所有最新多鏈交易。",
+  "heading": "最新多鏈交易",
+  "count": "共找到{{count}}筆多鏈交易",
+  "receiptId": "收據 ID",
+  "sourceTxn": "來源交易哈希",
+  "from": "從",
+  "destinationTxn": "目標交易哈希",
+  "destinationAddress": "目標地址",
+  "filter": {
+    "placeholder": "按地址搜尋，例如 Ⓝ..",
+    "placeholderForeign": "按地址搜尋",
+    "filter": "篩選",
+    "clear": "清除",
+    "by": "篩選條件",
+    "from": "從",
+    "to": "到"
+  },
+  "age": "年齡",
+  "ageDT": "日期時間 (UTC)",
+  "noTxns": "無交易",
+  "totalTxns": "總交易數",
+  "volume": "成交量(24h)",
+  "networks": "網絡"
+}

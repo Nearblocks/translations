@@ -1,13 +1,14 @@
 {
   "metaTitle": "Toutes les dernières transactions en Near | NearBlocks",
   "metaDescription": "Toutes les transactions Near confirmées sur Near Blockchain. La liste se compose des transactions de l'envoi de Near et des détails des transactions pour chaque transaction.",
-  "heading": "Dernières transactions proches du protocole",
-  "listing": "Plus que > {{count}} opérations trouvées",
-  "listingToken": "Plus que > {{count}} Transferts de jetons trouvés",
+  "txnsHeading": "Dernières transactions proches du protocole",
+  "txnsListing": "Plus que > {count} opérations trouvées",
+  "listingToken": "Plus que > {count} Transferts de jetons trouvés",
   "hash": "Txn Hashage",
   "type": "Méthode",
   "typeTxn": "Transaction",
   "typeToken": "Jeton transaction",
+  "tokenPlaceholder": "Recherche par jeton",
   "unknownType": "Inconnue",
   "batchTxns": "Transaction par lots",
   "createAccount": "Créer un compte",
@@ -34,8 +35,8 @@
     "from": "De",
     "to": "À"
   },
-  "txn": {
-    "metaTitle": "Near Transaction {{txn}} | NearBlocks",
+  "txnDetails": {
+    "metaTitle": "Near Transaction {txn} | NearBlocks",
     "metaDescription": "Near Blockchain informations détaillées pour la transaction {{txn}}.",
     "heading": "Détails de la transaction",
     "hash": {
@@ -225,7 +226,7 @@
       }
     }
   },
-  "info": "Affichage des derniers {{count}} enregistrements uniquement",
+  "info": "Affichage des derniers {count} enregistrements uniquement",
   "depositValue": "Valeur du dépôt",
   "txnFee": "Txn frai",
   "txnSelf": "Soi",

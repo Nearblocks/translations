@@ -1,8 +1,8 @@
 {
   "metaTitle": "บล็อก Near ล่าสุดทั้งหมด | NearBlocks",
   "metaDescription": "Near ทั้งหมด (Ⓝ บล็อกที่อยู่บนบล็อกเชน Near โดยไทม์สแตมป์ ชื่อผู้สร้าง ค่าแก๊ส และแก๊สที่ใช้ทั้งหมดจะอยู่ใน Contract ที่แสดงอยู่นี้",
-  "heading": "บล็อกโปรโตคอลใกล้ล่าสุด",
-  "listing": "บล็อก #{{from}} ไปยัง #{{to}} (เป็นจำนวน {{count}} บล็อก)",
+  "blockHeading": "บล็อกโปรโตคอลใกล้ล่าสุด",
+  "listing": "บล็อก #{from} ไปยัง #{to} (เป็นจำนวน {count} บล็อก)",
   "blocks": "บล็อก",
   "type": "ประเภท",
   "typeBlock": "บล็อก",
@@ -14,16 +14,16 @@
   "volume": "ปริมาณธุรกรรม",
   "blockError": "บล็อกผิดพลาด",
   "block": {
-    "metaTitle": "Near บล็อก {{block}} | NearBlocks",
-    "metaDescription": "บล็อก Near ลำดับที่ {{block}} โดยไทม์สแตมป์ ชื่อผู้สร้าง ค่าแก๊ส และแก๊สที่ใช้ทั้งหมดจะอยู่ใน Contract ที่แสดงอยู่นี้",
-    "heading": ["บล๊อก", "#{{block}}"],
+    "metaTitle": "Near บล็อก {block} | NearBlocks",
+    "metaDescription": "บล็อก Near ลำดับที่ {block} โดยไทม์สแตมป์ ชื่อผู้สร้าง ค่าแก๊ส และแก๊สที่ใช้ทั้งหมดจะอยู่ใน Contract ที่แสดงอยู่นี้",
+    "heading": ["บล๊อก", "#{block}"],
     "height": "ลำดับบล็อก",
     "hash": "แฮช",
     "timestamp": "ไทม์สแตมป์",
     "transactions": [
       "ธุรกรรม",
-      "{{txns}} ธุรกรรม",
-      " และ {{receipts}} ใบเสร็จ"
+      "{txns} ธุรกรรม",
+      " และ {receipts} ใบเสร็จ"
     ],
     "fees": "ค่าธรรมเนียม",
     "price": "Ⓝ ราคา",
@@ -34,7 +34,9 @@
     "author": "ผู้สร้าง",
     "receipt": "ใบเสร็จ",
     "gasLimit": "แก๊สลิมิต",
-    "gasFee": "ค่าแก๊ส"
+    "gasFee": "ค่าแก๊ส",
+    "listing": "บล็อก #{from} ไปยัง #{to} (เป็นจำนวน {count} บล็อก)"
+
   },
   "testnetNotice": "[ นี่เป็นเพียงบล็อกบน Testnet เท่านั้น ]",
   "noBlocks": "ไม่มีบล็อก"

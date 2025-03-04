@@ -1,13 +1,14 @@
 {
   "metaTitle": "Tất cả giao dịch Near gần nhất | NearBlocks",
   "metaDescription": "Tất cả giao dịch đã được xác nhận trên Near Blockchain. Danh sách bao gồm các giao dịch gửi Near và chi tiết các giao dịch.",
-  "heading": "Giao dịch gần đây nhất",
-  "listing": "Đã tìm thấy hơn > {{count}} số giao dịch",
-  "listingToken": "Đã tìm thấy hơn > {{count}} số giao dịch Tokens",
+  "txnsHeading": "Giao dịch gần đây nhất",
+  "txnsListing": "Đã tìm thấy hơn > {count} số giao dịch",
+  "listingToken": "Đã tìm thấy hơn > {count} số giao dịch Tokens",
   "hash": "Băm giao dịch",
   "type": "Loại",
   "typeTxn": "Giao dịch",
   "typeToken": "Giao dịch Token",
+  "tokenPlaceholder": "Tìm kiếm theo mã thông báo",
   "unknownType": "Không xác định",
   "batchTxns": "Giao dịch hàng loạt",
   "createAccount": "Tạo tài khoản",
@@ -34,9 +35,9 @@
     "from": "Từ",
     "to": "Đến"
   },
-  "txn": {
-    "metaTitle": "Giao dịch Near {{txn}} | NearBlocks",
-    "metaDescription": "Thông tin chi tiết về giao dịch Near Blockchain {{txn}}.",
+  "txnDetails": {
+    "metaTitle": "Giao dịch Near {txn} | NearBlocks",
+    "metaDescription": "Thông tin chi tiết về giao dịch Near Blockchain {txn}.",
     "heading": "Thông tin chi tiết về giao dịch",
     "hash": {
       "text": [
@@ -225,7 +226,7 @@
       }
     }
   },
-  "info": "Chỉ hiển thị {{count}} bản ghi cuối",
+  "info": "Chỉ hiển thị {count} bản ghi cuối",
   "depositValue": "Giá trị nạp",
   "txnFee": "Phí giao dịch",
   "txnSelf": "Bản thân",

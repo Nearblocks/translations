@@ -1,8 +1,8 @@
 {
   "metaTitle": "Blocchi Near più recenti | NearBlocks",
   "metaDescription": "Tutti i Near (Ⓝ Blocchi inclusi nella Near Blockchain. Il timestamp, l'autore, quantità di gas utilizzato, prezzo del gas e le transazioni incluse sono mostrate.",
-  "heading": "Gli ultimi Near Protocol Blocks",
-  "listing": "Blocco #{{from}} a #{{to}} (Totale di {{count}} blocchi)",
+  "blockHeading": "Gli ultimi Near Protocol Blocks",
+  "listing": "Blocco #{from} a #{to} (Totale di {count} blocchi)",
   "blocks": "Blocco",
   "type": "Tipo",
   "typeBlock": "Blocco",
@@ -14,16 +14,16 @@
   "volume": "Volume Transazione",
   "blockError": "Block Error",
   "block": {
-    "metaTitle": "Near Block {{block}} | NearBlocks",
-    "metaDescription": "Altezza Blocco Near {{block}}. Il timestamp, gas utilizzato, prezzo gas, autore, numero di transazioni e ricevute nel blocco sono specificate su Near.",
-    "heading": ["Blocco", "#{{block}}"],
+    "metaTitle": "Near Block {block} | NearBlocks",
+    "metaDescription": "Altezza Blocco Near {block}. Il timestamp, gas utilizzato, prezzo gas, autore, numero di transazioni e ricevute nel blocco sono specificate su Near.",
+    "heading": ["Blocco", "#{block}"],
     "height": "Altezza Blocco",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transazioni",
-      "{{txns}} transazioni",
-      " e {{receipts}} ricevute"
+      "{txns} transazioni",
+      " e {receipts} ricevute"
     ],
     "fees": "Spese",
     "price": "Ⓝ Prezzo",
@@ -34,7 +34,9 @@
     "author": "Autore",
     "receipt": "Ricevuta",
     "gasLimit": "Limite Gas",
-    "gasFee": "Spese Gas"
+    "gasFee": "Spese Gas",
+    "listing": "Blocco #{from} a #{to} (Totale di {count} blocchi)"
+
   },
   "testnetNotice": "[ Questo è un blocco esclusivo del Testnet ]",
   "noBlocks": "Nessun blocco"

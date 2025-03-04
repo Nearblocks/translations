@@ -29,5 +29,12 @@
   "codeHash": "Mã Băm",
   "tokenTxns": "Giao dịch token",
   "nftTokenTxns": "Mã thông báo NFT Txns",
-  "accessKeys": "Phím truy cập"
+  "accessKeys": "Phím truy cập",
+  "multichainInfo": "Thông Tin Đa Chuỗi",
+  "noAddresses": "Không",
+  "address": "địa chỉ",
+  "addresses": "các địa chỉ",
+  "foundOn": "tìm thấy trên",
+  "foreignChain": "Chuỗi Ngoại",
+  "multi-chainTxns": "Giao Dịch Đa Chuỗi"
 }
