@@ -3,6 +3,7 @@
     "metaTitle": "Near Protocol Explorer | NearBlocks",
     "metaDescription": "Near Blocks è un Block Explorer e Piattaforma di Analitica per la Near blockchain (Ⓝ), una nuova piattaforma di blockchain e contratti intelligenti.",
     "heroTitle": "Near Protocol Explorer",
+    "testnetHeroTitle": "TESTNET | Near Protocol Explorer",
     "nearPrice": "Prezzo Near",
     "nearFarmed": "Near raccolti",
     "difficulty": "Difficoltà",

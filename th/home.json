@@ -3,6 +3,7 @@
     "metaTitle": "Near Protocol Explorer | NearBlocks",
     "metaDescription": "Near Blocks คือแพลตฟอร์ม Block Explorer และ Analytics บนบล็อกเชน Near (Ⓝ) ซึ่งเป็นแพลตฟอร์ม Smart Contract แห่งใหม่ของวงการคริปโต",
     "heroTitle": "Near Protocol Explorer",
+    "testnetHeroTitle": "TESTNET | Near Protocol Explorer",
     "nearPrice": "ราคา Near",
     "nearFarmed": "Near ที่ฟาร์มได้",
     "difficulty": "ค่าความยาก",
