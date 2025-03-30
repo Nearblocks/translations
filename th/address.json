@@ -29,5 +29,12 @@
   "codeHash": "แฮชโค้ด",
   "tokenTxns": "ธุรกรรมโทเคน",
   "nftTokenTxns": "NFT โทเค็น Txns",
-  "accessKeys": "คีย์การเข้าถึง"
+  "accessKeys": "คีย์การเข้าถึง",
+  "multichainInfo": "ข้อมูล หลายห่วงโซ่",
+  "noAddresses": "ไม่มี",
+  "address": "ที่อยู่",
+  "addresses": "ที่อยู่",
+  "foundOn": "พบที่",
+  "foreignChain": "เชนต่างประเทศ",
+  "multichainTxns": "ธุรกรรม หลายห่วงโซ่"
 }
