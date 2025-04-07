@@ -32,11 +32,11 @@
     "gasPrice": "Prezzo GAS",
     "parenthash": "Parent hash",
     "author": "Autore",
-    "receipt": "Ricevuta",
+    "receipts": "Ricevute",
     "gasLimit": "Limite Gas",
     "gasFee": "Spese Gas",
-    "listing": "Blocco #{from} a #{to} (Totale di {count} blocchi)"
-
+    "listing": "Blocco #{from} a #{to} (Totale di {count} blocchi)",
+    "txns": "transazioni"
   },
   "testnetNotice": "[ Questo è un blocco esclusivo del Testnet ]",
   "noBlocks": "Nessun blocco"

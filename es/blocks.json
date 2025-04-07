@@ -32,11 +32,11 @@
     "gasPrice": "Precio de GAS",
     "parenthash": "Hash pariente",
     "author": "Autor",
-    "receipt": "Recibo",
+    "receipts": "Recibos",
     "gasLimit": "Límite de Gas",
     "gasFee": "Tarifa de Gas",
-    "listing": "Bloque #{from} a #{to} (Total de {count} bloques)"
-
+    "listing": "Bloque #{from} a #{to} (Total de {count} bloques)",
+    "txns": "transacciones"
   },
   "testnetNotice": "[ Este solamente es un bloque de Testnet ]",
   "noBlocks": "No hay bloques"

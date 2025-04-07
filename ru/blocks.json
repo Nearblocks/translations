@@ -32,11 +32,11 @@
     "gasPrice": "Цена газа",
     "parenthash": "Родительский хэш",
     "author": "Автор",
-    "receipt": "Квитанция",
+    "receipts": "Квитанции",
     "gasLimit": "Лимит газа",
     "gasFee": "Плата за газ",
-    "listing": "Блок #{from} до #{to} (Всего блоков {count})"
-
+    "listing": "Блок #{from} до #{to} (Всего блоков {count})",
+    "txns": "Тхнс"
   },
   "testnetNotice": "[ Это только блок Testnet ]",
   "noBlocks": "Без блоков"

@@ -28,11 +28,11 @@
     "gasPrice": "GAS価格",
     "parenthash": "親ハッシュ",
     "author": "生成者",
-    "receipt": "受領証",
+    "receipts": "領収書",
     "gasLimit": "Gas代上限",
     "gasFee": "Gas代",
-    "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)"
-
+    "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)",
+    "txns": "取引"
   },
   "testnetNotice": "[ これはテストネットのブロックのみです ]",
   "noBlocks": "ブロックがありません"

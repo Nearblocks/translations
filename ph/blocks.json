@@ -35,10 +35,11 @@
     "gasPrice": " Presyo ng Gas",
     "parenthash": "Parent hash",
     "author": "May-akda",
-    "receipt": "Resibo",
+    "receipts": "mga resibo",
     "gasLimit": "Limitasyon ng gas",
     "gasFee": "Gas Fee",
-    "listing": "Block #{mula sa} sa #{sa} (Kalahatan ng {bilang} blocks)"
+    "listing": "Block #{mula sa} sa #{sa} (Kalahatan ng {bilang} blocks)",
+    "txns": "Txns"
   },
   "testnetNotice": "[ Ito ay isang Testnet block lamang ]",
   "noBlocks": "No blocks"

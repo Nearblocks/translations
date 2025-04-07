@@ -35,10 +35,11 @@
     "gasPrice": "Ціна Газу",
     "parenthash": "Батьківський хеш",
     "author": "Автор",
-    "receipt": "Квитанція",
+    "receipts": "Квитанції",
     "gasLimit": "Ліміт Газу",
     "gasFee": "Вартість Газу",
-    "listing": "Блок #{from} до #{to} (Усього блоків {count})"
+    "listing": "Блок #{from} до #{to} (Усього блоків {count})",
+    "txns": "транзакції"
   },
   "testnetNotice": "[ Це лише Testnet блок]",
   "noBlocks": "Немає блоків"

@@ -31,10 +31,11 @@
     "gasPrice": "Giá GAS",
     "parenthash": "Hash nguyên",
     "author": "Tác giả",
-    "receipt": "Biên nhận",
+    "receipts": "Biên nhận",
     "gasLimit": "Giới hạn Gas",
     "gasFee": "Phí Gas",
-    "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)"
+    "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)",
+    "txns": "Giao dịch"
   },
   "testnetNotice": "[ Đây là khối Testnet! ]",
   "noBlocks": "Không có khối"
