@@ -32,11 +32,11 @@
     "gasPrice": "Harga Gas",
     "parenthash": "Hash Induk",
     "author": "Pengarang",
-    "receipt": "Kwitansi",
+    "receipts": "Kwitansi",
     "gasLimit": "Batas Gas",
     "gasFee": "Biaya Gas",
-    "listing": "Blokir #{from} ke #{to} (Total blok {count} )"
-
+    "listing": "Blokir #{from} ke #{to} (Total blok {count} )",
+    "txns": "Txns"
   },
   "testnetNotice": "[ Ini hanya blok Testnet ]",
   "noBlocks": "Tidak ada blok"

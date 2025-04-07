@@ -28,11 +28,11 @@
     "gasPrice": "GAS價格",
     "parenthash": "上一區塊哈希值",
     "author": "礦工",
-    "receipt": "收款",
+    "receipts": "筆收款",
     "gasLimit": "GAS限制",
     "gasFee": "GAS費",
-    "listing": "區塊#{from}至#{to}(共{count}區塊)"
-
+    "listing": "區塊#{from}至#{to}(共{count}區塊)",
+    "txns": "筆交易"
   },
   "testnetNotice": "[ 這只是一個測試區塊 ]",
   "noBlocks": "沒有區塊"

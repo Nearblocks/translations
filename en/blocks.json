@@ -32,11 +32,11 @@
     "gasPrice": "Gas Price",
     "parenthash": "Parent Hash",
     "author": "Author",
-    "receipt": "Receipt",
+    "receipts": "Receipts",
     "gasLimit": "Gas Limit",
     "gasFee": "Gas Fee",
-    "listing": "Block #{from} to #{to} (Total of {count} blocks)"
-
+    "listing": "Block #{from} to #{to} (Total of {count} blocks)",
+    "txns": "Txns"
   },
   "testnetNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"
