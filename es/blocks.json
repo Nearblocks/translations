@@ -38,6 +38,6 @@
     "listing": "Bloque #{from} a #{to} (Total de {count} bloques)",
     "txns": "transacciones"
   },
-  "testnetNotice": "[ Este solamente es un bloque de Testnet ]",
+  "testnetBlockNotice": "[ Este solamente es un bloque de Testnet ]",
   "noBlocks": "No hay bloques"
 }

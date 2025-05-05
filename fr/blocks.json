@@ -38,6 +38,6 @@
     "listing": "Bloc #{from} au #{to} ( Total de{count} blocs)",
     "txns": "Txns"
   },
-  "testnetNotice": "[ Ceci est un bloc Testnet uniquement ]",
+  "testnetBlockNotice": "[ Ceci est un bloc Testnet uniquement ]",
   "noBlocks": "Pas de blocs"
 }

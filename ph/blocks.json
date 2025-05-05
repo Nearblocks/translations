@@ -41,6 +41,6 @@
     "listing": "Block #{mula sa} sa #{sa} (Kalahatan ng {bilang} blocks)",
     "txns": "Txns"
   },
-  "testnetNotice": "[ Ito ay isang Testnet block lamang ]",
+  "testnetBlockNotice": "[ Ito ay isang Testnet block lamang ]",
   "noBlocks": "No blocks"
 }

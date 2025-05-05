@@ -38,6 +38,6 @@
     "listing": "บล็อก #{from} ไปยัง #{to} (เป็นจำนวน {count} บล็อก)",
     "txns": "การทำธุรกรรม"
   },
-  "testnetNotice": "[ นี่เป็นเพียงบล็อกบน Testnet เท่านั้น ]",
+  "testnetBlockNotice": "[ นี่เป็นเพียงบล็อกบน Testnet เท่านั้น ]",
   "noBlocks": "ไม่มีบล็อก"
 }

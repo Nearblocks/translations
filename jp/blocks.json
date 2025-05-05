@@ -34,6 +34,6 @@
     "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)",
     "txns": "取引"
   },
-  "testnetNotice": "[ これはテストネットのブロックのみです ]",
+  "testnetBlockNotice": "[ これはテストネットのブロックのみです ]",
   "noBlocks": "ブロックがありません"
 }

@@ -34,6 +34,6 @@
     "listing": "區塊#{from}至#{to}(共{count}區塊)",
     "txns": "筆交易"
   },
-  "testnetNotice": "[ 這只是一個測試區塊 ]",
+  "testnetBlockNotice": "[ 這只是一個測試區塊 ]",
   "noBlocks": "沒有區塊"
 }

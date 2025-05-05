@@ -34,6 +34,6 @@
     "listing": "블록 #{from} #{to} ({count} 블록 합계)",
     "txns": "업무"
   },
-  "testnetNotice": "[ 테스트넷 블록 전용 ]",
+  "testnetBlockNotice": "[ 테스트넷 블록 전용 ]",
   "noBlocks": "블록 없음"
 }

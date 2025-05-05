@@ -38,6 +38,6 @@
     "listing": "Блок #{from} до #{to} (Всего блоков {count})",
     "txns": "Тхнс"
   },
-  "testnetNotice": "[ Это только блок Testnet ]",
+  "testnetBlockNotice": "[ Это только блок Testnet ]",
   "noBlocks": "Без блоков"
 }

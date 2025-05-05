@@ -41,6 +41,6 @@
     "listing": "Блок #{from} до #{to} (Усього блоків {count})",
     "txns": "транзакції"
   },
-  "testnetNotice": "[ Це лише Testnet блок]",
+  "testnetBlockNotice": "[ Це лише Testnet блок]",
   "noBlocks": "Немає блоків"
 }

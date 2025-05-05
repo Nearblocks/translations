@@ -38,6 +38,6 @@
     "listing": "Blokir #{from} ke #{to} (Total blok {count} )",
     "txns": "Txns"
   },
-  "testnetNotice": "[ Ini hanya blok Testnet ]",
+  "testnetBlockNotice": "[ Ini hanya blok Testnet ]",
   "noBlocks": "Tidak ada blok"
 }

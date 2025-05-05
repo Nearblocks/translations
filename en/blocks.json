@@ -38,6 +38,6 @@
     "listing": "Block #{from} to #{to} (Total of {count} blocks)",
     "txns": "Txns"
   },
-  "testnetNotice": "[ This is a Testnet block only ]",
+  "testnetBlockNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"
 }

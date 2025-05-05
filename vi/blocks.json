@@ -37,6 +37,6 @@
     "listing": "Khối #{from} tới #{to} (Trong tất cả {count} khối)",
     "txns": "Giao dịch"
   },
-  "testnetNotice": "[ Đây là khối Testnet! ]",
+  "testnetBlockNotice": "[ Đây là khối Testnet! ]",
   "noBlocks": "Không có khối"
 }
