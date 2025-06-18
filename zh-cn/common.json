@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "由于意外维护，Nearblocks未完全同步，一些区块或交易可能会延迟显示。"
+  "outofSync": "由于意外维护，Nearblocks未完全同步，一些区块或交易可能会延迟显示。",
+  "rpcUnavailable": "当前 RPC 不可用。请稍后重试，或尝试使用右上角 RPC 菜单中的其他 RPC。"
 }

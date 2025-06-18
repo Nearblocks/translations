@@ -76,5 +76,6 @@
     "centralisedExchange": "Sàn tập trung (CEX)",
     "decentralisedExchange": "Sàn phi tập trung (DEX)"
   },
-  "outofSync": "Do bảo trì đột xuất, Nearblocks không đồng bộ. Một số khối hoặc giao dịch có thể bị trì hoãn."
+  "outofSync": "Do bảo trì đột xuất, Nearblocks không đồng bộ. Một số khối hoặc giao dịch có thể bị trì hoãn.",
+  "rpcUnavailable": "RPC hiện tại không khả dụng. Hãy thử lại sau hoặc thử với RPC khác từ Menu RPC ở góc trên bên phải."
 }

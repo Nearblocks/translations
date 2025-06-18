@@ -76,5 +76,6 @@
     "centralisedExchange": "中央集権型取引所",
     "decentralisedExchange": "分散型取引所"
   },
-  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期が取れていません。一部のブロックやトランザクションが遅れる可能性があります。"
+  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期が取れていません。一部のブロックやトランザクションが遅れる可能性があります。",
+  "rpcUnavailable": "現在のRPCは利用できません。しばらくしてから再試行するか、右上のRPCメニューから別のRPCを試してください。"
 }

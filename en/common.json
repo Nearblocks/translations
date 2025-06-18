@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed."
+  "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed.",
+  "rpcUnavailable": "The current RPC is unavailable. Retry later or try with different RPC from the RPC Menu in the top-right corner."
 }

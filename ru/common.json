@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Из-за непредвиденного обслуживания Nearblocks не синхронизирован. Некоторые блоки или транзакции могут быть задержаны."
+  "outofSync": "Из-за непредвиденного обслуживания Nearblocks не синхронизирован. Некоторые блоки или транзакции могут быть задержаны.",
+  "rpcUnavailable": "Текущий RPC недоступен. Повторите попытку позже или попробуйте другой RPC из меню RPC в правом верхнем углу."
 }

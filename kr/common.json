@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "예기치 않은 유지 관리로 Nearblocks가 동기화되지 않았습니다. 일부 블록 또는 거래가 지연될 수 있습니다."
+  "outofSync": "예기치 않은 유지 관리로 Nearblocks가 동기화되지 않았습니다. 일부 블록 또는 거래가 지연될 수 있습니다.",
+  "rpcUnavailable": "현재 RPC를 사용할 수 없습니다. 나중에 다시 시도하거나 오른쪽 상단의 RPC 메뉴에서 다른 RPC로 시도해 보세요."
 }

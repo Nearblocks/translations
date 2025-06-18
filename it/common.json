@@ -76,5 +76,6 @@
     "centralisedExchange": "Scambio Centralizzato",
     "decentralisedExchange": "Scambio Decentralizzato"
   },
-  "outofSync": "A causa di una manutenzione imprevista, Nearblocks non è sincronizzato. Alcuni blocchi o transazioni potrebbero essere in ritardo."
+  "outofSync": "A causa di una manutenzione imprevista, Nearblocks non è sincronizzato. Alcuni blocchi o transazioni potrebbero essere in ritardo.",
+  "rpcUnavailable": "L'RPC corrente non è disponibile. Riprova più tardi o prova con un RPC diverso dal menu RPC nell'angolo in alto a destra."
 }

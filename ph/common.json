@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan."
+  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan.",
+  "rpcUnavailable": "Ang kasalukuyang RPC ay hindi magagamit. Subukan muli sa ibang pagkakataon o subukan gamit ang ibang RPC mula sa RPC Menu sa kanang sulok sa itaas."
 }
