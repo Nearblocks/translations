@@ -77,5 +77,5 @@
     "decentralisedExchange": "Intercambio Descentralizado"
   },
   "outofSync": "Debido a un mantenimiento inesperado, Nearblocks no está sincronizado. Algunos bloques o transacciones pueden retrasarse.",
-  "rpcUnavailable": "El RPC actual no está disponible. Vuelva a intentarlo más tarde o pruebe con otro RPC desde el menú RPC en la esquina superior derecha."
+  "rpcRateLimitError": "El RPC actual ({rpcUrl}) tiene una tasa limitada. Inténtelo de nuevo más tarde o seleccione otro proveedor de RPC en el menú desplegable {icon}."
 }
