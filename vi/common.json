@@ -77,5 +77,5 @@
     "decentralisedExchange": "Sàn phi tập trung (DEX)"
   },
   "outofSync": "Do bảo trì đột xuất, Nearblocks không đồng bộ. Một số khối hoặc giao dịch có thể bị trì hoãn.",
-  "rpcRateLimitError": "RPC hiện tại ({rpcUrl}) bị giới hạn tốc độ. Vui lòng thử lại sau hoặc sử dụng một nhà cung cấp RPC khác trong menu thả xuống {icon}."
+  "rpcRateLimitError": "Bạn đã bị giới hạn tốc độ bởi RPC hiện tại ({rpcUrl}). Vui lòng thử lại sau hoặc chọn nhà cung cấp RPC khác từ menu thả xuống {icon}."
 }

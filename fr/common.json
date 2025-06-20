@@ -75,5 +75,5 @@
     "decentralisedExchange": "Échange décentralisé"
   },
   "outofSync": "En raison d'une maintenance imprévue, Nearblocks est désynchronisé. Certains blocs ou transactions peuvent être retardés.",
-  "rpcRateLimitError": "Le RPC actuel ({rpcUrl}) est limité en débit. Veuillez réessayer ultérieurement ou sélectionner un autre fournisseur RPC dans le menu déroulant {icon}."
+  "rpcRateLimitError": "Votre débit est limité par le RPC actuel ({rpcUrl}). Veuillez réessayer ultérieurement ou sélectionner un autre fournisseur RPC dans le menu déroulant {icon}."
 }

@@ -77,5 +77,5 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "由于意外维护，Nearblocks未完全同步，一些区块或交易可能会延迟显示。",
-  "rpcRateLimitError": "当前 RPC ({rpcUrl}) 的速率受限。请稍后重试，或在下拉菜单 {icon} 中选择其他 RPC 提供程序。"
+  "rpcRateLimitError": "您当前的 RPC ({rpcUrl}) 已受到速率限制。请稍后重试，或从下拉菜单 {icon} 中选择其他 RPC 提供程序。"
 }

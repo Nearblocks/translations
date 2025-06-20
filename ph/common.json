@@ -77,5 +77,5 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan.",
-  "rpcRateLimitError": "Ang kasalukuyang RPC ({rpcUrl}) ay limitado sa rate. Pakisubukang muli sa ibang pagkakataon o gumamit ng pumili ng ibang RPC provider sa dropdown na menu {icon}."
+  "rpcRateLimitError": "Nilimitahan ka ng rate ng kasalukuyang RPC ({rpcUrl}). Pakisubukang muli sa ibang pagkakataon o pumili ng ibang RPC provider mula sa dropdown na menu {icon}."
 }

@@ -77,5 +77,5 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "Karena pemeliharaan tak terduga, Nearblocks tidak sinkron. Beberapa blok atau transaksi mungkin tertunda.",
-  "rpcRateLimitError": "RPC saat ini ({rpcUrl}) dibatasi tarifnya. Silakan coba lagi nanti atau gunakan penyedia RPC lain di menu tarik-turun {icon}."
+  "rpcRateLimitError": "Anda telah dibatasi oleh RPC saat ini ({rpcUrl}). Silakan coba lagi nanti atau pilih penyedia RPC lain dari menu tarik-turun {icon}."
 }
