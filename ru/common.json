@@ -1,81 +1,81 @@
 {
   "header": {
     "menu": {
-      "home": "Дом",
+      "home": "Главная",
       "blockchain": "Блокчейн",
       "viewBlocks": "Просмотр блоков",
-      "viewTxns": "Просмотр Txns",
+      "viewTxns": "Просмотр транзакций",
       "languages": "Языки",
-      "charts": "Чарты и статистика",
-      "topAccounts": "Топ Аккаунты",
-      "tokens": "Маркеры",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers",
-      "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "View NFT Transfers",
-      "nodeExplorer": "Node Explorer"
+      "charts": "Графики и статистика",
+      "topAccounts": "Топ аккаунты",
+      "tokens": "Токены",
+      "toptoken": "Популярные токены",
+      "viewTokenTrasfers": "Переводы токенов",
+      "topnft": "Популярные NFT токены",
+      "viewNftTrasfers": "Переводы NFT токенов",
+      "nodeExplorer": "Обозреватель узлов"
     }
   },
   "search": {
     "filters": {
       "all": "Все фильтры",
-      "txns": "Txns",
-      "blocks": "Blocks",
-      "token": "Маркеры",
+      "txns": "Транзакции",
+      "blocks": "Блоки",
+      "token": "Токены",
       "addresses": "Адреса"
     },
-    "placeholder": "Поиск по идентификатору учетной записи / хэшу Txn / блокировке",
+    "placeholder": "Поиск по ID аккаунта / хэшу транзакции / блоку",
     "list": {
-      "address": "Счет",
-      "txns": "Тхнс",
+      "address": "Аккаунт",
+      "txns": "Транзакции",
       "blocks": "Блоки",
-      "tokens": "Маркеры"
+      "tokens": "Токены"
     },
-    "noResults": "No results"
+    "noResults": "Нет результатов"
   },
   "footer": {
-    "description": "NEAR Blocks — ведущий исследователь блокчейнов, посвященный экосистеме NEAR. Работает по протоколу NEAR.",
-    "poweredBy": "Руководствовался",
+    "description": "NEAR Blocks — ведущий обозреватель блокчейна, посвящённый экосистеме NEAR. Работает на основе протокола NEAR.",
+    "poweredBy": "Работает на",
     "links": {
       "explore": "Исследовать",
       "blockExplorer": "Обозреватель блоков",
       "latestBlocks": "Последние блоки",
       "latestTxns": "Последние транзакции",
       "company": "Компания",
-      "about": "Около",
-      "advertise": "Рекламировать",
-      "contact": "Контакт",
+      "about": "О нас",
+      "advertise": "Реклама",
+      "contact": "Контакты",
       "terms": "Условия",
-      "charts": "Чарты и статистика",
-      "api": "API-интерфейсы индексатора NEAR",
+      "charts": "Графики и статистика",
+      "api": "NEAR Indexer API",
       "kb": "База знаний",
       "fundamentals": "Основы",
-      "buySell": "Покупка, продажа и торговля",
+      "buySell": "Покупка, продажа и обмен",
       "nearValidator": "Список валидаторов NEAR"
     }
   },
-  "sponsored": "Спонсированные",
+  "sponsored": "Спонсор",
   "pagination": {
     "first": "Первый",
     "last": "Последний"
   },
   "validation": {
-    "required": "{{field}} обязательно для заполнения",
-    "invalid": "Пожалуйста, укажите допустимый {{field}}"
+    "required": "{field} обязательно",
+    "invalid": "Пожалуйста, укажите корректное значение для {field}"
   },
   "chart": {
     "source": "Источник: nearblocks.io"
   },
-  "trademark": "NearBlocks работает полностью и самостоятельно. NearBlocks не имеет отношения к Фонду NEAR, и все лицензированные товарные знаки, отображаемые на этом веб-сайте, принадлежат их соответствующим владельцам.",
+  "trademark": "NearBlocks работает независимо. NearBlocks не связан с NEAR Foundation, и все отображаемые зарегистрированные товарные знаки принадлежат их владельцам.",
   "tags": {
-    "service": "Service",
-    "pool": "Pool",
-    "personal": "Personal",
-    "shop": "Shop",
-    "donation": "Donation",
-    "centralisedExchange": "Centralised Exchange",
-    "decentralisedExchange": "Decentralised Exchange"
+    "service": "Сервис",
+    "pool": "Пул",
+    "personal": "Личное",
+    "shop": "Магазин",
+    "donation": "Пожертвование",
+    "centralisedExchange": "Централизованная биржа",
+    "decentralisedExchange": "Децентрализованная биржа"
   },
-  "outofSync": "Из-за непредвиденного обслуживания Nearblocks не синхронизирован. Некоторые блоки или транзакции могут быть задержаны.",
-  "rpcRateLimitError": "Вы были ограничены текущей скоростью RPC ({rpcUrl}). Пожалуйста, попробуйте еще раз позже или выберите другого поставщика RPC из выпадающего меню {icon}."
+  "outofSync": "Из-за непредвиденного технического обслуживания NearBlocks не синхронизирован. Некоторые блоки или транзакции могут отображаться с задержкой.",
+  "rpcRateLimitError": "Вы достигли лимита по текущему RPC ({rpcUrl}). Попробуйте позже или выберите другой провайдер RPC из выпадающего меню {icon}."
 }

@@ -1,47 +1,47 @@
 {
-  "metaTitle": "Все ближайшие Последние транзакции | Рядом с блоками",
-  "metaDescription": "Все near транзакции подтверждены на Near Blockchain. Список состоит из транзакций от отправки Near Ⓝ и деталей транзакций для каждой транзакции.",
-  "txnsHeading": "Последние транзакции Near Protocol",
-  "txnsListing": "Найдено более > транзакций {count}",
-  "listingToken": "Найдено более > {count} Найдены переводы токенов",
-  "hash": "Txn Хэш",
+  "metaTitle": "Все последние транзакции протокола Near | NearBlocks",
+  "metaDescription": "Все подтверждённые транзакции в блокчейне Near. Включает переводы NEAR и подробности каждой транзакции.",
+  "txnsHeading": "Последние транзакции протокола Near",
+  "txnsListing": "Найдено более > {count} транзакций",
+  "listingToken": "Найдено более > {count} переводов токенов",
+  "hash": "Хэш транзакции",
   "type": "Метод",
   "typeTxn": "Транзакция",
-  "typeToken": "Транзакция токена",
+  "typeToken": "Токен-транзакция",
   "tokenPlaceholder": "Поиск по токену",
   "unknownType": "Неизвестно",
   "batchTxns": "Пакетная транзакция",
-  "createAccount": "Создать учетную запись",
+  "createAccount": "Создать аккаунт",
   "deployContract": "Развернуть контракт",
-  "transfer": "Передача",
-  "stake": "Ставка",
+  "transfer": "Перевод",
+  "stake": "Стейкинг",
   "addKey": "Добавить ключ",
   "deleteKey": "Удалить ключ",
-  "deleteAccount": "Удалить учетную запись",
+  "deleteAccount": "Удалить аккаунт",
   "txnError": "Ошибка транзакции",
   "age": "Возраст",
-  "ageDT": "Дата Время (UTC)",
+  "ageDT": "Дата и время (UTC)",
   "blockHeight": "Высота блока",
   "from": "От",
   "to": "Кому",
-  "txnIn": "В",
-  "txnOut": "ВНЕ",
-  "amount": "Количество",
+  "txnIn": "ВХОД",
+  "txnOut": "ВЫХОД",
+  "amount": "Сумма",
   "filter": {
-    "placeholder": "Поиск по адресу, например  Ⓝ ..",
+    "placeholder": "Поиск по адресу, напр. Ⓝ..",
     "filter": "Фильтр",
-    "clear": "Ясный",
-    "by": "Отфильтровано по",
+    "clear": "Очистить",
+    "by": "Фильтрация по",
     "from": "От",
     "to": "Кому"
   },
   "txnDetails": {
-    "metaTitle": "Рядом с транзакцией {txn} | Рядом с блоками",
-    "metaDescription": "Рядом Подробная информация о блокчейне для транзакции {txn}.",
+    "metaTitle": "Транзакция Near {txn} | NearBlocks",
+    "metaDescription": "Подробная информация о транзакции {txn} в блокчейне Near.",
     "heading": "Детали транзакции",
     "hash": {
       "text": [
-        "Txn Хэш"
+        "Хэш транзакции"
       ],
       "tooltip": "Уникальный идентификатор (хэш) данной транзакции."
     },
@@ -50,186 +50,185 @@
         "Статус"
       ],
       "status": {
-        "NotStarted": "Not started",
-        "Started": "Started",
-        "Failure": "Failed",
-        "SuccessValue": "Succeeded"
+        "NotStarted": "Не начата",
+        "Started": "Начата",
+        "Failure": "Ошибка",
+        "SuccessValue": "Успешно"
       },
-      "tooltip": "Состояние транзакции."
+      "tooltip": "Текущий статус транзакции."
     },
     "block": {
       "text": [
         "Высота блока"
       ],
-      "tooltip": "Номер блока, в котором была записана транзакция."
+      "tooltip": "Номер блока, в котором была зафиксирована транзакция."
     },
     "timestamp": {
       "text": [
         "Метка времени"
       ],
-      "tooltip": "Метка времени, когда эта транзакция была отправлена."
+      "tooltip": "Время отправки транзакции."
     },
     "deposit": {
       "text": [
-        "Стоимость депозита"
+        "Сумма депозита"
       ],
-      "tooltip": "Сумма всех токенов NEAR, переведенных со счета Signing на счет Получателя. Это включает в себя токены, отправленные в действии (действиях) Transfer, и в качестве депозитов в действии (действиях) Function Call."
+      "tooltip": "Общая сумма токенов NEAR, переданных от отправителя получателю (включая переводы и депозиты для вызова функций)."
     },
     "fee": {
       "text": [
         "Комиссия за транзакцию"
       ],
-      "tooltip": "Общая комиссия, уплаченная в NEAR за выполнение этой транзакции."
+      "tooltip": "Общая сумма комиссии, уплаченной за выполнение транзакции."
     },
     "price": {
       "text": [
-        "(N) Цена"
+        "Цена Ⓝ"
       ],
-      "tooltip": "Цена закрытия (N) на дату сделки"
+      "tooltip": "Цена токена Ⓝ на момент транзакции."
     },
     "from": {
       "text": [
         "От"
       ],
-      "tooltip": "Учетная запись, подписавшая и отправившая транзакцию"
+      "tooltip": "Аккаунт, подписавший и отправивший транзакцию."
     },
     "to": {
       "text": [
         "Кому"
       ],
-      "tooltip": "Счет, принимающий транзакцию."
+      "tooltip": "Аккаунт, получивший транзакцию."
     },
     "type": {
       "text": [
         "Тип",
         "Транзакция"
       ],
-      "tooltip": "Тип сделки."
+      "tooltip": "Тип транзакции."
     },
     "gas": {
       "text": [
-        "Ограничение и использование газа Txn"
+        "Лимит и использование газа"
       ],
-      "tooltip": "Максимальное количество газа, выделенного для транзакции, и сумма, которая в конечном итоге используется."
+      "tooltip": "Максимальное и фактически использованное количество газа."
     },
     "parentCoin": "Родительская монета",
-    "childCoins": "Детские монеты",
-    "siblingCoins": "Монеты братьев и сестер",
-    "unknownToken": "Неизвестный",
-    "claimToken": "Маркер претензии",
-    "token": "Жетон",
+    "childCoins": "Дочерние монеты",
+    "siblingCoins": "Смежные монеты",
+    "unknownToken": "Неизвестный токен",
+    "claimToken": "Запросить токен",
+    "token": "Токен",
     "burnt": {
       "text": [
-        "Burnt Gas & Tokens by Txn"
+        "Сожжённые газ и токены"
       ],
-      "tooltip": "Total amount of Gas & Token burnt from this transaction."
+      "tooltip": "Общее количество газа и токенов, сожжённых при выполнении транзакции."
     },
     "actions": {
       "text": [
-        "Actions"
+        "Действия"
       ],
-      "tooltip": "The actions performed during this transaction.",
+      "tooltip": "Действия, выполненные в рамках транзакции.",
       "addKey": [
-        "New key",
-        "Access key",
-        "added for",
-        "contract",
-        "with permission",
-        "to call",
-        "methods"
+        "Новый ключ",
+        "Ключ доступа",
+        "добавлен для",
+        "контракта",
+        "с разрешением",
+        "на вызов",
+        "методов"
       ],
       "createAccount": [
-        "New account",
-        "created"
+        "Создан новый аккаунт"
       ],
       "deleteAccount": [
-        "Delete account",
-        "and transfer remaining funds to"
+        "Удалён аккаунт",
+        "и переведены остатки на"
       ],
       "deleteKey": [
-        "Key",
-        "deleted"
+        "Ключ",
+        "удалён"
       ],
       "deployContract": [
-        "Contract",
-        "deployed"
+        "Контракт",
+        "развернут"
       ],
       "functionCall": [
-        "Called method",
-        "in contract"
+        "Вызван метод",
+        "в контракте"
       ],
       "stake": [
-        "Staked",
-        "with"
+        "Стейкинг",
+        "на"
       ],
       "transfer": [
-        "Transferred",
-        "to"
+        "Переведено",
+        "на"
       ]
     },
     "tabs": {
-      "overview": "Overview",
-      "execution": "Execution Plan",
-      "comments": "Comments"
+      "overview": "Обзор",
+      "execution": "План выполнения",
+      "comments": "Комментарии"
     },
     "receipts": {
-      "receipt":{
+      "receipt": {
         "text": [
-          "Receipt"
+          "Квитанция"
         ],
-        "tooltip": "Unique identifier (hash) of this receipt."
+        "tooltip": "Хэш квитанции."
       },
-      "block":{
+      "block": {
         "text": [
-          "Block"
+          "Блок"
         ],
-        "tooltip": "The hash of the block in which the receipt was executed."
+        "tooltip": "Хэш блока, в котором выполнена квитанция."
       },
-      "from":{
+      "from": {
         "text": [
-          "From"
+          "От"
         ],
-        "tooltip": "The account which issued a receipt."
+        "tooltip": "Аккаунт, выпустивший квитанцию."
       },
-      "to":{
+      "to": {
         "text": [
-          "To"
+          "Кому"
         ],
-        "tooltip": "The destination account of the receipt."
+        "tooltip": "Аккаунт назначения квитанции."
       },
       "burnt": {
         "text": [
-          "Burnt Gas & Tokens by Receipt"
+          "Сожжённые газ и токены по квитанции"
         ],
-        "tooltip": "Total amount of Gas & Token burnt from this receipt."
+        "tooltip": "Общее количество газа и токенов, сожжённых по этой квитанции."
       },
-      "actions":{
+      "actions": {
         "text": [
-          "Actions"
+          "Действия"
         ],
-        "tooltip": "The actions performed during receipt processing."
+        "tooltip": "Действия, выполненные по квитанции."
       },
-      "result":{
+      "result": {
         "text": [
-          "Result",
-          "No Result",
-          "Empty Result"
+          "Результат",
+          "Нет результата",
+          "Пусто"
         ],
-        "tooltip": "The result of the receipt execution."
+        "tooltip": "Результат выполнения квитанции."
       },
-      "logs":{
+      "logs": {
         "text": [
-          "Logs",
-          "No Logs"
+          "Логи",
+          "Логов нет"
         ],
-        "tooltip": "Logs included in the receipt."
+        "tooltip": "Логи, включённые в квитанцию."
       }
     }
   },
-  "info": "Показаны только последние {count} записи",
+  "info": "Показаны только последние {count , number} записей",
   "depositValue": "Сумма депозита",
-  "txnFee": "Комиссия за перевод",
-  "txnSelf": "Самостоятельно",
-  "noTxns": "Нет транзакции",
-  "testnetNotice": "[ Это только транзакция Testnet ]"
+  "txnFee": "Комиссия",
+  "txnSelf": "Собственная",
+  "noTxns": "Нет транзакций",
+  "testnetNotice": "[ Это тестовая транзакция ]"
 }

@@ -1,235 +1,44 @@
 {
-  "metaTitle": "Semua Transaksi NEAR | NearBlocks",
-  "metaDescription": "Semua Transaksi NEAR dikonfirmasi di Near Blockchain. Daftar ini terdiri dari transaksi dari pengiriman Near Ⓝ dan rincian transaksi untuk setiap transaksi.",
-  "txnsHeading": "Transaksi Near Protocol terbaru",
-  "txnsListing": "Lebih dari > {count} transaksi ditemukan",
-  "listingToken": "Lebih dari > {count} transaksi token ditemukan",
-  "hash": "Txn Hash",
+  "metaTitle": "Semua Transaksi Terbaru di NEAR | NearBlocks",
+  "metaDescription": "Semua transaksi yang telah dikonfirmasi di blockchain NEAR, termasuk transfer NEAR dan detail lengkap transaksi.",
+  "txnsHeading": "Transaksi Terbaru di Protokol NEAR",
+  "txnsListing": "Ditemukan > {count} transaksi",
+  "listingToken": "Ditemukan > {count} transaksi token",
+  "hash": "Hash Transaksi",
   "type": "Metode",
   "typeTxn": "Transaksi",
-  "typeToken": "Transaksi token",
-  "tokenPlaceholder": "Cari berdasarkan token",
-  "unknownType": "Tidak diketahui",
-  "batchTxns": "Transaksi Batch",
+  "typeToken": "Transaksi Token",
+  "tokenPlaceholder": "Cari Token",
+  "unknownType": "Tidak Diketahui",
+  "batchTxns": "Transaksi Massal",
   "createAccount": "Buat Akun",
-  "deployContract": "Menyebarkan Kontrak",
+  "deployContract": "Deploy Kontrak",
   "transfer": "Transfer",
-  "stake": "Pasak",
+  "stake": "Staking",
   "addKey": "Tambah Kunci",
   "deleteKey": "Hapus Kunci",
   "deleteAccount": "Hapus Akun",
   "txnError": "Kesalahan Transaksi",
-  "age": "Umur",
-  "ageDT": "Waktu Tanggal (UTC)",
-  "blockHeight": "Blokir tinggi",
+  "age": "Waktu",
+  "ageDT": "Tanggal & Waktu (UTC)",
+  "blockHeight": "Tinggi Blok",
   "from": "Dari",
   "to": "Ke",
-  "txnIn": "MASUK",
-  "txnOut": "KELUAR",
+  "txnIn": "Masuk",
+  "txnOut": "Keluar",
   "amount": "Jumlah",
   "filter": {
-    "placeholder": "Cari berdasarkan alamat misalnya  Ⓝ ..",
-    "filter": "Saringan",
-    "clear": "Jelas",
-    "by": "Disaring oleh",
+    "placeholder": "Cari alamat, misal Ⓝ..",
+    "filter": "Filter",
+    "clear": "Bersihkan",
+    "by": "Filter Berdasarkan",
     "from": "Dari",
     "to": "Ke"
   },
-  "txnDetails": {
-    "metaTitle": "Near (N) Transaction {txn} | NearBlocks",
-    "metaDescription": "Near (N) Blockchain info terperinci untuk transaksi {txn}.",
-    "heading": "Detail Transaksi",
-    "hash": {
-      "text": [
-        "Txn Hash"
-      ],
-      "tooltip": "Pengidentifikasi unik (hash) dari transaksi ini."
-    },
-    "status": {
-      "text": [
-        "Keadaan"
-      ],
-      "status": {
-        "NotStarted": "Not started",
-        "Started": "Started",
-        "Failure": "Failed",
-        "SuccessValue": "Succeeded"
-      },
-      "tooltip": "Status transaksi."
-    },
-    "block": {
-      "text": [
-        "Blokir tinggi"
-      ],
-      "tooltip": "Jumlah blok tempat transaksi dicatat."
-    },
-    "timestamp": {
-      "text": [
-        "Timestamp"
-      ],
-      "tooltip": "Stempel waktu kapan transaksi ini diajukan."
-    },
-    "deposit": {
-      "text": [
-        "Nilai Deposit"
-      ],
-      "tooltip": "Jumlah semua token NEAR yang ditransfer dari akun Penandatanganan ke akun Penerima. Ini termasuk token yang dikirim dalam tindakan Transfer, dan sebagai setoran pada tindakan Function Call."
-    },
-    "fee": {
-      "text": [
-        "Biaya transaksi"
-      ],
-      "tooltip": "Total biaya yang dibayarkan dalam NEAR untuk melaksanakan transaksi ini."
-    },
-    "price": {
-      "text": [
-        "(N) Harga"
-      ],
-      "tooltip": "Harga penutupan (N) pada tanggal transaksi"
-    },
-    "from": {
-      "text": [
-        "Dari"
-      ],
-      "tooltip": "Akun yang menandatangani dan mengirim transaksi"
-    },
-    "to": {
-      "text": [
-        "Ke"
-      ],
-      "tooltip": "Akun yang menerima transaksi."
-    },
-    "type": {
-      "text": [
-        "Jenis",
-        "Transaksi"
-      ],
-      "tooltip": "Jenis transaksi."
-    },
-    "gas": {
-      "text": [
-        "Batas Gas &Penggunaan oleh Txn"
-      ],
-      "tooltip": "Jumlah maksimum gas yang dialokasikan untuk transaksi dan jumlah yang akhirnya digunakan."
-    },
-    "parentCoin": "Koin Induk",
-    "childCoins": "Koin Anak",
-    "siblingCoins": "Koin Saudara Kandung",
-    "unknownToken": "Diketahui",
-    "claimToken": "Token klaim",
-    "token": "Tanda",
-    "burnt": {
-      "text": [
-        "Gas & Token yang Terbakar oleh Txn"
-      ],
-      "tooltip": "Jumlah total Gas & Token yang dibakar dari transaksi ini."
-    },
-    "actions": {
-      "text": [
-        "Actions"
-      ],
-      "tooltip": "Tindakan yang dilakukan selama transaksi ini.",
-      "addKey": [
-        "New key",
-        "Access key",
-        "added for",
-        "contract",
-        "with permission",
-        "to call",
-        "methods"
-      ],
-      "createAccount": [
-        "New account",
-        "created"
-      ],
-      "deleteAccount": [
-        "Delete account",
-        "and transfer remaining funds to"
-      ],
-      "deleteKey": [
-        "Key",
-        "deleted"
-      ],
-      "deployContract": [
-        "Contract",
-        "deployed"
-      ],
-      "functionCall": [
-        "Called method",
-        "in contract"
-      ],
-      "stake": [
-        "Staked",
-        "with"
-      ],
-      "transfer": [
-        "Transferred",
-        "to"
-      ]
-    },
-    "tabs": {
-      "overview": "Overview",
-      "execution": "Execution Plan",
-      "comments": "Comments"
-    },
-    "receipts": {
-      "receipt":{
-        "text": [
-          "Receipt"
-        ],
-        "tooltip": "Pengidentifikasi unik (hash) dari tanda terima ini."
-      },
-      "block":{
-        "text": [
-          "Block"
-        ],
-        "tooltip": "Hash dari blok tempat tanda terima dieksekusi."
-      },
-      "from":{
-        "text": [
-          "From"
-        ],
-        "tooltip": "Akun yang mengeluarkan tanda terima."
-      },
-      "to":{
-        "text": [
-          "To"
-        ],
-        "tooltip": "Akun tujuan tanda terima."
-      },
-      "burnt": {
-        "text": [
-          "Gas & Token yang Terbakar berdasarkan Tanda Terima"
-        ],
-        "tooltip": "Jumlah total Gas & Token yang terbakar dari struk ini."
-      },
-      "actions":{
-        "text": [
-          "Actions"
-        ],
-        "tooltip": "Tindakan yang dilakukan selama pemrosesan tanda terima."
-      },
-      "result":{
-        "text": [
-          "Result",
-          "No Result",
-          "Empty Result"
-        ],
-        "tooltip": "Hasil eksekusi resi."
-      },
-      "logs":{
-        "text": [
-          "Logs",
-          "No Logs"
-        ],
-        "tooltip": "Log termasuk dalam tanda terima."
-      }
-    }
-  },
-  "info": "Menampilkan catatan {count} terakhir saja",
-  "depositValue": "Nilai setoran",
-  "txnFee": "Biaya txn",
-  "txnSelf": "Mandiri",
+  "info": "Menampilkan hanya {count , number} catatan terbaru",
+  "depositValue": "Jumlah Deposit",
+  "txnFee": "Biaya Transaksi",
+  "txnSelf": "Transaksi Internal",
   "noTxns": "Tidak ada transaksi",
-  "testnetNotice": "[ Ini hanya transaksi Testnet ]"
+  "testnetNotice": "[ Ini adalah transaksi testnet ]"
 }

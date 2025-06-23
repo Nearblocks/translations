@@ -2,7 +2,7 @@
   "metaTitle": "모든 최신 멀티체인 트랜잭션",
   "metaDescription": "Near 블록체인에서 확인된 모든 최신 멀티체인 트랜잭션.",
   "heading": "최신 멀티체인 트랜잭션",
-  "count": "총 {{count}} 개의 멀티체인 트랜잭션이 발견되었습니다",
+  "count": "총 {count} 개의 멀티체인 트랜잭션이 발견되었습니다",
   "receiptId": "영수증 ID",
   "sourceTxn": "소스 트랜잭션 해시",
   "from": "발신",

@@ -1,13 +1,13 @@
 {
-  "metaTitle": "Top 10,000 Cuentas de Near | NearBlocks",
-  "metaDescription": "Encuentra el top 10,000 de las Cuentas de Near por balance.",
-  "heading": "Cuentas Top por balance Ⓝ",
-  "listing": "Un total de > {{count}} cuentas encontradas ({{sum}} Ⓝ).",
-  "info": "Mostrando solamente el top 10,000 de cuentas",
+  "metaTitle": "Top 10 000 cuentas Near | NearBlocks",
+  "metaDescription": "Encuentra las 10 000 cuentas Near principales por saldo.",
+  "heading": "Cuentas principales por saldo en Ⓝ",
+  "listing": "Un total de > {count} cuentas encontradas ({sum} Ⓝ).",
+  "info": "Mostrando solo las 10 000 cuentas principales",
   "rank": "Rango",
   "address": "Dirección",
-  "balance": "Balance",
+  "balance": "Saldo",
   "percentage": "Porcentaje",
   "value": "Valor",
-  "txns": "Conteo de Txns"
+  "txns": "Cantidad de transacciones"
 }

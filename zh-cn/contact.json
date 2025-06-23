@@ -1,30 +1,30 @@
 {
   "contact": {
     "metaTitle": "联系我们 | NearBlocks",
-    "metaDescription": "联系 NEAR Blocks 团队，了解与我们的网站和工具相关的任何疑问。请理解，我们只能协助解决与区块浏览器服务直接相关的问题。",
-    "heading": "联系 NEAR Blocks",
+    "metaDescription": "如有关于 Near Blocks 网站和工具的任何问题，请联系我们的团队。请注意，我们只能协助与区块链浏览器直接相关的问题。",
+    "heading": "联系 Near Blocks",
     "info": {
       "heading": "请给我们留言，但请注意：",
       "points": [
         {
           "heading": "待处理交易",
-          "content": "我们不处理交易，因此无法加速，取消或替换它们。如果您在处理待处理事务时遇到问题，请参阅此处。"
+          "content": "我们不处理交易，因此无法加速、取消或替换交易。如果您遇到交易延迟问题，请查看我们的指南。"
         },
         {
-          "heading": "NEAR 区块浏览器",
-          "content": "NEAR Blocks是一个独立的区块浏览器，与其他服务提供商无关（除非另有明确说明），因此无法为特定于其他服务提供商的查询提供精确的响应。"
+          "heading": "Near 浏览器",
+          "content": "Near Blocks 是一个独立的区块链浏览器，与其他服务提供商无直接关联（除非另有说明），因此我们无法协助处理第三方服务问题。"
         },
         {
-          "heading": "钱包/交易所/项目相关问题",
-          "content": "请联系您的钱包服务提供商，交易所或项目/合同所有者以获得进一步的支持，因为他们可以更好地帮助您解决与他们的平台相关的问题。"
+          "heading": "钱包 / 交易所 / 项目问题",
+          "content": "请直接联系钱包、交易所或项目合约团队的支持渠道，以获得最准确的帮助。"
         }
       ]
     },
     "form": {
-      "heading": "联系表格：",
+      "heading": "联系表单：",
       "name": {
-        "label": "名字",
-        "placeholder": "名字"
+        "label": "姓名",
+        "placeholder": "姓名"
       },
       "email": {
         "label": "电子邮件",
@@ -34,21 +34,21 @@
         "label": "主题",
         "placeholder": "主题",
         "options": [
-          "一般查询",
-          "支持/技术",
-          "Partnership",
-          "API / Development",
-          "Name tagging / Label address",
-          "Advertise"
+          "一般问题",
+          "支持 / 技术问题",
+          "合作机会",
+          "API / 开发者",
+          "地址标签",
+          "广告投放"
         ]
       },
       "message": {
-        "label": "Message",
-        "placeholder": "Message"
+        "label": "留言",
+        "placeholder": "留言"
       },
-      "button": "Send Message",
-      "successMessage": "Thank you, we will get back to you soon",
-      "errorMessage": "Something went wrong!"
+      "button": "发送信息",
+      "successMessage": "感谢您的留言，我们将尽快回复您",
+      "errorMessage": "发生错误！"
     }
   }
 }

@@ -2,7 +2,7 @@
   "metaTitle": "Top 10,000 Near Accounts | NearBlocks",
   "metaDescription": "Find The top 10,000 Near accounts by balance.",
   "heading": "Top Accounts by Ⓝ Balance",
-  "listing": "A total of > {{count}} accounts found ({{sum}} Ⓝ).",
+  "listing": "A total of > {count} accounts found ({sum} Ⓝ).",
   "info": "Showing top 10,000 accounts only",
   "rank": "Rank",
   "address": "Address",

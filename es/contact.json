@@ -1,54 +1,54 @@
 {
   "contact": {
     "metaTitle": "Contáctanos | NearBlocks",
-    "metaDescription": "Contacta al equipo de Near Blocks para cualquier consulta relacionadas con nuestro sitio web y herramientas. Por favor entienda que sólo podemos asistir con problemas directamente con los servicios de exploración de bloques.",
-    "heading": "Contacta con Near Blocks",
+    "metaDescription": "Contacta al equipo de Near Blocks para cualquier consulta relacionada con nuestro sitio web y herramientas. Ten en cuenta que solo podemos ayudarte con problemas directamente relacionados con los servicios del explorador de bloques.",
+    "heading": "Contactar a Near Blocks",
     "info": {
-      "heading": "Envíenos un mensaje, pero tenga en cuenta que:",
+      "heading": "Déjanos un mensaje, pero ten en cuenta que:",
       "points": [
         {
-          "heading": "Transacción Pendiente",
-          "content": "No procesamos transacciones y, por lo tanto, no podemos acelerarlas, cancelarlas o reemplazarlas. Si tiene problemas con las transacciones pendientes, consulte aquí."
+          "heading": "Transacción pendiente",
+          "content": "No procesamos transacciones y, por lo tanto, no podemos acelerarlas, cancelarlas ni reemplazarlas. Si tienes problemas con transacciones pendientes, por favor consulta aquí."
         },
         {
-          "heading": "Explorador de Bloques Near",
-          "content": "Near Blocks es un explorador de bloques independiente que no está relacionado con otros proveedores de servicios (a menos que se indique explícitamente lo contrario) y, por lo tanto, no puede proporcionar una respuesta precisa para consultas que son específicas de otros proveedores de servicios."
+          "heading": "Explorador de bloques Near",
+          "content": "Near Blocks es un explorador de bloques independiente sin relación con otros proveedores de servicios (a menos que se indique explícitamente lo contrario), por lo que no puede proporcionar una respuesta precisa para consultas específicas de otros proveedores."
         },
         {
-          "heading": "Monedero / Intercambio / Problemas relacionados con el Proyecto",
-          "content": "Comuníquese con su proveedor de servicios de monedero, intercambios o propietario del proyecto/contrato para obtener más ayuda, ya que están en una mejor posición para ayudar en los problemas relacionados con y desde sus plataformas."
+          "heading": "Problemas relacionados con billeteras / intercambios / proyectos",
+          "content": "Por favor, contacta a tu proveedor de billetera, plataforma de intercambio o al propietario del proyecto/contrato para obtener asistencia, ya que ellos están en mejor posición para ayudarte con los problemas relacionados con sus plataformas."
         }
       ]
     },
     "form": {
-      "heading": "Formulario de Contacto:",
+      "heading": "Formulario de contacto:",
       "name": {
         "label": "Nombre",
         "placeholder": "Nombre"
       },
       "email": {
-        "label": "Email",
-        "placeholder": "Email"
+        "label": "Correo electrónico",
+        "placeholder": "Correo electrónico"
       },
       "subject": {
-        "label": "Sujeto",
-        "placeholder": "Sujeto",
+        "label": "Asunto",
+        "placeholder": "Asunto",
         "options": [
-          "Consulta General",
+          "Consulta general",
           "Soporte / Técnico",
-          "Asociaciones",
+          "Asociación",
           "API / Desarrollo",
-          "Etiquetado de nombre/ Dirección de etiqueta",
-          "Anuncia"
+          "Etiquetado de nombre / Dirección etiquetada",
+          "Publicidad"
         ]
       },
       "message": {
         "label": "Mensaje",
         "placeholder": "Mensaje"
       },
-      "button": "Enviar Mensaje",
-      "successMessage": "Gracias, volveremos contigo pronto",
-      "errorMessage": "Algo salió mal!"
+      "button": "Enviar mensaje",
+      "successMessage": "Gracias, nos pondremos en contacto contigo pronto",
+      "errorMessage": "¡Algo salió mal!"
     }
   }
 }

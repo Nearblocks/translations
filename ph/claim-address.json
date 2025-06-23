@@ -33,7 +33,7 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Deposito {{presyo}} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.",
+      "label": "Deposito {presyo} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.",
       "tooltip": "Ang address na gamit sa pagpapadala ay dapat magkapareho sa address na gusto mong ma dagdagan ng impormasyon."
     },
     "button": "Submit",

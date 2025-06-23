@@ -2,7 +2,7 @@
   "metaTitle": "Lahat ng Pinakabagong Transaksyon sa Multichain",
   "metaDescription": "Lahat ng pinakabagong transaksyon sa multichain na nakumpirma sa Near Blockchain.",
   "heading": "Pinakabagong Transaksyon sa Multichain",
-  "count": "Kabuuang {{count}} multichain na transaksyon na natagpuan",
+  "count": "Kabuuang {count} multichain na transaksyon na natagpuan",
   "receiptId": "Resibo Id",
   "sourceTxn": "Source Txn Hash",
   "from": "Mula sa",

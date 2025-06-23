@@ -2,7 +2,7 @@
   "metaTitle": "トップ 10,000 Near アカウント | NearBlocks",
   "metaDescription": "残高からトップ 10,000 Near アカウントを見つける.",
   "heading": "Ⓝ 残高のトップアカウント",
-  "listing": "合計 > {{count}} 見つけたアカウント ({{sum}} Ⓝ).",
+  "listing": "合計 > {count} 見つけたアカウント ({sum} Ⓝ).",
   "info": "トップ10,000アカウントのみを表示しています",
   "rank": "ランク",
   "address": "アドレス",

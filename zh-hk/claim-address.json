@@ -1,12 +1,12 @@
 {
-  "metaTitle": "領取帳戶 | NearBlocks",
-  "metaDescription": "領取你的名稱，標籤和其他資訊。",
-  "heading": "領取Ⓝ帳戶",
+  "metaTitle": "認領帳戶 | NearBlocks",
+  "metaDescription": "認領你嘅帳戶名稱、標籤同其他資訊。",
+  "heading": "認領 Ⓝ 帳戶",
   "form": {
-    "heading": "領取你的名稱，標籤和其他資訊",
-    "content": "領取你的名稱標籤和添加其他與你的Ⓝ地址相關的資訊到下表。每次修改申請需要支付{{amount}}Ⓝ以證明你的所有權",
+    "heading": "認領你嘅名稱、標籤同帳戶資料",
+    "content": "填寫以下表格就可以為你嘅 Ⓝ 地址認領標籤同其他連結。每次提交都要發送 {amount} Ⓝ 到指定地址以驗證你對帳戶嘅擁有權。",
     "address": {
-      "label": "Ⓝ地址"
+      "label": "Ⓝ 地址"
     },
     "label": {
       "label": "名稱"
@@ -15,16 +15,16 @@
       "label": "標籤"
     },
     "website": {
-      "label": "網站"
+      "label": "官方網站"
     },
     "twitter": {
-      "label": "推特"
+      "label": "Twitter"
     },
     "blog": {
-      "label": "部落格 (或Medium)"
+      "label": "Blog（或 Medium）"
     },
     "telegram": {
-      "label": "電報"
+      "label": "Telegram"
     },
     "discord": {
       "label": "Discord"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "支付{{amount}}Ⓝ到以下地址以證明你的所有權：",
-      "tooltip": "發出地址必須與你希望添加資訊的地址一致。"
+      "label": "請將 {amount} Ⓝ 發送到以下地址來驗證帳戶擁有權：",
+      "tooltip": "發送交易嘅帳戶必須係你申請認領嘅地址。"
     },
-    "button": "提交",
-    "successMessage": "感謝，我們會審核你的申請並在審批通過後上架",
-    "errorMessage": "發生錯誤!"
+    "button": "提交認領申請",
+    "successMessage": "多謝你嘅申請，我哋會盡快審核同更新資料。",
+    "errorMessage": "發生錯誤！"
   }
 }

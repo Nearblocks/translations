@@ -1,18 +1,18 @@
 {
-  "metaTitle": "Demande de compte| NearBlocks",
-  "metaDescription": "Demande votre nom, tag et autres informations.",
-  "heading": "Demande Ⓝ Compte",
+  "metaTitle": "Réclamer un compte | NearBlocks",
+  "metaDescription": "Réclamez votre nom, étiquette et autres informations.",
+  "heading": "Réclamer un compte Ⓝ",
   "form": {
-    "heading": "Demande votre nom, tag et autres informations.",
-    "content": "Demande votre nom, tag et ajouter d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous vous demanderons un acompte de {{amount}} Ⓝ pour prouver la propriété de votre adresse.",
+    "heading": "Réclamez votre nom, étiquette et autres informations",
+    "content": "Réclamez votre nom d'étiquette et ajoutez d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous demanderons un dépôt de {amount} Ⓝ afin de prouver la propriété de l'adresse.",
     "address": {
-      "label": "Ⓝ Adresse"
+      "label": "Adresse Ⓝ"
     },
     "label": {
       "label": "Nom"
     },
     "tag": {
-      "label": "Tag"
+      "label": "Étiquette"
     },
     "website": {
       "label": "Site web"
@@ -21,7 +21,7 @@
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "Blog (ou Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Déposez {{amount}} Ⓝ à l'adresse suivante pour prouver votre propriété :",
-      "tooltip": "L'adresse d'envoi doit être identique à l'adresse à laquelle vous souhaitez ajouter des informations."
+      "label": "Déposez {amount} Ⓝ à l'adresse suivante pour prouver votre propriété :",
+      "tooltip": "L'adresse d'envoi doit être identique à celle à laquelle vous souhaitez ajouter des informations."
     },
     "button": "Soumettre",
-    "successMessage": "Merci, nous examinerons votre candidature et la répertorierons une fois qu'elle aura été approuvée",
-    "errorMessage": "Quelque chose s'est mal passé!"
+    "successMessage": "Merci, nous examinerons votre demande et la publierons une fois approuvée",
+    "errorMessage": "Une erreur est survenue !"
   }
 }
