@@ -60,8 +60,8 @@
     "last": "Last"
   },
   "validation": {
-    "required": "{{field}} is required",
-    "invalid": "Please provide a valid {{field}}"
+    "required": "{field} is required",
+    "invalid": "Please provide a valid {field}"
   },
   "chart": {
     "source": "Source: nearblocks.io"
@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed."
+  "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed.",
+  "rpcRateLimitError": "You have been rate limited by the current RPC ({rpcUrl}). Please try again later or select a different RPC provider from the dropdown menu {icon}."
 }

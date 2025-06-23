@@ -1,18 +1,18 @@
 {
-  "metaTitle": "| Claim Akun NEAR",
-  "metaDescription": "Klaim nama, tag, dan informasi lainnya.",
-  "heading": "Akun Klaim Ⓝ",
+  "metaTitle": "Klaim Alamat | NearBlocks",
+  "metaDescription": "Klaim nama, label, dan informasi tambahan untuk akun Anda.",
+  "heading": "Klaim Akun Ⓝ",
   "form": {
-    "heading": "Klaim nama, tag, dan informasi lainnya",
-    "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {{amount}} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
+    "heading": "Klaim Nama, Label, dan Info Akun Anda",
+    "content": "Isi formulir berikut untuk mengklaim label dan tautan yang terkait dengan alamat Ⓝ Anda. Setiap permintaan membutuhkan pengiriman {amount} Ⓝ ke alamat yang ditentukan sebagai verifikasi kepemilikan akun.",
     "address": {
-      "label": "Ⓝ Alamat"
+      "label": "Alamat Ⓝ"
     },
     "label": {
       "label": "Nama"
     },
     "tag": {
-      "label": "Hari"
+      "label": "Label"
     },
     "website": {
       "label": "Situs Web"
@@ -27,17 +27,17 @@
       "label": "Telegram"
     },
     "discord": {
-      "label": "Perselisihan"
+      "label": "Discord"
     },
     "keybase": {
-      "label": "Basis kunci"
+      "label": "Keybase"
     },
     "info": {
-      "label": "Deposit {{amount}} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
-      "tooltip": "Alamat pengirim harus identik dengan alamat yang ingin Anda tambahkan informasinya."
+      "label": "Silakan kirim {amount} Ⓝ ke alamat berikut untuk verifikasi:",
+      "tooltip": "Akun pengirim harus sesuai dengan alamat yang diklaim."
     },
-    "button": "Tunduk",
-    "successMessage": "Terima kasih, kami akan meninjau aplikasi Anda dan mencantumkannya setelah disetujui",
-    "errorMessage": "Ada yang tidak beres!"
+    "button": "Ajukan Klaim",
+    "successMessage": "Terima kasih atas permintaan Anda! Kami akan meninjaunya sesegera mungkin.",
+    "errorMessage": "Terjadi kesalahan!"
   }
 }

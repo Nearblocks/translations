@@ -1,73 +1,82 @@
 {
-  "metaTitle": "Near チャート & 統計情報 | NearBlocks ",
-  "metaDescription": "Nearでは、Nearブロックの価格、供給量、マーケットキャップ、取引手数料など、Nearブロックに関するあらゆるデータをリアルタイムで追跡できるチャートと統計情報を提供しています。",
-  "heading": "Near チャート & 統計情報",
-  "otherHeading": "他のNearチェーンのチャート&統計情報",
-  "nearPrice": {
-    "metaTitle": "Near日次価格チャート : 案内, チャート, 統計情報 | NearBlocks ",
-    "metaDescription": "Near日次価格 (USD) チャートは、Near の日次価格を USD で表示します。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
-    "heading": "Near日次価格(USD)　チャート",
-    "description": "Near日次価格(USD) チャートは、Near の日次価格を USD で表示しています。",
-    "yLabel": "Near価格 (USD)",
-    "statistics": {
-      "heading": "Near価格　統計情報",
-      "price": "Near価格 (USD)",
-      "marketCap": "時価総額",
-      "volume": "取引量",
-      "volumeMarketCap": "取引量 / 時価総額",
-      "high24": "24h 最高値",
-      "low24": "24h 最低値",
-      "highAll": "過去最高値",
-      "lowAll": "過去最低値"
+  "charts": {
+    "metaTitle": "Near チャート & 統計情報 | NearBlocks ",
+    "metaDescription": "Nearでは、Nearブロックの価格、供給量、マーケットキャップ、取引手数料など、Nearブロックに関するあらゆるデータをリアルタイムで追跡できるチャートと統計情報を提供しています。",
+    "heading": "Near チャート & 統計情報",
+    "otherHeading": "他のNearチェーンのチャート&統計情報",
+    "nearPrice": {
+      "metaTitle": "Near日次価格チャート : 案内, チャート, 統計情報 | NearBlocks ",
+      "metaDescription": "Near日次価格 (USD) チャートは、Near の日次価格を USD で表示します。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
+      "heading": "Near日次価格(USD)　チャート",
+      "description": "Near日次価格(USD) チャートは、Near の日次価格を USD で表示しています。",
+      "yLabel": "Near価格 (USD)",
+      "statistics": {
+        "heading": "Near価格　統計情報",
+        "price": "Near価格 (USD)",
+        "marketCap": "時価総額",
+        "volume": "取引量",
+        "volumeMarketCap": "取引量 / 時価総額",
+        "high24": "24h 最高値",
+        "low24": "24h 最低値",
+        "highAll": "過去最高値",
+        "lowAll": "過去最低値"
+      }
     }
   },
-  "marketCap": {
+  "marketCapCharts": {
     "metaTitle": "Near時価総額チャート | NearBlocks ",
     "metaDescription": "Near時価総額チャートは、Nearの日々の時価総額と価格の過去の内訳を表示します。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
     "heading": "Near時価総額チャート",
     "description": "Near時価総額チャートは、Nearの日々の時価総額と価格の内訳推移を示しています。",
     "yLabel": "Near時価総額 (USD)"
   },
-  "nearSupply": {
+  "nearSupplyCharts": {
     "metaTitle": "Near供給量チャート : 流通供給量, 総供給量 | NearBlocks ",
     "metaDescription": "Near供給量チャートは、毎日のブロック報酬とNearの総供給量の内訳を示しています。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
     "heading": "Near供給量チャート",
     "description": "Near供給量チャートは、日次と総供給量の内訳を表示します。",
     "yLabel": "Near供給量"
   },
-  "txns": {
+  "txnsCharts": {
     "metaTitle": "Near取引チャート : 案内, 統計情報, 推移 | NearBlocks ",
     "metaDescription": "Near取引チャートは、Nearチェーンの総取引数を、総取引数、総ブロック数、総新規アカウント数の日次個別内訳と共にハイライトしています。",
     "heading": "Near取引チャート",
     "description": "このグラフは、Nearチェーン上の総トランザクション数と、総ブロック数および総新規アカウント数の日々の個別内訳をハイライトしています。",
     "yLabel": "1日あたりの取引量"
   },
-  "blocks": {
+  "blocksCharts": {
     "metaTitle": "Nearブロック数チャート | NearBlocks ",
     "metaDescription": "Nearブロック数チャートは、Nearチェーンで毎日生成されるブロックの履歴数を表示します。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
     "heading": "Nearブロック数",
     "description": "Nearブロック数チャートは、Nearチェーンで毎日生成されるブロック数の履歴を表示します。",
     "yLabel": "1日あたりのブロック数"
   },
-  "addresses": {
+  "addressesCharts": {
     "metaTitle": "Near固有アカウント数チャート | NearBlocks ",
     "metaDescription": "Near固有アカウント数チャートは、Nearチェーン上のアカウント数の合計と、日々のアカウント数の推移を示しています。",
     "heading": "Near固有アカウント数チャート",
     "description": "このグラフは、Nearチェーン上のアカウント数の合計と、毎日のアカウント数の推移を示しています。",
     "yLabel": "Near累計アカウント数推移"
   },
-  "txnFee": {
+  "txnFeeCharts": {
     "metaTitle": "Near取引手数料推移チャート : 取引手数料 | NearBlocks ",
     "metaDescription": "Near取引手数料推移チャートは、Nearチェーン（Ⓝ）の取引ごとに費やされる取引手数料をUSDで表示します。すべてのデータはリアルタイムで正確であり、Nearチェーンから直接取得されています。",
     "heading": "取引手数料チャート",
     "description": "このグラフは、Nearチェーンの1回の取引に費やされた取引手数料（USD）を示しています。",
     "yLabel": "取引手数料 (USD)"
   },
-  "txnVolume": {
+  "txnVolumeCharts": {
     "metaTitle": "Near取引量チャート : 取引量 | NearBlocks ",
     "metaDescription": "Near取引量チャートは、Nearチェーンで1回の取引に費やされた日額（USD）を示しています。",
     "heading": "取引量チャート",
     "description": "このグラフは、Nearチェーンの1回の取引に費やされた1日あたりの金額（USD）を示しています。",
     "yLabel": "取引量 (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "マルチチェーントランザクションチャート | NearBlocks",
+    "metaDescription": "マルチチェーントランザクションチャートは、Nearブロックチェーン上のマルチチェーントランザクションの総数を強調します。",
+    "heading": "マルチチェーントランザクションチャート",
+    "description": "このチャートは、Nearブロックチェーン上のマルチチェーントランザクションの総数を強調しています。",
+    "yLabel": "1日あたりのマルチチェーントランザクション"
   }
 }

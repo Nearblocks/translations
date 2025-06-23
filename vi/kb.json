@@ -1,17 +1,17 @@
 {
-  "metaTitle": "Near Blockchain Explorer | NearBlocks",
-  "metaDescription": "NearBlocks là một Block Explorer nền tảng phân tích cho Near blockchain (Ⓝ), một nền tảng blockchain và hợp đồng thông minh mới.",
-  "kbTitle": "GẦN Khối Cơ sở Kiến thức & Trung tâm Thông tin",
+  "metaTitle": "Trình khám phá blockchain Near | NearBlocks",
+  "metaDescription": "Near Blocks là trình khám phá khối và nền tảng phân tích cho blockchain Near (Ⓝ), nền tảng hợp đồng thông minh thế hệ mới.",
+  "kbTitle": "Trung tâm kiến thức và hỗ trợ Near Blocks",
   "search": "Nhập để tìm kiếm",
-  "home": "Nhà",
-  "published": "Công bố",
+  "home": "Trang chủ",
+  "published": "Đã đăng",
   "lastUpdated": "Cập nhật lần cuối",
   "kb": {
-    "metaTitle": "{{post}} | NearBlocks",
-    "metaDescription": "{{post}} | NearBlocks"
+    "metaTitle": "{post} | NearBlocks",
+    "metaDescription": "{post} | NearBlocks"
   },
   "article": {
-    "metaTitle": "{{slug}} | NearBlocks",
-    "metaDescription": "{{slug}} | NearBlocks"
+    "metaTitle": "{slug} | NearBlocks",
+    "metaDescription": "{slug} | NearBlocks"
   }
 }

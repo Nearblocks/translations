@@ -1,90 +1,91 @@
 {
-  "metaTitle": "Tất cả giao dịch Near gần nhất | NearBlocks",
-  "metaDescription": "Tất cả giao dịch đã được xác nhận trên Near Blockchain. Danh sách bao gồm các giao dịch gửi Near và chi tiết các giao dịch.",
-  "heading": "Giao dịch gần đây nhất",
-  "listing": "Đã tìm thấy hơn > {{count}} số giao dịch",
-  "listingToken": "Đã tìm thấy hơn > {{count}} số giao dịch Tokens",
-  "hash": "Băm giao dịch",
-  "type": "Loại",
+  "metaTitle": "Tất cả các giao dịch mới nhất trên giao thức Near | NearBlocks",
+  "metaDescription": "Tất cả các giao dịch đã được xác nhận trên blockchain Near. Bao gồm chuyển NEAR và chi tiết giao dịch.",
+  "txnsHeading": "Giao dịch mới nhất trên giao thức Near",
+  "txnsListing": "Hơn > {count} giao dịch được tìm thấy",
+  "listingToken": "Hơn > {count} giao dịch token được tìm thấy",
+  "hash": "Hash giao dịch",
+  "type": "Phương thức",
   "typeTxn": "Giao dịch",
-  "typeToken": "Giao dịch Token",
+  "typeToken": "Giao dịch token",
+  "tokenPlaceholder": "Tìm theo token",
   "unknownType": "Không xác định",
   "batchTxns": "Giao dịch hàng loạt",
   "createAccount": "Tạo tài khoản",
   "deployContract": "Triển khai hợp đồng",
   "transfer": "Chuyển",
   "stake": "Stake",
-  "addKey": "Thêm Key",
-  "deleteKey": "Xóa Key",
+  "addKey": "Thêm khóa",
+  "deleteKey": "Xóa khóa",
   "deleteAccount": "Xóa tài khoản",
   "txnError": "Lỗi giao dịch",
-  "age": "Thòi gian",
-  "ageDT": "Thời gian (UTC)",
+  "age": "Tuổi",
+  "ageDT": "Ngày giờ (UTC)",
   "blockHeight": "Chiều cao khối",
   "from": "Từ",
   "to": "Đến",
-  "txnIn": "RA",
-  "txnOut": "VÀO",
+  "txnIn": "NHẬN",
+  "txnOut": "GỬI",
   "amount": "Số lượng",
   "filter": {
-    "placeholder": "Tìm bằng địa chỉ v.d. Ⓝ..",
-    "filter": "Bộ lọc",
-    "clear": "Làm trống",
-    "by": "Lọc",
+    "placeholder": "Tìm theo địa chỉ, ví dụ Ⓝ..",
+    "filter": "Lọc",
+    "clear": "Xóa",
+    "by": "Lọc theo",
     "from": "Từ",
     "to": "Đến"
   },
-  "txn": {
-    "metaTitle": "Giao dịch Near {{txn}} | NearBlocks",
-    "metaDescription": "Thông tin chi tiết về giao dịch Near Blockchain {{txn}}.",
-    "heading": "Thông tin chi tiết về giao dịch",
+  "txnDetails": {
+    "metaTitle": "Giao dịch Near {txn} | NearBlocks",
+    "metaDescription": "Chi tiết giao dịch Near {txn} trên blockchain.",
+    "heading": "Chi tiết giao dịch",
     "hash": {
       "text": [
-        "Băm giao dịch"
+        "Hash giao dịch"
       ],
-      "tooltip": "Giá trị nhận dạng (băm) duy nhất của giao dịch này."
+      "tooltip": "Mã định danh duy nhất của giao dịch."
     },
     "status": {
       "text": [
         "Trạng thái"
       ],
       "status": {
-        "NotStarted": "Chưa được bắt đầu",
-        "Started": "Bắt đầu",
+        "NotStarted": "Chưa bắt đầu",
+        "Started": "Đã bắt đầu",
         "Failure": "Thất bại",
-        "SuccessValue": "Thành Công"
+        "SuccessValue": "Thành công"
       },
       "tooltip": "Trạng thái của giao dịch."
     },
     "block": {
       "text": [
-        "Chiều cao Khối"
+        "Chiều cao khối"
       ],
-      "tooltip": "Số của khối mà giao dịch được ghi lại."
+      "tooltip": "Số thứ tự khối chứa giao dịch này."
     },
     "timestamp": {
       "text": [
         "Dấu thời gian"
       ],
-      "tooltip": "Dấu thời gian về thời điểm giao dịch này được gửi."
+      "tooltip": "Thời gian giao dịch được gửi."
     },
     "deposit": {
       "text": [
         "Giá trị nạp"
       ],
-      "tooltip": "Tổng của tất cả các NEAR Token được chuyển từ tài khoản Người ký sang tài khoản Người nhận. Điều này bao gồm các mã thông báo được gửi trong (các) hành động Chuyển và dưới dạng tiền gửi trên (các) hành động Gọi hàm."
+      "tooltip": "Tổng token NEAR được chuyển hoặc nạp trong giao dịch này."
     },
     "fee": {
       "text": [
         "Phí giao dịch"
       ],
-      "tooltip": "Tổng số NEAR được sử dụng để thi hành giao dịch này."
+      "tooltip": "Tổng phí NEAR chi trả để thực hiện giao dịch."
     },
     "price": {
       "text": [
         "Giá Ⓝ"
       ],
-      "tooltip": "Giá Ⓝ vào lúc đóng giao dịch."
+      "tooltip": "Giá NEAR tại thời điểm giao dịch."
     },
     "from": {
       "text": [
@@ -103,132 +104,125 @@
         "Loại",
         "Giao dịch"
       ],
-      "tooltip": "Loại Giao dịch."
+      "tooltip": "Loại giao dịch."
     },
     "gas": {
       "text": [
-        "Giới hạn & Sử dụng Gas của Giao dịch"
+        "Giới hạn và sử dụng gas"
       ],
-      "tooltip": "Lượng Gas tối đa được phân bổ cho giao dịch và số lượng cuối cùng được sử dụng."
+      "tooltip": "Lượng gas cấp phát và thực tế sử dụng."
     },
-    "parentCoin": "Coin mẫu",
-    "childCoins": "Coin con",
-    "siblingCoins": "Coin họ",
-    "unknownToken": "Không xác định",
-    "claimToken": "Nhận token",
-    "token": "Token",
     "burnt": {
       "text": [
-        "Gas & Tokens bị đốt bởi giao dịch"
+        "Gas và token đã đốt"
       ],
-      "tooltip": "Tổng lượng Gas & Token bị đốt từ giao dịch này."
+      "tooltip": "Tổng gas và token NEAR bị đốt trong giao dịch này."
     },
     "actions": {
       "text": [
         "Hành động"
       ],
-      "tooltip": "Các hành động được thực hiện trong giao dịch này.",
+      "tooltip": "Các hành động được thực hiện trong giao dịch.",
       "addKey": [
         "Khóa mới",
         "Khóa truy cập",
-        "thêm cho",
+        "được thêm cho",
         "hợp đồng",
         "với quyền",
-        "để gọi",
-        "các phương thức"
+        "gọi phương thức",
+        "cụ thể"
       ],
       "createAccount": [
-        "Tài khoản mới",
-        "tạo"
+        "Tài khoản mới được tạo"
       ],
       "deleteAccount": [
         "Xóa tài khoản",
-        "và chuyển phần quỹ còn lại tới"
+        "và chuyển số dư đến"
       ],
       "deleteKey": [
         "Khóa",
-        "xóa"
+        "đã xóa"
       ],
       "deployContract": [
         "Hợp đồng",
-        "triển khai"
+        "đã triển khai"
       ],
       "functionCall": [
-        "Phương pháp đã gọi",
-        "trong hợp đồng"
+        "Gọi phương thức",
+        "trên hợp đồng"
       ],
       "stake": [
-        "Staked",
+        "Stake",
         "với"
       ],
       "transfer": [
         "Chuyển",
-        "tới"
+        "đến"
       ]
     },
     "tabs": {
-      "overview": "Tổng quát",
-      "execution": "Kế hoạch thực hiện",
+      "overview": "Tổng quan",
+      "execution": "Kế hoạch thực thi",
       "comments": "Bình luận"
     },
     "receipts": {
-      "receipt":{
+      "receipt": {
         "text": [
-          "Biên nhận"
+          "Biên lai"
         ],
-        "tooltip": "Định danh duy nhất (băm) của biên nhận này."
+        "tooltip": "Mã định danh của biên lai."
       },
-      "block":{
+      "block": {
         "text": [
           "Khối"
         ],
-        "tooltip": "Hàm băm của khối mà trong đó biên nhận được thực hiện."
+        "tooltip": "Hash của khối thực hiện biên lai."
       },
-      "from":{
+      "from": {
         "text": [
           "Từ"
         ],
-        "tooltip": "Tài khoản đã phát hành biên nhận."
+        "tooltip": "Tài khoản gửi biên lai."
       },
-      "to":{
+      "to": {
         "text": [
           "Đến"
         ],
-        "tooltip": "Tài khoản đích của biên nhận."
+        "tooltip": "Tài khoản nhận biên lai."
       },
       "burnt": {
         "text": [
-          "Gas & Tokens bị đốt bởi biên nhận"
+          "Gas và token bị đốt"
         ],
-        "tooltip": "Tổng số Gas & Token bị đốt từ biên nhận này."
+        "tooltip": "Gas và token NEAR bị đốt bởi biên lai."
       },
-      "actions":{
+      "actions": {
         "text": [
           "Hành động"
         ],
-        "tooltip": "Các hành động được thực hiện trong quá trình xử lý biên nhận."
+        "tooltip": "Các hành động được thực thi trong biên lai."
       },
-      "result":{
+      "result": {
         "text": [
           "Kết quả",
-          "Không Kết quả",
-          "Kết quả trống"
+          "Không có kết quả",
+          "Rỗng"
         ],
-        "tooltip": "Kết quả của việc thực hiện biên nhận."
+        "tooltip": "Kết quả trả về từ biên lai."
       },
-      "logs":{
+      "logs": {
         "text": [
-          "Nhật ký",
-          "Không nhật ký"
+          "Bản ghi",
+          "Không có bản ghi"
         ],
-        "tooltip": "Nhật ký được bao gồm trong biên lai."
+        "tooltip": "Log được ghi lại trong biên lai."
       }
     }
   },
-  "info": "Chỉ hiển thị {{count}} bản ghi cuối",
+  "info": "Chỉ hiển thị {count , number} mục gần nhất",
   "depositValue": "Giá trị nạp",
-  "txnFee": "Phí giao dịch",
-  "txnSelf": "Bản thân",
+  "txnFee": "Phí",
+  "txnSelf": "Tự giao dịch",
   "noTxns": "Không có giao dịch",
-  "testnetNotice": "[ Đây chỉ là giao dịch testnet ]"
+  "testnetNotice": "[ Đây là giao dịch testnet ]"
 }

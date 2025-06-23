@@ -60,8 +60,8 @@
     "last": "Last"
   },
   "validation": {
-    "required": "{{field}} kinakailangan",
-    "invalid": "Maaring magbigay ng wasto {{field}}"
+    "required": "{field} kinakailangan",
+    "invalid": "Maaring magbigay ng wasto {field}"
   },
   "chart": {
     "source": "Source: nearblocks.io"
@@ -76,5 +76,6 @@
     "centralisedExchange": "Centralised Exchange",
     "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan."
+  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan.",
+  "rpcRateLimitError": "Nilimitahan ka ng rate ng kasalukuyang RPC ({rpcUrl}). Pakisubukang muli sa ibang pagkakataon o pumili ng ibang RPC provider mula sa dropdown na menu {icon}."
 }

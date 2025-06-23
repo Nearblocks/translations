@@ -60,8 +60,8 @@
     "last": "最後"
   },
   "validation": {
-    "required": "{{field}}が必要です",
-    "invalid": "正しい {{field}}を提供してください"
+    "required": "{field}が必要です",
+    "invalid": "正しい {field}を提供してください"
   },
   "chart": {
     "source": "ソース: nearblocks.io"
@@ -76,5 +76,6 @@
     "centralisedExchange": "中央集権型取引所",
     "decentralisedExchange": "分散型取引所"
   },
-  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期が取れていません。一部のブロックやトランザクションが遅れる可能性があります。"
+  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期が取れていません。一部のブロックやトランザクションが遅れる可能性があります。",
+  "rpcRateLimitError": "現在のRPC（{rpcUrl}）によってレート制限されています。しばらくしてからもう一度お試しいただくか、ドロップダウンメニュー（{icon}）から別のRPCプロバイダーを選択してください。"
 }

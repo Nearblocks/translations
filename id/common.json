@@ -1,80 +1,81 @@
 {
   "header": {
     "menu": {
-      "home": "Rumah",
+      "home": "Beranda",
       "blockchain": "Blockchain",
       "viewBlocks": "Lihat Blok",
-      "viewTxns": "Lihat Txns",
+      "viewTxns": "Lihat Transaksi",
       "languages": "Bahasa",
-      "charts": "Bagan & Statistik",
+      "charts": "Grafik & Statistik",
       "topAccounts": "Akun Teratas",
       "tokens": "Token",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "View Token Transfers",
-      "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "View NFT Transfers",
-      "nodeExplorer": "Node Explorer"
+      "toptoken": "Token Populer",
+      "viewTokenTrasfers": "Transfer Token",
+      "topnft": "NFT Populer",
+      "viewNftTrasfers": "Transfer NFT",
+      "nodeExplorer": "Penjelajah Node"
     }
   },
   "search": {
     "filters": {
-      "all": "Semua Filter",
-      "txns": "Txns",
-      "blocks": "Blocks",
+      "all": "Semua",
+      "txns": "Transaksi",
+      "blocks": "Blok",
       "token": "Token",
       "addresses": "Alamat"
     },
-    "placeholder": "Cari berdasarkan ID Akun / Txn Hash / Blok",
+    "placeholder": "Cari alamat / hash transaksi / blok",
     "list": {
-      "address": "Rekening",
-      "txns": "Txns",
+      "address": "Akun",
+      "txns": "Transaksi",
       "blocks": "Blok",
       "tokens": "Token"
     },
-    "noResults": "No results"
+    "noResults": "Tidak ada hasil"
   },
   "footer": {
-    "description": "Blok NEAR adalah penjelajah blockchain terkemuka yang didedikasikan untuk ekosistem NEAR. Didukung oleh Protokol NEAR.",
+    "description": "NEAR Blocks adalah penjelajah blockchain terkemuka untuk ekosistem NEAR.",
     "poweredBy": "Didukung oleh",
     "links": {
-      "explore": "Menjelajahi",
+      "explore": "Jelajahi",
       "blockExplorer": "Penjelajah Blok",
       "latestBlocks": "Blok Terbaru",
       "latestTxns": "Transaksi Terbaru",
-      "company": "Firma",
-      "about": "Sekitar",
-      "advertise": "Memberi-tahu",
-      "contact": "Kontak",
-      "terms": "Istilah",
-      "charts": "Bagan & Statistik",
-      "api": "API Pencari NEAR",
-      "kb": "Basis Pengetahuan",
-      "fundamentals": "Dasar",
-      "buySell": "Beli, Jual & Perdagangan",
-      "nearValidator": "Daftar Pemeriksa NEAR"
+      "company": "Perusahaan",
+      "about": "Tentang Kami",
+      "advertise": "Iklan",
+      "contact": "Hubungi Kami",
+      "terms": "Syarat & Ketentuan",
+      "charts": "Grafik & Statistik",
+      "api": "API Near Indexer",
+      "kb": "Pusat Bantuan",
+      "fundamentals": "Dasar-Dasar",
+      "buySell": "Beli / Jual",
+      "nearValidator": "Daftar Validator NEAR"
     }
   },
-  "sponsored": "赞助",
+  "sponsored": "Disponsori",
   "pagination": {
-    "first": "第一",
-    "last": "最后"
+    "first": "Pertama",
+    "last": "Terakhir"
   },
   "validation": {
-    "required": "{{field}} is required",
-    "invalid": "Please provide a valid {{field}}"
+    "required": "{field} wajib diisi",
+    "invalid": "Harap masukkan {field} yang valid"
   },
   "chart": {
     "source": "Sumber: nearblocks.io"
   },
-  "trademark": "NearBlocks dioperasikan penuh dan sendiri. NearBlocks tidak terkait dengan The NEAR Foundation dan setiap merek dagang berlisensi yang ditampilkan di situs web ini adalah milik pemiliknya masing-masing.",
+  "trademark": "NearBlocks adalah proyek independen dan tidak berafiliasi dengan NEAR Foundation. Semua merek dagang milik masing-masing pemilik.",
   "tags": {
-    "service": "Service",
+    "service": "Layanan",
     "pool": "Pool",
-    "personal": "Personal",
-    "shop": "Shop",
-    "donation": "Donation",
-    "centralisedExchange": "Centralised Exchange",
-    "decentralisedExchange": "Decentralised Exchange"
+    "personal": "Pribadi",
+    "shop": "Toko",
+    "donation": "Donasi",
+    "centralisedExchange": "Bursa Terpusat",
+    "decentralisedExchange": "Bursa Terdesentralisasi"
   },
-  "outofSync": "Karena pemeliharaan tak terduga, Nearblocks tidak sinkron. Beberapa blok atau transaksi mungkin tertunda."
+  "outofSync": "NearBlocks saat ini tidak tersinkronisasi karena pemeliharaan. Beberapa data blok atau transaksi mungkin tertunda.",
+  "rpcRateLimitError": "Anda telah mencapai batas RPC ({rpcUrl}). Silakan coba lagi nanti atau klik ikon {icon} untuk mengganti penyedia RPC."
 }

@@ -1,7 +1,7 @@
 {
-  "metaTitle": "계정 근처 {{address}} | 블록 근처",
-  "metaDescription": "계정 근처 {{address}} 페이지에서 사용자는 거래, 잔액, 토큰 보유 및 이전을 볼 수 있습니다.",
-  "heading": "계정: @<0>{{address}}</0>",
+  "metaTitle": "계정 근처 {address} | 블록 근처",
+  "metaDescription": "계정 근처 {address} 페이지에서 사용자는 거래, 잔액, 토큰 보유 및 이전을 볼 수 있습니다.",
+  "heading": "계정: @<0>{address}</0>",
   "overview": "개요",
   "moreInfo": "계정 정보",
   "balance": "균형",
@@ -29,5 +29,12 @@
   "codeHash": "코드 해시",
   "tokenTxns": "토큰 트랜잭션",
   "nftTokenTxns": "NFT 토큰 거래",
-  "accessKeys": "액세스 키"
+  "accessKeys": "액세스 키",
+  "multichainInfo": "멀티체인 정보",
+  "noAddresses": "없음",
+  "address": "주소",
+  "addresses": "주소들",
+  "foundOn": "에서 발견",
+  "foreignChain": "외부 체인",
+  "multi-chainTxns": "멀티체인 트랜잭션"
 }

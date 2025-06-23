@@ -1,0 +1,26 @@
+{
+  "metaTitle": "모든 최신 멀티체인 트랜잭션",
+  "metaDescription": "Near 블록체인에서 확인된 모든 최신 멀티체인 트랜잭션.",
+  "heading": "최신 멀티체인 트랜잭션",
+  "count": "총 {count} 개의 멀티체인 트랜잭션이 발견되었습니다",
+  "receiptId": "영수증 ID",
+  "sourceTxn": "소스 트랜잭션 해시",
+  "from": "발신",
+  "destinationTxn": "목적지 트랜잭션 해시",
+  "destinationAddress": "목적지 주소",
+  "filter": {
+    "placeholder": "주소로 검색 예: Ⓝ..",
+    "placeholderForeign": "주소로 검색",
+    "filter": "필터",
+    "clear": "지우기",
+    "by": "필터 기준",
+    "from": "발신",
+    "to": "수신"
+  },
+  "age": "경과 시간",
+  "ageDT": "날짜 시간 (UTC)",
+  "noTxns": "트랜잭션 없음",
+  "totalTxns": "총 트랜잭션",
+  "volume": "볼륨(24h)",
+  "networks": "네트워크"
+}

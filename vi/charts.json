@@ -1,73 +1,82 @@
 {
-  "metaTitle": "Biểu đồ Near & Các thống kê | NearBlocks ",
-  "metaDescription": "NearBlocks cung cấp một bộ thống kê và biểu đồ dữ liệu Near theo thời gian thực để theo dõi mọi thứ: Giá, nguồn cung, vốn hóa thị trường, phí giao dịch và những thứ khác.",
-  "heading": "Biểu đồ Near & Các thống kê",
-  "otherHeading": "Các biểu đồ Near & thống kê khác",
-  "nearPrice": {
-    "metaTitle": "Giá NEAR hôm nay : Thông tin, biểu đồ, thống kê | NearBlocks ",
-    "metaDescription": "Biểu đồ giá NEAR hàng ngày (USD) hiển thị giá lịch sử hàng ngày của NEAR bằng USD. Tất cả dữ liệu theo thời gian thực, chính xác và được lấy trực tiếp từ chuỗi khối Near.",
-    "heading": "Biểu đồ giá NEAR hàng ngày (USD)",
-    "description": "Biểu đồ giá NEAR hàng ngày (USD) hiển thị giá lịch sử hàng ngày của NEAR bằng USD.",
-    "yLabel": "Giá NEAR (USD)",
-    "statistics": {
-      "heading": "Số liệu về giá NEAR",
-      "price": "Giá NEAR (USD)",
-      "marketCap": "Vốn hóa thị trường",
-      "volume": "Khối lượng giao dịch",
-      "volumeMarketCap": "Khối lượng giao dịch / Vốn hóa thị trường",
-      "high24": "Cao 24h",
-      "low24": "Thấp 24h",
-      "highAll": "Giá Cao nhất",
-      "lowAll": "Giá Thấp nhất"
+  "charts": {
+    "metaTitle": "Biểu đồ và thống kê Near | NearBlocks",
+    "metaDescription": "Biểu đồ theo thời gian thực: giá, cung, vốn hóa, phí và các chỉ số khác từ blockchain Near.",
+    "heading": "Biểu đồ và thống kê Near",
+    "otherHeading": "Biểu đồ và chỉ số khác của Near",
+    "nearPrice": {
+      "metaTitle": "Giá Near hôm nay: Thông tin, biểu đồ, thống kê | NearBlocks",
+      "metaDescription": "Biểu đồ giá Near theo USD hiển thị lịch sử hàng ngày. Dữ liệu cập nhật theo thời gian thực từ blockchain Near.",
+      "heading": "Biểu đồ giá hàng ngày của Near (USD)",
+      "description": "Biểu đồ thể hiện giá Near theo ngày tính bằng đô la Mỹ.",
+      "yLabel": "Giá Near (USD)",
+      "statistics": {
+        "heading": "Thống kê giá Near",
+        "price": "Giá Near (USD)",
+        "marketCap": "Vốn hóa thị trường",
+        "volume": "Khối lượng giao dịch",
+        "volumeMarketCap": "Khối lượng / Vốn hóa",
+        "high24": "Cao nhất 24h",
+        "low24": "Thấp nhất 24h",
+        "highAll": "Cao nhất mọi thời đại",
+        "lowAll": "Thấp nhất mọi thời đại"
+      }
+    },
+    "marketCapCharts": {
+      "metaTitle": "Biểu đồ vốn hóa thị trường Near | NearBlocks",
+      "metaDescription": "Biểu đồ cho thấy lịch sử vốn hóa thị trường và giá của Near.",
+      "heading": "Biểu đồ vốn hóa thị trường của Near",
+      "description": "Thể hiện sự biến động vốn hóa thị trường và giá của Near theo thời gian.",
+      "yLabel": "Vốn hóa thị trường (USD)"
+    },
+    "nearSupplyCharts": {
+      "metaTitle": "Biểu đồ cung ứng Near: đang lưu hành & tổng cung | NearBlocks",
+      "metaDescription": "Biểu đồ phát hành token Near hàng ngày và phân phối tổng cung.",
+      "heading": "Biểu đồ cung ứng token Near",
+      "description": "Phân tích phân phối tổng cung token NEAR theo ngày.",
+      "yLabel": "Tổng cung Near"
+    },
+    "txnCharts": {
+      "metaTitle": "Biểu đồ giao dịch Near | Thống kê tăng trưởng | NearBlocks",
+      "metaDescription": "Biểu đồ hiển thị tổng số lượng giao dịch hàng ngày trên Near.",
+      "heading": "Biểu đồ số lượng giao dịch mỗi ngày",
+      "description": "Phân tích khối lượng giao dịch hàng ngày trong mạng Near.",
+      "yLabel": "Giao dịch mỗi ngày"
+    },
+    "blockCharts": {
+      "metaTitle": "Biểu đồ số lượng khối Near | NearBlocks",
+      "metaDescription": "Biểu đồ thể hiện số lượng khối được tạo mỗi ngày trên mạng Near.",
+      "heading": "Biểu đồ khối trên Near",
+      "description": "Thể hiện số lượng khối được xác nhận mỗi ngày.",
+      "yLabel": "Khối mỗi ngày"
+    },
+    "addressesCharts": {
+      "metaTitle": "Biểu đồ địa chỉ duy nhất trên Near | NearBlocks",
+      "metaDescription": "Biểu đồ thể hiện sự tăng trưởng tổng số địa chỉ duy nhất trong mạng Near.",
+      "heading": "Biểu đồ tài khoản duy nhất trên Near",
+      "description": "Số lượng và sự tăng trưởng của tài khoản trên Near.",
+      "yLabel": "Tăng trưởng tài khoản"
+    },
+    "txnFeeCharts": {
+      "metaTitle": "Biểu đồ phí giao dịch Near | NearBlocks",
+      "metaDescription": "Biểu đồ cho biết tổng phí giao dịch hàng ngày (tính theo USD) trên Near.",
+      "heading": "Biểu đồ phí giao dịch",
+      "description": "Tổng số NEAR được chi cho phí mỗi ngày.",
+      "yLabel": "Phí giao dịch (USD)"
+    },
+    "txnVolumeCharts": {
+      "metaTitle": "Biểu đồ khối lượng giao dịch Near | NearBlocks",
+      "metaDescription": "Biểu đồ hiển thị tổng khối lượng giao dịch hàng ngày (theo USD) trên Near.",
+      "heading": "Biểu đồ khối lượng giao dịch",
+      "description": "Thể hiện giá trị USD được chuyển qua mạng Near mỗi ngày.",
+      "yLabel": "Khối lượng giao dịch (USD)"
+    },
+    "multichainTxns": {
+      "metaTitle": "Biểu đồ giao dịch liên chuỗi Near | NearBlocks",
+      "metaDescription": "Biểu đồ cho thấy số lượng giao dịch liên chuỗi hàng ngày trên Near.",
+      "heading": "Biểu đồ giao dịch liên chuỗi",
+      "description": "Thể hiện khối lượng giao dịch giữa Near và các blockchain khác mỗi ngày.",
+      "yLabel": "Giao dịch liên chuỗi mỗi ngày"
     }
-  },
-  "marketCap": {
-    "metaTitle": "Biểu đồ vốn hóa thị trường Near | NearBlocks ",
-    "metaDescription": "Biểu đồ vốn hóa thị trường Near hiển thị phân tích lịch sử về giá và vốn hóa thị trường gần hàng ngày. Tất cả dữ liệu đều theo thời gian thực, chính xác và được lấy trực tiếp từ chuỗi khối Near ",
-    "heading": "Biểu đồ vốn hóa thị trường Near",
-    "description": "Biểu đồ vốn hóa thị trường Near hiển thị phân tích lịch sử về giá và vốn hóa thị trường gần hàng ngày.",
-    "yLabel": "Vốn hóa thị trường của NEAR (USD)"
-  },
-  "nearSupply": {
-    "metaTitle": "Biểu đồ nguồn cung NEAR : Lưu thông, Tổng cung | NearBlocks ",
-    "metaDescription": "Biểu đồ tăng trưởng nguồn cung chuổi khối NEAR hiển thị bảng phân tích về phần thưởng khối hàng ngày và tổng nguồn cung. Tất cả dữ liệu đều theo thời gian thực, chính xác và được lấy trực tiếp từ chuỗi khối Near.",
-    "heading": "Biểu đồ tăng trưởng nguồn cung NEAR",
-    "description": "Biểu đồ tăng trưởng nguồn cung Near cho thấy sự phân tích hàng ngày và tổng nguồn cung NEAR.",
-    "yLabel": "Nguồn cung NEAR"
-  },
-  "txns": {
-    "metaTitle": "Biểu đồ giao dịch NEAR : Thông tin, thống kê, tăng trưởng | NearBlocks ",
-    "metaDescription": "Biểu đồ giao dịch NEAR làm nổi bật tổng số giao dịch trên chuỗi khối Near blockchain với phân tích cá nhân hàng ngày cho tổng giao dịch, tổng số khối và tổng số tài khoản mới được tạo.",
-    "heading": "Biểu đồ giao dịch NEAR theo ngày",
-    "description": "Biểu đồ làm nổi bật tổng số giao dịch trên chuỗi khối Near blockchain với phân tích cá nhân hàng ngày cho tổng giao dịch, tổng số khối và tổng số tài khoản mới được tạo.",
-    "yLabel": "Giao dịch mỗi ngày"
-  },
-  "blocks": {
-    "metaTitle": "Biểu đồ đếm khối NEAR | NearBlocks ",
-    "metaDescription": "Biểu đồ đếm khối Near blockchain hiển thị số lượng khối lịch sử được sản xuất hàng ngày trên chuỗi khối Near. Tất cả dữ liệu đều theo thời gian thực, chính xác và được lấy trực tiếp từ chuỗi khối Near.",
-    "heading": "Biểu đồ đếm khối NEAR",
-    "description": "Biểu đồ đếm khối Near blockchain hiển thị số lượng khối lịch sử được sản xuất hàng ngày trên chuỗi khối Near.",
-    "yLabel": "Khối mỗi ngày"
-  },
-  "addresses": {
-    "metaTitle": "Biểu đồ tài khoản NEAR| NearBlocks ",
-    "metaDescription": "Biểu đồ tài khoản Near blockchain hiển thị tổng số tài khoản khác biệt trên chuỗi khối Near và sự gia tăng số lượng tài khoản hàng ngày.",
-    "heading": "Biểu đồ tài khoản NEAR",
-    "description": "Biểu đồ tài khoản Near blockchain hiển thị tổng số tài khoản khác biệt trên chuỗi khối Near và sự gia tăng số lượng tài khoản hàng ngày.",
-    "yLabel": "Mức tăng trưởng tích lũy tài khoản Near"
-  },
-  "txnFee": {
-    "metaTitle": "Lịch sử phí giao dịch trên Near : Phí giao dịch | NearBlocks ",
-    "metaDescription": "Biểu đồ phí giao dịch Near blockchain hiển thị số tiền hàng ngày bằng USD được chi tiêu cho mỗi giao dịch trên Near blockchain  (Ⓝ). Tất cả dữ liệu đều theo thời gian thực, chính xác và được lấy trực tiếp từ chuỗi khối Near.",
-    "heading": "Biểu đồ phí giao dịch",
-    "description": "Biểu đồ hiển thị số tiền hàng ngày bằng USD được chi tiêu cho mỗi giao dịch trên Near blockchain.",
-    "yLabel": "Phí giao dịch (USD)"
-  },
-  "txnVolume": {
-    "metaTitle": "Biểu đồ khối lượng giao dịch trên NEAR : Khối lượng giao dịch | NearBlocks ",
-    "metaDescription": "Biểu đồ khối lượng giao dịch Near blockchain hiển thị số tiền hàng ngày bằng USD được chi tiêu cho mỗi giao dịch trên chuỗi khối Near.",
-    "heading": "Biểu đồ khối lượng giao dịch",
-    "description": "Biểu đồ hiển thị số tiền hàng ngày bằng USD được chi tiêu cho mỗi giao dịch trên chuỗi khối Near.",
-    "yLabel": "Khối lượng giao dịch (USD)"
   }
 }

@@ -1,52 +1,54 @@
 {
-  "metaTitle": "Liên hệ chúng tôi | NearBlocks",
-  "metaDescription": "Liên hệ đội ngũ NearBlocks nếu có bất kỳ câu hỏi nào liên quan đến websites và công cụ của chúng tôi. Vui lòng hiểu rằng chúng tôi chỉ hỗ trợ các vấn đề liên quan trực tiếp tới dịch vụ Block Explorer. ",
-  "heading": "Liên lạc với NearBlocks",
-  "info": {
-    "heading": "Gửi tin nhắn cho chúng tôi, nhưng xin lưu ý rằng:",
-    "points": [
-      {
-        "heading": "Giao dịch đang được xử lý",
-        "content": "Chúng tôi không xử lý các giao dịch và do đó không thể tiến hành, hủy bỏ hoặc thay thế chúng. Nếu bạn đang gặp vấn đề với các giao dịch đang chờ xử lý, vui lòng tham khảo tại đây."
-      },
-      {
-        "heading": "Near Block Explorer",
-        "content": "NearBlocks là một Block Explorer độc lập không liên quan đến các nhà cung cấp dịch vụ khác (trừ khi được nêu rõ ràng theo cách khác) và do đó không thể cung cấp phản hồi chính xác cho các yêu cầu cụ thể đối với các nhà cung cấp dịch vụ khác."
-      },
-      {
-        "heading": "Ví / Sàn giao dịch / Vấn đề liên quan đến các dự án",
-        "content": "Vui lòng liên hệ với nhà cung cấp dịch vụ ví, sàn giao dịch hoặc chủ sở hữu dự án / hợp đồng của bạn để được hỗ trợ thêm vì họ có thể hỗ trợ bạn tốt hơn về các vấn đề xuất phát từ hoặc liên quan đến nền tảng của họ."
-      }
-    ]
-  },
-  "form": {
-    "heading": "Mẫu liên hệ:",
-    "name": {
-      "label": "Tên",
-      "placeholder": "Tên"
-    },
-    "email": {
-      "label": "Email",
-      "placeholder": "Email"
-    },
-    "subject": {
-      "label": "Tiêu đề",
-      "placeholder": "Tiêu đề",
-      "options": [
-        "Các câu hỏi chung",
-        "Hỗ trợ / Kỹ thuật",
-        "Đối tác",
-        "API / Phát triển",
-        "Thẻ tên/ Mác địa chỉ ví",
-        "Quảng cáo"
+  "contact": {
+    "metaTitle": "Liên hệ chúng tôi | NearBlocks",
+    "metaDescription": "Liên hệ với nhóm Near Blocks cho bất kỳ câu hỏi nào về trang web và công cụ của chúng tôi. Lưu ý rằng chúng tôi chỉ có thể hỗ trợ các vấn đề liên quan trực tiếp đến trình khám phá blockchain.",
+    "heading": "Liên hệ Near Blocks",
+    "info": {
+      "heading": "Gửi cho chúng tôi tin nhắn, nhưng lưu ý rằng:",
+      "points": [
+        {
+          "heading": "Giao dịch đang chờ xử lý",
+          "content": "Chúng tôi không xử lý giao dịch và do đó không thể tăng tốc, hủy bỏ hoặc thay thế chúng. Nếu bạn đang gặp sự cố với các giao dịch đang chờ, vui lòng tham khảo hướng dẫn tại đây."
+        },
+        {
+          "heading": "Trình khám phá Near",
+          "content": "Near Blocks là một trình khám phá blockchain độc lập, không liên kết với các nhà cung cấp dịch vụ khác (trừ khi có ghi rõ), do đó chúng tôi không thể hỗ trợ về các dịch vụ bên ngoài."
+        },
+        {
+          "heading": "Sự cố ví / sàn giao dịch / dự án",
+          "content": "Vui lòng liên hệ với bộ phận hỗ trợ của ví, sàn giao dịch hoặc nhóm phát triển hợp đồng dự án để được hỗ trợ tốt nhất."
+        }
       ]
     },
-    "message": {
-      "label": "Tin nhắn",
-      "placeholder": "Tin nhắn"
-    },
-    "button": "Gửi tin",
-    "successMessage": "Cảm ơn bạn, chúng tôi sẽ phản hồi sớm",
-    "errorMessage": "Đã xảy ra lỗi!"
+    "form": {
+      "heading": "Mẫu liên hệ:",
+      "name": {
+        "label": "Tên",
+        "placeholder": "Tên"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Email"
+      },
+      "subject": {
+        "label": "Chủ đề",
+        "placeholder": "Chủ đề",
+        "options": [
+          "Câu hỏi chung",
+          "Hỗ trợ / Kỹ thuật",
+          "Hợp tác",
+          "API / Nhà phát triển",
+          "Nhãn / Địa chỉ có tên",
+          "Quảng cáo"
+        ]
+      },
+      "message": {
+        "label": "Tin nhắn",
+        "placeholder": "Tin nhắn"
+      },
+      "button": "Gửi tin nhắn",
+      "successMessage": "Cảm ơn bạn, chúng tôi sẽ phản hồi trong thời gian sớm nhất",
+      "errorMessage": "Đã xảy ra lỗi!"
+    }
   }
 }

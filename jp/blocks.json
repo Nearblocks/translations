@@ -1,8 +1,8 @@
 {
   "metaTitle": "Nearでの直近の取引 | NearBlocks",
   "metaDescription": "Nearチェーンに含まれる全てのNear（Ⓝブロック、タイムスタンプ、生成者、GASトークン、GAS代、トランザクションが表示される。",
-  "heading": "最新の Near Protocol ブロッ​​ク",
-  "listing": "ブロック #{{from}} まで #{{to}} (合計{{count}} ブロック)",
+  "blockHeading": "最新の Near Protocol ブロッ​​ク",
+  "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)",
   "blocks": "ブロック",
   "type": "タイプ",
   "typeBlock": "ブロック",
@@ -14,13 +14,13 @@
   "volume": "取引量",
   "blockError": "ブロックエラー",
   "block": {
-    "metaTitle": "Nearブロック {{block}} | NearBlocks",
-    "metaDescription": "Nearブロック高{{block}}。タイムスタンプ、使用したブロックGAS、GAS価格、生成者、ブロック内のトランザクション数、受領証の詳細がNearに表示されます。",
-    "heading": ["ブロック", "#{{block}}"],
+    "metaTitle": "Nearブロック {block} | NearBlocks",
+    "metaDescription": "Nearブロック高{block}。タイムスタンプ、使用したブロックGAS、GAS価格、生成者、ブロック内のトランザクション数、受領証の詳細がNearに表示されます。",
+    "heading": ["ブロック", "#{block}"],
     "height": "ブロック高",
     "hash": "ハッシュ",
     "timestamp": "タイムスタンプ",
-    "transactions": ["取引", "{{txns}} 取引", " and {{receipts}} 受領証"],
+    "transactions": ["取引", "{txns} 取引", " and {receipts} 受領証"],
     "fees": "手数料",
     "price": "Ⓝ 価格",
     "proof": "証拠",
@@ -28,10 +28,12 @@
     "gasPrice": "GAS価格",
     "parenthash": "親ハッシュ",
     "author": "生成者",
-    "receipt": "受領証",
+    "receipts": "領収書",
     "gasLimit": "Gas代上限",
-    "gasFee": "Gas代"
+    "gasFee": "Gas代",
+    "listing": "ブロック #{from} まで #{to} (合計{count} ブロック)",
+    "txns": "取引"
   },
-  "testnetNotice": "[ これはテストネットのブロックのみです ]",
+  "testnetBlockNotice": "[ これはテストネットのブロックのみです ]",
   "noBlocks": "ブロックがありません"
 }

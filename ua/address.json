@@ -1,7 +1,7 @@
 {
-  "metaTitle": "Обліковий запис Near {{address}} | NearBlocks",
-  "metaDescription": "Сторінка Near Account {{address}} дозволяє користувачам переглядати транзакції, баланси, запаси токенів і перекази.",
-  "heading": "Обліковий запис: @ <0>{{address}}</0>",
+  "metaTitle": "Обліковий запис Near {address} | NearBlocks",
+  "metaDescription": "Сторінка Near Account {address} дозволяє користувачам переглядати транзакції, баланси, запаси токенів і перекази.",
+  "heading": "Обліковий запис: @ <0>{address}</0>",
   "overview": "Огляд",
   "moreInfo": "Інформація про обліковий запис",
   "balance": "Near",
@@ -29,5 +29,12 @@
   "codeHash": "Хеш коду",
   "tokenTxns": "Транзакції токенами",
   "nftTokenTxns": "Txns токенів NFT",
-  "accessKeys": "Ключі доступу"
+  "accessKeys": "Ключі доступу",
+  "multichainInfo": "Інформація про Мульти-чейн",
+  "noAddresses": "Ні",
+  "address": "адреса",
+  "addresses": "адреси",
+  "foundOn": "знайдено на",
+  "foreignChain": "Іноземний ланцюг",
+  "multi-chainTxns": "Мульти-чейн Транзакції"
 }

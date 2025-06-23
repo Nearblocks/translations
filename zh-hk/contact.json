@@ -1,52 +1,54 @@
 {
-  "metaTitle": "聯絡我們 | NearBlocks",
-  "metaDescription": "如對我們的網站和工具有任何疑問，可以聯絡Near Blocks團隊。請留意，我們只能協助解決與我們的區塊鏈瀏覽器服務直接相關的問題。",
-  "heading": "聯絡Near Blocks",
-  "info": {
-    "heading": "發送訊息給我們前，請注意：",
-    "points": [
-      {
-        "heading": "未確認交易",
-        "content": "我們不會處理交易，故此亦無法加速，取消或取代任何未確認交易。若你有任何關於未確認交易的問題，請參考這裏。"
-      },
-      {
-        "heading": "NEAR區塊鏈瀏覽器",
-        "content": "Near Blocks是一個獨立區塊鏈瀏覽器，與其他服務供應商沒有關係（特別註明的例外），故此亦無法為其他服務供應商相關的問題提供解答。"
-      },
-      {
-        "heading": "錢包 / 交易所 / 項目相關問題",
-        "content": "請聯繫你的錢包，交易所或項目/合約擁有人以讓他們為你遇到的相關問題提供更合適的支援。"
-      }
-    ]
-  },
-  "form": {
-    "heading": "聯絡表單：",
-    "name": {
-      "label": "名稱",
-      "placeholder": "名稱"
-    },
-    "email": {
-      "label": "電郵",
-      "placeholder": "電郵"
-    },
-    "subject": {
-      "label": "標題",
-      "placeholder": "標題",
-      "options": [
-        "一般咨詢",
-        "支援 / 技術",
-        "合作",
-        "數據接口 / 開發",
-        "名稱標籤 / 標籤地址",
-        "廣告宣傳"
+  "contact": {
+    "metaTitle": "聯絡我們 | NearBlocks",
+    "metaDescription": "如果你對 Near Blocks 網站同工具有任何問題，歡迎聯絡我哋團隊。請注意，我哋只能協助與區塊鏈瀏覽器相關嘅問題。",
+    "heading": "聯絡 Near Blocks",
+    "info": {
+      "heading": "歡迎留言，不過請注意：",
+      "points": [
+        {
+          "heading": "待處理交易",
+          "content": "我哋唔處理交易，亦無法加速、取消或替換交易。如果你遇到交易延遲問題，請參考我哋提供嘅指引。"
+        },
+        {
+          "heading": "Near 瀏覽器",
+          "content": "Near Blocks 係一個獨立嘅區塊鏈瀏覽器，唔隸屬於任何其他服務供應商（除非特別說明），所以我哋無法支援第三方相關問題。"
+        },
+        {
+          "heading": "錢包 / 交易所 / 項目問題",
+          "content": "如需支援，請直接聯絡相關錢包、交易所或項目團隊。"
+        }
       ]
     },
-    "message": {
-      "label": "訊息內容",
-      "placeholder": "訊息內容"
-    },
-    "button": "發送訊息",
-    "successMessage": "感謝，我們會盡快回覆",
-    "errorMessage": "發生錯誤!"
+    "form": {
+      "heading": "聯絡表格：",
+      "name": {
+        "label": "姓名",
+        "placeholder": "請輸入你嘅姓名"
+      },
+      "email": {
+        "label": "電郵地址",
+        "placeholder": "請輸入你嘅電郵"
+      },
+      "subject": {
+        "label": "主題",
+        "placeholder": "選擇主題",
+        "options": [
+          "一般查詢",
+          "支援 / 技術問題",
+          "合作機會",
+          "API / 開發者",
+          "地址標籤",
+          "廣告查詢"
+        ]
+      },
+      "message": {
+        "label": "訊息內容",
+        "placeholder": "請輸入你嘅訊息"
+      },
+      "button": "送出訊息",
+      "successMessage": "多謝你嘅訊息，我哋會盡快回覆。",
+      "errorMessage": "發生錯誤！"
+    }
   }
 }

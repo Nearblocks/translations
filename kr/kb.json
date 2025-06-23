@@ -7,11 +7,11 @@
     "published": "게시",
     "lastUpdated": "마지막 업데이트",
     "kb": {
-        "metaTitle": "{{post}} | NearBlocks",
-        "metaDescription": "{{post}} | NearBlocks"
+        "metaTitle": "{post} | NearBlocks",
+        "metaDescription": "{post} | NearBlocks"
     },
     "article": {
-        "metaTitle": "{{slug}} | NearBlocks",
-        "metaDescription": "{{slug}} | NearBlocks"
+        "metaTitle": "{slug} | NearBlocks",
+        "metaDescription": "{slug} | NearBlocks"
     }
 }

@@ -3,78 +3,79 @@
     "menu": {
       "home": "主頁",
       "blockchain": "區塊鏈",
-      "viewBlocks": "查看區塊",
-      "viewTxns": "查看交易記錄",
+      "viewBlocks": "瀏覽區塊",
+      "viewTxns": "瀏覽交易",
       "languages": "語言",
-      "charts": "圖表及數據",
-      "topAccounts": "頭部帳戶",
+      "charts": "圖表與統計",
+      "topAccounts": "頂尖帳戶",
       "tokens": "代幣",
-      "toptoken": "頭部代幣",
-      "viewTokenTrasfers": "查看代幣轉帳記錄",
-      "topnft": "頭部NFT",
-      "viewNftTrasfers": "查看NFT轉帳記錄",
+      "toptoken": "熱門代幣",
+      "viewTokenTrasfers": "代幣轉帳",
+      "topnft": "熱門 NFT",
+      "viewNftTrasfers": "NFT 轉帳",
       "nodeExplorer": "節點瀏覽器"
     }
   },
   "search": {
     "filters": {
-      "all": "所有籂選",
-      "txns": "交易記錄",
+      "all": "所有篩選",
+      "txns": "交易",
       "blocks": "區塊",
       "token": "代幣",
       "addresses": "地址"
     },
-    "placeholder": "以帳戶ID / 交易記錄哈希值 / 區塊搜尋",
+    "placeholder": "搜尋地址 / 交易雜湊值 / 區塊",
     "list": {
       "address": "帳戶",
-      "txns": "交易記錄",
+      "txns": "交易",
       "blocks": "區塊",
       "tokens": "代幣"
     },
-    "noResults": "找不到結果"
+    "noResults": "無搜尋結果"
   },
   "footer": {
-    "description": "NEAR Blocks 是致力於 NEAR 生態系統的領先區塊鏈瀏覽器。由 NEAR 協議提供支援。",
-    "poweredBy": "技術支持：",
+    "description": "NEAR Blocks 係專屬於 NEAR 區塊鏈生態嘅先進區塊鏈瀏覽器，由 NEAR 協議驅動。",
+    "poweredBy": "技術支援",
     "links": {
-      "explore": "瀏覽",
-      "blockExplorer": "區塊鏈瀏覽器",
+      "explore": "探索",
+      "blockExplorer": "區塊瀏覽器",
       "latestBlocks": "最新區塊",
-      "latestTxns": "最新交易記錄",
+      "latestTxns": "最新交易",
       "company": "公司",
-      "about": "關於",
-      "advertise": "廣告宣傳",
-      "contact": "聯繫方式",
-      "terms": "條款",
-      "charts": "圖表及數據",
-      "api": "NEAR 索引器 API",
-      "kb": "知識庫",
-      "fundamentals": "基本面",
-      "buySell": "買，賣和交易",
-      "nearValidator": "NEAR 驗證者列表"
+      "about": "關於我們",
+      "advertise": "廣告合作",
+      "contact": "聯絡我們",
+      "terms": "服務條款",
+      "charts": "圖表與統計",
+      "api": "NEAR Indexer API",
+      "kb": "幫助中心",
+      "fundamentals": "基本知識",
+      "buySell": "買賣與交易",
+      "nearValidator": "NEAR 驗證者清單"
     }
   },
   "sponsored": "贊助",
   "pagination": {
-    "first": "第一版",
-    "last": "最後一版"
+    "first": "第一頁",
+    "last": "最後一頁"
   },
   "validation": {
-    "required": "{{field}}是必須的",
-    "invalid": "請填寫正確的{{field}}"
+    "required": "{field} 為必填項",
+    "invalid": "請輸入有效嘅 {field}"
   },
   "chart": {
     "source": "來源：nearblocks.io"
   },
-  "trademark": "NearBlocks 完全獨立運行。 NearBlocks 與 NEAR 基金會無關，本網站上顯示的每個許可商標均屬於其各自所有者。",
+  "trademark": "NearBlocks 係一個獨立項目，並不隸屬於 NEAR 基金會。頁面上所示商標屬於各自擁有者。",
   "tags": {
     "service": "服務",
-    "pool": "Pool",
+    "pool": "資金池",
     "personal": "個人",
     "shop": "商店",
     "donation": "捐贈",
     "centralisedExchange": "中心化交易所",
     "decentralisedExchange": "去中心化交易所"
   },
-  "outofSync": "由於意外維護，Nearblocks未完全同步，部分區塊或交易記錄可能會有所延遲。"
+  "outofSync": "因為進行維護，NearBlocks 暫時未同步。部分區塊或交易資料可能會有延遲。",
+  "rpcRateLimitError": "你已達到 RPC 限制（{rpcUrl}）。請稍後再試，或者點擊圖示 {icon} 換用其他 RPC 服務提供者。"
 }

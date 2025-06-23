@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Todas las últimas transacciones multichain",
+  "metaDescription": "Todas las últimas transacciones multichain confirmadas en la blockchain Near.",
+  "heading": "Últimas transacciones multichain",
+  "count": "Un total de {count} transacciones multichain encontradas",
+  "receiptId": "ID de recibo",
+  "sourceTxn": "Hash de la transacción de origen",
+  "from": "De",
+  "destinationTxn": "Hash de la transacción de destino",
+  "destinationAddress": "Dirección de destino",
+  "filter": {
+    "placeholder": "Buscar por dirección ej. Ⓝ..",
+    "placeholderForeign": "Buscar por dirección",
+    "filter": "Filtrar",
+    "clear": "Limpiar",
+    "by": "Filtrado por",
+    "from": "De",
+    "to": "A"
+  },
+  "age": "Edad",
+  "ageDT": "Fecha y hora (UTC)",
+  "noTxns": "Sin transacciones",
+  "totalTxns": "Total de transacciones",
+  "volume": "Volumen (24h)",
+  "networks": "Redes"
+}

@@ -1,0 +1,26 @@
+{
+  "metaTitle": "最新跨链交易 | NearBlocks",
+  "metaDescription": "所有在 Near 区块链上确认的最新跨链交易。",
+  "heading": "最新跨链交易",
+  "count": "共找到 {count} 条跨链交易",
+  "receiptId": "收据 ID",
+  "sourceTxn": "源交易哈希",
+  "from": "从",
+  "destinationTxn": "目标交易哈希",
+  "destinationAddress": "目标地址",
+  "filter": {
+    "placeholder": "按地址搜索，例如 Ⓝ..",
+    "placeholderForeign": "按地址搜索",
+    "filter": "筛选",
+    "clear": "清除",
+    "by": "筛选方式",
+    "from": "从",
+    "to": "到"
+  },
+  "age": "时间",
+  "ageDT": "日期时间（UTC）",
+  "noTxns": "无交易记录",
+  "totalTxns": "交易总数",
+  "volume": "24 小时交易量",
+  "networks": "网络"
+}

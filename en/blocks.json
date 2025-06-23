@@ -1,8 +1,8 @@
 {
   "metaTitle": "All Near Latest Protocol Blocks | NearBlocks",
   "metaDescription": "All Near (Ⓝ Blocks that are included in Near blockchain. The timestamp, author, gas used, gas price and included transactions are shown.",
-  "heading": "Latest Near Protocol Blocks",
-  "listing": "Block #{{from}} to #{{to}} (Total of {{count}} blocks)",
+  "blockHeading": "Latest Near Protocol Blocks",
+  "listing": "Block #{from} to #{to} (Total of {count} blocks)",
   "blocks": "Block",
   "type": "Type",
   "typeBlock": "Block",
@@ -14,16 +14,16 @@
   "volume": "Transaction Volume",
   "blockError": "Block Error",
   "block": {
-    "metaTitle": "Near Block {{block}} | NearBlocks",
-    "metaDescription": "Near Block Height {{block}}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
-    "heading": ["Block", "#{{block}}"],
+    "metaTitle": "Near Block {block} | NearBlocks",
+    "metaDescription": "Near Block Height {block}. The timestamp, block gas used, gas price, author, number of transactions and receipts in the block are detailed on Near.",
+    "heading": ["Block", "#{block}"],
     "height": "Block Height",
     "hash": "Hash",
     "timestamp": "Timestamp",
     "transactions": [
       "Transactions",
-      "{{txns}} transactions",
-      " and {{receipts}} receipts"
+      "{txns} transactions",
+      " and {receipts} receipts"
     ],
     "fees": "Fees",
     "price": "Ⓝ Price",
@@ -32,10 +32,12 @@
     "gasPrice": "Gas Price",
     "parenthash": "Parent Hash",
     "author": "Author",
-    "receipt": "Receipt",
+    "receipts": "Receipts",
     "gasLimit": "Gas Limit",
-    "gasFee": "Gas Fee"
+    "gasFee": "Gas Fee",
+    "listing": "Block #{from} to #{to} (Total of {count} blocks)",
+    "txns": "Txns"
   },
-  "testnetNotice": "[ This is a Testnet block only ]",
+  "testnetBlockNotice": "[ This is a Testnet block only ]",
   "noBlocks": "No blocks"
 }

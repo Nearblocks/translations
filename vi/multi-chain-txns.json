@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Tất cả các giao dịch liên chuỗi mới nhất",
+  "metaDescription": "Tất cả các giao dịch liên chuỗi mới nhất đã được xác nhận trên blockchain Near.",
+  "heading": "Giao dịch liên chuỗi mới nhất",
+  "count": "Tổng cộng {count} giao dịch liên chuỗi được tìm thấy",
+  "receiptId": "ID biên lai",
+  "sourceTxn": "Hash giao dịch nguồn",
+  "from": "Từ",
+  "destinationTxn": "Hash giao dịch đích",
+  "destinationAddress": "Địa chỉ đích",
+  "filter": {
+    "placeholder": "Tìm theo địa chỉ, ví dụ Ⓝ..",
+    "placeholderForeign": "Tìm theo địa chỉ",
+    "filter": "Lọc",
+    "clear": "Xóa",
+    "by": "Lọc theo",
+    "from": "Từ",
+    "to": "Đến"
+  },
+  "age": "Tuổi",
+  "ageDT": "Ngày giờ (UTC)",
+  "noTxns": "Không có giao dịch",
+  "totalTxns": "Tổng giao dịch",
+  "volume": "Khối lượng (24h)",
+  "networks": "Mạng"
+}

@@ -1,0 +1,26 @@
+{
+  "metaTitle": "Transaksi Lintas Rantai Terbaru | NearBlocks",
+  "metaDescription": "Semua transaksi lintas rantai terbaru yang dikonfirmasi di blockchain NEAR.",
+  "heading": "Transaksi Lintas Rantai Terbaru",
+  "count": "Ditemukan {count} transaksi lintas rantai",
+  "receiptId": "ID Resi",
+  "sourceTxn": "Hash Transaksi Asal",
+  "from": "Dari",
+  "destinationTxn": "Hash Transaksi Tujuan",
+  "destinationAddress": "Alamat Tujuan",
+  "filter": {
+    "placeholder": "Cari berdasarkan alamat, misal Ⓝ..",
+    "placeholderForeign": "Cari alamat",
+    "filter": "Filter",
+    "clear": "Hapus",
+    "by": "Filter Berdasarkan",
+    "from": "Dari",
+    "to": "Ke"
+  },
+  "age": "Waktu",
+  "ageDT": "Tanggal & Waktu (UTC)",
+  "noTxns": "Tidak ada transaksi ditemukan",
+  "totalTxns": "Total Transaksi",
+  "volume": "Volume 24 Jam",
+  "networks": "Jaringan"
+}

@@ -3,51 +3,53 @@
     "menu": {
       "home": "Accueil",
       "blockchain": "Blockchain",
-      "viewBlocks": "Afficher les blocs",
-      "viewTxns": "Afficher Txns",
+      "viewBlocks": "Voir les blocs",
+      "viewTxns": "Voir les transactions",
       "languages": "Langues",
-      "charts": "Graphiques et Stats",
-      "topAccounts": "Principaux comptes",
-      "tokens": "Jetons",
-      "toptoken": "ERC20 Principaux comptes",
-      "viewTokenTrasfers": "Voir les transferts ERC20",
+      "charts": "Graphiques et statistiques",
+      "topAccounts": "Comptes principaux",
+      "tokens": "Tokens",
+      "toptoken": "Tokens principaux",
+      "viewTokenTrasfers": "Transferts de tokens",
+      "topnft": "Principaux tokens NFT",
+      "viewNftTrasfers": "Transferts de tokens NFT",
       "nodeExplorer": "Explorateur de nœuds"
     }
   },
   "search": {
     "filters": {
       "all": "Tous les filtres",
-      "txns": "Txns",
+      "txns": "Transactions",
       "blocks": "Blocs",
-      "token": "Jetons",
+      "token": "Tokens",
       "addresses": "Adresses"
     },
-    "placeholder": "Rechercher par compte ID / Txn Hashage / Bloc",
+    "placeholder": "Rechercher par ID de compte / Hash de transaction / Bloc",
     "list": {
       "address": "Compte",
-      "txns": "Txns",
+      "txns": "Transactions",
       "blocks": "Blocs",
-      "tokens": "Jetons"
+      "tokens": "Tokens"
     },
     "noResults": "Aucun résultat"
   },
   "footer": {
-    "description": "NEAR Blocks est l'explorateur de blockchain de premier plan dédié à l'écosystème NEAR. Alimenté par le protocole NEAR.",
+    "description": "NEAR Blocks est le principal explorateur blockchain dédié à l’écosystème NEAR. Propulsé par le protocole NEAR.",
     "poweredBy": "Propulsé par",
     "links": {
       "explore": "Explorer",
-      "blockExplorer": "Explorer de bloc",
+      "blockExplorer": "Explorateur de blocs",
       "latestBlocks": "Derniers blocs",
-      "latestTxns": "Derniers Transactions",
-      "company": "Société",
-      "about": "à propos",
-      "advertise": "annoncer",
-      "contact": "Contacter",
-      "terms": "Termes",
-      "charts": "Graphiques et Stats",
-      "api": "API de l'indexeur NEAR",
+      "latestTxns": "Dernières transactions",
+      "company": "Entreprise",
+      "about": "À propos",
+      "advertise": "Publicité",
+      "contact": "Contact",
+      "terms": "Conditions",
+      "charts": "Graphiques et statistiques",
+      "api": "APIs de l’indexeur NEAR",
       "kb": "Base de connaissances",
-      "fundamentals": "Fondamentales",
+      "fundamentals": "Fondamentaux",
       "buySell": "Acheter, vendre et échanger",
       "nearValidator": "Liste des validateurs NEAR"
     }
@@ -58,21 +60,22 @@
     "last": "Dernier"
   },
   "validation": {
-    "required": "{{field}} est requis",
-    "invalid": "Veuillez fournir un {{field}}"
+    "required": "{field} est requis",
+    "invalid": "Veuillez fournir un(e) {field} valide"
   },
   "chart": {
-    "source": "Source: nearblocks.io"
+    "source": "Source : nearblocks.io"
   },
-  "trademark": "NearBlocks est exploité de manière complète et autonome. NearBlocks n'est pas associé à la Fondation NEAR et toutes les marques déposées sous licence affichées sur ce site Web appartiennent à leurs propriétaires respectifs.",
+  "trademark": "NearBlocks est exploité de manière totalement indépendante. NearBlocks n’est pas affilié à la NEAR Foundation et toute marque déposée affichée sur ce site appartient à ses propriétaires respectifs.",
   "tags": {
     "service": "Service",
     "pool": "Pool",
     "personal": "Personnel",
     "shop": "Boutique",
-    "donation": "Donation",
+    "donation": "Don",
     "centralisedExchange": "Échange centralisé",
     "decentralisedExchange": "Échange décentralisé"
   },
-  "outofSync": "En raison d'une maintenance imprévue, Nearblocks est désynchronisé. Certains blocs ou transactions peuvent être retardés."
+  "outofSync": "En raison d’une maintenance imprévue, NearBlocks est désynchronisé. Certains blocs ou transactions peuvent être retardés.",
+  "rpcRateLimitError": "Vous avez été limité par le RPC actuel ({rpcUrl}). Veuillez réessayer plus tard ou sélectionner un autre fournisseur RPC dans le menu déroulant {icon}."
 }

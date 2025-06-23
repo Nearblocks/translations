@@ -1,7 +1,7 @@
 {
-  "metaTitle": "Account Near {{address}} | NearBlocks",
-  "metaDescription": "Account Near {{address}} questa pagina permette agli utenti di vedere transazioni, saldi, token posseduti e trasferimenti.",
-  "heading": "Account: @ <0>{{address}}</0>",
+  "metaTitle": "Account Near {address} | NearBlocks",
+  "metaDescription": "Account Near {address} questa pagina permette agli utenti di vedere transazioni, saldi, token posseduti e trasferimenti.",
+  "heading": "Account: @ <0>{address}</0>",
   "overview": "Riepilogo",
   "moreInfo": "Informazioni account",
   "balance": "Saldo",
@@ -29,5 +29,12 @@
   "codeHash": "Codice hash",
   "tokenTxns": "Txns di Token",
   "nftTokenTxns": "NFT Token Txns",
-  "accessKeys": "Kunci Akses"
+  "accessKeys": "Kunci Akses",
+  "multichainInfo": "Informazioni Multicatena",
+  "noAddresses": "No",
+  "address": "indirizzo",
+  "addresses": "indirizzi",
+  "foundOn": "trovato su",
+  "foreignChain": "Catena Estera",
+  "multi-chainTxns": "Transazioni Multicatena"
 }

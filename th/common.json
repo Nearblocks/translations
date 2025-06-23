@@ -60,8 +60,8 @@
     "last": "หน้าสุดท้าย"
   },
   "validation": {
-    "required": "กรุณาป้อน {{field}}",
-    "invalid": "โปรดป้อน {{field}} ที่ถูกต้อง"
+    "required": "กรุณาป้อน {field}",
+    "invalid": "โปรดป้อน {field} ที่ถูกต้อง"
   },
   "chart": {
     "source": "แหล่งที่่มา: nearblocks.io"
@@ -76,5 +76,6 @@
     "centralisedExchange": "Exchange ไม่กระจายศูนย์",
     "decentralisedExchange": "Exchange กระจายศูนย์"
   },
-  "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่สามารถซิงค์ได้ อาจมีความล่าช้าในบางบล็อกหรือธุรกรรม"
+  "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่สามารถซิงค์ได้ อาจมีความล่าช้าในบางบล็อกหรือธุรกรรม",
+  "rpcRateLimitError": "คุณถูกจำกัดอัตราโดย RPC ปัจจุบัน ({rpcUrl}) โปรดลองอีกครั้งในภายหลังหรือเลือกผู้ให้บริการ RPC อื่นจากเมนูแบบเลื่อนลง {icon}"
 }

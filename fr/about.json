@@ -1,6 +1,8 @@
 {
-  "metaTitle": "À propos de nous | NearBlocks",
-  "metaDescription": "Near Blocks est la principale plate-forme Blockchain Explorer, Recherche, API et Analytics pour NEAR blockchain, une plate-forme décentralisée de contrats intelligents.",
-  "heading": "À propos de Near Blocks",
-  "content": "Near Blocks est la principale plate-forme Blockchain Explorer, Recherche, API et Analytics pour NEAR blockchain, une plate-forme décentralisée de contrats intelligents."
+  "aboutNear": {
+    "metaTitle": "À propos de nous | NearBlocks",
+    "metaDescription": "Near Blocks est le principal explorateur blockchain, moteur de recherche, API et plateforme d'analyse pour la blockchain NEAR, une plateforme de contrats intelligents décentralisée.",
+    "heading": "À propos de Near Blocks",
+    "content": "Near Blocks est le principal explorateur blockchain, moteur de recherche, API et plateforme d'analyse pour la blockchain NEAR, une plateforme de contrats intelligents décentralisée."
+  }
 }

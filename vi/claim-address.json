@@ -1,18 +1,18 @@
 {
-  "metaTitle": "Nhận Tài khoản | NearBlocks",
-  "metaDescription": "Nhận tên, thẻ và các thông tin khác.",
-  "heading": "Nhận tài khoản Ⓝ",
+  "metaTitle": "Xác nhận tài khoản | NearBlocks",
+  "metaDescription": "Xác nhận tên, nhãn và các thông tin khác của bạn.",
+  "heading": "Xác nhận tài khoản Ⓝ",
   "form": {
-    "heading": "Nhận tên, thẻ và các thông tin khác.",
-    "content": "Nhận tên thẻ và bổ sung các thông tin khác liên quan đến ví Ⓝ của bạn bằng cách điền mẫu sau. Với mỗi yêu cầu chỉnh sửa, người dùng cần nạp một lượng {{amount}} Ⓝ để xác minh chính chủ. ",
+    "heading": "Xác nhận tên, nhãn và thông tin khác của bạn",
+    "content": "Xác nhận nhãn và cung cấp các thông tin liên quan đến địa chỉ Ⓝ của bạn bằng cách điền vào biểu mẫu dưới đây. Mỗi yêu cầu chỉnh sửa cần gửi khoản đặt cọc {amount} Ⓝ để xác minh quyền sở hữu.",
     "address": {
-      "label": "Ví Ⓝ"
+      "label": "Địa chỉ Ⓝ"
     },
     "label": {
       "label": "Tên"
     },
     "tag": {
-      "label": "Tag"
+      "label": "Nhãn"
     },
     "website": {
       "label": "Website"
@@ -21,7 +21,7 @@
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (Hoặc Medium)"
+      "label": "Blog (hoặc Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Nạp {{amount}} Ⓝ vào địa chỉ sau để chứng minh quyền sở hữu:",
-      "tooltip": "Địa chỉ ví gửi và địa chỉ ví bạn muốn thêm phải trùng khớp."
+      "label": "Gửi {amount} Ⓝ đến địa chỉ sau để xác minh quyền sở hữu:",
+      "tooltip": "Người gửi phải là chủ sở hữu địa chỉ muốn chỉnh sửa."
     },
-    "button": "Nhập",
-    "successMessage": "Cảm ơn, yêu cầu của bạn sẽ được xử lý và cập nhật sau khi được phê duyệt",
+    "button": "Gửi yêu cầu",
+    "successMessage": "Cảm ơn bạn! Chúng tôi sẽ xem xét và công khai thông tin sau khi phê duyệt.",
     "errorMessage": "Đã xảy ra lỗi!"
   }
 }
