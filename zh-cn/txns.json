@@ -37,7 +37,7 @@
   },
   "txnDetails": {
     "metaTitle": "NEAR Transaction {txn} | NearBlocks",
-    "metaDescription": "NEAR 区块链交易{{txn}}的详细信息。",
+    "metaDescription": "NEAR 区块链交易{txn}的详细信息。",
     "heading": "交易详情",
     "hash": {
       "text": [

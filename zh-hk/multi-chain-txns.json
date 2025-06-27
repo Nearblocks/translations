@@ -2,7 +2,7 @@
   "metaTitle": "所有最新的多鏈交易",
   "metaDescription": "Near區塊鏈上確認的所有最新多鏈交易。",
   "heading": "最新多鏈交易",
-  "count": "共找到{{count}}筆多鏈交易",
+  "count": "共找到{count}筆多鏈交易",
   "receiptId": "收據 ID",
   "sourceTxn": "來源交易哈希",
   "from": "從",

@@ -1,7 +1,7 @@
 {
-  "metaTitle": "Учетная запись Near {{address}} | NearBlocks",
-  "metaDescription": "Страница Near Account {{address}} позволяет пользователям просматривать транзакции, балансы, запасы токенов и переводы.",
-  "heading": "Учетная запись: @ <0>{{address}}</0>",
+  "metaTitle": "Учетная запись Near {address} | NearBlocks",
+  "metaDescription": "Страница Near Account {address} позволяет пользователям просматривать транзакции, балансы, запасы токенов и переводы.",
+  "heading": "Учетная запись: @ <0>{address}</0>",
   "overview": "Обзор",
   "moreInfo": "Информация об учетной записи",
   "balance": "Остаток Near",

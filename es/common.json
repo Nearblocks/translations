@@ -60,8 +60,8 @@
     "last": "Última"
   },
   "validation": {
-    "required": "Se requiere {{field}}",
-    "invalid": "Por favor provea una {{field}} válida"
+    "required": "Se requiere {field}",
+    "invalid": "Por favor provea una {field} válida"
   },
   "chart": {
     "source": "Fuente: nearblocks.io"

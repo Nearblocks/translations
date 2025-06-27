@@ -60,8 +60,8 @@
     "last": "Last"
   },
   "validation": {
-    "required": "{{field}} kinakailangan",
-    "invalid": "Maaring magbigay ng wasto {{field}}"
+    "required": "{field} kinakailangan",
+    "invalid": "Maaring magbigay ng wasto {field}"
   },
   "chart": {
     "source": "Source: nearblocks.io"

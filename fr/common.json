@@ -3,53 +3,55 @@
     "menu": {
       "home": "Accueil",
       "blockchain": "Blockchain",
-      "viewBlocks": "Afficher les blocs",
-      "viewTxns": "Afficher Txns",
+      "viewBlocks": "Voir les Blocs",
+      "viewTxns": "Voir les Txns",
       "languages": "Langues",
-      "charts": "Graphiques et Stats",
-      "topAccounts": "Principaux comptes",
-      "tokens": "Jetons",
-      "toptoken": "ERC20 Principaux comptes",
-      "viewTokenTrasfers": "Voir les transferts ERC20",
-      "nodeExplorer": "Explorateur de nœuds"
+      "charts": "Graphiques et Statistiques",
+      "topAccounts": "Comptes Principaux",
+      "tokens": "Tokens",
+      "toptoken": "Tokens Principaux",
+      "viewTokenTrasfers": "Transferts de Tokens",
+      "topnft": "Tokens NFT Principaux",
+      "viewNftTrasfers": "Transferts de Tokens NFT",
+      "nodeExplorer": "Explorateur de Nœuds"
     }
   },
   "search": {
     "filters": {
-      "all": "Tous les filtres",
+      "all": "Tous les Filtres",
       "txns": "Txns",
       "blocks": "Blocs",
-      "token": "Jetons",
+      "token": "Tokens",
       "addresses": "Adresses"
     },
-    "placeholder": "Rechercher par compte ID / Txn Hashage / Bloc",
+    "placeholder": "Rechercher par ID de compte / Hash Txn / Bloc",
     "list": {
       "address": "Compte",
       "txns": "Txns",
       "blocks": "Blocs",
-      "tokens": "Jetons"
+      "tokens": "Tokens"
     },
     "noResults": "Aucun résultat"
   },
   "footer": {
-    "description": "NEAR Blocks est l'explorateur de blockchain de premier plan dédié à l'écosystème NEAR. Alimenté par le protocole NEAR.",
+    "description": "NEAR Blocks est l'explorateur de blockchain leader dédié à l'écosystème NEAR. Propulsé par le protocole NEAR.",
     "poweredBy": "Propulsé par",
     "links": {
       "explore": "Explorer",
-      "blockExplorer": "Explorer de bloc",
-      "latestBlocks": "Derniers blocs",
-      "latestTxns": "Derniers Transactions",
-      "company": "Société",
-      "about": "à propos",
-      "advertise": "annoncer",
-      "contact": "Contacter",
-      "terms": "Termes",
-      "charts": "Graphiques et Stats",
-      "api": "API de l'indexeur NEAR",
-      "kb": "Base de connaissances",
-      "fundamentals": "Fondamentales",
-      "buySell": "Acheter, vendre et échanger",
-      "nearValidator": "Liste des validateurs NEAR"
+      "blockExplorer": "Explorateur de Blocs",
+      "latestBlocks": "Derniers Blocs",
+      "latestTxns": "Dernières Transactions",
+      "company": "Entreprise",
+      "about": "À propos",
+      "advertise": "Publicité",
+      "contact": "Contact",
+      "terms": "Conditions",
+      "charts": "Graphiques et Statistiques",
+      "api": "APIs d'Indexage NEAR",
+      "kb": "Base de Connaissances",
+      "fundamentals": "Fondamentaux",
+      "buySell": "Acheter, Vendre et Échanger",
+      "nearValidator": "Liste des Validateurs NEAR"
     }
   },
   "sponsored": "Sponsorisé",
@@ -58,22 +60,22 @@
     "last": "Dernier"
   },
   "validation": {
-    "required": "{{field}} est requis",
-    "invalid": "Veuillez fournir un {{field}}"
+    "required": "{field} est requis",
+    "invalid": "Veuillez fournir un {field} valide"
   },
   "chart": {
-    "source": "Source: nearblocks.io"
+    "source": "Source : nearblocks.io"
   },
-  "trademark": "NearBlocks est exploité de manière complète et autonome. NearBlocks n'est pas associé à la Fondation NEAR et toutes les marques déposées sous licence affichées sur ce site Web appartiennent à leurs propriétaires respectifs.",
+  "trademark": "NearBlocks est exploité entièrement et de manière indépendante. NearBlocks n'est pas associé à la Fondation NEAR et chaque marque déposée affichée sur ce site web appartient à leurs propriétaires respectifs.",
   "tags": {
     "service": "Service",
     "pool": "Pool",
     "personal": "Personnel",
     "shop": "Boutique",
-    "donation": "Donation",
-    "centralisedExchange": "Échange centralisé",
-    "decentralisedExchange": "Échange décentralisé"
+    "donation": "Don",
+    "centralisedExchange": "Exchange Centralisé",
+    "decentralisedExchange": "Exchange Décentralisé"
   },
-  "outofSync": "En raison d'une maintenance imprévue, Nearblocks est désynchronisé. Certains blocs ou transactions peuvent être retardés.",
-  "rpcRateLimitError": "Votre débit est limité par le RPC actuel ({rpcUrl}). Veuillez réessayer ultérieurement ou sélectionner un autre fournisseur RPC dans le menu déroulant {icon}."
+  "outofSync": "En raison d'une maintenance inattendue, Nearblocks n'est pas synchronisé. Certains blocs ou transactions peuvent être retardés.",
+  "rpcRateLimitError": "Vous avez été limité par le RPC actuel ({rpcUrl}). Veuillez réessayer plus tard ou sélectionner un autre fournisseur RPC dans le menu déroulant {icon}."
 }

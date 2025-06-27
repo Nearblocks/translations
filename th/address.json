@@ -1,7 +1,7 @@
 {
-  "metaTitle": "บัญชี Near {{address}} | NearBlocks",
-  "metaDescription": "บัญชี Near {{address}} อนุญาติให้ผู้ใช้สามารถดูธุรกรรม ยอดคงเหลือ โทเคนที่ถือ และการโอนย้ายทรัพย์สินดิจิทัล",
-  "heading": "บัญชี: @ <0>{{address}}</0>",
+  "metaTitle": "บัญชี Near {address} | NearBlocks",
+  "metaDescription": "บัญชี Near {address} อนุญาติให้ผู้ใช้สามารถดูธุรกรรม ยอดคงเหลือ โทเคนที่ถือ และการโอนย้ายทรัพย์สินดิจิทัล",
+  "heading": "บัญชี: @ <0>{address}</0>",
   "overview": "ภาพรวม",
   "moreInfo": "ข้อมูลบัญชี",
   "balance": "ยอดคงเหลือ",

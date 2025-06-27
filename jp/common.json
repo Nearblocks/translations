@@ -60,8 +60,8 @@
     "last": "最後"
   },
   "validation": {
-    "required": "{{field}}が必要です",
-    "invalid": "正しい {{field}}を提供してください"
+    "required": "{field}が必要です",
+    "invalid": "正しい {field}を提供してください"
   },
   "chart": {
     "source": "ソース: nearblocks.io"

@@ -4,7 +4,7 @@
   "heading": "Claim Ⓝ Account",
   "form": {
     "heading": "Kunin ang iyong name, tag at ibang impormasyon",
-    "content": "Kunin ang iyong Name Tag at ibang impormasyon na may kaugnayan sa Ⓝ address sa pamamagitan ng pag sagot sa form sa ibaba.",
+    "content": "I-claim ang iyong Name Tag at magdagdag ng iba pang impormasyong nauugnay sa iyong Ⓝ address sa pamamagitan ng pagsagot sa form sa ibaba. Para sa bawat kahilingan sa pag-edit, hihingi kami ng {amount} Ⓝ na deposito upang patunayan ang pagmamay-ari ng iyong address.",
     "address": {
       "label": "Ⓝ Address"
     },
@@ -33,7 +33,7 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Deposito {{presyo}} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.",
+      "label": "Deposito {amount} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.",
       "tooltip": "Ang address na gamit sa pagpapadala ay dapat magkapareho sa address na gusto mong ma dagdagan ng impormasyon."
     },
     "button": "Submit",

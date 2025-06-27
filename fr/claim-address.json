@@ -1,12 +1,12 @@
 {
-  "metaTitle": "Demande de compte| NearBlocks",
-  "metaDescription": "Demande votre nom, tag et autres informations.",
-  "heading": "Demande Ⓝ Compte",
+  "metaTitle": "Revendiquer un Compte | NearBlocks",
+  "metaDescription": "Revendiquez votre nom, tag et autres informations.",
+  "heading": "Revendiquer un Compte Ⓝ",
   "form": {
-    "heading": "Demande votre nom, tag et autres informations.",
-    "content": "Demande votre nom, tag et ajouter d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous vous demanderons un acompte de {{amount}} Ⓝ pour prouver la propriété de votre adresse.",
+    "heading": "Revendiquez votre nom, tag et autres informations",
+    "content": "Revendiquez votre étiquette de nom et ajoutez d'autres informations liées à votre adresse Ⓝ en remplissant le formulaire ci-dessous. Pour chaque demande de modification, nous demanderons un dépôt de {amount} Ⓝ pour prouver la propriété de votre adresse.",
     "address": {
-      "label": "Ⓝ Adresse"
+      "label": "Adresse Ⓝ"
     },
     "label": {
       "label": "Nom"
@@ -15,13 +15,13 @@
       "label": "Tag"
     },
     "website": {
-      "label": "Site web"
+      "label": "Site Web"
     },
     "twitter": {
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "Blog (Ou Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Déposez {{amount}} Ⓝ à l'adresse suivante pour prouver votre propriété :",
+      "label": "Déposez {amount} Ⓝ à l'adresse suivante pour prouver votre propriété :",
       "tooltip": "L'adresse d'envoi doit être identique à l'adresse à laquelle vous souhaitez ajouter des informations."
     },
     "button": "Soumettre",
-    "successMessage": "Merci, nous examinerons votre candidature et la répertorierons une fois qu'elle aura été approuvée",
-    "errorMessage": "Quelque chose s'est mal passé!"
+    "successMessage": "Merci, nous examinerons votre candidature et la listerons après son approbation",
+    "errorMessage": "Quelque chose s'est mal passé !"
   }
 }

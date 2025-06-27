@@ -60,8 +60,8 @@
     "last": "Останній"
   },
   "validation": {
-    "required": "{{field}} обов'язково для заповнення",
-    "invalid": "Будь ласка, вкажіть припустимий {{field}}"
+    "required": "{field} обов'язково для заповнення",
+    "invalid": "Будь ласка, вкажіть припустимий {field}"
   },
   "chart": {
     "source": "Джерело: nearblocks.io"

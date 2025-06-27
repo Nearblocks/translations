@@ -36,8 +36,8 @@
     "to": "至"
   },
   "txnDetails": {
-    "metaTitle": "NEAR交易 {{txn}} | NearBlocks",
-    "metaDescription": "NEAR區塊鏈交易詳情{{txn}}。",
+    "metaTitle": "NEAR交易 {txn} | NearBlocks",
+    "metaDescription": "NEAR區塊鏈交易詳情{txn}。",
     "heading": "交易詳情",
     "hash": {
       "text": [
@@ -226,7 +226,7 @@
       }
     }
   },
-  "info": "只顯示最新的{{count}}筆記錄",
+  "info": "只顯示最新的{count}筆記錄",
   "depositValue": "存入價值",
   "txnFee": "交易費",
   "txnSelf": "Self",

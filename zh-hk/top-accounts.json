@@ -2,7 +2,7 @@
   "metaTitle": "頭10,000個NEAR帳戶 | NearBlocks",
   "metaDescription": "查看頭10,000個持有NEAR帳戶。",
   "heading": "Ⓝ持幣頭部帳戶",
-  "listing": "總共{{count}}帳戶({{sum}} Ⓝ).",
+  "listing": "總共{count}帳戶({sum} Ⓝ).",
   "info": "只顯示頭10,000個帳戶",
   "rank": "排名",
   "address": "地址",

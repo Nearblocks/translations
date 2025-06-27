@@ -7,11 +7,11 @@
     "published": "Nailathala",
     "lastUpdated": "Huling Na-update",
     "kb": {
-        "metaTitle": "{{post}} | NearBlocks",
-        "metaDescription": "{{post}} | NearBlocks"
+        "metaTitle": "{post} | NearBlocks",
+        "metaDescription": "{post} | NearBlocks"
     },
     "article": {
-        "metaTitle": "{{slug}} | NearBlocks",
-        "metaDescription": "{{slug}} | NearBlocks"
+        "metaTitle": "{slug} | NearBlocks",
+        "metaDescription": "{slug} | NearBlocks"
     }
 }

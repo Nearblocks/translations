@@ -37,7 +37,7 @@
   },
   "txnDetails": {
     "metaTitle": "Transacción de Near {txn} | NearBlocks",
-    "metaDescription": "Información detallada por transacción de la cadena de bloques Near {{txn}}.",
+    "metaDescription": "Información detallada por transacción de la cadena de bloques Near {txn}.",
     "heading": "Detalles de Transacción",
     "hash": {
       "text": ["Hash de Txn"],

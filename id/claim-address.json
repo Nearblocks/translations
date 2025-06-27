@@ -4,7 +4,7 @@
   "heading": "Akun Klaim Ⓝ",
   "form": {
     "heading": "Klaim nama, tag, dan informasi lainnya",
-    "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {{amount}} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
+    "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {amount} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
     "address": {
       "label": "Ⓝ Alamat"
     },
@@ -33,7 +33,7 @@
       "label": "Basis kunci"
     },
     "info": {
-      "label": "Deposit {{amount}} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
+      "label": "Deposit {amount} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
       "tooltip": "Alamat pengirim harus identik dengan alamat yang ingin Anda tambahkan informasinya."
     },
     "button": "Tunduk",

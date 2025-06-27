@@ -4,7 +4,7 @@
   "heading": "Claim Ⓝ Account",
   "form": {
     "heading": "Claim your name, tag and other information",
-    "content": "Claim your Name Tag and add other information related to your Ⓝ address by filling in the form below. For each edit request, we will ask for a {{amount}} Ⓝ deposit to prove your address ownership.",
+    "content": "Claim your Name Tag and add other information related to your Ⓝ address by filling in the form below. For each edit request, we will ask for a {amount} Ⓝ deposit to prove your address ownership.",
     "address": {
       "label": "Ⓝ Address"
     },
@@ -33,7 +33,7 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Deposit {{amount}} Ⓝ to the following address to prove your ownership:",
+      "label": "Deposit {amount} Ⓝ to the following address to prove your ownership:",
       "tooltip": "The sending address must be identical to the address you wish to add information to."
     },
     "button": "Submit",

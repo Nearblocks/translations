@@ -60,8 +60,8 @@
     "last": "Cuối cùng"
   },
   "validation": {
-    "required": "{{field}} được yêu cầu",
-    "invalid": "Vui lòng cung cấp {{field}} hợp lệ"
+    "required": "{field} được yêu cầu",
+    "invalid": "Vui lòng cung cấp {field} hợp lệ"
   },
   "chart": {
     "source": "Nguồn: nearblocks.io"

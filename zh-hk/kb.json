@@ -7,11 +7,11 @@
   "published": "發表",
   "lastUpdated": "上次更新時間",
   "kb": {
-    "metaTitle": "{{post}} | NearBlocks",
-    "metaDescription": "{{post}} | NearBlocks"
+    "metaTitle": "{post} | NearBlocks",
+    "metaDescription": "{post} | NearBlocks"
   },
   "article": {
-    "metaTitle": "{{slug}} | NearBlocks",
-    "metaDescription": "{{slug}} | NearBlocks"
+    "metaTitle": "{slug} | NearBlocks",
+    "metaDescription": "{slug} | NearBlocks"
   }
 }

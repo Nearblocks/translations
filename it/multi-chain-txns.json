@@ -2,7 +2,7 @@
   "metaTitle": "Tutte le ultime transazioni multicatena",
   "metaDescription": "Tutte le ultime transazioni multicatena confermate sulla blockchain Near.",
   "heading": "Ultime Transazioni multicatena",
-  "count": "Totale di {{count}} transazioni multicatena trovate",
+  "count": "Totale di {count} transazioni multicatena trovate",
   "receiptId": "Id Ricevuta",
   "sourceTxn": "Hash della Transazione di Origine",
   "from": "Da",

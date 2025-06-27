@@ -1,7 +1,7 @@
 {
-  "metaTitle": "계정 근처 {{address}} | 블록 근처",
-  "metaDescription": "계정 근처 {{address}} 페이지에서 사용자는 거래, 잔액, 토큰 보유 및 이전을 볼 수 있습니다.",
-  "heading": "계정: @<0>{{address}}</0>",
+  "metaTitle": "계정 근처 {address} | 블록 근처",
+  "metaDescription": "계정 근처 {address} 페이지에서 사용자는 거래, 잔액, 토큰 보유 및 이전을 볼 수 있습니다.",
+  "heading": "계정: @<0>{address}</0>",
   "overview": "개요",
   "moreInfo": "계정 정보",
   "balance": "균형",

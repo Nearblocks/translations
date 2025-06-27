@@ -60,8 +60,8 @@
     "last": "最後一版"
   },
   "validation": {
-    "required": "{{field}}是必須的",
-    "invalid": "請填寫正確的{{field}}"
+    "required": "{field}是必須的",
+    "invalid": "請填寫正確的{field}"
   },
   "chart": {
     "source": "來源：nearblocks.io"

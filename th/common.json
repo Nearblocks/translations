@@ -60,8 +60,8 @@
     "last": "หน้าสุดท้าย"
   },
   "validation": {
-    "required": "กรุณาป้อน {{field}}",
-    "invalid": "โปรดป้อน {{field}} ที่ถูกต้อง"
+    "required": "กรุณาป้อน {field}",
+    "invalid": "โปรดป้อน {field} ที่ถูกต้อง"
   },
   "chart": {
     "source": "แหล่งที่่มา: nearblocks.io"
