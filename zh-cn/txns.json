@@ -1,44 +1,235 @@
 {
-  "metaTitle": "Near 协议上的所有最新交易 | NearBlocks",
-  "metaDescription": "Near 区块链上已确认的所有交易，包括 NEAR 转账和详细交易信息。",
-  "txnsHeading": "最新 Near 协议交易",
-  "txnsListing": "已找到超过 > {count} 笔交易",
-  "listingToken": "已找到超过 > {count} 笔代币交易",
-  "hash": "交易哈希",
-  "type": "方法",
-  "typeTxn": "交易",
-  "typeToken": "代币交易",
-  "tokenPlaceholder": "搜索代币",
+  "metaTitle": "All Latest Near Protocol transactions | NearBlocks",
+  "metaDescription": "在 Near Blockchain 上确认的所有最新 Near Protocol transactions。列表包括发送 Near 的 transactions 和每个 transaction 的 transactions 详细信息。",
+  "txnsHeading": "Latest Near Protocol Transactions",
+  "txnsListing": "找到超过 > {count} transactions",
+  "listingToken": "找到超过 > {count} Token transfers",
+  "hash": "Txn Hash",
+  "type": "Method",
+  "typeTxn": "Transaction",
+  "typeToken": "Token transaction",
+  "tokenPlaceholder": "按 token 搜索",
   "unknownType": "未知",
-  "batchTxns": "批量交易",
-  "createAccount": "创建账户",
-  "deployContract": "部署合约",
-  "transfer": "转账",
-  "stake": "质押",
-  "addKey": "添加密钥",
-  "deleteKey": "删除密钥",
-  "deleteAccount": "删除账户",
-  "txnError": "交易错误",
+  "batchTxns": "Batch Transaction",
+  "createAccount": "Create Account",
+  "deployContract": "Deploy Contract",
+  "transfer": "Transfer",
+  "stake": "Stake",
+  "addKey": "Add Key",
+  "deleteKey": "Delete Key",
+  "deleteAccount": "Delete Account",
+  "txnError": "Transaction Error",
   "age": "时间",
-  "ageDT": "日期时间（UTC）",
-  "blockHeight": "区块高度",
-  "from": "发送方",
-  "to": "接收方",
-  "txnIn": "接收",
-  "txnOut": "发送",
-  "amount": "数量",
+  "ageDT": "日期时间 (UTC)",
+  "blockHeight": "Block height",
+  "from": "来自",
+  "to": "到",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "金额",
   "filter": {
-    "placeholder": "搜索地址，例如 Ⓝ..",
-    "filter": "筛选",
+    "placeholder": "按 address 搜索，例如 Ⓝ..",
+    "filter": "过滤",
     "clear": "清除",
-    "by": "筛选依据",
-    "from": "从",
+    "by": "过滤条件",
+    "from": "来自",
     "to": "到"
   },
-  "info": "仅显示最近的 {count , number} 条记录",
-  "depositValue": "存入数量",
-  "txnFee": "交易费用",
-  "txnSelf": "自交易",
-  "noTxns": "无交易记录",
-  "testnetNotice": "[ 这是测试网交易 ]"
+  "txnDetails": {
+    "metaTitle": "Near Transaction {txn} | NearBlocks",
+    "metaDescription": "Near Blockchain transaction {txn} 的详细信息。",
+    "heading": "Transaction 详情",
+    "hash": {
+      "text": [
+        "Txn Hash"
+      ],
+      "tooltip": "此 transaction 的唯一标识符 (hash)。"
+    },
+    "status": {
+      "text": [
+        "状态"
+      ],
+      "status": {
+        "NotStarted": "未开始",
+        "Started": "已开始",
+        "Failure": "失败",
+        "SuccessValue": "成功"
+      },
+      "tooltip": "transaction 的状态。"
+    },
+    "block": {
+      "text": [
+        "Block Height"
+      ],
+      "tooltip": "记录 transaction 的 block 编号。"
+    },
+    "timestamp": {
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "提交此 transaction 的时间戳。"
+    },
+    "deposit": {
+      "text": [
+        "Deposit Value"
+      ],
+      "tooltip": "从 Signing account 转移到 Receiver account 的所有 NEAR tokens 的总和。这包括在 Transfer action(s) 中发送的 tokens，以及在 Function Call action(s) 上的存款。"
+    },
+    "fee": {
+      "text": [
+        "Transaction Fee"
+      ],
+      "tooltip": "执行此 transaction 支付的 NEAR 总费用。"
+    },
+    "price": {
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "transaction 日期的 Ⓝ 收盘价"
+    },
+    "from": {
+      "text": [
+        "来自"
+      ],
+      "tooltip": "签署并发送 transaction 的 Account"
+    },
+    "to": {
+      "text": [
+        "到"
+      ],
+      "tooltip": "接收 transaction 的 Account。"
+    },
+    "type": {
+      "text": [
+        "类型",
+        "Transaction"
+      ],
+      "tooltip": "transaction 类型。"
+    },
+    "gas": {
+      "text": [
+        "Gas Limit & Usage by Txn"
+      ],
+      "tooltip": "为 transaction 分配的最大 gas 量和最终使用的量。"
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "未知",
+    "claimToken": "Claim token",
+    "token": "Token",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "此 transaction 燃烧的 Gas & Token 总量。"
+    },
+    "actions": {
+      "text": [
+        "Actions"
+      ],
+      "tooltip": "此 transaction 期间执行的操作。",
+      "addKey": [
+        "New key",
+        "Access key",
+        "added for",
+        "contract",
+        "with permission",
+        "to call",
+        "methods"
+      ],
+      "createAccount": [
+        "New account",
+        "created"
+      ],
+      "deleteAccount": [
+        "Delete account",
+        "and transfer remaining funds to"
+      ],
+      "deleteKey": [
+        "Key",
+        "deleted"
+      ],
+      "deployContract": [
+        "Contract",
+        "deployed"
+      ],
+      "functionCall": [
+        "Called method",
+        "in contract"
+      ],
+      "stake": [
+        "Staked",
+        "with"
+      ],
+      "transfer": [
+        "Transferred",
+        "to"
+      ]
+    },
+    "tabs": {
+      "overview": "概览",
+      "execution": "Execution Plan",
+      "comments": "评论"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "Receipt"
+        ],
+        "tooltip": "此 receipt 的唯一标识符 (hash)。"
+      },
+      "block":{
+        "text": [
+          "Block"
+        ],
+        "tooltip": "执行 receipt 的 block 的 hash。"
+      },
+      "from":{
+        "text": [
+          "来自"
+        ],
+        "tooltip": "发出 receipt 的 Account。"
+      },
+      "to":{
+        "text": [
+          "到"
+        ],
+        "tooltip": "receipt 的目标 Account。"
+      },
+      "burnt": {
+        "text": [
+          "Burnt Gas & Tokens by Receipt"
+        ],
+        "tooltip": "此 receipt 燃烧的 Gas & Token 总量。"
+      },
+      "actions":{
+        "text": [
+          "Actions"
+        ],
+        "tooltip": "receipt 处理期间执行的操作。"
+      },
+      "result":{
+        "text": [
+          "结果",
+          "无结果",
+          "空结果"
+        ],
+        "tooltip": "receipt 执行的结果。"
+      },
+      "logs":{
+        "text": [
+          "Logs",
+          "无 Logs"
+        ],
+        "tooltip": "receipt 中包含的日志。"
+      }
+    }
+  },
+  "info": "仅显示最后 {count , number} 条记录",
+  "depositValue": "Deposit value",
+  "txnFee": "Txn fee",
+  "txnSelf": "自己",
+  "noTxns": "无 transactions",
+  "testnetNotice": "[ 这只是一个 Testnet transaction ]"
 }

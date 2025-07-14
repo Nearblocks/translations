@@ -1,27 +1,27 @@
 {
-  "metaTitle": "账户声明 | NearBlocks",
-  "metaDescription": "声明您的账户名称、标签和其他信息。",
-  "heading": "声明 Ⓝ 账户",
+  "metaTitle": "Claim Account | NearBlocks",
+  "metaDescription": "认领您的姓名、tag 和其他信息。",
+  "heading": "Claim Ⓝ Account",
   "form": {
-    "heading": "声明您的名称、标签和其他账户信息",
-    "content": "通过填写以下表单，为您的 Ⓝ 地址声明标签和相关链接。每次提交修改申请需发送 {amount} Ⓝ 到指定地址，以验证您对账户的所有权。",
+    "heading": "认领您的姓名、tag 和其他信息",
+    "content": "通过填写以下表格认领您的 Name Tag 并添加与您的 Ⓝ address 相关的其他信息。对于每个编辑请求，我们将要求 {amount} Ⓝ 存款来证明您的 address 所有权。",
     "address": {
-      "label": "Ⓝ 地址"
+      "label": "Ⓝ Address"
     },
     "label": {
       "label": "名称"
     },
     "tag": {
-      "label": "标签"
+      "label": "Tag"
     },
     "website": {
-      "label": "官网"
+      "label": "网站"
     },
     "twitter": {
-      "label": "推特"
+      "label": "Twitter"
     },
     "blog": {
-      "label": "博客（或 Medium）"
+      "label": "Blog（或 Medium）"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "请将 {amount} Ⓝ 发送到以下地址以验证账户所有权：",
-      "tooltip": "发起交易的账户必须与声明的地址一致。"
+      "label": "将 {amount} Ⓝ 存入以下 address 以证明您的所有权：",
+      "tooltip": "发送 address 必须与您希望添加信息的 address 相同。"
     },
-    "button": "提交申请",
-    "successMessage": "感谢您的申请！我们将尽快审核并在批准后更新信息。",
-    "errorMessage": "发生错误！"
+    "button": "提交",
+    "successMessage": "谢谢，我们将审核您的申请并在批准后列出",
+    "errorMessage": "出了点问题！"
   }
 }

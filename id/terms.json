@@ -1,24 +1,136 @@
 {
-  "metaTitle": "Syarat & Ketentuan | NearBlocks",
-  "metaDescription": "Harap baca ketentuan ini dengan saksama. Dengan menggunakan layanan kami, Anda setuju dengan semua syarat yang berlaku.",
-  "heading": "Syarat & Ketentuan",
+  "metaTitle": "Syarat Layanan | NearBlocks",
+  "metaDescription": "Harap baca syarat layanan ini dengan cermat. Dengan mengakses atau menggunakan layanan kami, Anda setuju untuk terikat oleh syarat layanan ini dan semua syarat yang dimasukkan dengan referensi.",
+  "heading": "Syarat Layanan",
   "content": [
-    "Harap baca syarat dan ketentuan layanan ini dengan cermat.",
-    "Dengan menggunakan layanan kami, Anda setuju untuk terikat dengan syarat ini serta ketentuan lain yang disebutkan.",
-    "Syarat ini berlaku untuk akses dan penggunaan semua layanan NearBlocks.com ('kami', 'NearBlocks')."
+    "HARAP BACA SYARAT LAYANAN INI DENGAN CERMAT.",
+    "DENGAN MENGAKSES ATAU MENGGUNAKAN LAYANAN KAMI, ANDA SETUJU UNTUK TERIKAT OLEH SYARAT LAYANAN INI DAN SEMUA SYARAT YANG DIMASUKKAN DENGAN REFERENSI.",
+    "Syarat Layanan ini dan syarat apa pun yang secara tegas dimasukkan di sini (\"Syarat\") berlaku untuk akses dan penggunaan Anda atas semua layanan (\"Layanan\" kami) yang disediakan oleh Near Blocks.com (\"Perusahaan,\" \"kami,\" atau \"kami\")"
   ],
   "points": [
     {
-      "heading": "1. Kelayakan",
+      "heading": "1. KELAYAKAN",
       "content": [
-        "Anda menyatakan dan menjamin bahwa: (a) Anda berusia cukup untuk membuat perjanjian yang mengikat secara hukum; (b) Anda tidak dilarang menggunakan layanan kami; dan (c) Anda memiliki kewenangan penuh untuk menyetujui syarat ini.",
-        "Jika Anda mewakili suatu entitas, Anda juga menyatakan bahwa Anda memiliki wewenang hukum untuk bertindak atas nama entitas tersebut."
+        "Anda mewakili dan menjamin bahwa Anda: (a) berusia legal untuk membentuk kontrak yang mengikat; (b) belum pernah ditangguhkan atau dihapus dari penggunaan Layanan kami; dan (c) memiliki kekuatan dan otoritas penuh untuk mengadakan perjanjian ini dan dengan melakukannya tidak akan melanggar perjanjian lain yang menjadi pihak Anda.",
+        "Jika Anda mendaftar untuk menggunakan Layanan atas nama entitas hukum, Anda selanjutnya mewakili dan menjamin bahwa (i) entitas hukum tersebut diorganisir dengan baik dan secara sah ada di bawah hukum yang berlaku dari yurisdiksi organisasinya, dan (ii) Anda diberi wewenang dengan baik oleh entitas hukum tersebut untuk bertindak atas namanya."
       ]
     },
     {
-      "heading": "2. Penghentian Layanan",
+      "heading": "2. PENGHENTIAN LAYANAN",
       "content": [
-        "Kami berhak untuk menghentikan atau menangguhkan layanan kami kapan saja tanpa pemberitahuan atau tanggung jawab kepada Anda."
+        "Kami dapat, atas kebijakan kami sendiri dan tanpa kewajiban kepada Anda, dengan atau tanpa pemberitahuan sebelumnya dan kapan saja, memodifikasi atau menghentikan, sementara atau permanen, bagian mana pun dari Layanan kami."
+      ]
+    },
+    {
+      "heading": "3. ASUMSI RISIKO",
+      "content": [
+        "Anda mengakui dan setuju bahwa ada risiko yang terkait dengan memanfaatkan layanan berbasis Internet termasuk, tetapi tidak terbatas pada, risiko kegagalan perangkat keras, perangkat lunak dan koneksi Internet, risiko pengenalan perangkat lunak berbahaya, dan risiko bahwa pihak ketiga dapat memperoleh akses tidak sah ke informasi yang disimpan.",
+        "Anda mengakui dan setuju bahwa Perusahaan tidak akan bertanggung jawab atas kegagalan komunikasi, gangguan, kesalahan, distorsi atau penundaan yang mungkin Anda alami saat menggunakan Layanan, bagaimanapun penyebabnya. Perusahaan tidak bertanggung jawab dan tidak akan bertanggung jawab atas kerugian, kerusakan atau klaim yang timbul dari penggunaan Layanan kami, termasuk, tetapi tidak terbatas pada, kerugian, kerusakan atau klaim apa pun."
+      ]
+    },
+    {
+      "heading": "4. LAYANAN DAN KONTEN PIHAK KETIGA",
+      "content": [
+        "Dalam menggunakan Layanan kami, Anda dapat melihat konten atau memanfaatkan layanan yang disediakan oleh pihak ketiga, termasuk tautan ke halaman web dan layanan pihak tersebut (\"Konten Pihak Ketiga\").",
+        "Kami tidak mengontrol, mendukung atau mengadopsi Konten Pihak Ketiga apa pun dan tidak akan memiliki tanggung jawab atas Konten Pihak Ketiga, termasuk, tanpa batasan, materi yang mungkin menyesatkan, tidak lengkap, salah, menyinggung, tidak senonoh atau tidak pantas di yurisdiksi Anda.",
+        "Selain itu, urusan bisnis atau korespondensi Anda dengan pihak ketiga tersebut semata-mata antara Anda dan pihak ketiga. Kami tidak bertanggung jawab atas kerugian atau kerusakan apa pun yang timbul sebagai akibat dari urusan tersebut, dan Anda memahami bahwa penggunaan Konten Pihak Ketiga, dan interaksi Anda dengan pihak ketiga, adalah risiko Anda sendiri."
+      ]
+    },
+    {
+      "heading": "5. PENGGUNAAN YANG DAPAT DITERIMA",
+      "content": [
+        "Saat mengakses atau menggunakan Layanan, Anda setuju bahwa Anda tidak akan melanggar hukum, kontrak, kekayaan intelektual atau hak pihak ketiga lainnya atau melakukan tort, dan bahwa Anda bertanggung jawab penuh atas perilaku Anda saat menggunakan Layanan kami. Anda tidak boleh:",
+        "Menggunakan Layanan kami dengan cara apa pun yang dapat mengganggu, mengganggu, mempengaruhi secara negatif atau menghambat pengguna lain dari menikmati sepenuhnya Layanan kami, atau yang dapat merusak, menonaktifkan, membebani atau mengganggu fungsi Layanan kami dengan cara apa pun;",
+        "Menggunakan Layanan kami untuk membayar, mendukung atau terlibat dalam aktivitas ilegal, termasuk, tetapi tidak terbatas pada, perjudian ilegal, penipuan, pencucian uang, atau aktivitas teroris;",
+        "Menggunakan robot, laba-laba, perayap, scraper atau cara otomatis lainnya atau antarmuka yang tidak disediakan oleh kami untuk mengakses Layanan kami atau mengekstrak data;",
+        "Terlibat dalam Pengumpulan Data Otomatis (scraping) kecuali jika Pengumpulan Data Otomatis tersebut terbatas semata-mata pada pengindeksan pencarian untuk tampilan di Internet;",
+        "Menggunakan atau mencoba menggunakan akun pengguna lain tanpa otorisasi;",
+        "Mencoba menghindari teknik penyaringan konten yang kami gunakan, atau mencoba mengakses layanan atau area Layanan kami yang tidak berwenang untuk Anda akses;",
+        "Memperkenalkan ke Layanan virus, trojan worm, bom logis atau materi berbahaya lainnya;",
+        "Mengembangkan aplikasi pihak ketiga yang berinteraksi dengan Layanan kami tanpa persetujuan tertulis sebelumnya dari kami;",
+        "Memberikan informasi yang salah, tidak akurat, atau menyesatkan; dan",
+        "Mendorong atau mendorong pihak ketiga mana pun untuk terlibat dalam aktivitas yang dilarang di bawah Bagian ini."
+      ]
+    },
+    {
+      "heading": "6. KONTEN YANG DIBUAT PENGGUNA",
+      "content": [
+        "6.1. Tanggung Jawab atas Konten yang Dibuat Pengguna - Anda bertanggung jawab penuh atas konten, dan atas kerusakan apa pun yang dihasilkan dari, Konten yang Dibuat Pengguna apa pun yang Anda posting, unggah, tautkan atau buat tersedia melalui Layanan, terlepas dari bentuk Konten tersebut. Kami tidak bertanggung jawab atas tampilan publik atau penyalahgunaan Konten yang Dibuat Pengguna Anda. Kami memiliki hak (meskipun bukan kewajiban) untuk menolak atau menghapus Konten yang Dibuat Pengguna apa pun yang, menurut kebijakan kami sendiri, melanggar syarat atau kebijakan Near Blocks apa pun.",
+        "6.2. Kepemilikan Konten & Hak untuk Memposting - Jika Anda memposting sesuatu yang tidak Anda buat sendiri atau tidak memiliki haknya, Anda setuju bahwa Anda bertanggung jawab atas Konten apa pun yang Anda posting; bahwa Anda hanya akan mengirimkan Konten yang Anda miliki haknya untuk diposting; dan bahwa Anda akan sepenuhnya mematuhi lisensi pihak ketiga apa pun yang berkaitan dengan Konten yang Anda posting.",
+        "6.3. Pemberian Lisensi kepada Kami - Kami memerlukan hak hukum untuk melakukan hal-hal seperti meng-host Konten Anda, menerbitkannya, dan membagikannya. Anda memberikan kepada kami dan penerus hukum kami hak untuk menyimpan, mengurai, dan menampilkan konten Anda, dan membuat salinan insidental yang diperlukan untuk merender Situs Web dan menyediakan layanan.",
+        "6.4. Hak Moral - Anda mempertahankan semua hak moral atas Konten Anda yang Anda unggah, terbitkan, atau kirimkan ke bagian mana pun dari Layanan, termasuk hak integritas dan atribusi. Namun, Anda melepaskan hak-hak ini dan setuju untuk tidak menegaskannya terhadap kami, untuk memungkinkan kami secara wajar menjalankan hak yang diberikan dalam Bagian 6.3.",
+        "6.5. Sejauh perjanjian ini tidak dapat ditegakkan oleh hukum yang berlaku, Anda memberikan Near Blocks hak yang kami perlukan untuk menggunakan konten Anda tanpa atribusi dan untuk membuat adaptasi yang wajar dari konten Anda sesuai kebutuhan untuk merender Situs Web dan menyediakan layanan."
+      ]
+    },
+    {
+      "heading": "7. HAK CIPTA DAN HAK KEKAYAAN INTELEKTUAL LAINNYA",
+      "content": [
+        "Kecuali dinyatakan lain oleh kami, semua hak cipta dan hak kekayaan intelektual lainnya dalam semua konten dan materi lain yang terkandung di situs web kami atau disediakan sehubungan dengan Layanan, termasuk, tanpa batasan, logo Perusahaan atau Perusahaan dan semua desain, teks, grafik, gambar, informasi, data, perangkat lunak, file suara, file lain dan pemilihan dan pengaturannya (secara kolektif, \"Materi Perusahaan\") adalah milik Perusahaan atau pemberi lisensi atau pemasok kami dan dilindungi oleh hukum hak cipta dan hukum hak kekayaan intelektual lainnya.",
+        "Penggunaan yang tidak sah dan/atau duplikasi materi ini tanpa izin tegas dan tertulis dari penulis dan/atau pemilik situs ini sangat dilarang. Kutipan dan tautan dapat digunakan, asalkan kredit penuh dan jelas diberikan kepada Near Blocks.com dengan arahan yang tepat dan spesifik ke konten asli."
+      ]
+    },
+    {
+      "heading": "8. MEREK DAGANG",
+      "content": [
+        "\"Near Blocks\" logo Perusahaan, dan nama produk atau layanan Perusahaan lainnya, logo atau slogan yang mungkin muncul di Layanan kami adalah merek dagang Perusahaan dan tidak dapat disalin, ditiru atau digunakan, secara keseluruhan atau sebagian, tanpa izin tertulis sebelumnya dari kami.",
+        "Anda tidak akan menggunakan merek dagang, nama produk atau layanan Perusahaan tanpa izin tertulis sebelumnya dari kami, termasuk tanpa batasan metatag atau \"teks tersembunyi\" lainnya yang menggunakan merek dagang, nama produk atau layanan Perusahaan. Selain itu, tampilan dan nuansa Layanan kami, termasuk semua header halaman, grafik khusus, ikon tombol dan skrip, adalah tanda layanan, merek dagang dan/atau trade dress Perusahaan dan tidak dapat disalin, ditiru atau digunakan, secara keseluruhan atau sebagian, tanpa izin tertulis sebelumnya dari kami.",
+        "Semua merek dagang terdaftar, merek dagang terdaftar, nama produk dan nama perusahaan atau logo lain yang disebutkan melalui Layanan kami adalah milik pemilik masing-masing. Referensi ke produk, layanan, proses atau informasi lain, berdasarkan nama, merek dagang, pabrikan, pemasok atau lainnya tidak merupakan atau menyiratkan dukungan, sponsor atau rekomendasi oleh kami."
+      ]
+    },
+    {
+      "heading": "9. PENANGGUHAN; PENGHENTIAN",
+      "content": [
+        "Dalam hal Peristiwa Force Majeure apa pun, pelanggaran Syarat ini, atau peristiwa lain yang akan membuat penyediaan Layanan tidak masuk akal secara komersial bagi Perusahaan, kami dapat, atas kebijakan kami dan tanpa kewajiban kepada Anda, dengan atau tanpa pemberitahuan sebelumnya, menangguhkan akses Anda ke semua atau sebagian Layanan kami.",
+        "Kami dapat menghentikan akses Anda ke Layanan atas kebijakan kami sendiri, segera dan tanpa pemberitahuan sebelumnya, dan menghapus atau menonaktifkan Akun Anda dan semua informasi dan file terkait dalam akun tersebut tanpa kewajiban kepada Anda, termasuk, misalnya, jika Anda melanggar syarat apa pun dari Syarat ini."
+      ]
+    },
+    {
+      "heading": "10. PERNYATAAN COOKIE",
+      "content": [
+        "Situs ini menggunakan cookie. Cookie adalah file teks kecil yang ditempatkan di komputer Anda oleh situs web yang Anda kunjungi. Mereka banyak digunakan untuk membuat situs web berfungsi, atau bekerja lebih efisien, serta untuk memberikan informasi kepada pemilik situs. Cookie biasanya disimpan di hard drive komputer Anda.",
+        "Informasi yang dikumpulkan dari cookie digunakan oleh kami untuk mengevaluasi efektivitas Situs kami, menganalisis tren, dan mengelola platform. Informasi yang dikumpulkan dari cookie memungkinkan kami untuk menentukan hal-hal seperti bagian mana dari Situs kami yang paling banyak dikunjungi dan kesulitan yang mungkin dialami pengunjung kami dalam mengakses Situs kami. Dengan pengetahuan ini, kami dapat meningkatkan kualitas pengalaman Anda di platform dengan mengenali dan menyampaikan lebih banyak fitur dan informasi yang paling diinginkan, serta menyelesaikan kesulitan akses. Kami juga menggunakan cookie dan/atau teknologi yang dikenal sebagai web bug atau gif jelas, yang biasanya disimpan dalam email untuk membantu kami mengonfirmasi penerimaan dan respons Anda terhadap email kami dan memberikan Anda pengalaman yang lebih personal saat menggunakan Situs kami.",
+        "Kami juga menggunakan penyedia layanan pihak ketiga, untuk membantu kami lebih memahami penggunaan Situs kami. Penyedia layanan kami akan menempatkan cookie di hard drive komputer Anda dan akan menerima informasi yang kami pilih yang akan mendidik kami tentang hal-hal seperti bagaimana pengunjung menavigasi situs kami, halaman apa yang dijelajahi dan informasi transaksi umum. Penyedia layanan kami menganalisis informasi ini dan memberikan laporan agregat kepada kami. Informasi dan analisis yang disediakan oleh penyedia layanan kami akan digunakan untuk membantu kami lebih memahami minat pengunjung kami di Situs kami dan bagaimana melayani minat tersebut dengan lebih baik. Informasi yang dikumpulkan oleh penyedia layanan kami dapat ditautkan dan digabungkan dengan informasi yang kami kumpulkan tentang Anda saat Anda menggunakan platform. Penyedia layanan kami dibatasi secara kontraktual dari menggunakan informasi yang mereka terima dari Situs kami selain untuk membantu kami.",
+        "Penggunaan berkelanjutan Anda atas situs ini, serta penggunaan selanjutnya, akan ditafsirkan sebagai persetujuan Anda untuk menyimpan cookie di perangkat Anda."
+      ]
+    },
+    {
+      "heading": "11. KEBIJAKAN PRIVASI",
+      "content": [
+        "Silakan lihat Kebijakan Privasi terperinci kami."
+      ]
+    },
+    {
+      "heading": "12. PENAFIAN JAMINAN",
+      "content": [
+        "(a) SAMPAI BATAS MAKSIMAL YANG DIIZINKAN DI BAWAH HUKUM YANG BERLAKU, DAN KECUALI SEBAGAIMANA DISEDIAKAN SECARA TEGAS SEBALIKNYA SECARA TERTULIS OLEH KAMI, LAYANAN KAMI DISEDIAKAN ATAS DASAR \"SEBAGAIMANA ADANYA\" DAN \"SEBAGAIMANA TERSEDIA\" SAMPAI BATAS MAKSIMAL YANG DIIZINKAN DI BAWAH HUKUM YANG BERLAKU. KAMI SECARA TEGAS MENAFIKAN, DAN ANDA MELEPASKAN, SEMUA JAMINAN DALAM BENTUK APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK, TANPA BATASAN, JAMINAN TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, JUDUL DAN NON-PELANGGARAN MENGENAI LAYANAN KAMI, TERMASUK INFORMASI, KONTEN DAN MATERI YANG TERKANDUNG DI DALAMNYA.",
+        "(b) ANDA MENGAKUI BAHWA INFORMASI YANG ANDA SIMPAN ATAU TRANSFER MELALUI LAYANAN KAMI DAPAT MENJADI HILANG ATAU RUSAK SECARA TIDAK DAPAT DIPULIHKAN ATAU SEMENTARA TIDAK TERSEDIA KARENA BERBAGAI PENYEBAB, TERMASUK KEGAGALAN PERANGKAT LUNAK, PERUBAHAN PROTOKOL OLEH PENYEDIA PIHAK KETIGA, PEMADAMAN INTERNET, PERISTIWA FORCE MAJEURE ATAU BENCANA LAINNYA, PEMELIHARAAN TERJADWAL ATAU TIDAK TERJADWAL, ATAU PENYEBAB LAIN BAIK DALAM ATAU DI LUAR KONTROL KAMI. ANDA BERTANGGUNG JAWAB PENUH UNTUK MEMBUAT CADANGAN DAN MEMELIHARA SALINAN DUPLIKAT DARI INFORMASI APA PUN YANG ANDA SIMPAN ATAU TRANSFER MELALUI LAYANAN KAMI."
+      ]
+    },
+    {
+      "heading": "13. PEMBATASAN TANGGUNG JAWAB",
+      "content": [
+        "KECUALI SEBAGAIMANA DIWAJIBKAN OLEH HUKUM, DALAM KEADAAN APA PUN PERUSAHAAN, DIREKTUR, ANGGOTA, KARYAWAN ATAU AGEN KAMI TIDAK AKAN BERTANGGUNG JAWAB ATAS KERUSAKAN KHUSUS, TIDAK LANGSUNG ATAU KONSEKUENSIAL, ATAU KERUSAKAN LAIN DALAM BENTUK APA PUN, TERMASUK TETAPI TIDAK TERBATAS PADA KEHILANGAN PENGGUNAAN, KEHILANGAN KEUNTUNGAN ATAU KEHILANGAN DATA, BAIK DALAM TINDAKAN KONTRAK, TORT (TERMASUK TETAPI TIDAK TERBATAS PADA KELALAIAN) ATAU SEBALIKNYA, YANG TIMBUL DARI ATAU DENGAN CARA APA PUN TERKAIT DENGAN PENGGUNAAN ATAU KETIDAKMAMPUAN UNTUK MENGGUNAKAN LAYANAN KAMI ATAU MATERI PERUSAHAAN, TERMASUK TANPA BATASAN KERUSAKAN APA PUN YANG DISEBABKAN OLEH ATAU DIHASILKAN DARI KETERGANTUNGAN OLEH PENGGUNA APA PUN PADA INFORMASI APA PUN YANG DIPEROLEH DARI PERUSAHAAN, ATAU YANG DIHASILKAN DARI KESALAHAN, KELALAIAN, GANGGUAN, PENGHAPUSAN FILE ATAU EMAIL, KESALAHAN, CACAT, VIRUS, PENUNDAAN DALAM OPERASI ATAU TRANSMISI ATAU KEGAGALAN KINERJA APA PUN, BAIK YANG DIHASILKAN DARI PERISTIWA FORCE MAJEURE, KEGAGALAN KOMUNIKASI, PENCURIAN, PERUSAKAN ATAU AKSES TIDAK SAH KE CATATAN, PROGRAM ATAU LAYANAN PERUSAHAAN."
+      ]
+    },
+    {
+      "heading": "14. GANTI RUGI",
+      "content": [
+        "Anda setuju untuk membela, mengganti rugi dan membebaskan Perusahaan (dan masing-masing pejabat, direktur, anggota, karyawan, agen dan afiliasi kami) dari klaim, tuntutan, tindakan, kerusakan, kerugian, biaya atau pengeluaran, termasuk tanpa batasan biaya pengacara yang wajar, yang timbul dari atau berkaitan dengan:",
+        "(a) penggunaan Anda, atau perilaku sehubungan dengan, Layanan kami;",
+        "(b) Umpan Balik apa pun yang Anda berikan;",
+        "(c) pelanggaran Anda terhadap Syarat ini; atau",
+        "(d) pelanggaran Anda terhadap hak orang atau entitas lain mana pun."
+      ]
+    },
+    {
+      "heading": "15. LAIN-LAIN",
+      "content": [
+        "15.1. Keseluruhan Perjanjian; Urutan Prioritas. Syarat ini berisi seluruh perjanjian, dan menggantikan semua pengertian sebelumnya dan kontemporer antara para pihak mengenai Layanan. Syarat ini tidak mengubah syarat atau ketentuan dari perjanjian elektronik atau tertulis lain yang mungkin Anda miliki dengan Perusahaan untuk Layanan atau untuk produk atau layanan Perusahaan lainnya atau sebaliknya. Jika terjadi konflik antara Syarat ini dan perjanjian lain yang mungkin Anda miliki dengan Perusahaan, syarat dari perjanjian lain tersebut akan mengontrol hanya jika Syarat ini secara khusus diidentifikasi dan dinyatakan dikesampingkan oleh perjanjian lain tersebut.",
+        "15.2. Amandemen. Kami berhak membuat perubahan atau modifikasi pada Syarat ini dari waktu ke waktu, atas kebijakan kami sendiri. Syarat yang Diubah akan menjadi efektif segera pada tanggal mereka diposting ke Layanan kecuali kami menyatakan sebaliknya melalui pemberitahuan kami tentang Syarat yang Diubah tersebut. Syarat yang Diubah akan berlaku secara prospektif untuk penggunaan Layanan setelah perubahan tersebut menjadi efektif. Penggunaan berkelanjutan Anda atas Layanan setelah tanggal efektif perubahan tersebut akan merupakan penerimaan Anda atas perubahan tersebut. Jika Anda tidak setuju dengan Syarat yang Diubah, Anda harus menghentikan penggunaan Layanan.",
+        "15.3. Pengabaian. Kegagalan atau penundaan kami dalam menjalankan hak, kekuatan atau hak istimewa apa pun di bawah Syarat ini tidak akan beroperasi sebagai pengabaian daripadanya.",
+        "15.4. Pemisahan. Ketidakvalidan atau ketidakberlakuan Syarat ini tidak akan mempengaruhi validitas atau keberlakuan Syarat lain ini, yang semuanya akan tetap berlaku penuh.",
+        "15.5. Peristiwa Force Majeure. Perusahaan tidak akan bertanggung jawab atas kehilangan atau kerusakan yang timbul dari peristiwa apa pun di luar kontrol wajar Perusahaan, termasuk, tetapi tidak terbatas pada, banjir, kondisi cuaca luar biasa, gempa bumi, atau tindakan Tuhan lainnya, kebakaran, perang, pemberontakan, kerusuhan, perselisihan tenaga kerja, kecelakaan, tindakan pemerintah, komunikasi, kegagalan daya, atau kerusakan peralatan atau perangkat lunak (masing-masing, \"Peristiwa Force Majeure\").",
+        "15.6. Penugasan. Anda tidak dapat menyerahkan atau mentransfer hak atau kewajiban Anda di bawah Syarat ini tanpa persetujuan tertulis sebelumnya dari Perusahaan, termasuk oleh operasi hukum atau sehubungan dengan perubahan kontrol apa pun. Perusahaan dapat menyerahkan atau mentransfer hak apa pun atau semua haknya di bawah Syarat ini, secara keseluruhan atau sebagian, tanpa memperoleh persetujuan atau persetujuan Anda."
       ]
     }
   ]

@@ -1,27 +1,27 @@
 {
   "contact": {
     "metaTitle": "Contattaci | NearBlocks",
-    "metaDescription": "Contatta il Team di Near Blocks con qualunque richiesta riguardo il nostro sito web e i nostri strumenti. Vi preghiamo di comprendere che possiamo fornirvi assistenza soltanto con problemi relativi ai servizi del block explorer.",
+    "metaDescription": "Contatta il team di Near Blocks per qualsiasi richiesta relativa al nostro sito web e strumenti. Si prega di comprendere che possiamo assistere solo con problemi direttamente correlati ai servizi dell'esploratore di blocchi.",
     "heading": "Contatta Near Blocks",
     "info": {
-      "heading": "Lasciaci un messaggio, ma vi preghiamo di tenere in conto che:",
+      "heading": "Inviaci un messaggio, ma tieni presente che:",
       "points": [
         {
-          "heading": "Transazione in sospeso",
-          "content": "Non elaboriamo le transazioni, pertanto non possiamo velocizzarle, annullarle o sostituirle. Se state avendo problemi con transazioni in sospeso, recatevi qui."
+          "heading": "Transazione in Sospeso",
+          "content": "Non elaboriamo transazioni e pertanto non siamo in grado di accelerare, annullare o sostituirle. Se hai problemi con transazioni in sospeso, si prega di fare riferimento qui."
         },
         {
-          "heading": "Near Block Explorer",
-          "content": "Near Blocks è un block explorer indipendente da altri provider di servizi (salvo diversa specificazione) , pertanto non è in grado di fornire risposte precise a richieste riguardanti altri provider."
+          "heading": "Esploratore di Blocchi Near",
+          "content": "Near Blocks è un esploratore di blocchi indipendente non correlato ad altri fornitori di servizi (a meno che non sia dichiarato esplicitamente altrimenti) e pertanto non è in grado di fornire una risposta precisa per richieste specifiche di altri fornitori di servizi."
         },
         {
-          "heading": "Wallet / Scambio / Problemi relativi a progetti",
-          "content": "Rivolgetevi gentilmente al vostro wallet provider, proprietario di scambi o progetti/contratti per ulteriore supporto; sono più adatti ad aiutarvi con problemi riguardanti le loro piattaforme."
+          "heading": "Problemi relativi a Wallet / Exchange / Progetto",
+          "content": "Si prega di rivolgersi al proprio fornitore di servizi wallet, exchange o proprietario del progetto/contratto per ulteriore supporto poiché sono in una posizione migliore per assisterti sui problemi relativi alle loro piattaforme."
         }
       ]
     },
     "form": {
-      "heading": "Modulo contatto:",
+      "heading": "Modulo di Contatto:",
       "name": {
         "label": "Nome",
         "placeholder": "Nome"
@@ -35,19 +35,19 @@
         "placeholder": "Oggetto",
         "options": [
           "Richiesta generale",
-          "Supporto tecnico",
-          "Collaborazione",
+          "Supporto / Tecnico",
+          "Partnership",
           "API / Sviluppo",
-          "Tagging nomi / Etichette indirizzo",
-          "Pubblicità"
+          "Etichettatura nomi / Etichetta indirizzo",
+          "Pubblicizza"
         ]
       },
       "message": {
         "label": "Messaggio",
         "placeholder": "Messaggio"
       },
-      "button": "Send Message",
-      "successMessage": "Grazie, ti ricontatteremo al più presto.",
+      "button": "Invia Messaggio",
+      "successMessage": "Grazie, ti ricontatteremo presto",
       "errorMessage": "Qualcosa è andato storto!"
     }
   }

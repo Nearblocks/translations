@@ -1,13 +1,13 @@
 {
-  "metaTitle": "Top 10 000 comptes Near | NearBlocks",
-  "metaDescription": "Trouvez les 10 000 comptes Near les plus riches classés par solde.",
-  "heading": "Comptes principaux par solde en Ⓝ",
+  "metaTitle": "Top 10 000 Comptes NEAR | NearBlocks",
+  "metaDescription": "Trouvez les top 10 000 comptes NEAR par solde.",
+  "heading": "Comptes Principaux par Solde Ⓝ",
   "listing": "Un total de > {count} comptes trouvés ({sum} Ⓝ).",
-  "info": "Affichage des 10 000 meilleurs comptes uniquement",
+  "info": "Affichage des 10 000 comptes principaux seulement",
   "rank": "Rang",
   "address": "Adresse",
   "balance": "Solde",
   "percentage": "Pourcentage",
   "value": "Valeur",
-  "txns": "Nombre de transactions"
+  "txns": "Nombre de Txns"
 }

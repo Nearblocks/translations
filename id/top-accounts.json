@@ -1,13 +1,13 @@
 {
-  "metaTitle": "10.000 Akun dengan Saldo NEAR Terbesar | NearBlocks",
-  "metaDescription": "Lihat akun dengan kepemilikan NEAR terbanyak di blockchain NEAR.",
-  "heading": "Akun dengan Saldo NEAR Tertinggi",
-  "listing": "Ditemukan > {count} akun (total {sum} Ⓝ)",
+  "metaTitle": "Top 10.000 Akun Near | NearBlocks",
+  "metaDescription": "Temukan Top 10.000 akun Near berdasarkan saldo.",
+  "heading": "Akun Teratas berdasarkan Saldo Ⓝ",
+  "listing": "Total > {count} akun ditemukan ({sum} Ⓝ).",
   "info": "Hanya menampilkan 10.000 akun teratas",
   "rank": "Peringkat",
   "address": "Alamat",
   "balance": "Saldo",
   "percentage": "Persentase",
   "value": "Nilai",
-  "txns": "Jumlah Transaksi"
+  "txns": "Jumlah Txns"
 }

@@ -2,80 +2,80 @@
   "header": {
     "menu": {
       "home": "Головна",
-      "blockchain": "Блокчейн",
-      "viewBlocks": "Переглянути Блоки",
-      "viewTxns": "Переглянути Транзакції",
+      "blockchain": "Blockchain",
+      "viewBlocks": "Переглянути Blocks",
+      "viewTxns": "Переглянути Txns",
       "languages": "Мови",
-      "charts": "Графіки та Статистика",
-      "topAccounts": "Топ Аккаунти",
-      "tokens": "Токени",
-      "toptoken": "Топ Токени",
-      "viewTokenTrasfers": "Переглянути Перекази Токенів",
-      "topnft": "Топ NFT Токени",
-      "viewNftTrasfers": "Переглянути Перекази NFT",
-      "nodeExplorer": "Провідник вузлів"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "Усі Фільтри",
-      "txns": "Транзакції",
-      "blocks": "Блоки",
-      "token": "Токени",
-      "addresses": "Адреси"
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
-    "placeholder": "Пошук за ID акаунту / Хешем Транзакції / Блоком",
+    "placeholder": "Пошук за Account ID / Txn Hash / Block",
     "list": {
-      "address": "Акаунт",
-      "txns": "Транзакції",
-      "blocks": "Блоки",
-      "tokens": "Токени"
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     },
     "noResults": "Немає результатів"
   },
   "footer": {
-    "description": "NEAR Blocks — провідний переглядач блокчейну, присвячений екосистемі NEAR. Працює на Протоколі NEAR.",
-    "poweredBy": "Працює на основі",
+    "description": "NEAR Blocks є провідним blockchain explorer, присвяченим NEAR екосистемі. Працює на NEAR Protocol.",
+    "poweredBy": "Працює на",
     "links": {
-      "explore": "Огляд",
-      "blockExplorer": "Оглядач блоків",
-      "latestBlocks": "Останні Блоки",
-      "latestTxns": "Останні Транзакції",
+      "explore": "Досліджувати",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
       "company": "Компанія",
       "about": "Про нас",
       "advertise": "Реклама",
-      "contact": "Контакт",
+      "contact": "Контакти",
       "terms": "Умови",
-      "charts": "Графіки та Статистика",
-      "api": "API-інтерфейси індексатора NEAR",
-      "kb": "База Знань",
+      "charts": "Charts & Stats",
+      "api": "NEAR Indexer APIs",
+      "kb": "Knowledge Base",
       "fundamentals": "Основи",
-      "buySell": "Купівля, Продаж та Торгівля",
-      "nearValidator": "Список валідаторів NEAR"
+      "buySell": "Купити, Продати & Торгувати",
+      "nearValidator": "Список NEAR Validator"
     }
   },
-  "sponsored": "Спонсоровані",
+  "sponsored": "Спонсоровано",
   "pagination": {
     "first": "Перший",
     "last": "Останній"
   },
   "validation": {
-    "required": "{field} обов'язково для заповнення",
-    "invalid": "Будь ласка, вкажіть припустимий {field}"
+    "required": "{field} обов'язкове",
+    "invalid": "Будь ласка, надайте дійсний {field}"
   },
   "chart": {
     "source": "Джерело: nearblocks.io"
   },
-  "trademark": "NearBlocks працює повністю і самостійно. NearBlocks не має стосунку до Фонду NEAR, і всі ліцензовані товарні знаки, відображені на цьому веб-сайті, належать їх відповідним власникам.",
+  "trademark": "NearBlocks працює повністю та самостійно. NearBlocks не пов'язаний з The NEAR Foundation, і кожна ліцензована торгова марка, відображена на цьому веб-сайті, належить відповідним власникам.",
   "tags": {
     "service": "Сервіс",
-    "pool": "Пул",
+    "pool": "Pool",
     "personal": "Особистий",
     "shop": "Магазин",
-    "donation": "Пожертвування",
-    "centralisedExchange": "Централізована Біржа",
-    "decentralisedExchange": "Децентралізована Біржа"
+    "donation": "Пожертва",
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Через несподіване обслуговування Nearblocks не синхронізовано. Деякі блоки або транзакції можуть бути затримані.",
-  "rpcRateLimitError": "Вашу швидкість обмежено поточним RPC ({rpcUrl}). Будь ласка, спробуйте пізніше або виберіть іншого постачальника RPC у випадаючому меню {icon}."
+  "outofSync": "Через несподіване обслуговування Nearblocks не синхронізований. Деякі blocks або transactions можуть бути затримані.",
+  "rpcRateLimitError": "Ви були обмежені поточним RPC ({rpcUrl}). Будь ласка, спробуйте пізніше або виберіть іншого RPC провайдера з випадаючого меню {icon}."
 }

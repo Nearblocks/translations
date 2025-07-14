@@ -1,13 +1,13 @@
 {
-  "metaTitle": "持有最多 NEAR 嘅 10,000 個帳戶 | NearBlocks",
-  "metaDescription": "瀏覽 Near 區塊鏈上持有最多 NEAR 代幣嘅前 10,000 個帳戶。",
-  "heading": "NEAR 持倉最多嘅帳戶",
-  "listing": "已搵到 > {count} 個帳戶（共持有 {sum} Ⓝ）",
-  "info": "只顯示前 10,000 個帳戶",
+  "metaTitle": "Top 10,000 Near Accounts | NearBlocks",
+  "metaDescription": "按餘額查找前 10,000 個 Near accounts。",
+  "heading": "按 Ⓝ Balance 排序的 Top Accounts",
+  "listing": "總共找到 > {count} accounts ({sum} Ⓝ)。",
+  "info": "僅顯示前 10,000 個 accounts",
   "rank": "排名",
-  "address": "地址",
-  "balance": "餘額",
+  "address": "Address",
+  "balance": "Balance",
   "percentage": "百分比",
   "value": "價值",
-  "txns": "交易次數"
+  "txns": "Txns 數量"
 }

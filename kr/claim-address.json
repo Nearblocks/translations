@@ -1,10 +1,10 @@
 {
-  "metaTitle": "클레임 계정 | 블록 근처",
-  "metaDescription": "이름, 태그 및 기타 정보를 주장합니다.",
-  "heading": "클레임 Ⓝ 계정",
+  "metaTitle": "계정 클레임 | NearBlocks",
+  "metaDescription": "귀하의 이름, 태그 및 기타 정보를 클레임하세요.",
+  "heading": "Ⓝ 계정 클레임",
   "form": {
-    "heading": "이름, 태그 및 기타 정보 클레임",
-    "content": "이름 태그를 지정하고 아래 양식을 작성하여 Ⓝ 주소와 관련된 기타 정보를 추가합니다. 각 편집 요청에 대해 주소 소유권을 증명하기 위해 {amount}Ⓝ 보증금을 요청합니다.",
+    "heading": "귀하의 이름, 태그 및 기타 정보를 클레임하세요",
+    "content": "아래 양식을 작성하여 귀하의 이름 태그를 클레임하고 Ⓝ 주소와 관련된 기타 정보를 추가하세요. 각 편집 요청에 대해 주소 소유권을 증명하기 위해 {amount} Ⓝ 예치금을 요청합니다.",
     "address": {
       "label": "Ⓝ 주소"
     },
@@ -12,32 +12,32 @@
       "label": "이름"
     },
     "tag": {
-      "label": "하루"
+      "label": "태그"
     },
     "website": {
       "label": "웹사이트"
     },
     "twitter": {
-      "label": "지저귀다"
+      "label": "Twitter"
     },
     "blog": {
-      "label": "블로그(또는 중간)"
+      "label": "블로그 (또는 Medium)"
     },
     "telegram": {
-      "label": "전보"
+      "label": "Telegram"
     },
     "discord": {
-      "label": "갈등"
+      "label": "Discord"
     },
     "keybase": {
-      "label": "키베이스"
+      "label": "Keybase"
     },
     "info": {
-      "label": "{amount} Ⓝ를 다음 주소로 입금하여 소유권을 증명합니다.",
-      "tooltip": "전송 주소는 정보를 추가하려는 주소와 동일해야 합니다."
+      "label": "소유권을 증명하기 위해 다음 주소에 {amount} Ⓝ을 예치하세요:",
+      "tooltip": "송신 주소는 정보를 추가하려는 주소와 동일해야 합니다."
     },
-    "button": "전송",
-    "successMessage": "감사합니다, 우리는 당신의 응용 프로그램을 검토하고 승인 된 후 나열합니다",
-    "errorMessage": "뭔가 잘못되었습니다!"
+    "button": "제출",
+    "successMessage": "감사합니다. 신청을 검토하고 승인 후 등록하겠습니다",
+    "errorMessage": "문제가 발생했습니다!"
   }
 }

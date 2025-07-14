@@ -1,82 +1,82 @@
 {
   "charts": {
-    "metaTitle": "Grafik & Statistik NEAR | NearBlocks",
-    "metaDescription": "Lihat grafik harga, volume, pasokan, biaya, dan metrik lainnya untuk blockchain NEAR.",
-    "heading": "Grafik & Statistik NEAR",
-    "otherHeading": "Grafik & Indikator Lainnya di Blockchain NEAR",
+    "metaTitle": "Grafik & Statistik Near | NearBlocks ",
+    "metaDescription": "Near menyediakan rangkaian grafik dan statistik data Near real-time untuk melacak segala hal tentang NearBlocks: Harga, Pasokan, Kapitalisasi Pasar, Biaya Transaksi dan lainnya.",
+    "heading": "Grafik & Statistik Near",
+    "otherHeading": "Grafik & Statistik Blockchain Near Lainnya",
     "nearPrice": {
-      "metaTitle": "Grafik Harga Harian NEAR | NearBlocks",
-      "metaDescription": "Grafik harga NEAR per hari (USD), diperbarui secara real-time dari blockchain NEAR.",
-      "heading": "Grafik Harga Harian NEAR (USD)",
-      "description": "Grafik ini menunjukkan harga harian NEAR dalam USD.",
-      "yLabel": "Harga (USD)",
+      "metaTitle": "Harga Near Hari Ini: Info, Grafik, Statistik | NearBlocks ",
+      "metaDescription": "Grafik Harga Harian Near (USD) menampilkan harga historis harian untuk Near dalam USD. Semua data real-time, akurat dan diambil langsung dari blockchain Near.",
+      "heading": "Grafik Harga Harian Near (USD)",
+      "description": "Grafik Harga Harian Near (USD) menampilkan harga historis harian untuk Near dalam USD.",
+      "yLabel": "Harga Near (USD)",
       "statistics": {
-        "heading": "Statistik Harga",
-        "price": "Harga NEAR (USD)",
+        "heading": "Statistik Harga Near",
+        "price": "Harga Near (USD)",
         "marketCap": "Kapitalisasi Pasar",
-        "volume": "Volume Transaksi",
-        "volumeMarketCap": "Rasio Volume/Kapitalisasi",
-        "high24": "Tertinggi 24 Jam",
-        "low24": "Terendah 24 Jam",
+        "volume": "Volume Trading",
+        "volumeMarketCap": "Volume / Kapitalisasi Pasar",
+        "high24": "Tertinggi 24j",
+        "low24": "Terendah 24j",
         "highAll": "Tertinggi Sepanjang Masa",
         "lowAll": "Terendah Sepanjang Masa"
       }
-    },
-    "marketCapCharts": {
-      "metaTitle": "Grafik Kapitalisasi Pasar NEAR | NearBlocks",
-      "metaDescription": "Grafik sejarah kapitalisasi pasar NEAR dan harga token.",
-      "heading": "Grafik Kapitalisasi Pasar",
-      "description": "Grafik ini menunjukkan tren kapitalisasi pasar NEAR dan harga token dari waktu ke waktu.",
-      "yLabel": "Kapitalisasi Pasar (USD)"
-    },
-    "nearSupplyCharts": {
-      "metaTitle": "Grafik Pasokan NEAR | NearBlocks",
-      "metaDescription": "Grafik perubahan jumlah total token NEAR yang beredar setiap hari.",
-      "heading": "Grafik Pasokan NEAR",
-      "description": "Total pasokan token NEAR yang beredar per hari.",
-      "yLabel": "Pasokan NEAR"
-    },
-    "txnCharts": {
-      "metaTitle": "Grafik Transaksi Harian | NearBlocks",
-      "metaDescription": "Statistik transaksi harian di blockchain NEAR.",
-      "heading": "Grafik Transaksi Harian",
-      "description": "Jumlah transaksi yang dikonfirmasi setiap hari di blockchain NEAR.",
-      "yLabel": "Jumlah Transaksi"
-    },
-    "blockCharts": {
-      "metaTitle": "Grafik Blok Harian | NearBlocks",
-      "metaDescription": "Jumlah blok yang dihasilkan di blockchain NEAR per hari.",
-      "heading": "Grafik Blok Harian",
-      "description": "Jumlah blok yang diproduksi setiap hari.",
-      "yLabel": "Jumlah Blok"
-    },
-    "addressesCharts": {
-      "metaTitle": "Grafik Pertumbuhan Alamat | NearBlocks",
-      "metaDescription": "Jumlah akun unik yang dibuat di blockchain NEAR per hari.",
-      "heading": "Grafik Alamat Unik",
-      "description": "Jumlah akun baru dan total alamat unik setiap hari.",
-      "yLabel": "Jumlah Alamat"
-    },
-    "txnFeeCharts": {
-      "metaTitle": "Grafik Biaya Transaksi | NearBlocks",
-      "metaDescription": "Grafik jumlah biaya transaksi harian yang digunakan di NEAR (dalam USD).",
-      "heading": "Grafik Biaya Transaksi",
-      "description": "Biaya transaksi total yang digunakan per hari di NEAR.",
-      "yLabel": "Biaya (USD)"
-    },
-    "txnVolumeCharts": {
-      "metaTitle": "Grafik Volume Transaksi NEAR | NearBlocks",
-      "metaDescription": "Total nilai transaksi harian di NEAR dalam USD.",
-      "heading": "Grafik Volume Transaksi",
-      "description": "Grafik ini menunjukkan nilai transaksi harian di NEAR.",
-      "yLabel": "Volume Transaksi (USD)"
-    },
-    "multichainTxns": {
-      "metaTitle": "Grafik Transaksi Lintas Rantai | NearBlocks",
-      "metaDescription": "Statistik transaksi lintas rantai harian di NEAR.",
-      "heading": "Grafik Transaksi Lintas Rantai",
-      "description": "Jumlah transaksi lintas rantai harian yang dilakukan melalui NEAR.",
-      "yLabel": "Jumlah Transaksi"
     }
+  },
+  "marketCapCharts": {
+    "metaTitle": "Grafik Kapitalisasi Pasar Near | NearBlocks ",
+    "metaDescription": "Grafik Kapitalisasi Pasar Near menampilkan rincian historis kapitalisasi pasar harian dan harga Near. Semua data real-time, akurat dan diambil langsung dari blockchain Near.",
+    "heading": "Grafik Kapitalisasi Pasar Near",
+    "description": "Grafik Kapitalisasi Pasar Near menampilkan rincian historis kapitalisasi pasar harian dan harga Near.",
+    "yLabel": "Kapitalisasi Pasar Near (USD)"
+  },
+  "nearSupplyCharts": {
+    "metaTitle": "Grafik Pasokan Near: Beredar, Total Pasokan | NearBlocks ",
+    "metaDescription": "Grafik Pertumbuhan Pasokan blockchain Near menampilkan rincian reward blok harian dan total pasokan Near. Semua data real-time, akurat dan diambil langsung dari blockchain Near.",
+    "heading": "Grafik Pertumbuhan Pasokan Near",
+    "description": "Grafik Pertumbuhan Pasokan Near menampilkan rincian harian dan total pasokan Near.",
+    "yLabel": "Pasokan Near"
+  },
+  "txnsCharts": {
+    "metaTitle": "Grafik Transaksi Near: Info, Statistik, Pertumbuhan | NearBlocks ",
+    "metaDescription": "Grafik transaksi Near menyoroti jumlah total transaksi di blockchain Near dengan rincian individual harian untuk total transaksi, total blok dan total akun baru yang terlihat.",
+    "heading": "Grafik Transaksi Harian Near",
+    "description": "Grafik menyoroti jumlah total transaksi di blockchain Near dengan rincian individual harian untuk total blok dan total akun baru yang terlihat.",
+    "yLabel": "Transaksi per Hari"
+  },
+  "blocksCharts": {
+    "metaTitle": "Grafik Jumlah Blok Near | NearBlocks ",
+    "metaDescription": "Grafik Jumlah Blok blockchain Near menampilkan jumlah historis blok yang diproduksi setiap hari di blockchain Near. Semua data real-time, akurat dan diambil langsung dari blockchain Near.",
+    "heading": "Jumlah Blok Near",
+    "description": "Grafik Jumlah Blok Near menampilkan jumlah historis blok yang diproduksi setiap hari di blockchain Near.",
+    "yLabel": "Blok per Hari"
+  },
+  "addressesCharts": {
+    "metaTitle": "Grafik Akun Unik Near | NearBlocks ",
+    "metaDescription": "Grafik akun unik blockchain Near menampilkan jumlah total akun yang berbeda di blockchain Near dan peningkatan jumlah akun setiap hari.",
+    "heading": "Grafik Akun Unik Near",
+    "description": "Grafik menampilkan jumlah total akun yang berbeda di blockchain Near dan peningkatan jumlah akun setiap hari.",
+    "yLabel": "Pertumbuhan Akun Kumulatif Near"
+  },
+  "txnFeeCharts": {
+    "metaTitle": "Riwayat Biaya Transaksi Near: Biaya Transaksi | NearBlocks ",
+    "metaDescription": "Grafik biaya transaksi blockchain Near menampilkan jumlah harian dalam USD yang dihabiskan per transaksi di blockchain Near (Ⓝ). Semua data real-time, akurat dan diambil langsung dari blockchain Near.",
+    "heading": "Grafik Biaya Transaksi",
+    "description": "Grafik menampilkan jumlah harian dalam USD yang dihabiskan per transaksi di blockchain Near.",
+    "yLabel": "Biaya Transaksi (USD)"
+  },
+  "txnVolumeCharts": {
+    "metaTitle": "Grafik Volume Transaksi Near: Volume Transaksi | NearBlocks ",
+    "metaDescription": "Grafik volume transaksi blockchain Near menampilkan jumlah harian dalam USD yang dihabiskan per transaksi di blockchain Near.",
+    "heading": "Grafik Volume Transaksi",
+    "description": "Grafik menampilkan jumlah harian dalam USD yang dihabiskan per transaksi di blockchain Near.",
+    "yLabel": "Volume Transaksi (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Grafik Transaksi Multichain | NearBlocks ",
+    "metaDescription": "Grafik Transaksi Multichain menyoroti jumlah total transaksi multi chain di blockchain Near.",
+    "heading": "Grafik Transaksi Multichain",
+    "description": "Grafik menyoroti jumlah total transaksi multichain di blockchain Near.",
+    "yLabel": "Transaksi Multichain per Hari"
   }
 }

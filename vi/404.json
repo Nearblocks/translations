@@ -1,10 +1,10 @@
 {
   "metaTitle": "404 - Không tìm thấy trang | NearBlocks",
-  "metaDescription": "Xin lỗi, chúng tôi không thể tìm thấy những gì bạn đang tìm. Vui lòng thử lại.",
-  "description": "<0>Xin lỗi!</0> Đã xảy ra lỗi không mong muốn.",
-  "addressDescription": "<0>Xin lỗi!</0> Không tìm thấy địa chỉ.",
-  "blockDescription": "<0>Xin lỗi!</0> Không tìm thấy khối.",
-  "txnDescription": "<0>Xin lỗi!</0> Không tìm thấy giao dịch.",
-  "back": "Quay về trang chủ",
-  "tokenDescription": "<0>Xin lỗi!</0> Không tìm thấy token."
+  "metaDescription": "Chúng tôi không tìm thấy những gì bạn đang tìm kiếm, xin lỗi. Vui lòng thử lại.",
+  "description": "<0>Xin lỗi!</0> Chúng tôi gặp phải lỗi không mong muốn.",
+  "addressDescription": "<0>Xin lỗi!</0> Không tìm thấy Address.",
+  "blockDescription": "<0>Xin lỗi!</0> Không tìm thấy Block.",
+  "txnDescription": "<0>Xin lỗi!</0> Không tìm thấy Transaction.",
+  "back": "Về trang chủ",
+  "tokenDescription": "<0>Xin lỗi!</0> Không tìm thấy Token."
 }

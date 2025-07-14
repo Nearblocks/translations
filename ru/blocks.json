@@ -1,12 +1,12 @@
 {
   "metaTitle": "Все последние блоки протокола Near | NearBlocks",
-  "metaDescription": "Все блоки Near (Ⓝ), включенные в блокчейн Near. Отображаются метка времени, автор, использованный газ, цена газа и включённые транзакции.",
+  "metaDescription": "Все блоки Near (Ⓝ), включённые в блокчейн Near. Показываются временная метка, автор, использованный gas, цена gas и включённые транзакции.",
   "blockHeading": "Последние блоки протокола Near",
-  "listing": "Блок #{from} до #{to} (Всего {count} блоков)",
+  "listing": "Блоки с #{from} по #{to} (Всего {count} блоков)",
   "blocks": "Блок",
   "type": "Тип",
   "typeBlock": "Блок",
-  "typeTxBlock": "TX-блок",
+  "typeTxBlock": "TX блок",
   "age": "Возраст",
   "txn": "Транзакция",
   "miner": "Автор",
@@ -15,14 +15,11 @@
   "blockError": "Ошибка блока",
   "block": {
     "metaTitle": "Блок Near {block} | NearBlocks",
-    "metaDescription": "Блок Near с высотой {block}. Подробно указаны метка времени, использованный газ, цена газа, автор, количество транзакций и квитанций.",
-    "heading": [
-      "Блок",
-      "#{block}"
-    ],
+    "metaDescription": "Высота блока Near {block}. Временная метка, использованный gas блока, цена gas, автор, количество транзакций и квитанций в блоке подробно показаны на Near.",
+    "heading": ["Блок", "#{block}"],
     "height": "Высота блока",
-    "hash": "Хэш",
-    "timestamp": "Метка времени",
+    "hash": "Hash",
+    "timestamp": "Временная метка",
     "transactions": [
       "Транзакции",
       "{txns} транзакций",
@@ -31,16 +28,16 @@
     "fees": "Комиссии",
     "price": "Цена Ⓝ",
     "proof": "Доказательство",
-    "gasUsed": "Использовано газа",
-    "gasPrice": "Цена газа",
-    "parenthash": "Родительский хэш",
+    "gasUsed": "Использовано gas",
+    "gasPrice": "Цена gas",
+    "parenthash": "Hash родителя",
     "author": "Автор",
     "receipts": "Квитанции",
-    "gasLimit": "Лимит газа",
-    "gasFee": "Комиссия за газ",
-    "listing": "Блок #{from} до #{to} (Всего {count} блоков)",
+    "gasLimit": "Лимит gas",
+    "gasFee": "Комиссия gas",
+    "listing": "Блоки с #{from} по #{to} (Всего {count} блоков)",
     "txns": "Транзакции"
   },
-  "testnetBlockNotice": "[ Это тестнет-блок ]",
+  "testnetBlockNotice": "[ Это только блок тестовой сети ]",
   "noBlocks": "Нет блоков"
 }

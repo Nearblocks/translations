@@ -1,22 +1,22 @@
 {
   "contact": {
     "metaTitle": "Hubungi Kami | NearBlocks",
-    "metaDescription": "Jika Anda memiliki pertanyaan tentang situs atau alat Near Blocks, silakan hubungi tim kami. Harap diperhatikan kami hanya dapat membantu untuk hal yang berkaitan langsung dengan explorer blockchain.",
+    "metaDescription": "Hubungi tim Near Blocks untuk pertanyaan apa pun yang berkaitan dengan situs web dan alat kami. Harap pahami bahwa kami hanya dapat membantu dengan masalah yang langsung berkaitan dengan layanan penjelajah blok.",
     "heading": "Hubungi Near Blocks",
     "info": {
-      "heading": "Silakan tinggalkan pesan, tapi perlu diperhatikan:",
+      "heading": "Kirimkan kami pesan, tetapi harap ketahui bahwa:",
       "points": [
         {
           "heading": "Transaksi Tertunda",
-          "content": "Kami tidak memproses transaksi dan tidak dapat mempercepat, membatalkan, atau menggantinya. Jika Anda mengalami keterlambatan, silakan lihat panduan kami."
+          "content": "Kami tidak memproses transaksi dan oleh karena itu tidak dapat mempercepat, membatalkan atau menggantinya. Jika Anda mengalami masalah dengan transaksi tertunda, silakan lihat di sini."
         },
         {
-          "heading": "Explorer NEAR",
-          "content": "Near Blocks adalah explorer independen untuk blockchain NEAR dan tidak terafiliasi langsung dengan penyedia layanan lainnya, kecuali jika disebutkan secara eksplisit."
+          "heading": "Penjelajah Blok Near",
+          "content": "Near Blocks adalah penjelajah blok independen yang tidak terkait dengan penyedia layanan lain (kecuali dinyatakan secara eksplisit sebaliknya) dan oleh karena itu tidak dapat memberikan respons yang tepat untuk pertanyaan yang spesifik untuk penyedia layanan lain."
         },
         {
-          "heading": "Masalah Wallet / Exchange / Proyek",
-          "content": "Silakan hubungi tim dukungan dari wallet, exchange, atau proyek terkait untuk bantuan terbaik."
+          "heading": "Masalah terkait Wallet / Exchange / Proyek",
+          "content": "Silakan hubungi penyedia layanan wallet Anda, exchange atau pemilik proyek/kontrak untuk dukungan lebih lanjut karena mereka berada dalam posisi yang lebih baik untuk membantu Anda dengan masalah yang berkaitan dengan platform mereka."
         }
       ]
     },
@@ -28,27 +28,27 @@
       },
       "email": {
         "label": "Email",
-        "placeholder": "Alamat Email"
+        "placeholder": "Email"
       },
       "subject": {
         "label": "Subjek",
-        "placeholder": "Pilih Subjek",
+        "placeholder": "Subjek",
         "options": [
-          "Pertanyaan Umum",
-          "Dukungan / Masalah Teknis",
-          "Peluang Kemitraan",
-          "API / Pengembang",
-          "Label Alamat",
+          "Pertanyaan umum",
+          "Dukungan / Teknis",
+          "Kemitraan",
+          "API / Pengembangan",
+          "Penandaan nama / Label alamat",
           "Iklan"
         ]
       },
       "message": {
         "label": "Pesan",
-        "placeholder": "Tulis pesan Anda"
+        "placeholder": "Pesan"
       },
       "button": "Kirim Pesan",
-      "successMessage": "Terima kasih! Kami akan segera membalas pesan Anda.",
-      "errorMessage": "Terjadi kesalahan!"
+      "successMessage": "Terima kasih, kami akan segera menghubungi Anda",
+      "errorMessage": "Ada yang salah!"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - 找唔到頁面 | NearBlocks",
-  "metaDescription": "唔好意思，我哋搵唔到你想睇嘅內容。請重試或返回主頁。",
-  "description": "<0>對唔住！</0> 發生咗錯誤。",
-  "addressDescription": "<0>對唔住！</0> 找唔到帳戶地址。",
-  "blockDescription": "<0>對唔住！</0> 找唔到該區塊。",
-  "txnDescription": "<0>對唔住！</0> 找唔到該交易。",
-  "back": "返回主頁",
-  "tokenDescription": "<0>對唔住！</0> 找唔到代幣資訊。"
+  "metaTitle": "404 - 未找到頁面 | NearBlocks",
+  "metaDescription": "抱歉，我們沒有找到您要查找的內容。請重試。",
+  "description": "<0>抱歉！</0> 我們遇到了意外錯誤。",
+  "addressDescription": "<0>抱歉！</0> 未找到 Address。",
+  "blockDescription": "<0>抱歉！</0> 未找到 Block。",
+  "txnDescription": "<0>抱歉！</0> 未找到 Transaction。",
+  "back": "返回首頁",
+  "tokenDescription": "<0>抱歉！</0> 未找到 Token。"
 }

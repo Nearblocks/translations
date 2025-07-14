@@ -1,81 +1,81 @@
 {
   "header": {
     "menu": {
-      "home": "主頁",
-      "blockchain": "區塊鏈",
-      "viewBlocks": "瀏覽區塊",
-      "viewTxns": "瀏覽交易",
+      "home": "首頁",
+      "blockchain": "Blockchain",
+      "viewBlocks": "查看 Blocks",
+      "viewTxns": "查看 Txns",
       "languages": "語言",
-      "charts": "圖表與統計",
-      "topAccounts": "頂尖帳戶",
-      "tokens": "代幣",
-      "toptoken": "熱門代幣",
-      "viewTokenTrasfers": "代幣轉帳",
-      "topnft": "熱門 NFT",
-      "viewNftTrasfers": "NFT 轉帳",
-      "nodeExplorer": "節點瀏覽器"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "所有篩選",
-      "txns": "交易",
-      "blocks": "區塊",
-      "token": "代幣",
-      "addresses": "地址"
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
-    "placeholder": "搜尋地址 / 交易雜湊值 / 區塊",
+    "placeholder": "按 Account ID / Txn Hash / Block 搜索",
     "list": {
-      "address": "帳戶",
-      "txns": "交易",
-      "blocks": "區塊",
-      "tokens": "代幣"
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     },
-    "noResults": "無搜尋結果"
+    "noResults": "無結果"
   },
   "footer": {
-    "description": "NEAR Blocks 係專屬於 NEAR 區塊鏈生態嘅先進區塊鏈瀏覽器，由 NEAR 協議驅動。",
-    "poweredBy": "技術支援",
+    "description": "NEAR Blocks 是專門為 NEAR 生態系統服務的領先區塊鏈瀏覽器。由 NEAR Protocol 提供支持。",
+    "poweredBy": "由...提供支持",
     "links": {
       "explore": "探索",
-      "blockExplorer": "區塊瀏覽器",
-      "latestBlocks": "最新區塊",
-      "latestTxns": "最新交易",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
       "company": "公司",
-      "about": "關於我們",
-      "advertise": "廣告合作",
-      "contact": "聯絡我們",
-      "terms": "服務條款",
-      "charts": "圖表與統計",
-      "api": "NEAR Indexer API",
-      "kb": "幫助中心",
-      "fundamentals": "基本知識",
-      "buySell": "買賣與交易",
-      "nearValidator": "NEAR 驗證者清單"
+      "about": "關於",
+      "advertise": "廣告",
+      "contact": "聯繫",
+      "terms": "條款",
+      "charts": "Charts & Stats",
+      "api": "NEAR Indexer APIs",
+      "kb": "Knowledge Base",
+      "fundamentals": "基礎知識",
+      "buySell": "買入、賣出和交易",
+      "nearValidator": "NEAR Validator 列表"
     }
   },
   "sponsored": "贊助",
   "pagination": {
-    "first": "第一頁",
-    "last": "最後一頁"
+    "first": "首頁",
+    "last": "末頁"
   },
   "validation": {
-    "required": "{field} 為必填項",
-    "invalid": "請輸入有效嘅 {field}"
+    "required": "{field} 是必需的",
+    "invalid": "請提供有效的 {field}"
   },
   "chart": {
     "source": "來源：nearblocks.io"
   },
-  "trademark": "NearBlocks 係一個獨立項目，並不隸屬於 NEAR 基金會。頁面上所示商標屬於各自擁有者。",
+  "trademark": "NearBlocks 完全獨立運營。NearBlocks 與 The NEAR Foundation 無關，此網站上顯示的每個許可商標均屬於其各自的所有者。",
   "tags": {
     "service": "服務",
-    "pool": "資金池",
+    "pool": "Pool",
     "personal": "個人",
     "shop": "商店",
     "donation": "捐贈",
-    "centralisedExchange": "中心化交易所",
-    "decentralisedExchange": "去中心化交易所"
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "因為進行維護，NearBlocks 暫時未同步。部分區塊或交易資料可能會有延遲。",
-  "rpcRateLimitError": "你已達到 RPC 限制（{rpcUrl}）。請稍後再試，或者點擊圖示 {icon} 換用其他 RPC 服務提供者。"
+  "outofSync": "由於意外維護，Nearblocks 未同步。一些 blocks 或 transactions 可能會延遲。",
+  "rpcRateLimitError": "您已被當前 RPC ({rpcUrl}) 限制。請稍後重試或從下拉菜單 {icon} 中選擇不同的 RPC 提供商。"
 }

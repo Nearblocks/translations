@@ -1,26 +1,26 @@
 {
-  "metaTitle": "Tutte le ultime Transazioni Near | NearBlocks",
-  "metaDescription": "Tutte le Transazioni Near confermate sulla Near Blockchain. L'elenco consiste di transazioni che inviano Near e i dettagli delle transazioni.",
-  "txnsHeading": "Ultime transazioni Near Protocol",
+  "metaTitle": "Tutte le Ultime transazioni del Protocollo Near | NearBlocks",
+  "metaDescription": "Tutte le ultime transazioni del Protocollo Near confermate sulla Blockchain Near. L'elenco consiste in transazioni di invio Near e i dettagli delle transazioni per ogni transazione.",
+  "txnsHeading": "Ultime Transazioni del Protocollo Near",
   "txnsListing": "Più di > {count} transazioni trovate",
-  "listingToken": "Più di > {count} transazioni di Token trovate",
-  "hash": "Hash di Txn",
+  "listingToken": "Più di > {count} trasferimenti Token trovati",
+  "hash": "Hash Txn",
   "type": "Metodo",
   "typeTxn": "Transazione",
-  "typeToken": "Transazione di Token",
+  "typeToken": "Transazione token",
   "tokenPlaceholder": "Cerca per token",
   "unknownType": "Sconosciuto",
   "batchTxns": "Transazione Batch",
   "createAccount": "Crea Account",
-  "deployContract": "Distribuisci Contratto",
+  "deployContract": "Deploy Contratto",
   "transfer": "Trasferimento",
   "stake": "Stake",
-  "addKey": "Aggiungi Key",
-  "deleteKey": "Elimina Key",
+  "addKey": "Aggiungi Chiave",
+  "deleteKey": "Elimina Chiave",
   "deleteAccount": "Elimina Account",
-  "txnError": "Errore di Transazione",
+  "txnError": "Errore Transazione",
   "age": "Età",
-  "ageDT": "Data Orario (UTC)",
+  "ageDT": "Data Ora (UTC)",
   "blockHeight": "Altezza blocco",
   "from": "Da",
   "to": "A",
@@ -28,70 +28,70 @@
   "txnOut": "OUT",
   "amount": "Importo",
   "filter": {
-    "placeholder": "Cerca per indirizzo e.g. Ⓝ..",
-    "filter": "Filtro",
+    "placeholder": "Cerca per indirizzo es. Ⓝ..",
+    "filter": "Filtra",
     "clear": "Cancella",
-    "by": "Filtrado da",
+    "by": "Filtrato Per",
     "from": "Da",
     "to": "A"
   },
   "txnDetails": {
     "metaTitle": "Transazione Near {txn} | NearBlocks",
-    "metaDescription": "Info dettagliate di transazioni su Near Blockchain {txn}.",
-    "heading": "Dettagli della Transazione",
+    "metaDescription": "Informazioni dettagliate della Blockchain Near per la transazione {txn}.",
+    "heading": "Dettagli Transazione",
     "hash": {
       "text": [
-        "Txn Hash"
+        "Hash Txn"
       ],
-      "tooltip": "Identificatore univoco (hash) di questa transazione."
+      "tooltip": "Identificatore unico (hash) di questa transazione."
     },
     "status": {
       "text": [
         "Stato"
       ],
       "status": {
-        "NotStarted": "Non avviata",
-        "Started": "Avviata",
+        "NotStarted": "Non iniziato",
+        "Started": "Iniziato",
         "Failure": "Fallito",
-        "SuccessValue": "Successo"
+        "SuccessValue": "Riuscito"
       },
       "tooltip": "Lo stato della transazione."
     },
     "block": {
       "text": [
-        "Altezza blocco"
+        "Altezza Blocco"
       ],
-      "tooltip": "Numero del blocco nel quale è stata registrata la transazione."
+      "tooltip": "Il numero del blocco in cui è stata registrata la transazione."
     },
     "timestamp": {
       "text": [
         "Timestamp"
       ],
-      "tooltip": "Il timestamp di quando è stata inserita la transazione."
+      "tooltip": "Timestamp di quando questa transazione è stata inviata."
     },
     "deposit": {
       "text": [
-        "Valore del versamento"
+        "Valore Deposito"
       ],
-      "tooltip": "Somma ti tutti i token NEAR trasferiti dall'account di emissione all'account del ricevente. Ciò comprendere i token inviati tramite l'azione di trasferimento, e i versamenti tramite Function Call."
+      "tooltip": "Somma di tutti i token NEAR trasferiti dall'account Firmatario all'account Ricevente. Questo include token inviati in azione/i di Trasferimento, e come depositi su azione/i di Chiamata Funzione."
     },
     "fee": {
       "text": [
-        "Costi di transazione"
+        "Commissione Transazione"
       ],
-      "tooltip": "Costo totale pagato in NEAR per eseguire la transazione."
+      "tooltip": "Commissione totale pagata in NEAR per eseguire questa transazione."
     },
     "price": {
       "text": [
-        "Ⓝ Prezzo"
+        "Prezzo Ⓝ"
       ],
-      "tooltip": "Prezzo di chiusura di Ⓝ in data della transazione"
+      "tooltip": "Prezzo di chiusura di Ⓝ alla data della transazione"
     },
     "from": {
       "text": [
         "Da"
       ],
-      "tooltip": "Account che ha firmato ed emesso la transazione"
+      "tooltip": "Account che ha firmato e inviato la transazione"
     },
     "to": {
       "text": [
@@ -108,34 +108,34 @@
     },
     "gas": {
       "text": [
-        "Limite Gas e Utilizzo della Txn"
+        "Limite Gas e Utilizzo per Txn"
       ],
-      "tooltip": "Quantità massima di gas attribuito per la transazione e la quantità eventualmente utilizzata."
+      "tooltip": "Quantità massima di gas allocata per la transazione e la quantità eventualmente utilizzata."
     },
-    "parentCoin": "Moneta Madre",
-    "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins",
+    "parentCoin": "Moneta Genitore",
+    "childCoins": "Monete Figlie",
+    "siblingCoins": "Monete Sorelle",
     "unknownToken": "Sconosciuto",
-    "claimToken": "Riscatta Token",
+    "claimToken": "Rivendica token",
     "token": "Token",
     "burnt": {
       "text": [
-        "Gas e Token Bruciati dalla Txn"
+        "Gas e Token Bruciati per Txn"
       ],
-      "tooltip": "Quantità di Gas e Token bruciati dalla transazione."
+      "tooltip": "Quantità totale di Gas e Token bruciati da questa transazione."
     },
     "actions": {
       "text": [
-        "Operazioni"
+        "Azioni"
       ],
-      "tooltip": "Le operazioni svolte effettuate durante la transazione.",
+      "tooltip": "Le azioni eseguite durante questa transazione.",
       "addKey": [
-        "Nuova key",
-        "Key di Accesso",
-        "aggiunto per",
+        "Nuova chiave",
+        "Chiave di accesso",
+        "aggiunta per",
         "contratto",
-        "con il permesso",
-        "per chiamare",
+        "con permesso",
+        "di chiamare",
         "metodi"
       ],
       "createAccount": [
@@ -147,29 +147,29 @@
         "e trasferisci fondi rimanenti a"
       ],
       "deleteKey": [
-        "Key",
+        "Chiave",
         "eliminata"
       ],
       "deployContract": [
         "Contratto",
-        "distribuito"
+        "deployato"
       ],
       "functionCall": [
-        "Metodo chiamata",
-        "in contratto"
+        "Metodo chiamato",
+        "nel contratto"
       ],
       "stake": [
-        "Messo in staking",
+        "Messo in stake",
         "con"
       ],
       "transfer": [
-        "Transferito",
+        "Trasferito",
         "a"
       ]
     },
     "tabs": {
       "overview": "Panoramica",
-      "execution": "Piano d'esecuzione",
+      "execution": "Piano di Esecuzione",
       "comments": "Commenti"
     },
     "receipts": {
@@ -177,59 +177,59 @@
         "text": [
           "Ricevuta"
         ],
-        "tooltip": "Identificatore univoco (hash) di questa ricevuta."
+        "tooltip": "Identificatore unico (hash) di questa ricevuta."
       },
       "block":{
         "text": [
           "Blocco"
         ],
-        "tooltip": "L'hash del blocco nel quale è stata eseguita la ricevuta."
+        "tooltip": "L'hash del blocco in cui è stata eseguita la ricevuta."
       },
       "from":{
         "text": [
           "Da"
         ],
-        "tooltip": "L'account che ha emesso la ricevuta."
+        "tooltip": "L'account che ha emesso una ricevuta."
       },
       "to":{
         "text": [
           "A"
         ],
-        "tooltip": "L'account destinatario della ricevuta."
+        "tooltip": "L'account di destinazione della ricevuta."
       },
       "burnt": {
         "text": [
-          "Gas e Token bruciati dalla ricevuta."
+          "Gas e Token Bruciati per Ricevuta"
         ],
-        "tooltip": "Quantità totale di Gas e Token bruciati dalla ricevuta."
+        "tooltip": "Quantità totale di Gas e Token bruciati da questa ricevuta."
       },
       "actions":{
         "text": [
-          "Operazioni"
+          "Azioni"
         ],
-        "tooltip": "Le operazioni compiute durante l'elaborazione della ricevuta."
+        "tooltip": "Le azioni eseguite durante l'elaborazione della ricevuta."
       },
       "result":{
         "text": [
           "Risultato",
-          "Nessun risultato",
-          "Risultato vuoto"
+          "Nessun Risultato",
+          "Risultato Vuoto"
         ],
         "tooltip": "Il risultato dell'esecuzione della ricevuta."
       },
       "logs":{
         "text": [
-          "Registri",
-          "Nessun registro"
+          "Log",
+          "Nessun Log"
         ],
-        "tooltip": "Registri inclusi nella ricevuta."
+        "tooltip": "Log inclusi nella ricevuta."
       }
     }
   },
-  "info": "Mostrando solo gli ultimi {count} registri",
-  "depositValue": "Valore versamento",
-  "txnFee": "Costi di Txn",
-  "txnSelf": "Self",
+  "info": "Mostrando solo gli ultimi {count , number} record",
+  "depositValue": "Valore deposito",
+  "txnFee": "Commissione txn",
+  "txnSelf": "Stesso",
   "noTxns": "Nessuna transazione",
-  "testnetNotice": "[ Questa è una transazione esclusiva al Testnet ]"
+  "testnetNotice": "[ Questa è solo una transazione Testnet ]"
 }

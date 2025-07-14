@@ -3,17 +3,17 @@
     "menu": {
       "home": "Home",
       "blockchain": "Blockchain",
-      "viewBlocks": "Vedi Blocchi",
-      "viewTxns": "Vedi Txns",
+      "viewBlocks": "Visualizza Blocchi",
+      "viewTxns": "Visualizza Txns",
       "languages": "Lingue",
       "charts": "Grafici e Statistiche",
-      "topAccounts": "Migliori Account",
+      "topAccounts": "Account Principali",
       "tokens": "Token",
-      "toptoken": "Migliori Token",
-      "viewTokenTrasfers": "Vedi Trasferimenti di Token",
-      "topnft": "Migliori Token NFT",
-      "viewNftTrasfers": "Vedi Trasferimenti di NFT",
-      "nodeExplorer": "Node Explorer"
+      "toptoken": "Token Principali",
+      "viewTokenTrasfers": "Trasferimenti Token",
+      "topnft": "Token NFT Principali",
+      "viewNftTrasfers": "Trasferimenti Token NFT",
+      "nodeExplorer": "Esploratore Nodi"
     }
   },
   "search": {
@@ -24,7 +24,7 @@
       "token": "Token",
       "addresses": "Indirizzi"
     },
-    "placeholder": "Cerca per ID Account / Txn Hash / Blocco",
+    "placeholder": "Cerca per ID Account / Hash Txn / Blocco",
     "list": {
       "address": "Account",
       "txns": "Txns",
@@ -34,24 +34,24 @@
     "noResults": "Nessun risultato"
   },
   "footer": {
-    "description": "NearBlocks è un Blockchain Explorer e piattaforma di Analitica per Near Protocol, una nuova piattaforma di blockchain e transazioni intelligenti.",
-    "poweredBy": "Powered by",
+    "description": "NEAR Blocks è l'esploratore blockchain leader dedicato all'ecosistema NEAR. Alimentato dal Protocollo NEAR.",
+    "poweredBy": "Alimentato da",
     "links": {
       "explore": "Esplora",
-      "blockExplorer": "Block Explorer",
-      "latestBlocks": "Ultimi Blocchi",
-      "latestTxns": "Ultime Transazioni",
+      "blockExplorer": "Esploratore Blocchi",
+      "latestBlocks": "Blocchi Recenti",
+      "latestTxns": "Transazioni Recenti",
       "company": "Azienda",
-      "about": "Riguardo a",
-      "advertise": "Pubblicità",
-      "contact": "Contatta",
+      "about": "Chi Siamo",
+      "advertise": "Pubblicizza",
+      "contact": "Contatto",
       "terms": "Termini",
       "charts": "Grafici e Statistiche",
-      "api": "NEAR API dell'indicizzatore",
-      "kb": "Base di conoscenza",
-      "fundamentals": "Principi fondamentali",
+      "api": "API Indicizzatore NEAR",
+      "kb": "Base di Conoscenza",
+      "fundamentals": "Fondamentali",
       "buySell": "Compra, Vendi e Scambia",
-      "nearValidator": "NEAR Elenco dei validatori"
+      "nearValidator": "Elenco Validatori NEAR"
     }
   },
   "sponsored": "Sponsorizzato",
@@ -61,21 +61,21 @@
   },
   "validation": {
     "required": "{field} è richiesto",
-    "invalid": "Per favore fornisci un {field} valido"
+    "invalid": "Si prega di fornire un {field} valido"
   },
   "chart": {
-    "source": "Fonti: nearblocks.io"
+    "source": "Fonte: nearblocks.io"
   },
-  "trademark": "NearBlocks funziona completamente e da solo. NearBlocks non è associato a The NEAR Foundation e ogni marchio con licenza visualizzato su questo sito Web appartiene ai rispettivi proprietari.",
+  "trademark": "NearBlocks opera in modo completo e indipendente. NearBlocks non è associato a The NEAR Foundation e ogni marchio registrato mostrato su questo sito web appartiene ai rispettivi proprietari.",
   "tags": {
     "service": "Servizio",
     "pool": "Pool",
     "personal": "Personale",
     "shop": "Negozio",
-    "donation": "Donazioni",
-    "centralisedExchange": "Scambio Centralizzato",
-    "decentralisedExchange": "Scambio Decentralizzato"
+    "donation": "Donazione",
+    "centralisedExchange": "Exchange Centralizzato",
+    "decentralisedExchange": "Exchange Decentralizzato"
   },
-  "outofSync": "A causa di una manutenzione imprevista, Nearblocks non è sincronizzato. Alcuni blocchi o transazioni potrebbero essere in ritardo.",
-  "rpcRateLimitError": "La tua velocità è limitata dall'attuale RPC ({rpcUrl}). Riprova più tardi o seleziona un altro provider RPC dal menu a discesa {icon}."
+  "outofSync": "A causa di manutenzione imprevista, Nearblocks è fuori sincrono. Alcuni blocchi o transazioni potrebbero essere ritardati.",
+  "rpcRateLimitError": "Sei stato limitato dall'RPC attuale ({rpcUrl}). Riprova più tardi o seleziona un provider RPC diverso dal menu a tendina {icon}."
 }

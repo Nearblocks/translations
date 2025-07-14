@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - ขออภัย ไม่พบหน้าเว็บไซต์ที่คุณต้องการ | NearBlocks",
-  "metaDescription": "ขออภัย เราไม่พบสิ่งที่คุณต้องการ โปรดลองใหม่อีีกครั้ง",
-  "description": "<0>ขออภัย</0> เกิดข้อผิดพลาดที่ไม่คาดคิด",
-  "addressDescription": "<0>ขออภัย</0> ไม่พบแอดเดรส",
-  "blockDescription": "<0>ขออภัย</0> ไม่พบบล็อก",
-  "txnDescription": "<0>ขออภัย</0> ไม่พบการทำธุรกรรม",
-  "back": "กลับไปยังหน้าโฮม",
-  "tokenDescription": "<0>ขออภัย</0> ไม่พบโทเคนที่คุณต้องการ"
+  "metaTitle": "404 - ไม่พบหน้า | NearBlocks",
+  "metaDescription": "เราไม่พบสิ่งที่คุณกำลังมองหา ขออภัย กรุณาลองใหม่อีกครั้ง",
+  "description": "<0>ขออภัย!</0> เราพบข้อผิดพลาดที่ไม่คาดคิด",
+  "addressDescription": "<0>ขออภัย!</0> ไม่พบ Address",
+  "blockDescription": "<0>ขออภัย!</0> ไม่พบ Block",
+  "txnDescription": "<0>ขออภัย!</0> ไม่พบ Transaction",
+  "back": "กลับหน้าแรก",
+  "tokenDescription": "<0>ขออภัย!</0> ไม่พบ Token"
 }

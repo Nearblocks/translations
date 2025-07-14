@@ -1,44 +1,235 @@
 {
-  "metaTitle": "最新 Near 協議交易 | NearBlocks",
-  "metaDescription": "Near 區塊鏈上所有已確認交易，包括 NEAR 轉帳同交易詳情。",
-  "txnsHeading": "最新 Near 協議交易",
-  "txnsListing": "已搵到超過 > {count} 筆交易",
-  "listingToken": "已搵到超過 > {count} 筆代幣交易",
-  "hash": "交易雜湊值",
-  "type": "方法",
-  "typeTxn": "交易",
-  "typeToken": "代幣交易",
-  "tokenPlaceholder": "搜尋代幣",
+  "metaTitle": "All Latest Near Protocol transactions | NearBlocks",
+  "metaDescription": "在 Near Blockchain 上確認的所有最新 Near Protocol transactions。列表包括發送 Near 的 transactions 和每個 transaction 的 transactions 詳細信息。",
+  "txnsHeading": "Latest Near Protocol Transactions",
+  "txnsListing": "找到超過 > {count} transactions",
+  "listingToken": "找到超過 > {count} Token transfers",
+  "hash": "Txn Hash",
+  "type": "Method",
+  "typeTxn": "Transaction",
+  "typeToken": "Token transaction",
+  "tokenPlaceholder": "按 token 搜索",
   "unknownType": "未知",
-  "batchTxns": "批量交易",
-  "createAccount": "建立帳戶",
-  "deployContract": "部署合約",
-  "transfer": "轉帳",
-  "stake": "質押",
-  "addKey": "新增金鑰",
-  "deleteKey": "刪除金鑰",
-  "deleteAccount": "刪除帳戶",
-  "txnError": "交易錯誤",
+  "batchTxns": "Batch Transaction",
+  "createAccount": "Create Account",
+  "deployContract": "Deploy Contract",
+  "transfer": "Transfer",
+  "stake": "Stake",
+  "addKey": "Add Key",
+  "deleteKey": "Delete Key",
+  "deleteAccount": "Delete Account",
+  "txnError": "Transaction Error",
   "age": "時間",
-  "ageDT": "日期時間（UTC）",
-  "blockHeight": "區塊高度",
-  "from": "由",
-  "to": "至",
-  "txnIn": "接收",
-  "txnOut": "發送",
+  "ageDT": "日期時間 (UTC)",
+  "blockHeight": "Block height",
+  "from": "來自",
+  "to": "到",
+  "txnIn": "IN",
+  "txnOut": "OUT",
   "amount": "金額",
   "filter": {
-    "placeholder": "搜尋地址，例如 Ⓝ..",
-    "filter": "篩選",
+    "placeholder": "按 address 搜索，例如 Ⓝ..",
+    "filter": "過濾",
     "clear": "清除",
-    "by": "依據篩選",
-    "from": "由",
-    "to": "至"
+    "by": "過濾條件",
+    "from": "來自",
+    "to": "到"
   },
-  "info": "僅顯示最近 {count , number} 筆紀錄",
-  "depositValue": "存入金額",
-  "txnFee": "交易手續費",
-  "txnSelf": "自我交易",
-  "noTxns": "冇交易紀錄",
-  "testnetNotice": "[ 呢筆交易係測試網上進行 ]"
+  "txnDetails": {
+    "metaTitle": "Near Transaction {txn} | NearBlocks",
+    "metaDescription": "Near Blockchain transaction {txn} 的詳細信息。",
+    "heading": "Transaction 詳情",
+    "hash": {
+      "text": [
+        "Txn Hash"
+      ],
+      "tooltip": "此 transaction 的唯一標識符 (hash)。"
+    },
+    "status": {
+      "text": [
+        "狀態"
+      ],
+      "status": {
+        "NotStarted": "未開始",
+        "Started": "已開始",
+        "Failure": "失敗",
+        "SuccessValue": "成功"
+      },
+      "tooltip": "transaction 的狀態。"
+    },
+    "block": {
+      "text": [
+        "Block Height"
+      ],
+      "tooltip": "記錄 transaction 的 block 編號。"
+    },
+    "timestamp": {
+      "text": [
+        "Timestamp"
+      ],
+      "tooltip": "提交此 transaction 的時間戳。"
+    },
+    "deposit": {
+      "text": [
+        "Deposit Value"
+      ],
+      "tooltip": "從 Signing account 轉移到 Receiver account 的所有 NEAR tokens 的總和。這包括在 Transfer action(s) 中發送的 tokens，以及在 Function Call action(s) 上的存款。"
+    },
+    "fee": {
+      "text": [
+        "Transaction Fee"
+      ],
+      "tooltip": "執行此 transaction 支付的 NEAR 總費用。"
+    },
+    "price": {
+      "text": [
+        "Ⓝ Price"
+      ],
+      "tooltip": "transaction 日期的 Ⓝ 收盤價"
+    },
+    "from": {
+      "text": [
+        "來自"
+      ],
+      "tooltip": "簽署並發送 transaction 的 Account"
+    },
+    "to": {
+      "text": [
+        "到"
+      ],
+      "tooltip": "接收 transaction 的 Account。"
+    },
+    "type": {
+      "text": [
+        "類型",
+        "Transaction"
+      ],
+      "tooltip": "transaction 類型。"
+    },
+    "gas": {
+      "text": [
+        "Gas Limit & Usage by Txn"
+      ],
+      "tooltip": "為 transaction 分配的最大 gas 量和最終使用的量。"
+    },
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
+    "unknownToken": "未知",
+    "claimToken": "Claim token",
+    "token": "Token",
+    "burnt": {
+      "text": [
+        "Burnt Gas & Tokens by Txn"
+      ],
+      "tooltip": "此 transaction 燃燒的 Gas & Token 總量。"
+    },
+    "actions": {
+      "text": [
+        "Actions"
+      ],
+      "tooltip": "此 transaction 期間執行的操作。",
+      "addKey": [
+        "New key",
+        "Access key",
+        "added for",
+        "contract",
+        "with permission",
+        "to call",
+        "methods"
+      ],
+      "createAccount": [
+        "New account",
+        "created"
+      ],
+      "deleteAccount": [
+        "Delete account",
+        "and transfer remaining funds to"
+      ],
+      "deleteKey": [
+        "Key",
+        "deleted"
+      ],
+      "deployContract": [
+        "Contract",
+        "deployed"
+      ],
+      "functionCall": [
+        "Called method",
+        "in contract"
+      ],
+      "stake": [
+        "Staked",
+        "with"
+      ],
+      "transfer": [
+        "Transferred",
+        "to"
+      ]
+    },
+    "tabs": {
+      "overview": "概覽",
+      "execution": "Execution Plan",
+      "comments": "評論"
+    },
+    "receipts": {
+      "receipt":{
+        "text": [
+          "Receipt"
+        ],
+        "tooltip": "此 receipt 的唯一標識符 (hash)。"
+      },
+      "block":{
+        "text": [
+          "Block"
+        ],
+        "tooltip": "執行 receipt 的 block 的 hash。"
+      },
+      "from":{
+        "text": [
+          "來自"
+        ],
+        "tooltip": "發出 receipt 的 Account。"
+      },
+      "to":{
+        "text": [
+          "到"
+        ],
+        "tooltip": "receipt 的目標 Account。"
+      },
+      "burnt": {
+        "text": [
+          "Burnt Gas & Tokens by Receipt"
+        ],
+        "tooltip": "此 receipt 燃燒的 Gas & Token 總量。"
+      },
+      "actions":{
+        "text": [
+          "Actions"
+        ],
+        "tooltip": "receipt 處理期間執行的操作。"
+      },
+      "result":{
+        "text": [
+          "結果",
+          "無結果",
+          "空結果"
+        ],
+        "tooltip": "receipt 執行的結果。"
+      },
+      "logs":{
+        "text": [
+          "Logs",
+          "無 Logs"
+        ],
+        "tooltip": "receipt 中包含的日誌。"
+      }
+    }
+  },
+  "info": "僅顯示最後 {count , number} 條記錄",
+  "depositValue": "Deposit value",
+  "txnFee": "Txn fee",
+  "txnSelf": "自己",
+  "noTxns": "無 transactions",
+  "testnetNotice": "[ 這只是一個 Testnet transaction ]"
 }

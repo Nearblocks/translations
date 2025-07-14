@@ -1,10 +1,10 @@
 {
-  "metaTitle": "Klaim Alamat | NearBlocks",
-  "metaDescription": "Klaim nama, label, dan informasi tambahan untuk akun Anda.",
+  "metaTitle": "Klaim Akun | NearBlocks",
+  "metaDescription": "Klaim nama, tag dan informasi lainnya.",
   "heading": "Klaim Akun Ⓝ",
   "form": {
-    "heading": "Klaim Nama, Label, dan Info Akun Anda",
-    "content": "Isi formulir berikut untuk mengklaim label dan tautan yang terkait dengan alamat Ⓝ Anda. Setiap permintaan membutuhkan pengiriman {amount} Ⓝ ke alamat yang ditentukan sebagai verifikasi kepemilikan akun.",
+    "heading": "Klaim nama, tag dan informasi lainnya",
+    "content": "Klaim Tag Nama Anda dan tambahkan informasi lain yang terkait dengan alamat Ⓝ Anda dengan mengisi formulir di bawah ini. Untuk setiap permintaan edit, kami akan meminta deposit {amount} Ⓝ untuk membuktikan kepemilikan alamat Anda.",
     "address": {
       "label": "Alamat Ⓝ"
     },
@@ -12,7 +12,7 @@
       "label": "Nama"
     },
     "tag": {
-      "label": "Label"
+      "label": "Tag"
     },
     "website": {
       "label": "Situs Web"
@@ -21,7 +21,7 @@
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (atau Medium)"
+      "label": "Blog (Atau Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Silakan kirim {amount} Ⓝ ke alamat berikut untuk verifikasi:",
-      "tooltip": "Akun pengirim harus sesuai dengan alamat yang diklaim."
+      "label": "Deposit {amount} Ⓝ ke alamat berikut untuk membuktikan kepemilikan Anda:",
+      "tooltip": "Alamat pengirim harus identik dengan alamat yang ingin Anda tambahkan informasinya."
     },
-    "button": "Ajukan Klaim",
-    "successMessage": "Terima kasih atas permintaan Anda! Kami akan meninjaunya sesegera mungkin.",
-    "errorMessage": "Terjadi kesalahan!"
+    "button": "Kirim",
+    "successMessage": "Terima kasih, kami akan meninjau aplikasi Anda dan mendaftarkannya setelah disetujui",
+    "errorMessage": "Ada yang salah!"
   }
 }

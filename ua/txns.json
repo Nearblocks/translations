@@ -1,49 +1,49 @@
 {
-  "metaTitle": "Усі Останні Транзакції Near Protocol | NearBlocks",
-  "metaDescription": "Усі Транзакції near підтверджені на блокчейні Near. Список складається з транзакцій від відправки Near Ⓝ та деталей транзакцій для кожної транзакції.",
-  "txnsHeading": "Останні Транзакції Near Protocol",
-  "txnsListing": "Більше ніж > транзакцій {count}",
-  "listingToken": "Більше ніж > {count} Знайдені перекази токенів",
-  "hash": "Хеш Транзакції",
-  "type": "Метод",
-  "typeTxn": "Транзакція",
-  "tokenPlaceholder": "Пошук за маркером",
-  "typeToken": "Транзакція токена",
+  "metaTitle": "All Latest Near Protocol transactions | NearBlocks",
+  "metaDescription": "All Latest Near Protocol transactions підтверджені на Near Blockchain. Список складається з transactions відправки Near та деталей transactions для кожної transaction.",
+  "txnsHeading": "Latest Near Protocol Transactions",
+  "txnsListing": "Знайдено більше ніж > {count} transactions",
+  "listingToken": "Знайдено більше ніж > {count} Token transfers",
+  "hash": "Txn Hash",
+  "type": "Method",
+  "typeTxn": "Transaction",
+  "typeToken": "Token transaction",
+  "tokenPlaceholder": "Пошук за token",
   "unknownType": "Невідомо",
-  "batchTxns": "Пакетна Транзакція",
-  "createAccount": "Створити Акаунт",
-  "deployContract": "Розгорнути Контракт",
-  "transfer": "Передача",
-  "stake": "Ставка",
-  "addKey": "Додати Ключ",
-  "deleteKey": "Видалити Ключ",
-  "deleteAccount": "Видалити Акаунт",
-  "txnError": "Помилка Транзакції",
+  "batchTxns": "Batch Transaction",
+  "createAccount": "Create Account",
+  "deployContract": "Deploy Contract",
+  "transfer": "Transfer",
+  "stake": "Stake",
+  "addKey": "Add Key",
+  "deleteKey": "Delete Key",
+  "deleteAccount": "Delete Account",
+  "txnError": "Transaction Error",
   "age": "Вік",
   "ageDT": "Дата Час (UTC)",
-  "blockHeight": "Висота блоку",
+  "blockHeight": "Block height",
   "from": "Від",
   "to": "До",
-  "txnIn": "ВХІД",
-  "txnOut": "ВИХІД",
-  "amount": "Кількість",
+  "txnIn": "IN",
+  "txnOut": "OUT",
+  "amount": "Сума",
   "filter": {
-    "placeholder": "Пошук за адресою, наприклад  Ⓝ..",
+    "placeholder": "Пошук за address напр. Ⓝ..",
     "filter": "Фільтр",
     "clear": "Очистити",
-    "by": "Відфільтровано За:",
-    "from": "Від:",
-    "to": "До:"
+    "by": "Відфільтровано за",
+    "from": "Від",
+    "to": "До"
   },
   "txnDetails": {
-    "metaTitle": "Транзакція Near {txn} | NearBlocks",
-    "metaDescription": "Детальна інформація з блокчейну Near для транзакції {txn}.",
-    "heading": "Деталі транзакції",
+    "metaTitle": "Near Transaction {txn} | NearBlocks",
+    "metaDescription": "Near Blockchain детальна інформація для transaction {txn}.",
+    "heading": "Деталі Transaction",
     "hash": {
       "text": [
-        "Хеш Транзакції"
+        "Txn Hash"
       ],
-      "tooltip": "Унікальний ідентифікатор (хеш) даної транзакції."
+      "tooltip": "Унікальний ідентифікатор (hash) цієї transaction."
     },
     "status": {
       "text": [
@@ -52,184 +52,184 @@
       "status": {
         "NotStarted": "Не розпочато",
         "Started": "Розпочато",
-        "Failure": "Помилка",
+        "Failure": "Невдача",
         "SuccessValue": "Успішно"
       },
-      "tooltip": "Статус транзакції."
+      "tooltip": "Статус transaction."
     },
     "block": {
       "text": [
-        "Висота блоку"
+        "Block Height"
       ],
-      "tooltip": "Номер блоку, в якому була записана транзакція."
+      "tooltip": "Номер block, в якому transaction була записана."
     },
     "timestamp": {
       "text": [
-        "Мітка часу"
+        "Timestamp"
       ],
-      "tooltip": "Мітка часу, коли ця транзакція була відправлена."
+      "tooltip": "Timestamp коли ця transaction була подана."
     },
     "deposit": {
       "text": [
-        "Вартість Депозиту"
+        "Deposit Value"
       ],
-      "tooltip": "Сума всіх токенів NEAR, переведених зі Signing акаунту на акаунт Отримувача. Це включає в себе токени, відправлені в Transfer дії (діях), і як депозити в Function Call дії (діях)."
+      "tooltip": "Сума всіх NEAR tokens, переданих з Signing account до Receiver account. Це включає tokens, надіслані в Transfer action(s), та як deposits у Function Call action(s)."
     },
     "fee": {
       "text": [
-        "Комісія за транзакцію"
+        "Transaction Fee"
       ],
-      "tooltip": "Загальна комісія, сплачена в NEAR за виконання цієї транзакції."
+      "tooltip": "Загальна комісія, сплачена в NEAR для виконання цієї transaction."
     },
     "price": {
       "text": [
-        "Ⓝ Ціна"
+        "Ⓝ Price"
       ],
-      "tooltip": "Ціна закриття Ⓝ на дату угоди"
+      "tooltip": "Ціна закриття Ⓝ на дату transaction"
     },
     "from": {
       "text": [
         "Від"
       ],
-      "tooltip": "Акаунт, який підписав та відправив транзакцію"
+      "tooltip": "Account, який підписав та відправив transaction"
     },
     "to": {
       "text": [
         "До"
       ],
-      "tooltip": "Акаунт, який приймає транзакцію."
+      "tooltip": "Account, який отримує transaction."
     },
     "type": {
       "text": [
         "Тип",
-        "Транзакція"
+        "Transaction"
       ],
-      "tooltip": "Тип угоди."
+      "tooltip": "Тип transaction."
     },
     "gas": {
       "text": [
-        "Ліміт Газу та Використання Транзакцією"
+        "Gas Limit & Usage by Txn"
       ],
-      "tooltip": "Максимальна кількість газу, виділена для транзакції, та сума, яка в кінцевому підсумку використовується."
+      "tooltip": "Максимальна кількість gas, виділена для transaction та кількість, яка зрештою була використана."
     },
-    "parentCoin": "Parent Монета",
-    "childCoins": "Child Монети",
-    "siblingCoins": "Sibling Монети",
+    "parentCoin": "Parent Coin",
+    "childCoins": "Child Coins",
+    "siblingCoins": "Sibling Coins",
     "unknownToken": "Невідомо",
-    "claimToken": "Отримати токен",
-    "token": "Токен",
+    "claimToken": "Claim token",
+    "token": "Token",
     "burnt": {
       "text": [
-        "Спалені Газ та Токени за Транзакцію"
+        "Burnt Gas & Tokens by Txn"
       ],
-      "tooltip": "Загальна кількість спалених Газу та Токенів з цієї транзакції."
+      "tooltip": "Загальна кількість Gas & Token, спалених з цієї transaction."
     },
     "actions": {
       "text": [
-        "Дії"
+        "Actions"
       ],
-      "tooltip": "Дії, виконані під час цієї транзакції.",
+      "tooltip": "Дії, виконані під час цієї transaction.",
       "addKey": [
-        "Новий ключ",
-        "Ключ доступу",
-        "додано для",
-        "контракт",
-        "з дозволом",
-        "для виклику",
-        "методів"
+        "New key",
+        "Access key",
+        "added for",
+        "contract",
+        "with permission",
+        "to call",
+        "methods"
       ],
       "createAccount": [
-        "Новий акаунт",
-        "створено"
+        "New account",
+        "created"
       ],
       "deleteAccount": [
-        "Видалити акаунт",
-        "і переказати залишок коштів на"
+        "Delete account",
+        "and transfer remaining funds to"
       ],
       "deleteKey": [
-        "Ключ",
-        "видалено"
+        "Key",
+        "deleted"
       ],
       "deployContract": [
-        "Контракт",
-        "розгорнуто"
+        "Contract",
+        "deployed"
       ],
       "functionCall": [
-        "Викликано метод",
-        "у контракті"
+        "Called method",
+        "in contract"
       ],
       "stake": [
-        "Застосувано ставку",
-        "з"
+        "Staked",
+        "with"
       ],
       "transfer": [
-        "Переказано",
-        "до"
+        "Transferred",
+        "to"
       ]
     },
     "tabs": {
       "overview": "Огляд",
-      "execution": "План Виконання",
+      "execution": "Execution Plan",
       "comments": "Коментарі"
     },
     "receipts": {
-      "receipt": {
+      "receipt":{
         "text": [
-          "транзакція"
+          "Receipt"
         ],
-        "tooltip": "Унікальний ідентифікатор (хеш) цієї транзакції."
+        "tooltip": "Унікальний ідентифікатор (hash) цього receipt."
       },
-      "block": {
+      "block":{
         "text": [
-          "Блок"
+          "Block"
         ],
-        "tooltip": "Хеш блоку, в якому була виконана транзакція."
+        "tooltip": "Hash block, в якому receipt був виконаний."
       },
-      "from": {
+      "from":{
         "text": [
           "Від"
         ],
-        "tooltip": "Акаунт, що виконав транзакцію."
+        "tooltip": "Account, який видав receipt."
       },
-      "to": {
+      "to":{
         "text": [
           "До"
         ],
-        "tooltip": "Акаунт, що отримав транзакцію."
+        "tooltip": "Account призначення receipt."
       },
       "burnt": {
         "text": [
-          "Спалені Газ та Токени за квитанцію"
+          "Burnt Gas & Tokens by Receipt"
         ],
-        "tooltip": "Загальна кількість спалених Газу та Токенів з цієї транзакції."
+        "tooltip": "Загальна кількість Gas & Token, спалених з цього receipt."
       },
-      "actions": {
+      "actions":{
         "text": [
-          "Дії"
+          "Actions"
         ],
-        "tooltip": "Дії, виконані під час обробки транзакції."
+        "tooltip": "Дії, виконані під час обробки receipt."
       },
-      "result": {
+      "result":{
         "text": [
           "Результат",
-          "Без Результату",
-          "Порожній Результат"
+          "Немає результату",
+          "Порожній результат"
         ],
-        "tooltip": "Результат виконання транзакції."
+        "tooltip": "Результат виконання receipt."
       },
-      "logs": {
+      "logs":{
         "text": [
-          "Логи",
-          "Немає Логів"
+          "Logs",
+          "Немає Logs"
         ],
-        "tooltip": "Логи, включені в транзкцію."
+        "tooltip": "Logs, включені в receipt."
       }
     }
   },
-  "info": "Показано лише останні {count} записів",
-  "depositValue": "Сума депозиту",
-  "txnFee": "Комісія за транзакцію",
-  "txnSelf": "Self",
-  "noTxns": "Немає транзакцій",
-  "testnetNotice": "[ Це лише Testnet транзакція ]"
+  "info": "Показуємо лише останні {count , number} записів",
+  "depositValue": "Deposit value",
+  "txnFee": "Txn fee",
+  "txnSelf": "Себе",
+  "noTxns": "Немає transactions",
+  "testnetNotice": "[ Це лише Testnet transaction ]"
 }

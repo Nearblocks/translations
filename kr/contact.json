@@ -1,27 +1,27 @@
 {
   "contact": {
-    "metaTitle": "저희에게 연락| 블록 근처",
-    "metaDescription": "당사 웹사이트 및 도구와 관련된 문의는 가까운 블록 팀에 문의하십시오. 블록 탐색기 서비스와 직접 관련된 문제만 지원할 수 있습니다.",
-    "heading": "블록 근처 연락처",
+    "metaTitle": "문의하기 | NearBlocks",
+    "metaDescription": "당사의 웹사이트 및 도구와 관련된 문의사항은 Near Blocks 팀에 연락해주세요. 블록 탐색기 서비스와 직접 관련된 문제만 도움을 드릴 수 있음을 양해해주세요.",
+    "heading": "Near Blocks에 문의하기",
     "info": {
-      "heading": "우리에게 메시지를 드롭,하지만 유의하시기 바랍니다 :",
+      "heading": "메시지를 보내주세요. 다만 다음 사항을 알아주세요:",
       "points": [
         {
-          "heading": "보류 중인 트랜잭션",
-          "content": "당사는 거래를 처리하지 않으므로 거래를 신속하게 처리하거나 취소하거나 교체할 수 없습니다. 보류 중인 거래에 문제가 있는 경우 여기를 참조하십시오."
+          "heading": "보류 중인 거래",
+          "content": "당사는 거래를 처리하지 않으므로 거래를 가속화하거나 취소하거나 교체할 수 없습니다. 보류 중인 거래에 문제가 있으시면 여기를 참조해주세요."
         },
         {
-          "heading": "블록 탐색기 근처",
-          "content": "근거리 블록은 다른 서비스 공급자와 관련이 없는 독립적인 블록 탐색기이므로 다른 서비스 공급자와 관련된 문의에 대한 정확한 응답을 제공할 수 없습니다."
+          "heading": "Near 블록 탐색기",
+          "content": "Near Blocks는 다른 서비스 제공업체와 관련이 없는 독립적인 블록 탐색기입니다(명시적으로 달리 명시된 경우 제외). 따라서 다른 서비스 제공업체에 특정한 문의에 대해 정확한 답변을 제공할 수 없습니다."
         },
         {
-          "heading": "지갑 / 교환 / 프로젝트 관련 문제",
-          "content": "지갑 서비스 제공업체, 교환 또는 프로젝트/계약 소유자에게 연락하여 플랫폼 및 플랫폼과 관련된 문제를 지원할 수 있는 더 나은 위치에 있으므로 추가 지원을 받을 수 있습니다."
+          "heading": "지갑 / 거래소 / 프로젝트 관련 문제",
+          "content": "지갑 서비스 제공업체, 거래소 또는 프로젝트/계약 소유자에게 추가 지원을 요청해주세요. 그들이 자신의 플랫폼과 관련된 문제를 도와드리기에 더 나은 위치에 있습니다."
         }
       ]
     },
     "form": {
-      "heading": "연락처 양식:",
+      "heading": "문의 양식:",
       "name": {
         "label": "이름",
         "placeholder": "이름"
@@ -36,19 +36,19 @@
         "options": [
           "일반 문의",
           "지원 / 기술",
-          "Partnership",
-          "API / Development",
-          "Name tagging / Label address",
-          "Advertise"
+          "파트너십",
+          "API / 개발",
+          "이름 태그 / 주소 라벨",
+          "광고"
         ]
       },
       "message": {
-        "label": "Message",
-        "placeholder": "Message"
+        "label": "메시지",
+        "placeholder": "메시지"
       },
-      "button": "Send Message",
-      "successMessage": "Thank you, we will get back to you soon",
-      "errorMessage": "Something went wrong!"
+      "button": "메시지 보내기",
+      "successMessage": "감사합니다. 곧 연락드리겠습니다",
+      "errorMessage": "문제가 발생했습니다!"
     }
   }
 }

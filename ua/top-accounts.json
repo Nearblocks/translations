@@ -1,13 +1,13 @@
 {
-  "metaTitle": "Топ 10 000 акаунтів Near | NearBlocks",
-  "metaDescription": "Знайдіть топ 10 000 акаунтів Near по балансу",
-  "heading": "Топ акаунтів по Ⓝ балансу",
-  "listing": "Всього знайдено > акаунтів {count} ({sum} Ⓝ).",
-  "info": "Відображення лише топ 10 000 акаунтів",
+  "metaTitle": "Top 10,000 Near Accounts | NearBlocks",
+  "metaDescription": "Знайдіть Top 10,000 Near accounts за balance.",
+  "heading": "Top Accounts за Ⓝ Balance",
+  "listing": "Знайдено всього > {count} accounts ({sum} Ⓝ).",
+  "info": "Показуємо лише top 10,000 accounts",
   "rank": "Ранг",
-  "address": "Адреса",
-  "balance": "Баланс",
+  "address": "Address",
+  "balance": "Balance",
   "percentage": "Відсоток",
-  "value": "Значення",
-  "txns": "Кількість Транзакцій"
+  "value": "Вартість",
+  "txns": "Кількість Txns"
 }

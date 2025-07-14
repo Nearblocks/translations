@@ -1,54 +1,54 @@
 {
   "contact": {
     "metaTitle": "联系我们 | NearBlocks",
-    "metaDescription": "如有关于 Near Blocks 网站和工具的任何问题，请联系我们的团队。请注意，我们只能协助与区块链浏览器直接相关的问题。",
+    "metaDescription": "联系 Near Blocks 团队了解与我们的网站和工具相关的任何问题。请理解我们只能协助直接与区块浏览器服务相关的问题。",
     "heading": "联系 Near Blocks",
     "info": {
-      "heading": "请给我们留言，但请注意：",
+      "heading": "给我们留言，但请注意：",
       "points": [
         {
-          "heading": "待处理交易",
-          "content": "我们不处理交易，因此无法加速、取消或替换交易。如果您遇到交易延迟问题，请查看我们的指南。"
+          "heading": "Pending Transaction",
+          "content": "我们不处理 transactions，因此无法加速、取消或替换它们。如果您在 pending transactions 方面遇到问题，请参考这里。"
         },
         {
-          "heading": "Near 浏览器",
-          "content": "Near Blocks 是一个独立的区块链浏览器，与其他服务提供商无直接关联（除非另有说明），因此我们无法协助处理第三方服务问题。"
+          "heading": "Near Block Explorer",
+          "content": "Near Blocks 是一个独立的区块浏览器，与其他服务提供商无关（除非明确说明），因此无法为特定于其他服务提供商的查询提供精确响应。"
         },
         {
-          "heading": "钱包 / 交易所 / 项目问题",
-          "content": "请直接联系钱包、交易所或项目合约团队的支持渠道，以获得最准确的帮助。"
+          "heading": "Wallet / Exchange / Project 相关问题",
+          "content": "请联系您的钱包服务提供商、交易所或项目/合约所有者以获得进一步支持，因为他们更有能力协助您解决与其平台相关的问题。"
         }
       ]
     },
     "form": {
-      "heading": "联系表单：",
+      "heading": "联系表格：",
       "name": {
         "label": "姓名",
         "placeholder": "姓名"
       },
       "email": {
-        "label": "电子邮件",
-        "placeholder": "电子邮件"
+        "label": "邮箱",
+        "placeholder": "邮箱"
       },
       "subject": {
         "label": "主题",
         "placeholder": "主题",
         "options": [
-          "一般问题",
-          "支持 / 技术问题",
-          "合作机会",
-          "API / 开发者",
-          "地址标签",
-          "广告投放"
+          "一般询问",
+          "支持/技术",
+          "合作伙伴",
+          "API/开发",
+          "名称标记/Label address",
+          "广告"
         ]
       },
       "message": {
-        "label": "留言",
-        "placeholder": "留言"
+        "label": "消息",
+        "placeholder": "消息"
       },
-      "button": "发送信息",
-      "successMessage": "感谢您的留言，我们将尽快回复您",
-      "errorMessage": "发生错误！"
+      "button": "发送消息",
+      "successMessage": "谢谢，我们会尽快与您联系",
+      "errorMessage": "出了点问题！"
     }
   }
 }

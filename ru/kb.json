@@ -1,17 +1,17 @@
 {
-  "metaTitle": "Обозреватель блокчейна Near | NearBlocks",
-  "metaDescription": "Near Blocks — это обозреватель блоков и аналитическая платформа для блокчейна Near (Ⓝ), новой платформы для умных транзакций.",
-  "kbTitle": "База знаний и информационный центр Near Blocks",
-  "search": "Введите запрос для поиска",
-  "home": "Главная",
-  "published": "Опубликовано",
-  "lastUpdated": "Последнее обновление",
-  "kb": {
-    "metaTitle": "{post} | NearBlocks",
-    "metaDescription": "{post} | NearBlocks"
-  },
-  "article": {
-    "metaTitle": "{slug} | NearBlocks",
-    "metaDescription": "{slug} | NearBlocks"
-  }
+    "metaTitle": "Обозреватель блокчейна Near | NearBlocks",
+    "metaDescription": "Near Blocks — это обозреватель блоков и аналитическая платформа для блокчейна Near (Ⓝ), нового блокчейна и платформы умных транзакций.",
+    "kbTitle": "База знаний и информационный центр NEAR Blocks",
+    "search": "Введите для поиска",
+    "home": "Главная",
+    "published": "Опубликовано",
+    "lastUpdated": "Последнее обновление",
+    "kb": {
+        "metaTitle": "{post} | NearBlocks",
+        "metaDescription": "{post} | NearBlocks"
+    },
+    "article": {
+        "metaTitle": "{slug} | NearBlocks",
+        "metaDescription": "{slug} | NearBlocks"
+    }
 }
