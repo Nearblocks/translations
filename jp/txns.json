@@ -1,235 +1,235 @@
 {
-  "metaTitle": "直近の取引| NearBlocks",
-  "metaDescription": "NEAR上で処理された取引一覧. 一覧にはNEARから送金された取引と個々の取引の詳細情報を含む",
-  "txnsHeading": "最新の Near Protocol トランザクション",
-  "txnsListing": "以上 > {count} 取引が見つかりました",
-  "listingToken": "以上 > {count} トークンの移動が見つかりました",
-  "hash": "取引のハッシュ値",
-  "type": "タイプ",
+  "metaTitle": "すべての最新Nearプロトコル取引 | NearBlocks",
+  "metaDescription": "Nearブロックチェーンで確認されたすべての最新Nearプロトコル取引。リストには、Near送信取引と各取引の取引詳細が含まれています。",
+  "txnsHeading": "最新Nearプロトコル取引",
+  "txnsListing": "> {count} 件以上の取引が見つかりました",
+  "listingToken": "> {count} 件以上のトークン転送が見つかりました",
+  "hash": "Txnハッシュ",
+  "type": "メソッド",
   "typeTxn": "取引",
-  "typeToken": "トークンタイプ",
+  "typeToken": "トークン取引",
   "tokenPlaceholder": "トークンで検索",
   "unknownType": "不明",
   "batchTxns": "バッチ取引",
   "createAccount": "アカウント作成",
-  "deployContract": "コントラクトを実行する",
-  "transfer": "移動",
-  "stake": "ステークする",
-  "addKey": "キーを追加する",
-  "deleteKey": "キーを削除する",
-  "deleteAccount": "アカウントを削除する",
+  "deployContract": "コントラクトデプロイ",
+  "transfer": "転送",
+  "stake": "Stake",
+  "addKey": "キー追加",
+  "deleteKey": "キー削除",
+  "deleteAccount": "アカウント削除",
   "txnError": "取引エラー",
-  "age": "時期",
-  "ageDT": "時刻 (UTC)",
+  "age": "経過時間",
+  "ageDT": "日時（UTC）",
   "blockHeight": "ブロック高",
-  "from": "から",
-  "to": "へ",
-  "txnIn": "In",
-  "txnOut": "OUT",
-  "amount": "数量",
+  "from": "送信者",
+  "to": "受信者",
+  "txnIn": "入金",
+  "txnOut": "出金",
+  "amount": "金額",
   "filter": {
-    "placeholder": "アドレスで探す e.g. Ⓝ..",
+    "placeholder": "アドレスで検索 例：Ⓝ..",
     "filter": "フィルター",
     "clear": "クリア",
-    "by": "で抽出する",
-    "from": "から",
-    "to": "へ"
+    "by": "フィルター条件",
+    "from": "送信者",
+    "to": "受信者"
   },
   "txnDetails": {
-    "metaTitle": "NEARでの取引 {txn} | NearBlocks",
-    "metaDescription": "NEARの取引詳細情報{txn}.",
+    "metaTitle": "Near取引 {txn} | NearBlocks",
+    "metaDescription": "取引 {txn} のNearブロックチェーン詳細情報。",
     "heading": "取引詳細",
     "hash": {
       "text": [
-        "取引のハッシュ値"
+        "Txnハッシュ"
       ],
-      "tooltip": "この取引固有の識別子（ハッシュ）"
+      "tooltip": "この取引の一意識別子（ハッシュ）。"
     },
     "status": {
       "text": [
-        "状態"
+        "ステータス"
       ],
       "status": {
-        "NotStarted": "未実行",
-        "Started": "実行",
+        "NotStarted": "未開始",
+        "Started": "開始済み",
         "Failure": "失敗",
-        "SuccessValue": "成功した価値"
+        "SuccessValue": "成功"
       },
-      "tooltip": "取引状況"
+      "tooltip": "取引のステータス。"
     },
     "block": {
       "text": [
         "ブロック高"
       ],
-      "tooltip": "取引が記録されたブロック番号"
+      "tooltip": "取引が記録されたブロックの番号。"
     },
     "timestamp": {
       "text": [
         "タイムスタンプ"
       ],
-      "tooltip": "取引実行日時のタイムスタンプ"
+      "tooltip": "この取引が送信された時のタイムスタンプ。"
     },
     "deposit": {
       "text": [
-        "預金価値"
+        "デポジット価値"
       ],
-      "tooltip": "送金者から送金されたNEARトークンの総量. 送金アクションで送信されたトークンやファンクションコールアクションで預け入れられたトークンを含む."
+      "tooltip": "署名アカウントから受信アカウントに転送されたすべてのNEARトークンの合計。これには、転送アクションで送信されたトークンと、関数呼び出しアクションのデポジットが含まれます。"
     },
     "fee": {
       "text": [
         "取引手数料"
       ],
-      "tooltip": "この取引をNEARで実行するための手数料総額"
+      "tooltip": "この取引の実行のためにNEARで支払われた総手数料。"
     },
     "price": {
       "text": [
-        "Ⓝ 価格"
+        "Ⓝ価格"
       ],
-      "tooltip": "取引日でのⓃの終値価格 "
+      "tooltip": "取引日のⓃ終値"
     },
     "from": {
       "text": [
-        "から"
+        "送信者"
       ],
-      "tooltip": "署名を行い、送金したアカウント"
+      "tooltip": "取引に署名して送信したアカウント"
     },
     "to": {
       "text": [
-        "へ"
+        "受信者"
       ],
-      "tooltip": "受領したアカウント"
+      "tooltip": "取引を受信するアカウント。"
     },
     "type": {
       "text": [
         "タイプ",
         "取引"
       ],
-      "tooltip": "取引タイプ"
+      "tooltip": "取引のタイプ。"
     },
     "gas": {
       "text": [
-        "取引ごとのGas代の上限と使用用途"
+        "Txnによるgas制限と使用量"
       ],
-      "tooltip": "取引に割り当てられたGAS代の最大値と実際に使用されたGAS代"
+      "tooltip": "取引に割り当てられた最大gas量と最終的に使用された量。"
     },
     "parentCoin": "親コイン",
     "childCoins": "子コイン",
     "siblingCoins": "兄弟コイン",
     "unknownToken": "不明",
-    "claimToken": "トークンを請求する",
+    "claimToken": "トークンを請求",
     "token": "トークン",
     "burnt": {
       "text": [
-        "消費されたGAS & 取引ごとのトークン"
+        "Txnによって燃焼されたgasとトークン"
       ],
-      "tooltip": "この取引で消費されたGASとトークンの総量"
+      "tooltip": "この取引で燃焼されたgasとトークンの総量。"
     },
     "actions": {
       "text": [
         "アクション"
       ],
-      "tooltip": "この取引中に実行されたアクション",
+      "tooltip": "この取引中に実行されたアクション。",
       "addKey": [
         "新しいキー",
         "アクセスキー",
-        "追加する",
-        "契約",
-        "許可付き",
-        "呼び出す",
-        "方法"
+        "追加されたコントラクト",
+        "コントラクト",
+        "権限付き",
+        "メソッド呼び出し",
+        "メソッド"
       ],
       "createAccount": [
         "新しいアカウント",
-        "作成されました"
+        "作成済み"
       ],
       "deleteAccount": [
-        "アカウントを削除する",
-        "残りの資金を送金する"
+        "アカウント削除",
+        "残り資金を転送先"
       ],
       "deleteKey": [
         "キー",
-        "削除されました"
+        "削除済み"
       ],
       "deployContract": [
         "コントラクト",
-        "実行されました"
+        "デプロイ済み"
       ],
       "functionCall": [
-        "呼び出し方法",
-        "コントラクト上"
+        "呼び出されたメソッド",
+        "コントラクト内"
       ],
       "stake": [
-        "提供された",
-        "共に"
+        "Stake済み",
+        "と共に"
       ],
       "transfer": [
-        "送金された",
+        "転送済み",
         "へ"
       ]
     },
     "tabs": {
-      "overview": "概観",
-      "execution": "実行",
+      "overview": "概要",
+      "execution": "実行計画",
       "comments": "コメント"
     },
     "receipts": {
       "receipt":{
         "text": [
-          "着金"
+          "レシート"
         ],
-        "tooltip": "この着金固有の識別子（ハッシュ）"
+        "tooltip": "このレシートの一意識別子（ハッシュ）。"
       },
       "block":{
         "text": [
           "ブロック"
         ],
-        "tooltip": "この着金が実行されたブロックのハッシュ値"
+        "tooltip": "レシートが実行されたブロックのハッシュ。"
       },
       "from":{
         "text": [
-          "から"
+          "送信者"
         ],
-        "tooltip": "受領したアカウント"
+        "tooltip": "レシートを発行したアカウント。"
       },
       "to":{
         "text": [
-          "へ"
+          "受信者"
         ],
-        "tooltip": "送り先のアカウント"
+        "tooltip": "レシートの宛先アカウント。"
       },
       "burnt": {
         "text": [
-          "受領ごとに消費したGASとトークン"
+          "レシートによって燃焼されたgasとトークン"
         ],
-        "tooltip": "この受領によって消費したGAS代とトークンの総量"
+        "tooltip": "このレシートで燃焼されたgasとトークンの総量。"
       },
       "actions":{
         "text": [
           "アクション"
         ],
-        "tooltip": "この受領が処理される間に実行されたアクション"
+        "tooltip": "レシート処理中に実行されたアクション。"
       },
       "result":{
         "text": [
           "結果",
           "結果なし",
-          "空欄"
+          "空の結果"
         ],
-        "tooltip": "受領の結果"
+        "tooltip": "レシート実行の結果。"
       },
       "logs":{
         "text": [
           "ログ",
           "ログなし"
         ],
-        "tooltip": "受領に含まれるログ"
+        "tooltip": "レシートに含まれるログ。"
       }
     }
   },
-  "info": "最新の記録のみ {count} を表示する",
-  "depositValue": "預金価値",
-  "txnFee": "取引手数料",
-  "txnSelf": "自分自身",
-  "noTxns": "取引なし",
-  "testnetNotice": "[ これはテストネット取引のみ]"
+  "info": "最新 {count , number} 件のレコードのみ表示",
+  "depositValue": "デポジット価値",
+  "txnFee": "Txn手数料",
+  "txnSelf": "自分",
+  "noTxns": "取引がありません",
+  "testnetNotice": "[ これはテストネット取引のみです ]"
 }

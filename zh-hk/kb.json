@@ -1,10 +1,10 @@
 {
-  "metaTitle": "Near 區塊鏈瀏覽器 | NearBlocks",
-  "metaDescription": "Near Blocks 提供 Near (Ⓝ) 區塊鏈數據、圖表同 API，助你探索下一代區塊鏈網絡。",
-  "kbTitle": "Near Blocks 幫助中心 & 知識庫",
-  "search": "輸入關鍵字搜尋",
-  "home": "主頁",
-  "published": "已發佈",
+  "metaTitle": "Near Blockchain Explorer | NearBlocks",
+  "metaDescription": "Near Blocks 是 Near blockchain (Ⓝ) 的 Block Explorer 和 Analytics Platform，一個新的區塊鏈和智能交易平台。",
+  "kbTitle": "NEAR Blocks Knowledge Base & Information Center",
+  "search": "輸入搜索",
+  "home": "首頁",
+  "published": "已發布",
   "lastUpdated": "最後更新",
   "kb": {
     "metaTitle": "{post} | NearBlocks",

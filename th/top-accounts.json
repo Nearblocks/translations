@@ -1,13 +1,13 @@
 {
-  "metaTitle": "บัญชี Near 10,000 อันดับแรก | NearBlocks",
-  "metaDescription": "ค้นหาบัญชี Near 10,000 อันดับแรกจากยอดเงินคงเหลือ",
-  "heading": "บัญชีที่มียอด Ⓝ คงเหลือมากที่สุด",
-  "listing": "บัญชีทั้งหมด {count} บัญชีมียอดเงินรวมทั้งหมด ({sum} Ⓝ).",
-  "info": "แสดงบัญชี 10,000 อันดับแรกเท่านั้น",
+  "metaTitle": "Top 10,000 Near Accounts | NearBlocks",
+  "metaDescription": "ค้นหา Top 10,000 Near accounts โดย balance",
+  "heading": "Top Accounts โดย Ⓝ Balance",
+  "listing": "พบทั้งหมด > {count} accounts ({sum} Ⓝ)",
+  "info": "แสดงเฉพาะ top 10,000 accounts",
   "rank": "อันดับ",
-  "address": "แอดเดรส",
-  "balance": "ยอดเงินคงเหลือ",
-  "percentage": "อัตราร้อยละ",
+  "address": "Address",
+  "balance": "Balance",
+  "percentage": "เปอร์เซ็นต์",
   "value": "มูลค่า",
-  "txns": "จำนวนธุรกรรม"
+  "txns": "จำนวน Txns"
 }

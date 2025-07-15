@@ -1,18 +1,18 @@
 {
-  "metaTitle": "Xác nhận tài khoản | NearBlocks",
-  "metaDescription": "Xác nhận tên, nhãn và các thông tin khác của bạn.",
-  "heading": "Xác nhận tài khoản Ⓝ",
+  "metaTitle": "Claim Account | NearBlocks",
+  "metaDescription": "Claim tên, tag và thông tin khác của bạn.",
+  "heading": "Claim Ⓝ Account",
   "form": {
-    "heading": "Xác nhận tên, nhãn và thông tin khác của bạn",
-    "content": "Xác nhận nhãn và cung cấp các thông tin liên quan đến địa chỉ Ⓝ của bạn bằng cách điền vào biểu mẫu dưới đây. Mỗi yêu cầu chỉnh sửa cần gửi khoản đặt cọc {amount} Ⓝ để xác minh quyền sở hữu.",
+    "heading": "Claim tên, tag và thông tin khác của bạn",
+    "content": "Claim Name Tag của bạn và thêm thông tin khác liên quan đến Ⓝ address của bạn bằng cách điền vào form dưới đây. Đối với mỗi yêu cầu chỉnh sửa, chúng tôi sẽ yêu cầu deposit {amount} Ⓝ để chứng minh quyền sở hữu address của bạn.",
     "address": {
-      "label": "Địa chỉ Ⓝ"
+      "label": "Ⓝ Address"
     },
     "label": {
       "label": "Tên"
     },
     "tag": {
-      "label": "Nhãn"
+      "label": "Tag"
     },
     "website": {
       "label": "Website"
@@ -21,7 +21,7 @@
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (hoặc Medium)"
+      "label": "Blog (Hoặc Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Gửi {amount} Ⓝ đến địa chỉ sau để xác minh quyền sở hữu:",
-      "tooltip": "Người gửi phải là chủ sở hữu địa chỉ muốn chỉnh sửa."
+      "label": "Deposit {amount} Ⓝ vào address sau để chứng minh quyền sở hữu của bạn:",
+      "tooltip": "Address gửi phải giống hệt với address mà bạn muốn thêm thông tin."
     },
-    "button": "Gửi yêu cầu",
-    "successMessage": "Cảm ơn bạn! Chúng tôi sẽ xem xét và công khai thông tin sau khi phê duyệt.",
+    "button": "Gửi",
+    "successMessage": "Cảm ơn bạn, chúng tôi sẽ xem xét đơn đăng ký của bạn và liệt kê nó sau khi được phê duyệt",
     "errorMessage": "Đã xảy ra lỗi!"
   }
 }

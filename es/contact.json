@@ -1,34 +1,34 @@
 {
   "contact": {
     "metaTitle": "Contáctanos | NearBlocks",
-    "metaDescription": "Contacta al equipo de Near Blocks para cualquier consulta relacionada con nuestro sitio web y herramientas. Ten en cuenta que solo podemos ayudarte con problemas directamente relacionados con los servicios del explorador de bloques.",
-    "heading": "Contactar a Near Blocks",
+    "metaDescription": "Contacta al equipo de Near Blocks para cualquier consulta relacionada con nuestro sitio web y herramientas. Por favor entiende que solo podemos ayudar con problemas directamente relacionados con los servicios del explorador de bloques.",
+    "heading": "Contactar Near Blocks",
     "info": {
-      "heading": "Déjanos un mensaje, pero ten en cuenta que:",
+      "heading": "Envíanos un mensaje, pero por favor ten en cuenta que:",
       "points": [
         {
-          "heading": "Transacción pendiente",
-          "content": "No procesamos transacciones y, por lo tanto, no podemos acelerarlas, cancelarlas ni reemplazarlas. Si tienes problemas con transacciones pendientes, por favor consulta aquí."
+          "heading": "Transacción Pendiente",
+          "content": "No procesamos transacciones y por lo tanto no podemos acelerar, cancelar o reemplazarlas. Si tienes problemas con transacciones pendientes, por favor consulta aquí."
         },
         {
-          "heading": "Explorador de bloques Near",
-          "content": "Near Blocks es un explorador de bloques independiente sin relación con otros proveedores de servicios (a menos que se indique explícitamente lo contrario), por lo que no puede proporcionar una respuesta precisa para consultas específicas de otros proveedores."
+          "heading": "Explorador de Bloques Near",
+          "content": "Near Blocks es un explorador de bloques independiente no relacionado con otros proveedores de servicios (a menos que se indique explícitamente lo contrario) y por lo tanto no puede proporcionar una respuesta precisa para consultas específicas de otros proveedores de servicios."
         },
         {
-          "heading": "Problemas relacionados con billeteras / intercambios / proyectos",
-          "content": "Por favor, contacta a tu proveedor de billetera, plataforma de intercambio o al propietario del proyecto/contrato para obtener asistencia, ya que ellos están en mejor posición para ayudarte con los problemas relacionados con sus plataformas."
+          "heading": "Problemas relacionados con Wallet / Exchange / Proyecto",
+          "content": "Por favor contacta a tu proveedor de servicios de wallet, exchanges o propietario del proyecto/contrato para mayor soporte ya que están en mejor posición para ayudarte con los problemas relacionados con sus plataformas."
         }
       ]
     },
     "form": {
-      "heading": "Formulario de contacto:",
+      "heading": "Formulario de Contacto:",
       "name": {
         "label": "Nombre",
         "placeholder": "Nombre"
       },
       "email": {
-        "label": "Correo electrónico",
-        "placeholder": "Correo electrónico"
+        "label": "Email",
+        "placeholder": "Email"
       },
       "subject": {
         "label": "Asunto",
@@ -38,16 +38,16 @@
           "Soporte / Técnico",
           "Asociación",
           "API / Desarrollo",
-          "Etiquetado de nombre / Dirección etiquetada",
-          "Publicidad"
+          "Etiquetado de nombres / Etiquetar dirección",
+          "Anunciar"
         ]
       },
       "message": {
         "label": "Mensaje",
         "placeholder": "Mensaje"
       },
-      "button": "Enviar mensaje",
-      "successMessage": "Gracias, nos pondremos en contacto contigo pronto",
+      "button": "Enviar Mensaje",
+      "successMessage": "Gracias, te responderemos pronto",
       "errorMessage": "¡Algo salió mal!"
     }
   }

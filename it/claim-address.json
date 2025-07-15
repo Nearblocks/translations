@@ -1,10 +1,10 @@
 {
-  "metaTitle": "Dichiara Acount | NearBlocks",
-  "metaDescription": "Dichiara il tuo nome, tag e altre informazioni.",
-  "heading": "Dichiara Account Ⓝ",
+  "metaTitle": "Rivendica Account | NearBlocks",
+  "metaDescription": "Rivendica il tuo nome, tag e altre informazioni.",
+  "heading": "Rivendica Account Ⓝ",
   "form": {
-    "heading": "Dichiara il tuo nome, tag e altre informazioni.",
-    "content": "Dichiara il tuo nome, tag e aggiungi altre informazioni relative al tuo indirizzo Ⓝ compilando il form. Per ogni richiesta di modifica, chiediamo un versamento di {amount} Ⓝ per dare prova del possesso dell'account",
+    "heading": "Rivendica il tuo nome, tag e altre informazioni",
+    "content": "Rivendica il tuo Tag Nome e aggiungi altre informazioni relative al tuo indirizzo Ⓝ compilando il modulo qui sotto. Per ogni richiesta di modifica, chiederemo un deposito di {amount} Ⓝ per dimostrare la proprietà del tuo indirizzo.",
     "address": {
       "label": "Indirizzo Ⓝ"
     },
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Versa {amount} Ⓝ al seguente indirizzo per dimostrare di essere proprietario dell'account:",
-      "tooltip": "L'indirizzo di emissione deve essere identico all'indirizzo del quale vuoi modificarne le informazioni."
+      "label": "Deposita {amount} Ⓝ al seguente indirizzo per dimostrare la tua proprietà:",
+      "tooltip": "L'indirizzo di invio deve essere identico all'indirizzo a cui desideri aggiungere informazioni."
     },
     "button": "Invia",
-    "successMessage": "Grazie, valuteremo la tua richiesta e la inseriremo in lista, non appena sarà stata approvata.",
+    "successMessage": "Grazie, esamineremo la tua richiesta e la elencheremo dopo che sarà stata approvata",
     "errorMessage": "Qualcosa è andato storto!"
   }
 }

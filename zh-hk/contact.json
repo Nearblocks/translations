@@ -1,54 +1,54 @@
 {
   "contact": {
-    "metaTitle": "聯絡我們 | NearBlocks",
-    "metaDescription": "如果你對 Near Blocks 網站同工具有任何問題，歡迎聯絡我哋團隊。請注意，我哋只能協助與區塊鏈瀏覽器相關嘅問題。",
-    "heading": "聯絡 Near Blocks",
+    "metaTitle": "聯繫我們 | NearBlocks",
+    "metaDescription": "聯繫 Near Blocks 團隊了解與我們的網站和工具相關的任何問題。請理解我們只能協助直接與區塊瀏覽器服務相關的問題。",
+    "heading": "聯繫 Near Blocks",
     "info": {
-      "heading": "歡迎留言，不過請注意：",
+      "heading": "給我們留言，但請注意：",
       "points": [
         {
-          "heading": "待處理交易",
-          "content": "我哋唔處理交易，亦無法加速、取消或替換交易。如果你遇到交易延遲問題，請參考我哋提供嘅指引。"
+          "heading": "Pending Transaction",
+          "content": "我們不處理 transactions，因此無法加速、取消或替換它們。如果您在 pending transactions 方面遇到問題，請參考這裡。"
         },
         {
-          "heading": "Near 瀏覽器",
-          "content": "Near Blocks 係一個獨立嘅區塊鏈瀏覽器，唔隸屬於任何其他服務供應商（除非特別說明），所以我哋無法支援第三方相關問題。"
+          "heading": "Near Block Explorer",
+          "content": "Near Blocks 是一個獨立的區塊瀏覽器，與其他服務提供商無關（除非明確說明），因此無法為特定於其他服務提供商的查詢提供精確響應。"
         },
         {
-          "heading": "錢包 / 交易所 / 項目問題",
-          "content": "如需支援，請直接聯絡相關錢包、交易所或項目團隊。"
+          "heading": "Wallet / Exchange / Project 相關問題",
+          "content": "請聯繫您的錢包服務提供商、交易所或項目/合約所有者以獲得進一步支持，因為他們更有能力協助您解決與其平台相關的問題。"
         }
       ]
     },
     "form": {
-      "heading": "聯絡表格：",
+      "heading": "聯繫表格：",
       "name": {
         "label": "姓名",
-        "placeholder": "請輸入你嘅姓名"
+        "placeholder": "姓名"
       },
       "email": {
-        "label": "電郵地址",
-        "placeholder": "請輸入你嘅電郵"
+        "label": "郵箱",
+        "placeholder": "郵箱"
       },
       "subject": {
         "label": "主題",
-        "placeholder": "選擇主題",
+        "placeholder": "主題",
         "options": [
-          "一般查詢",
-          "支援 / 技術問題",
-          "合作機會",
-          "API / 開發者",
-          "地址標籤",
-          "廣告查詢"
+          "一般詢問",
+          "支持/技術",
+          "合作夥伴",
+          "API/開發",
+          "名稱標記/Label address",
+          "廣告"
         ]
       },
       "message": {
-        "label": "訊息內容",
-        "placeholder": "請輸入你嘅訊息"
+        "label": "消息",
+        "placeholder": "消息"
       },
-      "button": "送出訊息",
-      "successMessage": "多謝你嘅訊息，我哋會盡快回覆。",
-      "errorMessage": "發生錯誤！"
+      "button": "發送消息",
+      "successMessage": "謝謝，我們會盡快與您聯繫",
+      "errorMessage": "出了點問題！"
     }
   }
 }

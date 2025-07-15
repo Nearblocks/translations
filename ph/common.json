@@ -3,79 +3,79 @@
     "menu": {
       "home": "Home",
       "blockchain": "Blockchain",
-      "viewBlocks": "View Blocks",
-      "viewTxns": "View Txns",
-      "languages": "Languages",
-      "charts": "Charts & Stats",
-      "topAccounts": "Top Accounts",
-      "tokens": "Tokens",
-      "toptoken": "Top Tokens",
-      "viewTokenTrasfers": "Tignan ang Token Transfers",
-      "topnft": "Top NFT Tokens",
-      "viewNftTrasfers": "Tignan ang NFT Transfers",
+      "viewBlocks": "Tingnan ang mga Block",
+      "viewTxns": "Tingnan ang mga Txn",
+      "languages": "Mga Wika",
+      "charts": "Mga Chart at Statistics",
+      "topAccounts": "Nangungunang mga Account",
+      "tokens": "Mga Token",
+      "toptoken": "Nangungunang mga Token",
+      "viewTokenTrasfers": "Mga Token Transfer",
+      "topnft": "Nangungunang mga NFT Token",
+      "viewNftTrasfers": "Mga NFT Token Transfer",
       "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "All Filters",
-      "txns": "Txns",
-      "blocks": "Blocks",
-      "token": "Tokens",
-      "addresses": "Addresses"
+      "all": "Lahat ng Filter",
+      "txns": "Mga Txn",
+      "blocks": "Mga Block",
+      "token": "Mga Token",
+      "addresses": "Mga Address"
     },
-    "placeholder": "Search by Account ID / Txn Hash / Block",
+    "placeholder": "Maghanap gamit ang Account ID / Txn Hash / Block",
     "list": {
       "address": "Account",
-      "txns": "Txns",
-      "blocks": "Blocks",
-      "tokens": "Tokens"
+      "txns": "Mga Txn",
+      "blocks": "Mga Block",
+      "tokens": "Mga Token"
     },
     "noResults": "Walang resulta"
   },
   "footer": {
-    "description": "Nearblocks ay isang Blockchain Explorer at Analytics Platform para sa Near Protocol, ang bagong blockchain at smart transaction platform.",
-    "poweredBy": "Powered by",
+    "description": "Ang NEAR Blocks ay ang nangungunang blockchain explorer na nakatuon sa NEAR ecosystem. Pinapagana ng NEAR Protocol.",
+    "poweredBy": "Pinapagana ng",
     "links": {
-      "explore": "Explore",
+      "explore": "Tuklasin",
       "blockExplorer": "Block Explorer",
-      "latestBlocks": "Latest Blocks",
-      "latestTxns": "Latest Transactions",
-      "company": "Company",
-      "about": "About",
-      "advertise": "Advertise",
-      "contact": "Contact",
-      "terms": "Terms",
-      "charts": "Charts & Stats",
-      "api": "NEAR Indexer APIs",
+      "latestBlocks": "Pinakabagong mga Block",
+      "latestTxns": "Pinakabagong mga Transaction",
+      "company": "Kumpanya",
+      "about": "Tungkol",
+      "advertise": "Mag-advertise",
+      "contact": "Makipag-ugnayan",
+      "terms": "Mga Tuntunin",
+      "charts": "Mga Chart at Statistics",
+      "api": "NEAR Indexer API",
       "kb": "Knowledge Base",
-      "fundamentals": "Fundamentals",
-      "buySell": "Buy, Sell & Trade",
-      "nearValidator": "NEAR Validator list"
+      "fundamentals": "Mga Pangunahing Kaalaman",
+      "buySell": "Bumili, Magbenta at Mag-trade",
+      "nearValidator": "Listahan ng NEAR Validator"
     }
   },
   "sponsored": "Sponsored",
   "pagination": {
-    "first": "First",
-    "last": "Last"
+    "first": "Una",
+    "last": "Huli"
   },
   "validation": {
-    "required": "{field} kinakailangan",
-    "invalid": "Maaring magbigay ng wasto {field}"
+    "required": "Kailangan ang {field}",
+    "invalid": "Mangyaring magbigay ng wastong {field}"
   },
   "chart": {
-    "source": "Source: nearblocks.io"
+    "source": "Pinagkunan: nearblocks.io"
   },
-  "trademark": "Ang NearBlocks ay pinapatakbo nang buo at nag-iisa. Ang NearBlocks ay hindi nauugnay sa The NEAR Foundation at bawat lisensyadong trademark na ipinapakita sa website na ito ay pagmamay-ari ng kani-kanilang mga may-ari.",
+  "trademark": "Ang NearBlocks ay tumutubo nang buo at sa sariling pamamaraan. Ang NearBlocks ay hindi nauugnay sa The NEAR Foundation at bawat lisensyadong trademark na makikita sa website na ito ay pag-aari ng kanilang mga nagkakaloob.",
   "tags": {
-    "service": "Service",
+    "service": "Serbisyo",
     "pool": "Pool",
     "personal": "Personal",
-    "shop": "Shop",
-    "donation": "Donation",
-    "centralisedExchange": "Centralised Exchange",
-    "decentralisedExchange": "Decentralised Exchange"
+    "shop": "Tindahan",
+    "donation": "Donasyon",
+    "centralisedExchange": "Centralized Exchange",
+    "decentralisedExchange": "Decentralized Exchange"
   },
-  "outofSync": "Dahil sa hindi inaasahang pag-maintain, ang Nearblocks ay nawawala sa sync. Ang ibang blocks o transaksyon ay maaring matagalan.",
-  "rpcRateLimitError": "Nilimitahan ka ng rate ng kasalukuyang RPC ({rpcUrl}). Pakisubukang muli sa ibang pagkakataon o pumili ng ibang RPC provider mula sa dropdown na menu {icon}."
+  "outofSync": "Dahil sa hindi inaasahang maintenance, ang Nearblocks ay hindi synchronized. Maaaring ma-delay ang ilang block o transaction.",
+  "rpcRateLimitError": "Na-rate limit ka ng kasalukuyang RPC ({rpcUrl}). Mangyaring subukan ulit mamaya o pumili ng ibang RPC provider mula sa dropdown menu {icon}."
 }

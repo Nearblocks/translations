@@ -1,13 +1,13 @@
 {
-  "metaTitle": "10.000 tài khoản hàng đầu trên Near | NearBlocks",
-  "metaDescription": "Khám phá 10.000 tài khoản Near có số dư cao nhất.",
-  "heading": "Tài khoản có số dư Ⓝ cao nhất",
-  "listing": "Tìm thấy > {count} tài khoản (tổng cộng {sum} Ⓝ).",
-  "info": "Chỉ hiển thị 10.000 tài khoản hàng đầu",
-  "rank": "Hạng",
-  "address": "Địa chỉ",
-  "balance": "Số dư",
+  "metaTitle": "Top 10,000 Near Accounts | NearBlocks",
+  "metaDescription": "Tìm Top 10,000 Near accounts theo balance.",
+  "heading": "Top Accounts theo Ⓝ Balance",
+  "listing": "Tổng cộng > {count} accounts được tìm thấy ({sum} Ⓝ).",
+  "info": "Chỉ hiển thị top 10,000 accounts",
+  "rank": "Xếp hạng",
+  "address": "Address",
+  "balance": "Balance",
   "percentage": "Phần trăm",
   "value": "Giá trị",
-  "txns": "Số giao dịch"
+  "txns": "Số lượng Txns"
 }

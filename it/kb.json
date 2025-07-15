@@ -1,11 +1,11 @@
 {
-    "metaTitle": "Near Blockchain Explorer | NearBlocks",
-    "metaDescription": "Near Blocks è un Block Explorer e Piattaforma di Analitica per la Near blockchain (Ⓝ), una nuova piattaforma di blockchain e contratti intelligenti.",
-    "kbTitle": "NEAR Blocks Knowledge Base & Centro informazioni",
+    "metaTitle": "Esploratore Blockchain Near | NearBlocks",
+    "metaDescription": "Near Blocks è un Esploratore di Blocchi e Piattaforma di Analisi per la blockchain Near (Ⓝ), una nuova blockchain e piattaforma di transazioni intelligenti.",
+    "kbTitle": "Base di Conoscenza e Centro Informazioni NEAR Blocks",
     "search": "Digita per cercare",
-    "home": "Casa",
-    "published": "Edito",
-    "lastUpdated": "Ultimo aggiornamento",
+    "home": "Home",
+    "published": "Pubblicato",
+    "lastUpdated": "Ultimo Aggiornamento",
     "kb": {
         "metaTitle": "{post} | NearBlocks",
         "metaDescription": "{post} | NearBlocks"

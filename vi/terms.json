@@ -1,24 +1,136 @@
 {
   "metaTitle": "Điều khoản dịch vụ | NearBlocks",
-  "metaDescription": "Vui lòng đọc kỹ các điều khoản này. Bằng cách sử dụng dịch vụ, bạn đồng ý với các điều khoản và điều kiện liên quan.",
+  "metaDescription": "Vui lòng đọc kỹ các điều khoản dịch vụ này. Bằng cách truy cập hoặc sử dụng dịch vụ của chúng tôi, bạn đồng ý bị ràng buộc bởi các điều khoản dịch vụ này và tất cả các điều khoản được kết hợp bằng tham chiếu.",
   "heading": "Điều khoản dịch vụ",
   "content": [
     "VUI LÒNG ĐỌC KỸ CÁC ĐIỀU KHOẢN DỊCH VỤ NÀY.",
-    "BẰNG CÁCH SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI, BẠN ĐỒNG Ý VỚI NHỮNG ĐIỀU KHOẢN NÀY VÀ CÁC ĐIỀU KIỆN ĐƯỢC TÍCH HỢP THEO THAM CHIẾU.",
-    "Các Điều khoản Dịch vụ này và mọi điều kiện được tích hợp một cách rõ ràng ('Điều khoản') áp dụng cho việc bạn truy cập và sử dụng tất cả các dịch vụ ('Dịch vụ') được cung cấp bởi NearBlocks.com ('Công ty', 'chúng tôi')."
+    "BẰNG CÁCH TRUY CẬP HOẶC SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI, BẠN ĐỒNG Ý BỊ RÀNG BUỘC BỞI CÁC ĐIỀU KHOẢN DỊCH VỤ NÀY VÀ TẤT CẢ CÁC ĐIỀU KHOẢN ĐƯỢC KẾT HỢP BẰNG THAM CHIẾU.",
+    "Các Điều khoản Dịch vụ này và bất kỳ điều khoản nào được kết hợp rõ ràng trong đây (\"Điều khoản\") áp dụng cho việc truy cập và sử dụng tất cả các dịch vụ (\"Dịch vụ\" của chúng tôi) được cung cấp bởi Near Blocks.com (\"Công ty,\" \"chúng tôi,\" hoặc \"của chúng tôi\")"
   ],
   "points": [
     {
-      "heading": "1. ĐỦ ĐIỀU KIỆN",
+      "heading": "1. TÍNH ĐỦ ĐIỀU KIỆN",
       "content": [
-        "Bạn xác nhận và cam kết rằng: (a) bạn có đủ tuổi hợp pháp để ký kết hợp đồng ràng buộc; (b) bạn chưa từng bị cấm sử dụng Dịch vụ của chúng tôi; và (c) bạn có quyền hạn đầy đủ để đồng ý với các điều khoản này.",
-        "Nếu bạn đăng ký thay mặt một tổ chức, bạn cũng xác nhận rằng bạn có quyền đại diện hợp pháp và tổ chức đó hợp pháp theo luật pháp hiện hành."
+        "Bạn tuyên bố và đảm bảo rằng bạn: (a) đủ tuổi theo pháp luật để thành lập một hợp đồng ràng buộc; (b) chưa từng bị đình chỉ hoặc loại bỏ khỏi việc sử dụng Dịch vụ của chúng tôi; và (c) có đầy đủ quyền lực và thẩm quyền để ký kết thỏa thuận này và việc làm như vậy sẽ không vi phạm bất kỳ thỏa thuận nào khác mà bạn là một bên.",
+        "Nếu bạn đăng ký sử dụng Dịch vụ thay mặt cho một thực thể pháp lý, bạn thêm tuyên bố và đảm bảo rằng (i) thực thể pháp lý đó được tổ chức đúng đắn và tồn tại hợp lệ theo luật áp dụng của khu vực pháp lý tổ chức nó, và (ii) bạn được thực thể pháp lý đó ủy quyền đúng đắn để hành động thay mặt cho nó."
       ]
     },
     {
-      "heading": "2. CHẤM DỨT DỊCH VỤ",
+      "heading": "2. NGỪNG CUNG CẤP DỊCH VỤ",
       "content": [
-        "Chúng tôi có thể, theo toàn quyền quyết định và không chịu trách nhiệm với bạn, chấm dứt hoặc đình chỉ một phần hoặc toàn bộ Dịch vụ của mình vào bất kỳ thời điểm nào, có hoặc không có thông báo."
+        "Chúng tôi có thể, theo quyết định riêng của chúng tôi và không chịu trách nhiệm đối với bạn, có hoặc không có thông báo trước và bất cứ lúc nào, sửa đổi hoặc ngừng, tạm thời hoặc vĩnh viễn, bất kỳ phần nào của Dịch vụ của chúng tôi."
+      ]
+    },
+    {
+      "heading": "3. CHẤP NHẬN RỦI RO",
+      "content": [
+        "Bạn thừa nhận và đồng ý rằng có những rủi ro liên quan đến việc sử dụng dịch vụ dựa trên Internet bao gồm, nhưng không giới hạn, rủi ro về sự cố của phần cứng, phần mềm và kết nối Internet, rủi ro về việc đưa vào phần mềm độc hại, và rủi ro rằng các bên thứ ba có thể có được quyền truy cập trái phép vào thông tin được lưu trữ.",
+        "Bạn thừa nhận và đồng ý rằng Công ty sẽ không chịu trách nhiệm về bất kỳ sự cố giao tiếp, gián đoạn, lỗi, biến dạng hoặc chậm trễ nào mà bạn có thể gặp phải khi sử dụng Dịch vụ, dù nguyên nhân là gì. Công ty không chịu trách nhiệm và sẽ không chịu trách nhiệm về bất kỳ tổn thất, thiệt hại hoặc khiếu nại nào phát sinh từ việc sử dụng Dịch vụ của chúng tôi, bao gồm, nhưng không giới hạn, bất kỳ tổn thất, thiệt hại hoặc khiếu nại nào."
+      ]
+    },
+    {
+      "heading": "4. DỊCH VỤ VÀ NỘI DUNG CỦA BÊN THỨ BA",
+      "content": [
+        "Khi sử dụng Dịch vụ của chúng tôi, bạn có thể xem nội dung hoặc sử dụng dịch vụ do các bên thứ ba cung cấp, bao gồm liên kết đến các trang web và dịch vụ của các bên đó (\"Nội dung Bên thứ ba\").",
+        "Chúng tôi không kiểm soát, tán thành hoặc áp dụng bất kỳ Nội dung Bên thứ ba nào và sẽ không chịu trách nhiệm về Nội dung Bên thứ ba, bao gồm, không giới hạn, tài liệu có thể gây hiểu lầm, không đầy đủ, sai lầm, xúc phạm, không đứng đắn hoặc có thể phản đối khác trong khu vực pháp lý của bạn.",
+        "Ngoài ra, các giao dịch kinh doanh hoặc thư từ của bạn với các bên thứ ba đó hoàn toàn là giữa bạn và các bên thứ ba. Chúng tôi không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại nào xảy ra do kết quả của các giao dịch đó, và bạn hiểu rằng việc sử dụng Nội dung Bên thứ ba của bạn, và tương tác của bạn với các bên thứ ba, là do bạn tự chịu rủi ro."
+      ]
+    },
+    {
+      "heading": "5. SỬ DỤNG CHẤP NHẬN ĐƯỢC",
+      "content": [
+        "Khi truy cập hoặc sử dụng Dịch vụ, bạn đồng ý rằng bạn sẽ không vi phạm bất kỳ luật, hợp đồng, quyền sở hữu trí tuệ hoặc quyền của bên thứ ba khác hoặc phạm tội, và bạn chịu trách nhiệm duy nhất về hành vi của mình khi sử dụng Dịch vụ của chúng tôi. Bạn không được:",
+        "Sử dụng Dịch vụ của chúng tôi theo bất kỳ cách nào có thể can thiệp, làm gián đoạn, ảnh hưởng tiêu cực hoặc ngăn cản người dùng khác thưởng thức đầy đủ Dịch vụ của chúng tôi, hoặc có thể làm hỏng, vô hiệu hóa, quá tải hoặc làm suy giảm hoạt động của Dịch vụ của chúng tôi theo bất kỳ cách nào;",
+        "Sử dụng Dịch vụ của chúng tôi để thanh toán, hỗ trợ hoặc tham gia vào bất kỳ hoạt động bất hợp pháp nào, bao gồm, nhưng không giới hạn, cờ bạc bất hợp pháp, gian lận, rửa tiền, hoặc hoạt động khủng bố;",
+        "Sử dụng bất kỳ robot, spider, crawler, scraper hoặc phương tiện tự động khác hoặc giao diện không được chúng tôi cung cấp để truy cập Dịch vụ của chúng tôi hoặc để trích xuất dữ liệu;",
+        "Tham gia vào Thu thập Dữ liệu Tự động (scraping) trừ khi Thu thập Dữ liệu Tự động đó chỉ giới hạn trong việc lập chỉ mục tìm kiếm để hiển thị trên Internet;",
+        "Sử dụng hoặc cố gắng sử dụng tài khoản của người dùng khác mà không có sự ủy quyền;",
+        "Cố gắng vượt qua bất kỳ kỹ thuật lọc nội dung nào mà chúng tôi sử dụng, hoặc cố gắng truy cập bất kỳ dịch vụ hoặc khu vực nào của Dịch vụ của chúng tôi mà bạn không được phép truy cập;",
+        "Đưa vào Dịch vụ bất kỳ virus, trojan worms, logic bombs hoặc tài liệu có hại khác;",
+        "Phát triển bất kỳ ứng dụng bên thứ ba nào tương tác với Dịch vụ của chúng tôi mà không có sự đồng ý bằng văn bản trước của chúng tôi;",
+        "Cung cấp thông tin sai lệch, không chính xác hoặc gây hiểu lầm; và",
+        "Khuyến khích hoặc thúc đẩy bất kỳ bên thứ ba nào tham gia vào bất kỳ hoạt động nào bị cấm theo Mục này."
+      ]
+    },
+   {
+      "heading": "6. NỘI DUNG DO NGƯỜI DÙNG TẠO",
+      "content": [
+        "6.1. Trách nhiệm đối với Nội dung do Người dùng Tạo - Bạn chịu trách nhiệm duy nhất về nội dung và về bất kỳ tác hại nào do kết quả từ bất kỳ Nội dung do Người dùng Tạo nào mà bạn đăng, tải lên, liên kết đến hoặc làm cho có sẵn qua Dịch vụ, bất kể hình thức của Nội dung đó. Chúng tôi không chịu trách nhiệm về bất kỳ hiển thị công khai hoặc lạm dụng Nội dung do Người dùng Tạo của bạn. Chúng tôi có quyền (mặc dù không có nghĩa vụ) từ chối hoặc loại bỏ bất kỳ Nội dung do Người dùng Tạo nào mà, theo quyết định riêng của chúng tôi, vi phạm bất kỳ điều khoản hoặc chính sách nào của Near Blocks.",
+        "6.2. Quyền sở hữu Nội dung & Quyền Đăng - Nếu bạn đăng bất cứ thứ gì mà bạn không tự tạo ra hoặc không sở hữu quyền, bạn đồng ý rằng bạn chịu trách nhiệm về bất kỳ Nội dung nào mà bạn đăng; rằng bạn chỉ sẽ gửi Nội dung mà bạn có quyền đăng; và rằng bạn sẽ tuân thủ đầy đủ bất kỳ giấy phép bên thứ ba nào liên quan đến Nội dung mà bạn đăng.",
+        "6.3. Cấp Giấy phép cho Chúng tôi - Chúng tôi cần quyền pháp lý để làm những việc như lưu trữ Nội dung của Bạn, xuất bản nó, và chia sẻ nó. Bạn cấp cho chúng tôi và những người kế thừa pháp lý của chúng tôi quyền lưu trữ, phân tích và hiển thị nội dung của bạn, và tạo ra các bản sao ngẫu nhiên cần thiết để hiển thị Trang web và cung cấp dịch vụ.",
+        "6.4. Quyền Đạo đức - Bạn giữ lại tất cả quyền đạo đức đối với Nội dung của Bạn mà bạn tải lên, xuất bản, hoặc gửi đến bất kỳ phần nào của Dịch vụ, bao gồm quyền toàn vẹn và quy kết. Tuy nhiên, bạn từ bỏ những quyền này và đồng ý không khẳng định chúng chống lại chúng tôi, để cho phép chúng tôi thực hiện một cách hợp lý các quyền được cấp trong Mục 6.3.",
+        "6.5. Trong phạm vi thỏa thuận này không thể thi hành được theo luật áp dụng, bạn cấp cho Near Blocks các quyền mà chúng tôi cần để sử dụng nội dung của bạn mà không cần ghi nhận và để thực hiện các điều chỉnh hợp lý đối với nội dung của bạn khi cần thiết để hiển thị Trang web và cung cấp dịch vụ."
+      ]
+    },
+    {
+      "heading": "7. BẢN QUYỀN VÀ CÁC QUYỀN SỞ HỮU TRÍ TUỆ KHÁC",
+      "content": [
+        "Trừ khi chúng tôi chỉ ra khác, tất cả bản quyền và các quyền sở hữu trí tuệ khác trong tất cả nội dung và tài liệu khác có trong trang web của chúng tôi hoặc được cung cấp kết hợp với Dịch vụ, bao gồm, không giới hạn, logo Công ty hoặc Công ty và tất cả thiết kế, văn bản, đồ họa, hình ảnh, thông tin, dữ liệu, phần mềm, tệp âm thanh, tệp khác và việc lựa chọn và sắp xếp chúng (gọi chung là \"Tài liệu Công ty\") là tài sản riêng của Công ty hoặc những người cấp phép hoặc nhà cung cấp của chúng tôi và được bảo vệ bởi luật bản quyền và các luật quyền sở hữu trí tuệ khác.",
+        "Việc sử dụng trái phép và/hoặc sao chép tài liệu này mà không có sự cho phép rõ ràng và bằng văn bản từ tác giả và/hoặc chủ sở hữu của trang web này bị nghiêm cấm. Các đoạn trích và liên kết có thể được sử dụng, với điều kiện là tín dụng đầy đủ và rõ ràng được trao cho Near Blocks.com với hướng dẫn thích hợp và cụ thể đến nội dung gốc."
+      ]
+    },
+    {
+      "heading": "8. NHÃN HIỆU",
+      "content": [
+        "\"Near Blocks\", logo Công ty, và bất kỳ tên sản phẩm hoặc dịch vụ, logo hoặc slogan nào khác của Công ty có thể xuất hiện trên Dịch vụ của chúng tôi là nhãn hiệu của Công ty và không được sao chép, bắt chước hoặc sử dụng, toàn bộ hoặc một phần, mà không có sự cho phép bằng văn bản trước của chúng tôi.",
+        "Bạn sẽ không sử dụng bất kỳ nhãn hiệu, tên sản phẩm hoặc dịch vụ nào của Công ty mà không có sự cho phép bằng văn bản trước của chúng tôi, bao gồm không giới hạn bất kỳ metatags hoặc \"văn bản ẩn\" khác sử dụng bất kỳ nhãn hiệu, tên sản phẩm hoặc dịch vụ nào của Công ty. Ngoài ra, giao diện và cảm giác của Dịch vụ của chúng tôi, bao gồm tất cả tiêu đề trang, đồ họa tùy chỉnh, biểu tượng nút và script, là dấu hiệu dịch vụ, nhãn hiệu và/hoặc trang phục thương mại của Công ty và không được sao chép, bắt chước hoặc sử dụng, toàn bộ hoặc một phần, mà không có sự cho phép bằng văn bản trước của chúng tôi.",
+        "Tất cả các nhãn hiệu khác, nhãn hiệu đã đăng ký, tên sản phẩm và tên công ty hoặc logo được đề cập thông qua Dịch vụ của chúng tôi là tài sản của chủ sở hữu tương ứng của họ. Việc tham chiếu đến bất kỳ sản phẩm, dịch vụ, quy trình hoặc thông tin khác, theo tên, nhãn hiệu, nhà sản xuất, nhà cung cấp hoặc cách khác không cấu thành hoặc ngụ ý sự tán thành, tài trợ hoặc khuyến nghị của chúng tôi."
+      ]
+    },
+    {
+      "heading": "9. ĐÌNH CHỈ; CHẤM DỨT",
+      "content": [
+        "Trong trường hợp bất kỳ Sự kiện Bất khả kháng nào, vi phạm các Điều khoản này, hoặc bất kỳ sự kiện nào khác sẽ làm cho việc cung cấp Dịch vụ trở nên bất hợp lý về mặt thương mại đối với Công ty, chúng tôi có thể, theo quyết định của chúng tôi và không chịu trách nhiệm đối với bạn, có hoặc không có thông báo trước, đình chỉ quyền truy cập của bạn vào tất cả hoặc một phần Dịch vụ của chúng tôi.",
+        "Chúng tôi có thể chấm dứt quyền truy cập của bạn vào Dịch vụ theo quyết định riêng của chúng tôi, ngay lập tức và không cần thông báo trước, và xóa hoặc vô hiệu hóa Tài khoản của bạn và tất cả thông tin và tệp liên quan trong tài khoản đó mà không chịu trách nhiệm đối với bạn, bao gồm, chẳng hạn, trong trường hợp bạn vi phạm bất kỳ điều khoản nào của các Điều khoản này."
+      ]
+    },
+    {
+      "heading": "10. TUYÊN BỐ VỀ COOKIE",
+      "content": [
+        "Trang web này sử dụng cookies. Cookies là các tệp văn bản nhỏ được đặt trên máy tính của bạn bởi các trang web mà bạn truy cập. Chúng được sử dụng rộng rãi để làm cho các trang web hoạt động, hoặc hoạt động hiệu quả hơn, cũng như để cung cấp thông tin cho chủ sở hữu trang web. Cookies thường được lưu trữ trên ổ cứng của máy tính bạn.",
+        "Thông tin thu thập từ cookies được chúng tôi sử dụng để đánh giá hiệu quả của Trang web của chúng tôi, phân tích xu hướng, và quản lý nền tảng. Thông tin thu thập từ cookies cho phép chúng tôi xác định những thứ như các phần nào của Trang web của chúng tôi được truy cập nhiều nhất và những khó khăn mà khách truy cập của chúng tôi có thể gặp phải khi truy cập Trang web của chúng tôi. Với kiến thức này, chúng tôi có thể cải thiện chất lượng trải nghiệm của bạn trên nền tảng bằng cách nhận ra và cung cấp nhiều hơn các tính năng và thông tin mong muốn nhất, cũng như giải quyết các khó khăn về truy cập. Chúng tôi cũng sử dụng cookies và/hoặc một công nghệ được gọi là web bugs hoặc clear gifs, thường được lưu trữ trong email để giúp chúng tôi xác nhận việc nhận và phản hồi email của bạn, và để cung cấp cho bạn trải nghiệm cá nhân hóa hơn khi sử dụng Trang web của chúng tôi.",
+        "Chúng tôi cũng sử dụng (các) nhà cung cấp dịch vụ bên thứ ba, để hỗ trợ chúng tôi hiểu rõ hơn về việc sử dụng Trang web của chúng tôi. (Các) nhà cung cấp dịch vụ của chúng tôi sẽ đặt cookies trên ổ cứng của máy tính bạn và sẽ nhận thông tin mà chúng tôi chọn sẽ giáo dục chúng tôi về những thứ như cách khách truy cập điều hướng xung quanh trang web của chúng tôi, những trang nào được duyệt và thông tin giao dịch chung. (Các) nhà cung cấp dịch vụ của chúng tôi phân tích thông tin này và cung cấp cho chúng tôi các báo cáo tổng hợp. Thông tin và phân tích được cung cấp bởi (các) nhà cung cấp dịch vụ của chúng tôi sẽ được sử dụng để hỗ trợ chúng tôi hiểu rõ hơn về sự quan tâm của khách truy cập đối với Trang web của chúng tôi và cách phục vụ tốt hơn những sự quan tâm đó. Thông tin được thu thập bởi (các) nhà cung cấp dịch vụ của chúng tôi có thể được liên kết và kết hợp với thông tin mà chúng tôi thu thập về bạn khi bạn đang sử dụng nền tảng. (Các) nhà cung cấp dịch vụ của chúng tôi bị hạn chế theo hợp đồng không được sử dụng thông tin họ nhận được từ Trang web của chúng tôi ngoài việc hỗ trợ chúng tôi.",
+        "Việc tiếp tục sử dụng trang web này của bạn, cũng như bất kỳ việc sử dụng tiếp theo nào, sẽ được hiểu là sự đồng ý của bạn đối với việc lưu trữ cookies trên thiết bị của bạn."
+      ]
+    },
+    {
+      "heading": "11. CHÍNH SÁCH BẢO MẬT",
+      "content": [
+        "Vui lòng xem Chính sách Bảo mật chi tiết của chúng tôi."
+      ]
+    },
+    {
+      "heading": "12. TỪ CHỐI BẢO HÀNH",
+      "content": [
+        "(a) TRONG PHẠM VI TỐI ĐA ĐƯỢC PHÉP THEO LUẬT ÁP DỤNG, VÀ TRỪ KHI ĐƯỢC QUY ĐỊNH RÕ RÀNG NGƯỢC LẠI BẰNG VĂN BẢN CỦA CHÚNG TÔI, DỊCH VỤ CỦA CHÚNG TÔI ĐƯỢC CUNG CẤP TRÊN CƠ SỞ \"NHƯ LÀ\" VÀ \"NHƯ CÓ SẴN\" TRONG PHẠM VI TỐI ĐA ĐƯỢC PHÉP THEO LUẬT ÁP DỤNG. CHÚNG TÔI RÕ RÀNG TỪ CHỐI, VÀ BẠN TỪNG BỎ, TẤT CẢ BẢO HÀNH CỦA BẤT KỲ LOẠI NÀO, DÙ RÕ RÀNG HAY NGỤ Ý, BAO GỒM, KHÔNG GIỚI HẠN, BẢO HÀNH NGỤ Ý VỀ KHẢ NĂNG BÁN ĐƯỢC, PHỤC VỤ CHO MỤC ĐÍCH CỤ THỂ, TIÊU ĐỀ VÀ KHÔNG VI PHẠM LIÊN QUAN ĐẾN DỊCH VỤ CỦA CHÚNG TÔI, BAO GỒM THÔNG TIN, NỘI DUNG VÀ TÀI LIỆU CÓ TRONG ĐÓ.",
+        "(b) BẠN THỪA NHẬN RẰNG THÔNG TIN MÀ BẠN LƯU TRỮ HOẶC CHUYỂN QUYEZ DỊCH VỤ CỦA CHÚNG TÔI CÓ THỂ TRỞ NÊN MẤT MÁT KHÔNG THỂ KHÔI PHỤC HOẶC BỊ HƯ HỎNG HOẶC TẠMP THỜI KHÔNG KHẢ DỤNG DO NHIỀU NGUYÊN NHÂN KHÁC NHAU, BAO GỒM LỖI PHẦN MỀM, THAY ĐỔI GIAO THỨC CỦA CÁC NHÀ CUNG CẤP BÊN THỨ BA, MẤT KẾT NỐI INTERNET, SỰ KIỆN BẤT KHẢ KHÁNG HOẶC THẢM HỌA KHÁC, BẢO TRÌ THEO KẾ HOẠCH HOẶC KHÔNG THEO KẾ HOẠCH, HOẶC CÁC NGUYÊN NHÂN KHÁC TRONG HOẶC NGOÀI TẦM KIỂM SOÁT CỦA CHÚNG TÔI. BẠN CHỊU TRÁCH NHIỆM DUY NHẤT VỀ VIỆC SAO LƯU VÀ DUY TRÌ CÁC BẢN SAO TRÙNG LẶP CỦA BẤT KỲ THÔNG TIN NÀO MÀ BẠN LƯU TRỮ HOẶC CHUYỂN QUA DỊCH VỤ CỦA CHÚNG TÔI."
+      ]
+    },
+    {
+      "heading": "13. GIỚI HẠN TRÁCH NHIỆM",
+      "content": [
+        "TRỪ KHI ĐƯỢC YÊU CẦU KHÁC BỞI LUẬT, TRONG BẤT KỲ TRƯỜNG HỢP NÀO CÔNG TY, CÁC GIÁM ĐỐC, THÀNH VIÊN, NHÂN VIÊN HOẶC ĐẠI DIỆN CỦA CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI ĐẶC BIỆT, GIÁN TIẾP HOẶC HẬU QUẢ, HOẶC BẤT KỲ THIỆT HẠI KHÁC CỦA BẤT KỲ LOẠI NÀO, BAO GỒM NHƯNG KHÔNG GIỚI HẠN MẤT SỬ DỤNG, MẤT LỢI NHUẬN HOẶC MẤT DỮ LIỆU, DÙ TRONG HÀNH ĐỘNG HỢP ĐỒNG, THIỆT HẠI (BAO GỒM NHƯNG KHÔNG GIỚI HẠN VIỆC BẤT CẨN) HOẶC CÁCH KHÁC, PHÁT SINH TỪ HOẶC THEO BẤT KỲ CÁCH NÀO LIÊN QUAN ĐẾN VIỆC SỬ DỤNG HOẶC KHÔNG THỂ SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI HOẶC TÀI LIỆU CÔNG TY, BAO GỒM KHÔNG GIỚI HẠN BẤT KỲ THIỆT HẠI NÀO GÂY RA BỞI HOẶC KẾT QUẢ TỪ SỰ PHỤ THUỘC CỦA BẤT KỲ NGƯỜI DÙNG NÀO VÀO BẤT KỲ THÔNG TIN NÀO NHẬN ĐƯỢC TỪ CÔNG TY, HOẶC KẾT QUẢ TỪ LỖI, THIẾU SÓT, GIÁN ĐOẠN, XÓA TỆP HOẶC EMAIL, LỖI, KHIẾM KHUYẾT, VIRUS, CHẬM TRỄ TRONG VẬN HÀNH HOẶC TRUYỀN TẢI HOẶC BẤT KỲ SỰ CỐ THỰC HIỆN NÀO, DÙ CÓ KẾT QUẢ TỪ SỰ KIỆN BẤT KHẢ KHÁNG, SỰ CỐ LIÊN LẠC, TRỘM CẮP, PHÁ HỦY HOẶC TRUY CẬP TRÁI PHÉP VÀO HỒ SƠ, CHƯƠNG TRÌNH HOẶC DỊCH VỤ CỦA CÔNG TY HAY KHÔNG."
+      ]
+    },
+    {
+      "heading": "14. BỒI THƯỜNG",
+      "content": [
+        "Bạn đồng ý bảo vệ, bồi thường thiệt hại và giữ an toàn cho Công ty (và mỗi giám đốc, thành viên, nhân viên, đại diện và chi nhánh của chúng tôi) khỏi bất kỳ khiếu nại, yêu cầu, hành động, thiệt hại, tổn thất, chi phí hoặc phí tổn nào, bao gồm không giới hạn phí luật sư hợp lý, phát sinh từ hoặc liên quan đến:",
+        "(a) việc sử dụng hoặc hành vi của bạn liên quan đến Dịch vụ của chúng tôi;",
+        "(b) bất kỳ Phản hồi nào mà bạn cung cấp;",
+        "(c) vi phạm các Điều khoản này của bạn; hoặc",
+        "(d) vi phạm quyền của bất kỳ người hoặc thực thể nào khác của bạn."
+      ]
+    },
+    {
+      "heading": "15. KHÁC",
+      "content": [
+        "15.1. Toàn bộ Thỏa thuận; Thứ tự Ưu tiên. Các Điều khoản này chứa toàn bộ thỏa thuận, và thay thế tất cả sự hiểu biết trước đó và đương thời giữa các bên về Dịch vụ. Các Điều khoản này không thay đổi các điều khoản hoặc điều kiện của bất kỳ thỏa thuận điện tử hoặc bằng văn bản nào khác mà bạn có thể có với Công ty cho Dịch vụ hoặc cho bất kỳ sản phẩm hoặc dịch vụ Công ty nào khác hoặc cách khác. Trong trường hợp có bất kỳ xung đột nào giữa các Điều khoản này và bất kỳ thỏa thuận nào khác mà bạn có thể có với Công ty, các điều khoản của thỏa thuận khác đó sẽ kiểm soát chỉ khi các Điều khoản này được xác định cụ thể và tuyên bố bị ghi đè bởi thỏa thuận khác đó.",
+        "15.2. Sửa đổi. Chúng tôi bảo lưu quyền thực hiện các thay đổi hoặc sửa đổi đối với các Điều khoản này theo thời gian, theo quyết định riêng của chúng tôi. Các Điều khoản Sửa đổi sẽ có hiệu lực ngay lập tức vào ngày chúng được đăng lên Dịch vụ trừ khi chúng tôi tuyên bố khác thông qua thông báo của chúng tôi về các Điều khoản sửa đổi đó. Bất kỳ Điều khoản sửa đổi nào sẽ áp dụng tương lai cho việc sử dụng Dịch vụ sau khi những thay đổi đó có hiệu lực. Việc tiếp tục sử dụng Dịch vụ của bạn sau ngày hiệu lực của những thay đổi đó sẽ cấu thành sự chấp nhận của bạn đối với những thay đổi đó. Nếu bạn không đồng ý với bất kỳ Điều khoản sửa đổi nào, bạn phải ngừng sử dụng Dịch vụ.",
+        "15.3. Từ bỏ. Sự thất bại hoặc chậm trễ của chúng tôi trong việc thực hiện bất kỳ quyền, quyền lực hoặc đặc quyền nào theo các Điều khoản này sẽ không hoạt động như một sự từ bỏ đó.",
+        "15.4. Tính khả thi. Tính không hợp lệ hoặc không thể thi hành của bất kỳ Điều khoản nào trong số này sẽ không ảnh hưởng đến tính hợp lệ hoặc khả năng thi hành của bất kỳ Điều khoản nào khác trong số này, tất cả sẽ vẫn có hiệu lực đầy đủ.",
+        "15.5. Các Sự kiện Bất khả kháng. Công ty sẽ không chịu trách nhiệm về bất kỳ tổn thất hoặc thiệt hại nào phát sinh từ bất kỳ sự kiện nào nằm ngoài tầm kiểm soát hợp lý của Công ty, bao gồm, nhưng không giới hạn, lũ lụt, điều kiện thời tiết bất thường, động đất, hoặc hành động khác của Chúa, hỏa hoạn, chiến tranh, nổi loạn, bạo động, tranh chấp lao động, tai nạn, hành động của chính phủ, thông tin liên lạc, mất điện, hoặc trục trặc thiết bị hoặc phần mềm (mỗi cái, một \"Sự kiện Bất khả kháng\").",
+        "15.6. Chuyển nhượng. Bạn không thể chuyển nhượng hoặc chuyển giao bất kỳ quyền hoặc nghĩa vụ nào của bạn theo các Điều khoản này mà không có sự đồng ý bằng văn bản trước của Công ty, bao gồm bằng hoạt động của luật pháp hoặc liên quan đến bất kỳ thay đổi kiểm soát nào. Công ty có thể chuyển nhượng hoặc chuyển giao bất kỳ hoặc tất cả các quyền của mình theo các Điều khoản này, toàn bộ hoặc một phần, mà không cần có được sự đồng ý hoặc phê duyệt của bạn."
       ]
     }
   ]

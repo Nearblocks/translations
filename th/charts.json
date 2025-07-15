@@ -1,82 +1,82 @@
 {
   "charts": {
-    "metaTitle": "กราฟ และสถิติ Near | NearBlocks ",
-    "metaDescription": "Near ให้ข้อมูลทางกราฟ และเชิงสถิติแบบเรียลไทม์ในการติดตามข้อมูลทุกอย่่างบน Near Block ไม่ว่าจะเป็นราคา, ซัพพลาย, มูลค่าตลาด, ค่าธรรมเนียมธุรกรรม และอื่นๆ",
-    "heading": "กราฟ และสถิติบน Near",
-    "otherHeading": "กราฟ และข้อมูลทางสถิติอื่นๆบนบล็อกเชน Near",
+    "metaTitle": "Near Charts & Statistics | NearBlocks",
+    "metaDescription": "Near ให้บริการชุดของ charts และ statistics แบบ real-time เพื่อติดตามทุกอย่างเกี่ยวกับ NearBlocks: Price, Supply, Marketcap, Transaction Fee และอื่นๆ",
+    "heading": "Near Charts & Statistics",
+    "otherHeading": "Near Blockchain Charts & Statistics อื่นๆ",
     "nearPrice": {
-      "metaTitle": "ราคา Near วันนี้ : ข้อมูล, กราฟ, สถิติ | NearBlocks ",
-      "metaDescription": "กราฟราคา Near ในแต่ละวัน (USD) แสดงประวัติราคา Near ที่ผ่านมาในหน่วยเงิน USD โดยทุกอย่างเป็นข้อมูลที่แม่นยำ, เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-      "heading": "กราฟราคา Near วันนี้ (USD)",
-      "description": "กราฟราคา Near ในแต่ละวัน (USD) โดยแสดงสถิติราคา Near ในวันที่ผ่านมาในหน่วยเงิน USD",
-      "yLabel": "ราคา Near (USD)",
+      "metaTitle": "Near Price วันนี้: ข้อมูล, Chart, Stats | NearBlocks",
+      "metaDescription": "Near Daily Price (USD) chart แสดงราคาประวัติศาสตร์รายวันสำหรับ Near ใน USD ข้อมูลทั้งหมดเป็น real-time, ถูกต้อง และดึงโดยตรงจาก Near blockchain",
+      "heading": "Near Daily Price (USD) Chart",
+      "description": "Near Daily Price (USD) chart แสดงราคาประวัติศาสตร์รายวันสำหรับ Near ใน USD",
+      "yLabel": "Near Price (USD)",
       "statistics": {
-        "heading": "สถิติราคา Near",
-        "price": "ราคา Near (USD)",
-        "marketCap": "มูลค่าตลาด",
-        "volume": "ปริมาณการซืื้อขาย",
-        "volumeMarketCap": "ปริมาณ / มูลค่าตลาด",
-        "high24": "สูงสุดใน 24 ชั่วโมง",
-        "low24": "ต่ำสุดใน 24 ชั่วโมง",
-        "highAll": "สูงสุดตลอดกาล",
-        "lowAll": "ต่ำสุดตลอดกาล"
+        "heading": "Near Price Statistics",
+        "price": "Near Price (USD)",
+        "marketCap": "Market Cap",
+        "volume": "Trading Volume",
+        "volumeMarketCap": "Volume / Market Cap",
+        "high24": "24h High",
+        "low24": "24h Low",
+        "highAll": "All-Time High",
+        "lowAll": "All-Time Low"
       }
     }
   },
   "marketCapCharts": {
-    "metaTitle": "กราฟมูลค่าตลาดบน Near | NearBlocks ",
-    "metaDescription": "กราฟมูลค่าตลาดบน Near Market แสดงมูลค่าตลาดที่ผ่านมาแต่ละวันในเชิงวิเคราะห์ ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "heading": "กราฟมูลค่าตลาดบน Near",
-    "description": "กราฟมูลค่าตลาดบน Near Market แสดงมูลค่าตลาดที่ผ่านมาแต่ละวันในเชิงวิเคราะห์ ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "yLabel": "มูลค่าตลาด Near (USD)"
+    "metaTitle": "Near Market Capitalization Chart | NearBlocks",
+    "metaDescription": "Near Market Capitalization chart แสดงการแบ่งประวัติศาสตร์ของ Near daily market capitalization และ price ข้อมูลทั้งหมดเป็น real-time, ถูกต้อง และดึงโดยตรงจาก Near blockchain",
+    "heading": "Near Market Capitalization Chart",
+    "description": "Near Market Capitalization chart แสดงการแบ่งประวัติศาสตร์ของ Near daily market capitalization และ price",
+    "yLabel": "Near Market Cap (USD)"
   },
   "nearSupplyCharts": {
-    "metaTitle": "กราฟ Supply Near : มูลค่าหมุนเวียน และ Supply ทั้งหมด | NearBlocks ",
-    "metaDescription": "กราฟ Supply Near แสดงข้อมูลในเชิงวิเคราะห์ และปริมาณ Supply Near โดยรวมในแต่ละวัน ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "heading": "กราฟ Supply Near",
-    "description": "กราฟ Supply Near แสดงข้อมูลในเชิงวิเคราะห์ และปริมาณ Supply Near โดยรวมในแต่ละวัน",
+    "metaTitle": "Near Supply Chart: Circulating, Total Supply | NearBlocks",
+    "metaDescription": "Near blockchain Supply Growth Chart แสดงการแบ่งของ daily block reward และ total Near supply ข้อมูลทั้งหมดเป็น real-time, ถูกต้อง และดึงโดยตรงจาก Near blockchain",
+    "heading": "Near Supply Growth Chart",
+    "description": "Near Supply Growth Chart แสดงการแบ่งรายวันและ total Near supply",
     "yLabel": "Near Supply"
   },
   "txnsCharts": {
-    "metaTitle": "กราฟธุรกรรม Near : ข้อมูล สถิติ และการเติบโต | NearBlocks ",
-    "metaDescription": "กราฟธุรกรรม Near แสดงจำนวนธุรกรรมโดยรวม บล็อกทั้งหมด และบัญชีที่สร้างใหม่บนบล็อกเชน Near ในเชิงวิเคราะห์ในแต่ละวัน ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "heading": "กราฟธุรกรรม Near ในแต่ละวัน",
-    "description": "กราฟธุรกรรม Near แสดงจำนวนธุรกรรมโดยรวม บล็อกทั้งหมด และบัญชีที่สร้างใหม่บนบล็อกเชน Near ในเชิงวิเคราะห์ในแต่ละวัน",
-    "yLabel": "ธุรกรรมต่อวัน"
+    "metaTitle": "Near Transactions Chart: ข้อมูล, Statistics, Growth | NearBlocks",
+    "metaDescription": "Near transactions chart เน้นจำนวน transactions ทั้งหมดบน Near blockchain blockchain พร้อมการแบ่งรายบุคคลรายวันสำหรับ total transaction, total blocks และ total new account ที่เห็น",
+    "heading": "Near Daily Transactions Chart",
+    "description": "Chart เน้นจำนวน transactions ทั้งหมดบน Near blockchain พร้อมการแบ่งรายบุคคลรายวันสำหรับ total blocks และ total new account ที่เห็น",
+    "yLabel": "Transactions ต่อวัน"
   },
   "blocksCharts": {
-    "metaTitle": "กราฟจำนวนบล็อกบนเชน Near | NearBlocks ",
-    "metaDescription": "กราฟจำนวนบล็อกบนเชน Near แสดงประวัติของจำนวนบล็อกที่ถูกสร้างขึ้นใหม่ในแต่ละวัน ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "heading": "จำนวนบล็อกบนเชน Near",
-    "description": "กราฟจำนวนบล็อกบนเชน Near แสดงประวัติของจำนวนบล็อกที่ถูกสร้างขึ้นใหม่ในแต่ละวัน",
-    "yLabel": "บล็อกต่อวัน"
+    "metaTitle": "Near Block Count Chart | NearBlocks",
+    "metaDescription": "Near blockchain Block Count Chart แสดงจำนวน blocks ที่ผลิตรายวันบน Near blockchain ข้อมูลทั้งหมดเป็น real-time, ถูกต้อง และดึงโดยตรงจาก Near blockchain",
+    "heading": "Near Block Count",
+    "description": "Near Block Count Chart แสดงจำนวน blocks ที่ผลิตรายวันบน Near blockchain",
+    "yLabel": "Blocks ต่อวัน"
   },
   "addressesCharts": {
-    "metaTitle": "กราฟจำนวนบัญชีที่แตกต่างกันบน Near | NearBlocks ",
-    "metaDescription": "กราฟจำนวนบัญชีที่แตกต่างกันบน Near แสดงจำนวนบัญชีที่เปลี่ยนแปลง รวมถึงที่ถูสร้างขึ้นมาใหม่ในแต่ละวัน",
-    "heading": "กราฟจำนวนบัญชีที่แตกต่างกันบน Near",
-    "description": "กราฟจำนวนบัญชีที่แตกต่างกันบน Near แสดงจำนวนบัญชีที่เปลี่ยนแปลง รวมถึงที่ถูสร้างขึ้นมาใหม่ในแต่ละวัน",
-    "yLabel": "การเติบโตของจำนวนบัญชี"
+    "metaTitle": "Near Unique Accounts Chart | NearBlocks",
+    "metaDescription": "Near blockchain unique accounts chart แสดงจำนวน accounts ที่แตกต่างกันทั้งหมดบน Near blockchain และการเพิ่มขึ้นของจำนวน account รายวัน",
+    "heading": "Near Unique Accounts Chart",
+    "description": "Chart แสดงจำนวน accounts ที่แตกต่างกันทั้งหมดบน Near blockchain และการเพิ่มขึ้นของจำนวน account รายวัน",
+    "yLabel": "Near Cumulative Accounts Growth"
   },
   "txnFeeCharts": {
-    "metaTitle": "ประวัติค่าธรรมเนียมบน Near : ค่าธรรมเนียมธุรกรรม | NearBlocks ",
-    "metaDescription": "กราฟแสดงจำนวนเงิน USD ที่ใช้ในการจ่ายค่าธรรมเนียมธุรกรรมในแต่ละวันบนบล็อกเชน Near (Ⓝ) ทุกข้อมูลมีความแม่นยำ เรียลไทม์ และถูกดึงโดยตรงมาจากบล็อกเชน Near",
-    "heading": "กราฟแสดงค่าธรรมเนียม",
-    "description": "กราฟแสดงจำนวนเงิน USD ที่ใช้ในการจ่ายค่าธรรมเนียมธุรกรรมในแต่ละวันบนบล็อกเชน Near",
-    "yLabel": "ค่าธรรมเนียม (USD)"
+    "metaTitle": "Near Transaction Fee History: Transaction Fee | NearBlocks",
+    "metaDescription": "Near blockchain transaction fee chart แสดงจำนวนรายวันใน USD ที่ใช้จ่ายต่อ transaction บน Near blockchain (Ⓝ) ข้อมูลทั้งหมดเป็น real-time, ถูกต้อง และดึงโดยตรงจาก Near blockchain",
+    "heading": "Transaction Fee Chart",
+    "description": "Chart แสดงจำนวนรายวันใน USD ที่ใช้จ่ายต่อ transaction บน Near blockchain",
+    "yLabel": "Transaction Fee (USD)"
   },
   "txnVolumeCharts": {
-    "metaTitle": "กราฟปริมาณการซื้อขายธุรกรรมบน Near :  ปริมาณการซื้อขาย | NearBlocks ",
-    "metaDescription": "กราฟปริมาณการซื้อขายของธุรกรรมบน Near แสดงการใช้จ่ายในหน่วย USD ต่อธุรกรรมในแต่ละวันบนบล็อกเชน Near",
-    "heading": "กราฟปริมาณการซื้อขายธุรกรรม",
-    "description": "กราฟปริมาณการซื้อขายธุรกรรมบน Near แสดงการใช้จ่ายในหน่วย USD ต่อธุรกรรมในแต่ละวันบนบล็อกเชน Near",
-    "yLabel": "ปริมาณการซื้อขาย (USD)"
+    "metaTitle": "Near Transaction Volume Chart: Transaction Volume | NearBlocks",
+    "metaDescription": "Near blockchain transaction volume chart แสดงจำนวนรายวันใน USD ที่ใช้จ่ายต่อ transaction บน Near blockchain",
+    "heading": "Transaction Volume Chart",
+    "description": "Chart แสดงจำนวนรายวันใน USD ที่ใช้จ่ายต่อ transaction บน Near blockchain",
+    "yLabel": "Transaction Volume (USD)"
   },
   "multichainTxns": {
-    "metaTitle": "แผนภูมิธุรกรรม หลายห่วงโซ่ | NearBlocks",
-    "metaDescription": "แผนภูมิธุรกรรม หลายห่วงโซ่ แสดงจำนวนธุรกรรม หลายห่วงโซ่ ทั้งหมดในบล็อกเชน Near",
-    "heading": "แผนภูมิธุรกรรม หลายห่วงโซ่",
-    "description": "แผนภูมิแสดงจำนวนธุรกรรม หลายห่วงโซ่ ทั้งหมดในบล็อกเชน Near",
-    "yLabel": "ธุรกรรม หลายห่วงโซ่ ต่อวัน"
+    "metaTitle": "Multichain Transactions Chart | NearBlocks",
+    "metaDescription": "Multichain Transactions chart เน้นจำนวน multi chain transactions ทั้งหมดบน Near blockchain",
+    "heading": "Multichain Transactions Chart",
+    "description": "Chart เน้นจำนวน multichain transactions ทั้งหมดบน Near blockchain",
+    "yLabel": "Multichain Transactions ต่อวัน"
   }
 }

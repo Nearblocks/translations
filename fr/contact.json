@@ -1,27 +1,27 @@
 {
   "contact": {
-    "metaTitle": "Contactez-nous | NearBlocks",
-    "metaDescription": "Contactez l'équipe Near Blocks pour toute question concernant notre site web et nos outils. Veuillez noter que nous ne pouvons aider que pour des problèmes directement liés aux services de l'explorateur de blocs.",
+    "metaTitle": "Nous Contacter | NearBlocks",
+    "metaDescription": "Contactez l'équipe Near Blocks pour toute demande liée à notre site web et nos outils. Veuillez comprendre que nous ne pouvons aider qu'avec les problèmes directement liés aux services d'explorateur de blocs.",
     "heading": "Contacter Near Blocks",
     "info": {
-      "heading": "Laissez-nous un message, mais veuillez noter que :",
+      "heading": "Envoyez-nous un message, mais veuillez être conscient que :",
       "points": [
         {
-          "heading": "Transaction en attente",
-          "content": "Nous ne traitons pas les transactions et ne pouvons donc pas les accélérer, les annuler ou les remplacer. Si vous rencontrez des problèmes avec des transactions en attente, veuillez consulter cette page."
+          "heading": "Transaction en Attente",
+          "content": "Nous ne traitons pas les transactions et ne sommes donc pas en mesure de les accélérer, les annuler ou les remplacer. Si vous rencontrez des problèmes avec des transactions en attente, veuillez vous référer ici."
         },
         {
-          "heading": "Explorateur Near Blocks",
-          "content": "Near Blocks est un explorateur de blocs indépendant, non affilié à d'autres prestataires de services (sauf indication contraire explicite), et ne peut donc pas fournir de réponse précise pour des demandes spécifiques à d'autres prestataires."
+          "heading": "Explorateur de Blocs NEAR",
+          "content": "Near Blocks est un explorateur de blocs indépendant non lié à d'autres fournisseurs de services (sauf indication contraire explicite) et n'est donc pas en mesure de fournir une réponse précise aux demandes spécifiques à d'autres fournisseurs de services."
         },
         {
-          "heading": "Problèmes liés aux portefeuilles / échanges / projets",
-          "content": "Veuillez contacter le fournisseur de votre portefeuille, la plateforme d’échange ou le propriétaire du projet/contrat pour toute assistance, car ils sont les mieux placés pour vous aider concernant les problèmes relatifs à leurs plateformes."
+          "heading": "Problèmes liés au Portefeuille / Exchange / Projet",
+          "content": "Veuillez contacter votre fournisseur de services de portefeuille, les exchanges ou le propriétaire du projet/contrat pour un support supplémentaire car ils sont mieux placés pour vous aider sur les problèmes liés à et depuis leurs plateformes."
         }
       ]
     },
     "form": {
-      "heading": "Formulaire de contact :",
+      "heading": "Formulaire de Contact :",
       "name": {
         "label": "Nom",
         "placeholder": "Nom"
@@ -38,7 +38,7 @@
           "Support / Technique",
           "Partenariat",
           "API / Développement",
-          "Étiquetage de nom / Adresse étiquetée",
+          "Étiquetage de nom / Étiqueter l'adresse",
           "Publicité"
         ]
       },
@@ -46,9 +46,9 @@
         "label": "Message",
         "placeholder": "Message"
       },
-      "button": "Envoyer le message",
-      "successMessage": "Merci, nous reviendrons vers vous sous peu",
-      "errorMessage": "Une erreur s'est produite !"
+      "button": "Envoyer le Message",
+      "successMessage": "Merci, nous vous répondrons bientôt",
+      "errorMessage": "Quelque chose s'est mal passé !"
     }
   }
 }

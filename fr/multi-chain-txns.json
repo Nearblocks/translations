@@ -1,13 +1,13 @@
 {
-  "metaTitle": "Toutes les dernières transactions multichaînes",
-  "metaDescription": "Toutes les dernières transactions multichaînes confirmées sur la blockchain Near.",
-  "heading": "Dernières transactions multichaînes",
+  "metaTitle": "Toutes les Dernières Transactions Multichaînes",
+  "metaDescription": "Toutes les dernières transactions multichaînes confirmées sur la blockchain NEAR.",
+  "heading": "Dernières Transactions Multichaînes",
   "count": "Un total de {count} transactions multichaînes trouvées",
-  "receiptId": "ID de reçu",
-  "sourceTxn": "Hash de la transaction source",
+  "receiptId": "ID de Reçu",
+  "sourceTxn": "Hash de Txn Source",
   "from": "De",
-  "destinationTxn": "Hash de la transaction de destination",
-  "destinationAddress": "Adresse de destination",
+  "destinationTxn": "Hash de Txn Destination",
+  "destinationAddress": "Adresse de Destination",
   "filter": {
     "placeholder": "Rechercher par adresse ex. Ⓝ..",
     "placeholderForeign": "Rechercher par adresse",
@@ -20,7 +20,7 @@
   "age": "Âge",
   "ageDT": "Date et heure (UTC)",
   "noTxns": "Aucune transaction",
-  "totalTxns": "Total des transactions",
-  "volume": "Volume (24h)",
+  "totalTxns": "Total des Transactions",
+  "volume": "Volume(24h)",
   "networks": "Réseaux"
 }

@@ -1,10 +1,10 @@
 {
-    "metaTitle": "근처 블록 체인 탐색기 | 블록 근처",
-    "metaDescription": "근거리 블록은 새로운 블록 체인 및 스마트 트랜잭션 플랫폼인 Near blockchain Ⓝ을위한 블록 탐색기 및 분석 플랫폼입니다.",
-    "kbTitle": "NEAR Blocks 기술 자료 및 정보 센터",
-    "search": "검색할 유형",
-    "home": "집",
-    "published": "게시",
+    "metaTitle": "Near 블록체인 탐색기 | NearBlocks",
+    "metaDescription": "Near Blocks는 Near 블록체인(Ⓝ)을 위한 블록 탐색기 및 분석 플랫폼입니다. 새로운 블록체인 및 스마트 거래 플랫폼입니다.",
+    "kbTitle": "NEAR Blocks 지식 베이스 및 정보 센터",
+    "search": "검색하려면 입력하세요",
+    "home": "홈",
+    "published": "게시됨",
     "lastUpdated": "마지막 업데이트",
     "kb": {
         "metaTitle": "{post} | NearBlocks",

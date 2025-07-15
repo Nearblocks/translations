@@ -3,79 +3,79 @@
     "menu": {
       "home": "ホーム",
       "blockchain": "ブロックチェーン",
-      "viewBlocks": "ブロックを見る",
-      "viewTxns": "取引を見る",
+      "viewBlocks": "ブロックを表示",
+      "viewTxns": "Txnsを表示",
       "languages": "言語",
-      "charts": "チャート&スタッツ",
+      "charts": "チャートと統計",
       "topAccounts": "トップアカウント",
       "tokens": "トークン",
-      "toptoken": "トップ トークン",
-      "viewTokenTrasfers": "トークン送付を見る",
-      "topnft": "トップ NFTトークン",
-      "viewNftTrasfers": "NFT送付を見る",
+      "toptoken": "トップトークン",
+      "viewTokenTrasfers": "トークン転送",
+      "topnft": "トップNFTトークン",
+      "viewNftTrasfers": "NFTトークン転送",
       "nodeExplorer": "ノードエクスプローラー"
     }
   },
   "search": {
     "filters": {
-      "all": "全てのフィルター",
-      "txns": "取引",
+      "all": "すべてのフィルター",
+      "txns": "Txns",
       "blocks": "ブロック",
       "token": "トークン",
       "addresses": "アドレス"
     },
-    "placeholder": "アカウントID / 取引ハッシュ / ブロックで検索する",
+    "placeholder": "アカウントID / Txnハッシュ / ブロックで検索",
     "list": {
       "address": "アカウント",
-      "txns": "取引",
+      "txns": "Txns",
       "blocks": "ブロック",
       "tokens": "トークン"
     },
     "noResults": "結果がありません"
   },
   "footer": {
-    "description": "NEAR Blocks は、NEAR エコシステム専用の主要なブロックチェーン エクスプローラーです。 NEARプロトコルを採用。",
-    "poweredBy": "によって提供されています",
+    "description": "NEAR Blocksは、NEARエコシステム専用の主要なブロックチェーンエクスプローラーです。NEARプロトコルによって提供されています。",
+    "poweredBy": "提供",
     "links": {
-      "explore": "探す",
+      "explore": "探索",
       "blockExplorer": "ブロックエクスプローラー",
-      "latestBlocks": "直近のブロック",
-      "latestTxns": "直近の取引",
+      "latestBlocks": "最新ブロック",
+      "latestTxns": "最新取引",
       "company": "会社",
-      "about": "わたしたちについて",
+      "about": "概要",
       "advertise": "広告",
       "contact": "お問い合わせ",
       "terms": "利用規約",
-      "charts": "チャート&スタッツ",
-      "api": "NEAR インデクサー API",
+      "charts": "チャートと統計",
+      "api": "NEARインデクサーAPI",
       "kb": "ナレッジベース",
-      "fundamentals": "ファンダメンタルズ",
-      "buySell": "買う、売る＆トレード",
-      "nearValidator": "NEAR バリデーターリスト"
+      "fundamentals": "基礎知識",
+      "buySell": "売買・取引",
+      "nearValidator": "NEARバリデーター一覧"
     }
   },
-  "sponsored": "スポンサード",
+  "sponsored": "スポンサー",
   "pagination": {
     "first": "最初",
     "last": "最後"
   },
   "validation": {
-    "required": "{field}が必要です",
-    "invalid": "正しい {field}を提供してください"
+    "required": "{field}は必須です",
+    "invalid": "有効な{field}を入力してください"
   },
   "chart": {
     "source": "ソース: nearblocks.io"
   },
-  "trademark": "NearBlocks は完全に単独で運営されています。 NearBlocks は The NEAR Foundation とは関係がなく、この Web サイトに表示されるすべてのライセンス商標はそれぞれの所有者に属します。",
+  "trademark": "NearBlocksは完全に独立して運営されています。NearBlocksはNEAR Foundationとは関連がなく、このウェブサイトに表示されるすべてのライセンス商標は各所有者に帰属します。",
   "tags": {
     "service": "サービス",
     "pool": "プール",
-    "personal": "パーソナル",
+    "personal": "個人",
     "shop": "ショップ",
     "donation": "寄付",
-    "centralisedExchange": "中央集権型取引所",
+    "centralisedExchange": "中央集権取引所",
     "decentralisedExchange": "分散型取引所"
   },
-  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期が取れていません。一部のブロックやトランザクションが遅れる可能性があります。",
-  "rpcRateLimitError": "現在のRPC（{rpcUrl}）によってレート制限されています。しばらくしてからもう一度お試しいただくか、ドロップダウンメニュー（{icon}）から別のRPCプロバイダーを選択してください。"
+  "outofSync": "予期しないメンテナンスのため、Nearblocksは同期していません。一部のブロックや取引が遅れる可能性があります。",
+  "rpcRateLimitError": "現在のRPC ({rpcUrl}) によってレート制限されています。後でもう一度試すか、ドロップダウンメニュー{icon}から別のRPCプロバイダーを選択してください。"
 }

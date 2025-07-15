@@ -3,79 +3,79 @@
     "menu": {
       "home": "Trang chủ",
       "blockchain": "Blockchain",
-      "viewBlocks": "Xem các khối",
-      "viewTxns": "Xem giao dịch",
+      "viewBlocks": "Xem Blocks",
+      "viewTxns": "Xem Txns",
       "languages": "Ngôn ngữ",
-      "charts": "Biểu đồ & thống kê",
-      "topAccounts": "Tài khoản hàng đầu",
-      "tokens": "Token",
-      "toptoken": "Token nổi bật",
-      "viewTokenTrasfers": "Chuyển token",
-      "topnft": "NFT hàng đầu",
-      "viewNftTrasfers": "Chuyển NFT",
-      "nodeExplorer": "Trình khám phá nút"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "Tất cả bộ lọc",
-      "txns": "Giao dịch",
-      "blocks": "Khối",
-      "token": "Token",
-      "addresses": "Địa chỉ"
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
-    "placeholder": "Tìm theo địa chỉ / mã giao dịch / khối",
+    "placeholder": "Tìm kiếm theo Account ID / Txn Hash / Block",
     "list": {
-      "address": "Tài khoản",
-      "txns": "Giao dịch",
-      "blocks": "Khối",
-      "tokens": "Token"
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     },
-    "noResults": "Không tìm thấy kết quả"
+    "noResults": "Không có kết quả"
   },
   "footer": {
-    "description": "NEAR Blocks là trình khám phá blockchain hàng đầu dành riêng cho hệ sinh thái NEAR. Dựa trên giao thức NEAR.",
-    "poweredBy": "Cung cấp bởi",
+    "description": "NEAR Blocks là blockchain explorer hàng đầu dành riêng cho hệ sinh thái NEAR. Được hỗ trợ bởi NEAR Protocol.",
+    "poweredBy": "Được hỗ trợ bởi",
     "links": {
       "explore": "Khám phá",
-      "blockExplorer": "Trình khám phá khối",
-      "latestBlocks": "Khối mới nhất",
-      "latestTxns": "Giao dịch mới nhất",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
       "company": "Công ty",
       "about": "Về chúng tôi",
       "advertise": "Quảng cáo",
       "contact": "Liên hệ",
       "terms": "Điều khoản",
-      "charts": "Biểu đồ & thống kê",
-      "api": "NEAR Indexer API",
-      "kb": "Trung tâm trợ giúp",
-      "fundamentals": "Kiến thức cơ bản",
-      "buySell": "Mua, bán & giao dịch",
-      "nearValidator": "Danh sách trình xác thực NEAR"
+      "charts": "Charts & Stats",
+      "api": "NEAR Indexer APIs",
+      "kb": "Knowledge Base",
+      "fundamentals": "Cơ bản",
+      "buySell": "Mua, Bán & Giao dịch",
+      "nearValidator": "Danh sách NEAR Validator"
     }
   },
-  "sponsored": "Tài trợ",
+  "sponsored": "Được tài trợ",
   "pagination": {
     "first": "Đầu tiên",
     "last": "Cuối cùng"
   },
   "validation": {
     "required": "{field} là bắt buộc",
-    "invalid": "Vui lòng nhập giá trị hợp lệ cho {field}"
+    "invalid": "Vui lòng cung cấp {field} hợp lệ"
   },
   "chart": {
     "source": "Nguồn: nearblocks.io"
   },
-  "trademark": "NearBlocks hoạt động độc lập. NearBlocks không liên kết với NEAR Foundation và mọi nhãn hiệu hiển thị đều thuộc về chủ sở hữu tương ứng.",
+  "trademark": "NearBlocks hoạt động đầy đủ và độc lập. NearBlocks không liên kết với The NEAR Foundation và mọi thương hiệu được cấp phép hiển thị trên trang web này thuộc về chủ sở hữu tương ứng của họ.",
   "tags": {
     "service": "Dịch vụ",
     "pool": "Pool",
     "personal": "Cá nhân",
     "shop": "Cửa hàng",
     "donation": "Quyên góp",
-    "centralisedExchange": "Sàn giao dịch tập trung",
-    "decentralisedExchange": "Sàn giao dịch phi tập trung"
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "Do bảo trì kỹ thuật ngoài dự kiến, NearBlocks hiện không đồng bộ. Một số khối hoặc giao dịch có thể hiển thị chậm trễ.",
-  "rpcRateLimitError": "Bạn đã đạt đến giới hạn RPC hiện tại ({rpcUrl}). Vui lòng thử lại sau hoặc chọn một nhà cung cấp RPC khác bằng biểu tượng {icon}."
+  "outofSync": "Do bảo trì bất ngờ, Nearblocks không đồng bộ. Một số blocks hoặc transactions có thể bị trễ.",
+  "rpcRateLimitError": "Bạn đã bị giới hạn tốc độ bởi RPC hiện tại ({rpcUrl}). Vui lòng thử lại sau hoặc chọn nhà cung cấp RPC khác từ menu dropdown {icon}."
 }

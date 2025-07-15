@@ -1,17 +1,17 @@
 {
-    "metaTitle": "Оглядач блокчейну Near | NearBlocks",
-    "metaDescription": "Near Blocks - це Оглядач Блоків та аналітична платформа для блокчейну Near (Ⓝ), нового блокчейну та платформи розумних транзакцій.",
-    "kbTitle": "База знань та Інформаційний центр NEAR Blocks",
+    "metaTitle": "Near Blockchain Explorer | NearBlocks",
+    "metaDescription": "Near Blocks є Block Explorer та Analytics Platform для Near blockchain (Ⓝ), нового blockchain та smart transaction platform.",
+    "kbTitle": "NEAR Blocks Knowledge Base & Information Center",
     "search": "Введіть для пошуку",
     "home": "Головна",
     "published": "Опубліковано",
-    "lastUpdated": "Останнє Оновлення",
+    "lastUpdated": "Останнє оновлення",
     "kb": {
-        "metaTitle": "{post} | NearBlocks",
-        "metaDescription": "{post} | NearBlocks"
+      "metaTitle": "{post} | NearBlocks",
+      "metaDescription": "{post} | NearBlocks"
     },
     "article": {
-        "metaTitle": "{slug} | NearBlocks",
-        "metaDescription": "{slug} | NearBlocks"
+      "metaTitle": "{slug} | NearBlocks",
+      "metaDescription": "{slug} | NearBlocks"
     }
-}
+  }

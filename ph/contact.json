@@ -1,54 +1,54 @@
 {
   "contact": {
-    "metaTitle": "Kontakin Kami | NearBlocks",
-    "metaDescription": "Kontakin ang Nearblocks na grupo para sa anumang katanungan  na may kaugnayan sa aming website and tools. Pakiusap intindihin na ang aming maaring matulongan ay may issue direkta na may kaugnay sa block explorer services.",
-    "heading": "Kontakin ang Nearblocks",
+    "metaTitle": "Makipag-ugnayan sa Amin | NearBlocks",
+    "metaDescription": "Makipag-ugnayan sa Near Blocks team para sa anumang katanungan na nauugnay sa aming website at mga tool. Mangyaring unawain na makakatulong lamang kami sa mga isyung direktang nauugnay sa mga serbisyo ng block explorer.",
+    "heading": "Makipag-ugnayan sa Near Blocks",
     "info": {
-      "heading": "Mag-iwan ng mensahe, ngunit mangyaring magkaroon ng kamalayan na:",
+      "heading": "Magpadala sa amin ng mensahe, ngunit mangyaring malaman na:",
       "points": [
         {
-          "heading": "Nakabin-bing Transaksyon",
-          "content": "Hindi kami nag proproseso ng transaksyon at samakatuwid ay hindi namin mapabilis, kaselahin or palitan. Kung nagkaroon ka ng isyu san aka bin-bing transaksyon, Maaring sumanguni dito."
+          "heading": "Pending Transaction",
+          "content": "Hindi namin pinoproseso ang mga transaction at samakatuwid ay hindi namin maaaring pabilisin, kanselahin o palitan ang mga ito. Kung may mga problema kayo sa mga pending transaction, mangyaring sumangguni dito."
         },
         {
           "heading": "Near Block Explorer",
-          "content": "Ang Nearblocks ay isang indepedenteng block explorer na walang kaugnayan sa iba pang mga service provider (maliban kung tahasang nakasaad kung hindi man) at sama-katuwid ay hindi makapagbigay ng tumpak na tugon para sa mga katanungan na partikular sa ibang mga taga-pagbigay ng serbisyo."
+          "content": "Ang Near Blocks ay isang independiyenteng block explorer na hindi nauugnay sa ibang mga service provider (maliban kung tahasang nabanggit na kung hindi) at samakatuwid ay hindi makakabigay ng tumpak na tugon para sa mga katanungang tukoy sa ibang mga service provider."
         },
         {
-          "heading": "Wallet / Exchange / Project related issues",
-          "content": "Mangyaring makipag-ugnayan sa iyong wallet service provider, palitan o proyekto/may-ari ng kontrata para sa karagdagang suporta dahil nasa mas magandang posisyon sila para tulungan ka sa mga isyung nauugnay at mula sa kanilang platform."
+          "heading": "Mga isyung nauugnay sa Wallet / Exchange / Project",
+          "content": "Mangyaring makipag-ugnayan sa inyong wallet service provider, exchange o project/contract owner para sa karagdagang suporta dahil nasa mas mahusay na posisyon sila na tumulong sa inyo sa mga isyung nauugnay sa kanilang mga platform."
         }
       ]
     },
     "form": {
       "heading": "Contact Form:",
       "name": {
-        "label": "Name",
-        "placeholder": "Name"
+        "label": "Pangalan",
+        "placeholder": "Pangalan"
       },
       "email": {
         "label": "Email",
         "placeholder": "Email"
       },
       "subject": {
-        "label": "Subject",
-        "placeholder": "Subject",
+        "label": "Paksa",
+        "placeholder": "Paksa",
         "options": [
-          "General enquiry",
-          "Support / Technical",
+          "Pangkalahatang katanungan",
+          "Suporta / Teknikal",
           "Partnership",
           "API / Development",
           "Name tagging / Label address",
-          "Advertise"
+          "Mag-advertise"
         ]
       },
       "message": {
-        "label": "Message",
-        "placeholder": "Message"
+        "label": "Mensahe",
+        "placeholder": "Mensahe"
       },
-      "button": "Send Message",
-      "successMessage": "Salamat, Babalik kami kaagad",
-      "errorMessage": "May problema!"
+      "button": "Magpadala ng Mensahe",
+      "successMessage": "Salamat, makikipag-ugnayan kami sa inyo kaagad",
+      "errorMessage": "May nangyaring mali!"
     }
   }
 }

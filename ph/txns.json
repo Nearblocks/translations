@@ -1,235 +1,235 @@
 {
-  "metaTitle": "Lahat ng NEAR sa Pinakabagong Transaksyon | NearBlocks",
-  "metaDescription": "Lahat ng NEAR na Transaksyon ay nakumpirma sa Near Blockchain. Ang listahan ay binubuo ng mga transaksyon mula sa pagpapadala ng Near at ang mga detalye ng transaksyon para sa bawat transaksyon.",
-  "txnsHeading": "Pinakabagong Near Protocol na mga transaksyon",
-  "txnsListing": "More than > {count} transactions found",
-  "listingToken": "More than > {count} Token transfers found",
+  "metaTitle": "Lahat ng Pinakabagong Near Protocol Transaction | NearBlocks",
+  "metaDescription": "Lahat ng pinakabagong Near Protocol transaction na na-confirm sa Near Blockchain. Ang listahan ay binubuo ng mga transaction ng pagpapadala ng Near at ang mga detalye ng transaction para sa bawat transaction.",
+  "txnsHeading": "Pinakabagong mga Near Protocol Transaction",
+  "txnsListing": "Higit sa > {count} transaction na nahanap",
+  "listingToken": "Higit sa > {count} Token transfer na nahanap",
   "hash": "Txn Hash",
   "type": "Method",
   "typeTxn": "Transaction",
   "typeToken": "Token transaction",
-  "tokenPlaceholder": "Maghanap sa pamamagitan ng token",
-  "unknownType": "Unknown",
+  "tokenPlaceholder": "Maghanap gamit ang token",
+  "unknownType": "Hindi kilala",
   "batchTxns": "Batch Transaction",
-  "createAccount": "Create Account",
+  "createAccount": "Gumawa ng Account",
   "deployContract": "Deploy Contract",
   "transfer": "Transfer",
   "stake": "Stake",
-  "addKey": "Add Key",
-  "deleteKey": "Delete Key",
-  "deleteAccount": "Delete Account",
+  "addKey": "Magdagdag ng Key",
+  "deleteKey": "Tanggalin ang Key",
+  "deleteAccount": "Tanggalin ang Account",
   "txnError": "Transaction Error",
-  "age": "Age",
-  "ageDT": "Date Time (UTC)",
+  "age": "Edad",
+  "ageDT": "Petsa Oras (UTC)",
   "blockHeight": "Block height",
-  "from": "From",
-  "to": "To",
-  "txnIn": "IN",
-  "txnOut": "OUT",
-  "amount": "Amount",
+  "from": "Mula Sa",
+  "to": "Para Sa",
+  "txnIn": "PAPASOK",
+  "txnOut": "PALABAS",
+  "amount": "Halaga",
   "filter": {
-    "placeholder": "Search by address e.g. Ⓝ..",
+    "placeholder": "Maghanap gamit ang address hal. Ⓝ..",
     "filter": "Filter",
-    "clear": "Clear",
+    "clear": "I-clear",
     "by": "Filtered By",
-    "from": "From",
-    "to": "To"
+    "from": "Mula Sa",
+    "to": "Para Sa"
   },
   "txnDetails": {
-    "metaTitle": "Transaksyon ng Near {txn} | NearBlocks",
-    "metaDescription": "Near Blockchain detalyadong impormasyon sa transaksyon {txn}.",
-    "heading": "Detalye ng Transaksyon",
+    "metaTitle": "Near Transaction {txn} | NearBlocks",
+    "metaDescription": "Detalyadong impormasyon ng Near Blockchain para sa transaction {txn}.",
+    "heading": "Mga Detalye ng Transaction",
     "hash": {
       "text": [
         "Txn Hash"
       ],
-      "tooltip": "Unique identifier (hash) of this transaction."
+      "tooltip": "Natatanging pagkakakilanlan (hash) ng transaction na ito."
     },
     "status": {
       "text": [
         "Status"
       ],
       "status": {
-        "NotStarted": "Di pa nag simula",
-        "Started": "Started",
-        "Failure": "Failed",
-        "SuccessValue": "Succeeded"
+        "NotStarted": "Hindi pa nagsimula",
+        "Started": "Nagsimula na",
+        "Failure": "Nabigo",
+        "SuccessValue": "Nagtagumpay"
       },
-      "tooltip": "Ang katayuan ng transaksyon."
+      "tooltip": "Ang status ng transaction."
     },
     "block": {
       "text": [
-        "Block height"
+        "Block Height"
       ],
-      "tooltip": "Ang numero ng block kung saan naitala ang transaksyon."
+      "tooltip": "Ang numero ng block kung saan naitala ang transaction."
     },
     "timestamp": {
       "text": [
         "Timestamp"
       ],
-      "tooltip": "Timestamp kung kalian isinumite ang transaksyong ito."
+      "tooltip": "Timestamp ng kailan naisumite ang transaction na ito."
     },
     "deposit": {
       "text": [
         "Deposit Value"
       ],
-      "tooltip": "Kabuuan ng lahat ng NEAR token na inilipat mula Signing account patungo sa Receiver account. Kabilang ditto ang mga token na ipinadala sa isang(mga) pagkilos sa Paglipat, at bilang mga deposito sa(mga) pagkilos ng Function Call."
+      "tooltip": "Kabuuan ng lahat ng NEAR token na inilipat mula sa Signing account papunta sa Receiver account. Kasama dito ang mga token na ipinadala sa Transfer action(s), at bilang mga deposit sa Function Call action(s)."
     },
     "fee": {
       "text": [
-        "Transaction fee"
+        "Transaction Fee"
       ],
-      "tooltip": "Kabuuang bayad na binayaran ng NEAR upang maisagawa ang transaksyon na ito."
+      "tooltip": "Kabuuang bayad na binayad sa NEAR para maisagawa ang transaction na ito."
     },
     "price": {
       "text": [
-        "Ⓝ Price"
+        "Presyo ng Ⓝ"
       ],
-      "tooltip": "Presyo ng pagsasara ng Ⓝ petsa ng transaksyon"
+      "tooltip": "Closing price ng Ⓝ sa petsa ng transaction"
     },
     "from": {
       "text": [
-        "From"
+        "Mula Sa"
       ],
-      "tooltip": "Account na pumirma at nagpadala ng transaksyon"
+      "tooltip": "Account na pumirma at nagpadala ng transaction"
     },
     "to": {
       "text": [
-        "To"
+        "Para Sa"
       ],
-      "tooltip": "Account na tumanggap ng transaksyon."
+      "tooltip": "Account na tumatanggap ng transaction."
     },
     "type": {
       "text": [
-        "Type",
+        "Uri",
         "Transaction"
       ],
-      "tooltip": "Uri ng transaksyon."
+      "tooltip": "Uri ng transaction."
     },
     "gas": {
       "text": [
-        "Gas Limit & Usage by Txn"
+        "Gas Limit at Paggamit ng Txn"
       ],
-      "tooltip": "Pinaka mataas na halaga ng gas na inilaan para sa transaksyon at ang halagang nagamit sa huli."
+      "tooltip": "Pinakamataas na halaga ng gas na inilaan para sa transaction at ang halagang sa huli ay ginamit."
     },
     "parentCoin": "Parent Coin",
-    "childCoins": "Child Coins",
-    "siblingCoins": "Sibling Coins",
-    "unknownToken": "Unknown",
+    "childCoins": "Child Coin",
+    "siblingCoins": "Sibling Coin",
+    "unknownToken": "Hindi kilala",
     "claimToken": "Claim token",
     "token": "Token",
     "burnt": {
       "text": [
-        "Burnt Gas & Tokens by Txn"
+        "Gas at Token na Nasunog ng Txn"
       ],
-      "tooltip": "Kabuuang halaga ng Gas at Token na nasunog mula sa transaksyong ito."
+      "tooltip": "Kabuuang halaga ng Gas at Token na nasunog mula sa transaction na ito."
     },
     "actions": {
       "text": [
-        "Actions"
+        "Mga Aksyon"
       ],
-      "tooltip": "Ang mga pagkilos na ginawa sa panahon ng transaksyong ito.",
+      "tooltip": "Ang mga aksyon na ginawa sa panahon ng transaction na ito.",
       "addKey": [
-        "New key",
+        "Bagong key",
         "Access key",
-        "added for",
+        "idinagdag para sa",
         "contract",
-        "with permission",
-        "to call",
-        "methods"
+        "na may pahintulot",
+        "na tumawag ng",
+        "mga method"
       ],
       "createAccount": [
-        "New account",
-        "created"
+        "Bagong account",
+        "nagawa"
       ],
       "deleteAccount": [
-        "Delete account",
-        "and transfer remaining funds to"
+        "Tanggalin ang account",
+        "at ilipat ang natitirang pondo sa"
       ],
       "deleteKey": [
         "Key",
-        "deleted"
+        "natanggal"
       ],
       "deployContract": [
         "Contract",
-        "deployed"
+        "na-deploy"
       ],
       "functionCall": [
-        "Called method",
-        "in contract"
+        "Tinawag ang method",
+        "sa contract"
       ],
       "stake": [
-        "Staked",
-        "with"
+        "Na-stake",
+        "kasama ang"
       ],
       "transfer": [
-        "Transferred",
-        "to"
+        "Nailipat",
+        "sa"
       ]
     },
     "tabs": {
-      "overview": "Overview",
+      "overview": "Pangkalahatang-tanaw",
       "execution": "Execution Plan",
-      "comments": "Comments"
+      "comments": "Mga Komento"
     },
     "receipts": {
-      "receipt": {
+      "receipt":{
         "text": [
           "Receipt"
         ],
-        "tooltip": "Natatanging identifier (hash) ng resibo na ito."
+        "tooltip": "Natatanging pagkakakilanlan (hash) ng receipt na ito."
       },
-      "block": {
+      "block":{
         "text": [
           "Block"
         ],
-        "tooltip": "Ang hash ng block kung saan isinagawa ang resibo."
+        "tooltip": "Ang hash ng block kung saan naisagawa ang receipt."
       },
-      "from": {
+      "from":{
         "text": [
-          "From"
+          "Mula Sa"
         ],
-        "tooltip": "Ang account na nagbigay ng resibo."
+        "tooltip": "Ang account na nag-isyu ng receipt."
       },
-      "to": {
+      "to":{
         "text": [
-          "To"
+          "Para Sa"
         ],
-        "tooltip": "Ang patutunguhang account ng resibo."
+        "tooltip": "Ang destination account ng receipt."
       },
       "burnt": {
         "text": [
-          "Burnt Gas & Tokens by Receipt"
+          "Gas at Token na Nasunog ng Receipt"
         ],
-        "tooltip": "Kabuuang halaga ng Gas at Token na nasunog mula sa resibo na ito."
+        "tooltip": "Kabuuang halaga ng Gas at Token na nasunog mula sa receipt na ito."
       },
-      "actions": {
+      "actions":{
         "text": [
-          "Actions"
+          "Mga Aksyon"
         ],
-        "tooltip": "Ang mga aksyon na ginawa sa panahon ng pag proseso ng resibo."
+        "tooltip": "Ang mga aksyon na ginawa sa panahon ng receipt processing."
       },
-      "result": {
+      "result":{
         "text": [
-          "Result",
-          "No Result",
-          "Empty Result"
+          "Resulta",
+          "Walang Resulta",
+          "Walang Laman na Resulta"
         ],
-        "tooltip": "Ang resulta ng pagpapatupad ng resibo."
+        "tooltip": "Ang resulta ng receipt execution."
       },
-      "logs": {
+      "logs":{
         "text": [
-          "Logs",
-          "No Logs"
+          "Mga Log",
+          "Walang mga Log"
         ],
-        "tooltip": "Mga log na kasama sa resibo."
+        "tooltip": "Mga log na kasama sa receipt."
       }
     }
   },
-  "info": "Ipinakita lamang ang huling {count} ng mga tala",
+  "info": "Nagpapakita lamang ng huling {count , number} record",
   "depositValue": "Deposit value",
   "txnFee": "Txn fee",
-  "txnSelf": "Self",
-  "noTxns": "Walang transaksyon",
-  "testnetNotice": "[ Testnet transaksyon lang ito ]"
+  "txnSelf": "Sarili",
+  "noTxns": "Walang mga transaction",
+  "testnetNotice": "[ Ito ay Testnet transaction lamang ]"
 }

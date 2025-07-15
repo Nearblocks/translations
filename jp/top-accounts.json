@@ -1,13 +1,13 @@
 {
-  "metaTitle": "トップ 10,000 Near アカウント | NearBlocks",
-  "metaDescription": "残高からトップ 10,000 Near アカウントを見つける.",
-  "heading": "Ⓝ 残高のトップアカウント",
-  "listing": "合計 > {count} 見つけたアカウント ({sum} Ⓝ).",
-  "info": "トップ10,000アカウントのみを表示しています",
-  "rank": "ランク",
+  "metaTitle": "トップ10,000 Nearアカウント | NearBlocks",
+  "metaDescription": "残高別のトップ10,000 Nearアカウントを見つけます。",
+  "heading": "Ⓝ残高別トップアカウント",
+  "listing": "合計 > {count} アカウントが見つかりました ({sum} Ⓝ)。",
+  "info": "トップ10,000アカウントのみ表示",
+  "rank": "順位",
   "address": "アドレス",
   "balance": "残高",
-  "percentage": "パーセント",
+  "percentage": "割合",
   "value": "価値",
-  "txns": "取引数"
+  "txns": "Txns数"
 }

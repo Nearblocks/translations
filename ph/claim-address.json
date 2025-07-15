@@ -1,15 +1,15 @@
 {
-  "metaTitle": "Kunin ang Account | NearBlocks",
-  "metaDescription": "Kunin ang iyong name, tag at ibang impormasyon.",
-  "heading": "Claim Ⓝ Account",
+  "metaTitle": "Claim Account | NearBlocks",
+  "metaDescription": "I-claim ang inyong pangalan, tag at iba pang impormasyon.",
+  "heading": "I-claim ang Ⓝ Account",
   "form": {
-    "heading": "Kunin ang iyong name, tag at ibang impormasyon",
-    "content": "Kunin ang iyong Name Tag at ibang impormasyon na may kaugnayan sa Ⓝ address sa pamamagitan ng pag sagot sa form sa ibaba.",
+    "heading": "I-claim ang inyong pangalan, tag at iba pang impormasyon",
+    "content": "I-claim ang inyong Name Tag at magdagdag ng iba pang impormasyon na nauugnay sa inyong Ⓝ address sa pamamagitan ng pagsagot sa form sa ibaba. Para sa bawat edit request, hihingi kami ng {amount} Ⓝ deposit upang patunayan ang inyong pagmamay-ari sa address.",
     "address": {
       "label": "Ⓝ Address"
     },
     "label": {
-      "label": "Name"
+      "label": "Pangalan"
     },
     "tag": {
       "label": "Tag"
@@ -21,7 +21,7 @@
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (Or Medium)"
+      "label": "Blog (O Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Deposito {presyo} Ⓝ Sa susunod na address para mapatunayan ikaw ang may-ari.",
-      "tooltip": "Ang address na gamit sa pagpapadala ay dapat magkapareho sa address na gusto mong ma dagdagan ng impormasyon."
+      "label": "Mag-deposit ng {amount} Ⓝ sa sumusunod na address upang patunayan ang inyong pagmamay-ari:",
+      "tooltip": "Ang sending address ay dapat na kapareho ng address na gusto ninyong pagdagdagan ng impormasyon."
     },
-    "button": "Submit",
-    "successMessage": "Salamat, Aming titignan ang iyong impormasyon at listahan pagkatapos ma aprobahan.",
-    "errorMessage": "Parang may mali!"
+    "button": "Isumite",
+    "successMessage": "Salamat, susuriin namin ang inyong application at ililista ito pagkatapos ma-approve",
+    "errorMessage": "May nangyaring mali!"
   }
 }

@@ -1,24 +1,136 @@
 {
-  "metaTitle": "Términos del servicio | NearBlocks",
-  "metaDescription": "Por favor, lee estos términos del servicio cuidadosamente. Al acceder o usar nuestros servicios, aceptas estar sujeto a estos términos y todos los términos incorporados por referencia.",
-  "heading": "Términos del servicio",
+  "metaTitle": "Términos de Servicio | NearBlocks",
+  "metaDescription": "Por favor lee estos términos de servicio cuidadosamente. Al acceder o usar nuestros servicios, aceptas estar vinculado por estos términos de servicio y todos los términos incorporados por referencia.",
+  "heading": "Términos de Servicio",
   "content": [
-    "POR FAVOR, LEE ESTOS TÉRMINOS DEL SERVICIO CUIDADOSAMENTE.",
-    "AL ACCEDER O USAR NUESTROS SERVICIOS, ACEPTAS ESTAR SUJETO A ESTOS TÉRMINOS DEL SERVICIO Y TODOS LOS TÉRMINOS INCORPORADOS POR REFERENCIA.",
-    "Estos Términos del Servicio y cualquier otro término expresamente incorporado (\"Términos\") se aplican a tu acceso y uso de todos los servicios (nuestros \"Servicios\") proporcionados por Near Blocks.com (\"Compañía\", \"nosotros\" o \"nuestro\")."
+    "POR FAVOR LEE ESTOS TÉRMINOS DE SERVICIO CUIDADOSAMENTE.",
+    "AL ACCEDER O USAR NUESTROS SERVICIOS, ACEPTAS ESTAR VINCULADO POR ESTOS TÉRMINOS DE SERVICIO Y TODOS LOS TÉRMINOS INCORPORADOS POR REFERENCIA.",
+    "Estos Términos de Servicio y cualquier término expresamente incorporado aquí (\"Términos\") se aplican a tu acceso y uso de todos los servicios (nuestros \"Servicios\") proporcionados por Near Blocks.com (\"Empresa,\" \"nosotros,\" o \"nos\")"
   ],
   "points": [
     {
       "heading": "1. ELEGIBILIDAD",
       "content": [
-        "Declaras y garantizas que: (a) tienes la edad legal para formar un contrato vinculante; (b) no has sido previamente suspendido o eliminado del uso de nuestros Servicios; y (c) tienes plena capacidad y autoridad para celebrar este acuerdo y, al hacerlo, no violarás ningún otro acuerdo en el que seas parte.",
-        "Si te registras para usar los Servicios en nombre de una entidad legal, también declaras y garantizas que (i) dicha entidad está debidamente organizada y es válida según las leyes de su jurisdicción, y (ii) estás debidamente autorizado por dicha entidad para actuar en su nombre."
+        "Representas y garantizas que: (a) tienes la edad legal para formar un contrato vinculante; (b) no has sido previamente suspendido o removido del uso de nuestros Servicios; y (c) tienes pleno poder y autoridad para entrar en este acuerdo y al hacerlo no violarás ningún otro acuerdo del cual seas parte.",
+        "Si te estás registrando para usar los Servicios en nombre de una entidad legal, además representas y garantizas que (i) dicha entidad legal está debidamente organizada y válidamente existente bajo las leyes aplicables de la jurisdicción de su organización, y (ii) estás debidamente autorizado por dicha entidad legal para actuar en su nombre."
       ]
     },
     {
-      "heading": "2. INTERRUPCIÓN DE SERVICIOS",
+      "heading": "2. DISCONTINUACIÓN DE SERVICIOS",
       "content": [
-        "Podemos, a nuestra exclusiva discreción y sin responsabilidad hacia ti, con o sin previo aviso y en cualquier momento, modificar o descontinuar, temporal o permanentemente, cualquier parte de nuestros Servicios."
+        "Podemos, a nuestra sola discreción y sin responsabilidad hacia ti, con o sin aviso previo y en cualquier momento, modificar o discontinuar, temporal o permanentemente, cualquier parte de nuestros Servicios."
+      ]
+    },
+    {
+      "heading": "3. ASUNCIÓN DE RIESGO",
+      "content": [
+        "Reconoces y aceptas que hay riesgos asociados con utilizar un servicio basado en Internet incluyendo, pero no limitado a, el riesgo de falla de hardware, software y conexiones de Internet, el riesgo de introducción de software malicioso, y el riesgo de que terceros puedan obtener acceso no autorizado a información almacenada.",
+        "Reconoces y aceptas que la Empresa no será responsable de ninguna falla de comunicación, interrupciones, errores, distorsiones o retrasos que puedas experimentar al usar los Servicios, sin importar la causa. La Empresa no asume responsabilidad y no será responsable de ninguna pérdida, daño o reclamo que surja del uso de nuestros Servicios, incluyendo, pero no limitado a, cualquier pérdida, daño o reclamo."
+      ]
+    },
+    {
+      "heading": "4. SERVICIOS Y CONTENIDO DE TERCEROS",
+      "content": [
+        "Al usar nuestros Servicios, puedes ver contenido o utilizar servicios proporcionados por terceros, incluyendo enlaces a páginas web y servicios de dichas partes (\"Contenido de Terceros\").",
+        "No controlamos, respaldamos o adoptamos ningún Contenido de Terceros y no tendremos responsabilidad por el Contenido de Terceros, incluyendo, sin limitación, material que pueda ser engañoso, incompleto, erróneo, ofensivo, indecente o de otra manera objetable en tu jurisdicción.",
+        "Además, tus tratos comerciales o correspondencia con dichos terceros son únicamente entre tú y los terceros. No somos responsables de ninguna pérdida o daño de cualquier tipo incurrido como resultado de dichos tratos, y entiendes que tu uso del Contenido de Terceros, y tus interacciones con terceros, es bajo tu propio riesgo."
+      ]
+    },
+      {
+      "heading": "5. USO ACEPTABLE",
+      "content": [
+        "Al acceder o usar los Servicios, aceptas que no violarás ninguna ley, contrato, propiedad intelectual u otro derecho de terceros o cometerás un agravio, y que eres el único responsable de tu conducta mientras usas nuestros Servicios. No debes:",
+        "Usar nuestros Servicios de cualquier manera que pueda interferir, interrumpir, afectar negativamente o inhibir a otros usuarios de disfrutar completamente nuestros Servicios, o que pueda dañar, deshabilitar, sobrecargar o deteriorar el funcionamiento de nuestros Servicios de cualquier manera;",
+        "Usar nuestros Servicios para pagar, apoyar o participar de otra manera en actividades ilegales, incluyendo, pero no limitado a, apuestas ilegales, fraude, lavado de dinero, o actividades terroristas;",
+        "Usar cualquier robot, araña, rastreador, raspador u otros medios automatizados o interfaz no proporcionada por nosotros para acceder a nuestros Servicios o extraer datos;",
+        "Participar en Recolección Automatizada de Datos (scraping) a menos que dicha Recolección Automatizada de Datos esté confinada únicamente a indexación de búsqueda para mostrar en Internet;",
+        "Usar o intentar usar la cuenta de otro usuario sin autorización;",
+        "Intentar eludir cualquier técnica de filtrado de contenido que empleemos, o intentar acceder a cualquier servicio o área de nuestros Servicios que no estés autorizado a acceder;",
+        "Introducir a los Servicios cualquier virus, troyano, gusano, bomba lógica u otro material dañino;",
+        "Desarrollar cualquier aplicación de terceros que interactúe con nuestros Servicios sin nuestro consentimiento previo por escrito;",
+        "Proporcionar información falsa, inexacta o engañosa; y",
+        "Alentar o inducir a cualquier tercero a participar en cualquiera de las actividades prohibidas bajo esta Sección."
+      ]
+    },
+    {
+      "heading": "6. CONTENIDO GENERADO POR EL USUARIO",
+      "content": [
+        "6.1. Responsabilidad por el Contenido Generado por el Usuario - Eres el único responsable del contenido de, y por cualquier daño resultante de, cualquier Contenido Generado por el Usuario que publiques, subas, enlaces o hagas disponible de otra manera a través del Servicio, independientemente de la forma de ese Contenido. No somos responsables de ninguna exhibición pública o mal uso de tu Contenido Generado por el Usuario. Tenemos el derecho (aunque no la obligación) de rechazar o eliminar cualquier Contenido Generado por el Usuario que, a nuestra sola discreción, viole cualquier término o política de Near Blocks.",
+        "6.2. Propiedad del Contenido y Derecho a Publicar - Si estás publicando algo que no creaste tú mismo o no posees los derechos sobre, aceptas que eres responsable de cualquier Contenido que publiques; que solo enviarás Contenido que tengas el derecho de publicar; y que cumplirás completamente con cualquier licencia de terceros relacionada con el Contenido que publiques.",
+        "6.3. Concesión de Licencia a Nosotros - Necesitamos el derecho legal para hacer cosas como alojar Tu Contenido, publicarlo y compartirlo. Nos concedes a nosotros y a nuestros sucesores legales el derecho de almacenar, analizar y mostrar tu contenido, y hacer copias incidentales según sea necesario para renderizar el Sitio Web y proporcionar el servicio.",
+        "6.4. Derechos Morales - Retienes todos los derechos morales sobre Tu Contenido que subas, publiques o envíes a cualquier parte del Servicio, incluyendo los derechos de integridad y atribución. Sin embargo, renuncias a estos derechos y aceptas no afirmarlos contra nosotros, para permitirnos ejercer razonablemente los derechos concedidos en la Sección 6.3.",
+        "6.5. En la medida en que este acuerdo no sea aplicable por la ley aplicable, concedes a Near Blocks los derechos que necesitamos para usar tu contenido sin atribución y hacer adaptaciones razonables de tu contenido según sea necesario para renderizar el Sitio Web y proporcionar el servicio."
+      ]
+    },
+     {
+      "heading": "7. DERECHOS DE AUTOR Y OTROS DERECHOS DE PROPIEDAD INTELECTUAL",
+      "content": [
+        "A menos que se indique lo contrario por nosotros, todos los derechos de autor y otros derechos de propiedad intelectual en todo el contenido y otros materiales contenidos en nuestro sitio web o proporcionados en conexión con los Servicios, incluyendo, sin limitación, el logo de la Empresa o la Empresa y todos los diseños, texto, gráficos, imágenes, información, datos, software, archivos de sonido, otros archivos y la selección y disposición de los mismos (colectivamente, \"Materiales de la Empresa\") son propiedad de la Empresa o nuestros licenciantes o proveedores y están protegidos por las leyes de derechos de autor y otras leyes de derechos de propiedad intelectual.",
+        "El uso no autorizado y/o la duplicación de este material sin permiso expreso y por escrito del autor y/o propietario de este sitio está estrictamente prohibido. Los extractos y enlaces pueden ser utilizados, siempre que se dé crédito completo y claro a Near Blocks.com con dirección apropiada y específica al contenido original."
+      ]
+    },
+   {
+      "heading": "8. MARCAS REGISTRADAS",
+      "content": [
+        "\"Near Blocks\" el logo de la Empresa, y cualquier otro nombre de producto o servicio, logos o eslóganes de la Empresa que puedan aparecer en nuestros Servicios son marcas registradas de la Empresa y no pueden ser copiadas, imitadas o usadas, en todo o en parte, sin nuestro permiso previo por escrito.",
+        "No usarás ninguna marca registrada, nombre de producto o servicio de la Empresa sin nuestro permiso previo por escrito, incluyendo sin limitación cualquier metatag u otro \"texto oculto\" que utilice cualquier marca registrada, nombre de producto o servicio de la Empresa. Además, la apariencia de nuestros Servicios, incluyendo todos los encabezados de página, gráficos personalizados, iconos de botones y scripts, es la marca de servicio, marca registrada y/o imagen comercial de la Empresa y no puede ser copiada, imitada o usada, en todo o en parte, sin nuestro permiso previo por escrito.",
+        "Todas las demás marcas registradas, marcas registradas, nombres de productos y nombres de empresas o logos mencionados a través de nuestros Servicios son propiedad de sus respectivos propietarios. La referencia a cualquier producto, servicio, proceso u otra información, por nombre, marca registrada, fabricante, proveedor o de otra manera no constituye o implica respaldo, patrocinio o recomendación por parte nuestra."
+      ]
+    },
+    {
+      "heading": "9. SUSPENSIÓN; TERMINACIÓN",
+      "content": [
+        "En caso de cualquier Evento de Fuerza Mayor, incumplimiento de estos Términos, o cualquier otro evento que haría que la provisión de los Servicios sea comercialmente irrazonable para la Empresa, podemos, a nuestra discreción y sin responsabilidad hacia ti, con o sin aviso previo, suspender tu acceso a todos o una parte de nuestros Servicios.",
+        "Podemos terminar tu acceso a los Servicios a nuestra sola discreción, inmediatamente y sin aviso previo, y eliminar o desactivar tu Cuenta y toda la información y archivos relacionados en dicha cuenta sin responsabilidad hacia ti, incluyendo, por ejemplo, en caso de que incumplas cualquier término de estos Términos."
+      ]
+    },
+    {
+      "heading": "10. DECLARACIÓN DE COOKIES",
+      "content": [
+        "Este sitio usa cookies. Las cookies son pequeños archivos de texto que son colocados en tu computadora por sitios web que visitas. Son ampliamente utilizadas para hacer que los sitios web funcionen, o funcionen de manera más eficiente, así como para proporcionar información a los propietarios del sitio. Las cookies se almacenan típicamente en el disco duro de tu computadora.",
+        "La información recopilada de las cookies es utilizada por nosotros para evaluar la efectividad de nuestro Sitio, analizar tendencias, y gestionar la plataforma. La información recopilada de las cookies nos permite determinar cosas como qué partes de nuestro Sitio son más visitadas y las dificultades que nuestros visitantes pueden experimentar al acceder a nuestro Sitio. Con este conocimiento, podemos mejorar la calidad de tu experiencia en la plataforma reconociendo y entregando más de las características e información más deseadas, así como resolviendo dificultades de acceso. También utilizamos cookies y/o una tecnología conocida como web bugs o gifs claros, que se almacenan típicamente en correos electrónicos para ayudarnos a confirmar tu recibo de, y respuesta a, nuestros correos electrónicos y para proporcionarte una experiencia más personalizada al usar nuestro Sitio.",
+        "También utilizamos proveedor(es) de servicios de terceros, para ayudarnos a entender mejor el uso de nuestro Sitio. Nuestro(s) proveedor(es) de servicios colocarán cookies en el disco duro de tu computadora y recibirán información que seleccionemos que nos educará sobre cosas como cómo los visitantes navegan por nuestro sitio, qué páginas se navegan e información general de transacciones. Nuestro(s) proveedor(es) de servicios analizan esta información y nos proporcionan reportes agregados. La información y análisis proporcionados por nuestro(s) proveedor(es) de servicios se utilizarán para ayudarnos a entender mejor los intereses de nuestros visitantes en nuestro Sitio y cómo servir mejor esos intereses. La información recopilada por nuestro(s) proveedor(es) de servicios puede ser vinculada y combinada con información que recopilamos sobre ti mientras estás usando la plataforma. Nuestro(s) proveedor(es) de servicios está(n) contractualmente restringido(s) de usar información que reciben de nuestro Sitio de otra manera que no sea para ayudarnos.",
+        "Tu uso continuado de este sitio, así como cualquier uso posterior, será interpretado como tu consentimiento a que las cookies se almacenen en tu dispositivo."
+      ]
+    },
+    {
+      "heading": "11. POLÍTICA DE PRIVACIDAD",
+      "content": [
+        "Por favor ve nuestra Política de Privacidad detallada."
+      ]
+    },
+    {
+      "heading": "12. DESCARGO DE GARANTÍAS",
+      "content": [
+        "(a) HASTA EL MÁXIMO PERMITIDO BAJO LA LEY APLICABLE, Y EXCEPTO COMO SE PROPORCIONE EXPRESAMENTE LO CONTRARIO POR ESCRITO POR NOSOTROS, NUESTROS SERVICIOS SE PROPORCIONAN \"TAL COMO ESTÁN\" Y \"SEGÚN DISPONIBILIDAD\" HASTA EL MÁXIMO PERMITIDO BAJO LA LEY APLICABLE. EXPRESAMENTE DESCARTAMOS, Y RENUNCIAS, TODAS LAS GARANTÍAS DE CUALQUIER TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, SIN LIMITACIÓN, GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, TÍTULO Y NO INFRACCIÓN EN CUANTO A NUESTROS SERVICIOS, INCLUYENDO LA INFORMACIÓN, CONTENIDO Y MATERIALES CONTENIDOS EN ELLOS.",
+        "(b) RECONOCES QUE LA INFORMACIÓN QUE ALMACENES O TRANSFIERAS A TRAVÉS DE NUESTROS SERVICIOS PUEDE VOLVERSE IRRECUPERABLEMENTE PERDIDA O CORROMPIDA O TEMPORALMENTE NO DISPONIBLE DEBIDO A UNA VARIEDAD DE CAUSAS, INCLUYENDO FALLAS DE SOFTWARE, CAMBIOS DE PROTOCOLO POR PROVEEDORES DE TERCEROS, CORTES DE INTERNET, EVENTO DE FUERZA MAYOR U OTROS DESASTRES, MANTENIMIENTO PROGRAMADO O NO PROGRAMADO, U OTRAS CAUSAS YA SEA DENTRO O FUERA DE NUESTRO CONTROL. ERES EL ÚNICO RESPONSABLE DE HACER COPIAS DE SEGURIDAD Y MANTENER COPIAS DUPLICADAS DE CUALQUIER INFORMACIÓN QUE ALMACENES O TRANSFIERAS A TRAVÉS DE NUESTROS SERVICIOS."
+      ]
+    },
+    {
+      "heading": "13. LIMITACIÓN DE RESPONSABILIDAD",
+      "content": [
+        "EXCEPTO COMO SE REQUIERA DE OTRA MANERA POR LA LEY, EN NINGÚN CASO LA EMPRESA, NUESTROS DIRECTORES, MIEMBROS, EMPLEADOS O AGENTES SERÁN RESPONSABLES DE DAÑOS ESPECIALES, INDIRECTOS O CONSECUENTES, O CUALQUIER OTRO DAÑO DE CUALQUIER TIPO, INCLUYENDO PERO NO LIMITADO A PÉRDIDA DE USO, PÉRDIDA DE GANANCIAS O PÉRDIDA DE DATOS, YA SEA EN UNA ACCIÓN EN CONTRATO, AGRAVIO (INCLUYENDO PERO NO LIMITADO A NEGLIGENCIA) O DE OTRA MANERA, SURGIENDO DE O EN CUALQUIER FORMA CONECTADO CON EL USO DE O LA INCAPACIDAD DE USAR NUESTROS SERVICIOS O LOS MATERIALES DE LA EMPRESA, INCLUYENDO SIN LIMITACIÓN CUALQUIER DAÑO CAUSADO POR O RESULTANTE DE LA DEPENDENCIA DE CUALQUIER USUARIO EN CUALQUIER INFORMACIÓN OBTENIDA DE LA EMPRESA, O QUE RESULTE DE ERRORES, OMISIONES, INTERRUPCIONES, ELIMINACIÓN DE ARCHIVOS O CORREO ELECTRÓNICO, ERRORES, DEFECTOS, VIRUS, RETRASOS EN OPERACIÓN O TRANSMISIÓN O CUALQUIER FALLA DE RENDIMIENTO, YA SEA QUE RESULTE DE UN EVENTO DE FUERZA MAYOR, FALLA DE COMUNICACIÓN, ROBO, DESTRUCCIÓN O ACCESO NO AUTORIZADO A REGISTROS, PROGRAMAS O SERVICIOS DE LA EMPRESA."
+      ]
+    },
+    {
+      "heading": "14. INDEMNIZACIÓN",
+      "content": [
+        "Aceptas defender, indemnizar y mantener indemne a la Empresa (y a cada uno de nuestros oficiales, directores, miembros, empleados, agentes y afiliados) de cualquier reclamo, demanda, acción, daño, pérdida, costo o gasto, incluyendo sin limitación honorarios razonables de abogados, surgiendo de o relacionado con:",
+        "(a) tu uso de, o conducta en conexión con, nuestros Servicios;",
+        "(b) cualquier Retroalimentación que proporciones;",
+        "(c) tu violación de estos Términos; o",
+        "(d) tu violación de cualquier derecho de cualquier otra persona o entidad."
+      ]
+    },
+    {
+      "heading": "15. VARIOS",
+      "content": [
+        "15.1. Acuerdo Completo; Orden de Precedencia. Estos Términos contienen el acuerdo completo, y reemplazan todos los entendimientos previos y contemporáneos entre las partes con respecto a los Servicios. Estos Términos no alteran los términos o condiciones de cualquier otro acuerdo electrónico o escrito que puedas tener con la Empresa para los Servicios o para cualquier otro producto o servicio de la Empresa o de otra manera. En caso de cualquier conflicto entre estos Términos y cualquier otro acuerdo que puedas tener con la Empresa, los términos de ese otro acuerdo controlarán solo si estos Términos son específicamente identificados y declarados como anulados por dicho otro acuerdo.",
+        "15.2. Enmienda. Nos reservamos el derecho de hacer cambios o modificaciones a estos Términos de vez en cuando, a nuestra sola discreción. Los Términos enmendados se volverán efectivos inmediatamente en la fecha en que se publiquen en los Servicios a menos que indiquemos lo contrario a través de nuestro aviso de dichos Términos enmendados. Cualquier Término enmendado se aplicará prospectivamente al uso de los Servicios después de que dichos cambios se vuelvan efectivos. Tu uso continuado de los Servicios después de la fecha efectiva de dichos cambios constituirá tu aceptación de dichos cambios. Si no estás de acuerdo con cualquier Término enmendado, debes discontinuar el uso de los Servicios.",
+        "15.3. Renuncia. Nuestro fallo o retraso en ejercer cualquier derecho, poder o privilegio bajo estos Términos no operará como una renuncia a los mismos.",
+        "15.4. Divisibilidad. La invalidez o inaplicabilidad de cualquiera de estos Términos no afectará la validez o aplicabilidad de cualquier otro de estos Términos, todos los cuales permanecerán en pleno vigor y efecto.",
+        "15.5. Eventos de Fuerza Mayor. La Empresa no será responsable de ninguna pérdida o daño que surja de cualquier evento fuera del control razonable de la Empresa, incluyendo, pero no limitado a, inundación, condiciones climáticas extraordinarias, terremoto, u otro acto de Dios, incendio, guerra, insurrección, disturbios, disputa laboral, accidente, acción del gobierno, comunicaciones, falla de energía, o mal funcionamiento de equipo o software (cada uno, un \"Evento de Fuerza Mayor\").",
+        "15.6. Asignación. No puedes asignar o transferir ninguno de tus derechos u obligaciones bajo estos Términos sin consentimiento previo por escrito de la Empresa, incluyendo por operación de ley o en conexión con cualquier cambio de control. La Empresa puede asignar o transferir cualquiera o todos sus derechos bajo estos Términos, en todo o en parte, sin obtener tu consentimiento o aprobación."
       ]
     }
   ]

@@ -1,17 +1,17 @@
 {
-  "metaTitle": "Penjelajah Blockchain NEAR | NearBlocks",
-  "metaDescription": "Near Blocks menyediakan data, grafik, dan API blockchain NEAR untuk membantu eksplorasi jaringan generasi berikutnya.",
-  "kbTitle": "Pusat Bantuan & Basis Pengetahuan Near Blocks",
-  "search": "Cari topik atau pertanyaan...",
-  "home": "Beranda",
-  "published": "Dipublikasikan",
-  "lastUpdated": "Terakhir diperbarui",
-  "kb": {
-    "metaTitle": "{post} | NearBlocks",
-    "metaDescription": "{post} | NearBlocks"
-  },
-  "article": {
-    "metaTitle": "{slug} | NearBlocks",
-    "metaDescription": "{slug} | NearBlocks"
-  }
+    "metaTitle": "Penjelajah Blockchain Near | NearBlocks",
+    "metaDescription": "Near Blocks adalah Penjelajah Blok dan Platform Analitik untuk blockchain Near (Ⓝ), blockchain baru dan platform transaksi pintar.",
+    "kbTitle": "Basis Pengetahuan & Pusat Informasi NEAR Blocks",
+    "search": "Ketik untuk mencari",
+    "home": "Beranda",
+    "published": "Diterbitkan",
+    "lastUpdated": "Terakhir Diperbarui",
+    "kb": {
+        "metaTitle": "{post} | NearBlocks",
+        "metaDescription": "{post} | NearBlocks"
+    },
+    "article": {
+        "metaTitle": "{slug} | NearBlocks",
+        "metaDescription": "{slug} | NearBlocks"
+    }
 }

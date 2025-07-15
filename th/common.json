@@ -1,81 +1,81 @@
 {
   "header": {
     "menu": {
-      "home": "หน้าโฮม",
-      "blockchain": "บล็อกเชน",
-      "viewBlocks": "ดูบล็อก",
-      "viewTxns": "ดูธุรกรรม",
+      "home": "หน้าแรก",
+      "blockchain": "Blockchain",
+      "viewBlocks": "ดู Blocks",
+      "viewTxns": "ดู Txns",
       "languages": "ภาษา",
-      "charts": "กราฟ และสถิติ",
-      "topAccounts": "บัญชีอันดับสูงสุด",
-      "tokens": "โทเคน",
-      "toptoken": "โทเคนอันดับสูงสุด",
-      "viewTokenTrasfers": "ดูการโอนย้ายโทเคน",
-      "topnft": "โทเคน NFT",
-      "viewNftTrasfers": "ดูการโอนย้าย NFT",
-      "nodeExplorer": "โหนด Explorer"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "ตัวกรองทั้งหมด",
-      "txns": "ธุรกรรม",
-      "blocks": "บล็อก",
-      "token": "โทเคน",
-      "addresses": "แอดเดรส"
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
-    "placeholder": "ค้นหาจากเลขบัญชี / แฮชธุรกรรม / บล็อก",
+    "placeholder": "ค้นหาโดย Account ID / Txn Hash / Block",
     "list": {
-      "address": "บัญชี",
-      "txns": "ธุรกรรม",
-      "blocks": "บล็อก",
-      "tokens": "โทเคน"
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     },
-    "noResults": "ไม่พบผลลัพธ์"
+    "noResults": "ไม่มีผลลัพธ์"
   },
   "footer": {
-    "description": "NEAR Blocks เป็นตัวสำรวจบล็อกเชนที่นำทางไปทางด้าน NEAR ecosystem อันน่าเชื่อถือที่สุด ที่มีการขับเคลื่อนโดย NEAR Protocol",
-    "poweredBy": "Powered by",
+    "description": "NEAR Blocks เป็น blockchain explorer ชั้นนำที่อุทิศให้กับ NEAR ecosystem ขับเคลื่อนโดย NEAR Protocol",
+    "poweredBy": "ขับเคลื่อนโดย",
     "links": {
       "explore": "สำรวจ",
       "blockExplorer": "Block Explorer",
-      "latestBlocks": "บล็อกล่าสุด",
-      "latestTxns": "ธุรกรรมล่าสุด",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
       "company": "บริษัท",
       "about": "เกี่ยวกับ",
       "advertise": "โฆษณา",
       "contact": "ติดต่อ",
-      "terms": "ข้อกำหนด",
-      "charts": "กราฟ และสถิติ",
-      "api": "API ดัชนี NEAR",
-      "kb": "คลังความรู้",
-      "fundamentals": "พื้นฐาน",
-      "buySell": "ซื้อ ขาย และเทรด",
+      "terms": "เงื่อนไข",
+      "charts": "Charts & Stats",
+      "api": "NEAR Indexer APIs",
+      "kb": "Knowledge Base",
+      "fundamentals": "หลักพื้นฐาน",
+      "buySell": "ซื้อ, ขาย & เทรด",
       "nearValidator": "รายชื่อ NEAR Validator"
     }
   },
-  "sponsored": "สนับสนุนโดย",
+  "sponsored": "สปอนเซอร์",
   "pagination": {
-    "first": "หน้าแรก",
-    "last": "หน้าสุดท้าย"
+    "first": "แรก",
+    "last": "สุดท้าย"
   },
   "validation": {
-    "required": "กรุณาป้อน {field}",
-    "invalid": "โปรดป้อน {field} ที่ถูกต้อง"
+    "required": "{field} จำเป็น",
+    "invalid": "กรุณาระบุ {field} ที่ถูกต้อง"
   },
   "chart": {
-    "source": "แหล่งที่่มา: nearblocks.io"
+    "source": "แหล่งที่มา: nearblocks.io"
   },
-  "trademark": "NearBlocks ดำเนินการเต็มรูปแบบและเป็นของตัวเอง NearBlocks ไม่เกี่ยวข้องกับ The NEAR Foundation และเครื่องหมายการค้าที่ได้รับอนุญาตทั้งหมดที่แสดงบนเว็บไซต์นี้เป็นของเจ้าของที่เกี่ยวข้อง",
+  "trademark": "NearBlocks ดำเนินการอย่างเต็มที่และด้วยตัวเอง NearBlocks ไม่เกี่ยวข้องกับ The NEAR Foundation และเครื่องหมายการค้าที่ได้รับอนุญาตทุกอันที่แสดงบนเว็บไซต์นี้เป็นของเจ้าของที่เกี่ยวข้อง",
   "tags": {
     "service": "บริการ",
     "pool": "Pool",
     "personal": "ส่วนตัว",
-    "shop": "หน้าร้าน",
+    "shop": "ร้านค้า",
     "donation": "บริจาค",
-    "centralisedExchange": "Exchange ไม่กระจายศูนย์",
-    "decentralisedExchange": "Exchange กระจายศูนย์"
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่สามารถซิงค์ได้ อาจมีความล่าช้าในบางบล็อกหรือธุรกรรม",
-  "rpcRateLimitError": "คุณถูกจำกัดอัตราโดย RPC ปัจจุบัน ({rpcUrl}) โปรดลองอีกครั้งในภายหลังหรือเลือกผู้ให้บริการ RPC อื่นจากเมนูแบบเลื่อนลง {icon}"
+  "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่ซิงค์ Blocks หรือ transactions บางรายการอาจล่าช้า",
+  "rpcRateLimitError": "คุณถูก rate limit โดย RPC ปัจจุบัน ({rpcUrl}) กรุณาลองใหม่ภายหลังหรือเลือก RPC provider อื่นจากเมนู dropdown {icon}"
 }

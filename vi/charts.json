@@ -1,82 +1,82 @@
 {
   "charts": {
-    "metaTitle": "Biểu đồ và thống kê Near | NearBlocks",
-    "metaDescription": "Biểu đồ theo thời gian thực: giá, cung, vốn hóa, phí và các chỉ số khác từ blockchain Near.",
-    "heading": "Biểu đồ và thống kê Near",
-    "otherHeading": "Biểu đồ và chỉ số khác của Near",
+    "metaTitle": "Near Charts & Statistics | NearBlocks",
+    "metaDescription": "Near cung cấp một bộ Near data charts và statistics thời gian thực để theo dõi mọi thứ về NearBlocks: Price, Supply, Marketcap, Transaction Fee và khác.",
+    "heading": "Near Charts & Statistics",
+    "otherHeading": "Near Blockchain Charts & Statistics khác",
     "nearPrice": {
-      "metaTitle": "Giá Near hôm nay: Thông tin, biểu đồ, thống kê | NearBlocks",
-      "metaDescription": "Biểu đồ giá Near theo USD hiển thị lịch sử hàng ngày. Dữ liệu cập nhật theo thời gian thực từ blockchain Near.",
-      "heading": "Biểu đồ giá hàng ngày của Near (USD)",
-      "description": "Biểu đồ thể hiện giá Near theo ngày tính bằng đô la Mỹ.",
-      "yLabel": "Giá Near (USD)",
+      "metaTitle": "Near Price hôm nay: Thông tin, Chart, Stats | NearBlocks",
+      "metaDescription": "Near Daily Price (USD) chart hiển thị giá lịch sử hàng ngày cho Near bằng USD. Tất cả dữ liệu đều real-time, chính xác và lấy trực tiếp từ Near blockchain.",
+      "heading": "Near Daily Price (USD) Chart",
+      "description": "Near Daily Price (USD) chart hiển thị giá lịch sử hàng ngày cho Near bằng USD.",
+      "yLabel": "Near Price (USD)",
       "statistics": {
-        "heading": "Thống kê giá Near",
-        "price": "Giá Near (USD)",
-        "marketCap": "Vốn hóa thị trường",
-        "volume": "Khối lượng giao dịch",
-        "volumeMarketCap": "Khối lượng / Vốn hóa",
-        "high24": "Cao nhất 24h",
-        "low24": "Thấp nhất 24h",
-        "highAll": "Cao nhất mọi thời đại",
-        "lowAll": "Thấp nhất mọi thời đại"
+        "heading": "Near Price Statistics",
+        "price": "Near Price (USD)",
+        "marketCap": "Market Cap",
+        "volume": "Trading Volume",
+        "volumeMarketCap": "Volume / Market Cap",
+        "high24": "24h High",
+        "low24": "24h Low",
+        "highAll": "All-Time High",
+        "lowAll": "All-Time Low"
       }
-    },
-    "marketCapCharts": {
-      "metaTitle": "Biểu đồ vốn hóa thị trường Near | NearBlocks",
-      "metaDescription": "Biểu đồ cho thấy lịch sử vốn hóa thị trường và giá của Near.",
-      "heading": "Biểu đồ vốn hóa thị trường của Near",
-      "description": "Thể hiện sự biến động vốn hóa thị trường và giá của Near theo thời gian.",
-      "yLabel": "Vốn hóa thị trường (USD)"
-    },
-    "nearSupplyCharts": {
-      "metaTitle": "Biểu đồ cung ứng Near: đang lưu hành & tổng cung | NearBlocks",
-      "metaDescription": "Biểu đồ phát hành token Near hàng ngày và phân phối tổng cung.",
-      "heading": "Biểu đồ cung ứng token Near",
-      "description": "Phân tích phân phối tổng cung token NEAR theo ngày.",
-      "yLabel": "Tổng cung Near"
-    },
-    "txnCharts": {
-      "metaTitle": "Biểu đồ giao dịch Near | Thống kê tăng trưởng | NearBlocks",
-      "metaDescription": "Biểu đồ hiển thị tổng số lượng giao dịch hàng ngày trên Near.",
-      "heading": "Biểu đồ số lượng giao dịch mỗi ngày",
-      "description": "Phân tích khối lượng giao dịch hàng ngày trong mạng Near.",
-      "yLabel": "Giao dịch mỗi ngày"
-    },
-    "blockCharts": {
-      "metaTitle": "Biểu đồ số lượng khối Near | NearBlocks",
-      "metaDescription": "Biểu đồ thể hiện số lượng khối được tạo mỗi ngày trên mạng Near.",
-      "heading": "Biểu đồ khối trên Near",
-      "description": "Thể hiện số lượng khối được xác nhận mỗi ngày.",
-      "yLabel": "Khối mỗi ngày"
-    },
-    "addressesCharts": {
-      "metaTitle": "Biểu đồ địa chỉ duy nhất trên Near | NearBlocks",
-      "metaDescription": "Biểu đồ thể hiện sự tăng trưởng tổng số địa chỉ duy nhất trong mạng Near.",
-      "heading": "Biểu đồ tài khoản duy nhất trên Near",
-      "description": "Số lượng và sự tăng trưởng của tài khoản trên Near.",
-      "yLabel": "Tăng trưởng tài khoản"
-    },
-    "txnFeeCharts": {
-      "metaTitle": "Biểu đồ phí giao dịch Near | NearBlocks",
-      "metaDescription": "Biểu đồ cho biết tổng phí giao dịch hàng ngày (tính theo USD) trên Near.",
-      "heading": "Biểu đồ phí giao dịch",
-      "description": "Tổng số NEAR được chi cho phí mỗi ngày.",
-      "yLabel": "Phí giao dịch (USD)"
-    },
-    "txnVolumeCharts": {
-      "metaTitle": "Biểu đồ khối lượng giao dịch Near | NearBlocks",
-      "metaDescription": "Biểu đồ hiển thị tổng khối lượng giao dịch hàng ngày (theo USD) trên Near.",
-      "heading": "Biểu đồ khối lượng giao dịch",
-      "description": "Thể hiện giá trị USD được chuyển qua mạng Near mỗi ngày.",
-      "yLabel": "Khối lượng giao dịch (USD)"
-    },
-    "multichainTxns": {
-      "metaTitle": "Biểu đồ giao dịch liên chuỗi Near | NearBlocks",
-      "metaDescription": "Biểu đồ cho thấy số lượng giao dịch liên chuỗi hàng ngày trên Near.",
-      "heading": "Biểu đồ giao dịch liên chuỗi",
-      "description": "Thể hiện khối lượng giao dịch giữa Near và các blockchain khác mỗi ngày.",
-      "yLabel": "Giao dịch liên chuỗi mỗi ngày"
     }
+  },
+  "marketCapCharts": {
+    "metaTitle": "Near Market Capitalization Chart | NearBlocks",
+    "metaDescription": "Near Market Capitalization chart hiển thị phân tích lịch sử của Near daily market capitalization và price. Tất cả dữ liệu đều real-time, chính xác và lấy trực tiếp từ Near blockchain.",
+    "heading": "Near Market Capitalization Chart",
+    "description": "Near Market Capitalization chart hiển thị phân tích lịch sử của Near daily market capitalization và price.",
+    "yLabel": "Near Market Cap (USD)"
+  },
+  "nearSupplyCharts": {
+    "metaTitle": "Near Supply Chart: Circulating, Total Supply | NearBlocks",
+    "metaDescription": "Near blockchain Supply Growth Chart hiển thị phân tích daily block reward và total Near supply. Tất cả dữ liệu đều real-time, chính xác và lấy trực tiếp từ Near blockchain.",
+    "heading": "Near Supply Growth Chart",
+    "description": "Near Supply Growth Chart hiển thị phân tích hàng ngày và total Near supply.",
+    "yLabel": "Near Supply"
+  },
+  "txnsCharts": {
+    "metaTitle": "Near Transactions Chart: Thông tin, Statistics, Growth | NearBlocks",
+    "metaDescription": "Near transactions chart làm nổi bật tổng số transactions trên Near blockchain blockchain với phân tích cá nhân hàng ngày cho total transaction, total blocks và total new account seen.",
+    "heading": "Near Daily Transactions Chart",
+    "description": "Chart làm nổi bật tổng số transactions trên Near blockchain với phân tích cá nhân hàng ngày cho total blocks và total new account seen.",
+    "yLabel": "Transactions mỗi ngày"
+  },
+  "blocksCharts": {
+    "metaTitle": "Near Block Count Chart | NearBlocks",
+    "metaDescription": "Near blockchain Block Count Chart hiển thị số lượng blocks lịch sử được sản xuất hàng ngày trên Near blockchain. Tất cả dữ liệu đều real-time, chính xác và lấy trực tiếp từ Near blockchain.",
+    "heading": "Near Block Count",
+    "description": "Near Block Count Chart hiển thị số lượng blocks lịch sử được sản xuất hàng ngày trên Near blockchain.",
+    "yLabel": "Blocks mỗi ngày"
+  },
+  "addressesCharts": {
+    "metaTitle": "Near Unique Accounts Chart | NearBlocks",
+    "metaDescription": "Near blockchain unique accounts chart hiển thị tổng số accounts riêng biệt trên Near blockchain và sự gia tăng số lượng account hàng ngày.",
+    "heading": "Near Unique Accounts Chart",
+    "description": "Chart hiển thị tổng số accounts riêng biệt trên Near blockchain và sự gia tăng số lượng account hàng ngày.",
+    "yLabel": "Near Cumulative Accounts Growth"
+  },
+  "txnFeeCharts": {
+    "metaTitle": "Near Transaction Fee History: Transaction Fee | NearBlocks",
+    "metaDescription": "Near blockchain transaction fee chart hiển thị số tiền hàng ngày bằng USD chi tiêu cho mỗi transaction trên Near blockchain (Ⓝ). Tất cả dữ liệu đều real-time, chính xác và lấy trực tiếp từ Near blockchain.",
+    "heading": "Transaction Fee Chart",
+    "description": "Chart hiển thị số tiền hàng ngày bằng USD chi tiêu cho mỗi transaction trên Near blockchain.",
+    "yLabel": "Transaction Fee (USD)"
+  },
+  "txnVolumeCharts": {
+    "metaTitle": "Near Transaction Volume Chart: Transaction Volume | NearBlocks",
+    "metaDescription": "Near blockchain transaction volume chart hiển thị số tiền hàng ngày bằng USD chi tiêu cho mỗi transaction trên Near blockchain.",
+    "heading": "Transaction Volume Chart",
+    "description": "Chart hiển thị số tiền hàng ngày bằng USD chi tiêu cho mỗi transaction trên Near blockchain.",
+    "yLabel": "Transaction Volume (USD)"
+  },
+  "multichainTxns": {
+    "metaTitle": "Multichain Transactions Chart | NearBlocks",
+    "metaDescription": "Multichain Transactions chart làm nổi bật tổng số multi chain transactions trên Near blockchain.",
+    "heading": "Multichain Transactions Chart",
+    "description": "Chart làm nổi bật tổng số multichain transactions trên Near blockchain.",
+    "yLabel": "Multichain Transactions mỗi ngày"
   }
 }

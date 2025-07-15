@@ -1,10 +1,10 @@
 {
-  "metaTitle": "404 - Hindi mahanap ang pahina | NearBlocks",
-  "metaDescription": "Hindi namin mahanap ang iyong hinahanap, paumanhin. Subukan muli.",
-  "description": "<0>Paumanhin!</0> May na kita na hindi inaasahan na error.",
-  "addressDescription": "<0>Paumanhin!</0> Ang address ay hindi makita.",
-  "blockDescription": "<0>Paumanhin!</0> Ang block ay hindi makita.",
-  "txnDescription": "<0>Paumanhin!</0> Ang transaksyon ay hindi makita.",
-  "back": "Bumalik sa una",
-  "tokenDescription": "<0>Pasensya!</0> Ang token ay hindi makita."
+  "metaTitle": "404 - Hindi Nahanap ang Page | NearBlocks",
+  "metaDescription": "Hindi namin nahanap ang hinahanap mo, pasensya na. Mangyaring subukan ulit.",
+  "description": "<0>Pasensya na!</0> May hindi inaasahang error na naganap.",
+  "addressDescription": "<0>Pasensya na!</0> Hindi nahanap ang address.",
+  "blockDescription": "<0>Pasensya na!</0> Hindi nahanap ang block.",
+  "txnDescription": "<0>Pasensya na!</0> Hindi nahanap ang transaction.",
+  "back": "Bumalik sa home",
+  "tokenDescription": "<0>Pasensya na!</0> Hindi nahanap ang token."
 }

@@ -1,22 +1,22 @@
 {
   "homePage": {
-    "metaTitle": "Near Protocol Explorer | NearBlocks",
-    "metaDescription": "Near Blocks è un Block Explorer e Piattaforma di Analitica per la Near blockchain (Ⓝ), una nuova piattaforma di blockchain e contratti intelligenti.",
-    "heroTitle": "Near Protocol Explorer",
-    "testnetHeroTitle": "TESTNET | Near Protocol Explorer",
+    "metaTitle": "Esploratore Protocollo Near | NearBlocks",
+    "metaDescription": "Near Blocks è un Esploratore di Blocchi e Piattaforma di Analisi per la blockchain Near (Ⓝ), una nuova blockchain e piattaforma di transazioni intelligenti.",
+    "heroTitle": "Esploratore Protocollo Near",
+    "testnetHeroTitle": "TESTNET | Esploratore Protocollo Near",
     "nearPrice": "Prezzo Near",
-    "nearFarmed": "Near raccolti",
+    "nearFarmed": "Near coltivato",
     "difficulty": "Difficoltà",
     "mempoolSize": "Dimensione Mempool",
-    "currentBlock": "Blocco attuale",
-    "netspace": "Netspace",
-    "transactionHistory": "Cronologia delle transazioni Near in {days} giorni",
+    "currentBlock": "Blocco Corrente",
+    "netspace": "Spazio Rete",
+    "transactionHistory": "Storico transazioni Near in {days} giorni",
     "banner": {
       "title": "L'ecosistema Near inizia qui",
-      "description": "Hai un prodotto o servizio correlato con Near? Contattaci e ottieni visibilità per l'explorer di blockchain #1 di Near."
+      "description": "Hai un prodotto o servizio correlato a Near? Contattaci e ottieni visibilità attraverso l'esploratore blockchain Near #1 per Near."
     },
-    "latestBlocks": "Ultimi Blocchi",
-    "latestTxns": "Ultime Transazioni",
+    "latestBlocks": "Blocchi Recenti",
+    "latestTxns": "Transazioni Recenti",
     "error": "Errore!",
     "noBlocks": "Nessun blocco!",
     "noTxns": "Nessuna transazione!",
@@ -26,10 +26,10 @@
     "nodesOnline": "NODI ONLINE",
     "nodesValidating": "NODI IN VALIDAZIONE",
     "blockHeight": "ALTEZZA BLOCCO",
-    "avgBlockTime": "TEMPO MEDIO PER BLOCCO",
+    "avgBlockTime": "TEMPO MEDIO BLOCCO",
     "gasPrice": "PREZZO GAS",
     "transactions": "Transazioni",
-    "marketCap": "Capitalizzazione di Mercato",
+    "marketCap": "Capitalizzazione di mercato",
     "activeValidator": "Validatori attivi"
   }
 }

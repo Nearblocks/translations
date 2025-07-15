@@ -1,17 +1,17 @@
 {
-  "metaTitle": "Near 区块链浏览器 | NearBlocks",
-  "metaDescription": "Near Blocks 是专为 Near (Ⓝ) 区块链打造的区块浏览器与分析平台，服务于下一代区块链网络。",
-  "kbTitle": "Near Blocks 帮助中心与知识库",
-  "search": "输入以搜索",
-  "home": "主页",
-  "published": "已发布",
-  "lastUpdated": "最后更新",
-  "kb": {
-    "metaTitle": "{post} | NearBlocks",
-    "metaDescription": "{post} | NearBlocks"
-  },
-  "article": {
-    "metaTitle": "{slug} | NearBlocks",
-    "metaDescription": "{slug} | NearBlocks"
+    "metaTitle": "Near Blockchain Explorer | NearBlocks",
+    "metaDescription": "Near Blocks 是 Near blockchain (Ⓝ) 的 Block Explorer 和 Analytics Platform，一个新的区块链和智能交易平台。",
+    "kbTitle": "NEAR Blocks Knowledge Base & Information Center",
+    "search": "输入搜索",
+    "home": "首页",
+    "published": "已发布",
+    "lastUpdated": "最后更新",
+    "kb": {
+      "metaTitle": "{post} | NearBlocks",
+      "metaDescription": "{post} | NearBlocks"
+    },
+    "article": {
+      "metaTitle": "{slug} | NearBlocks",
+      "metaDescription": "{slug} | NearBlocks"
+    }
   }
-}

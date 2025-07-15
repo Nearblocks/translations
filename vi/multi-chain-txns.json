@@ -1,16 +1,16 @@
 {
-  "metaTitle": "Tất cả các giao dịch liên chuỗi mới nhất",
-  "metaDescription": "Tất cả các giao dịch liên chuỗi mới nhất đã được xác nhận trên blockchain Near.",
-  "heading": "Giao dịch liên chuỗi mới nhất",
-  "count": "Tổng cộng {count} giao dịch liên chuỗi được tìm thấy",
-  "receiptId": "ID biên lai",
-  "sourceTxn": "Hash giao dịch nguồn",
+  "metaTitle": "All Latest Multichain transactions",
+  "metaDescription": "All Latest multichain transactions được xác nhận trên Near Blockchain.",
+  "heading": "Latest Multichain Transactions",
+  "count": "Tổng cộng {count} multichain transactions được tìm thấy",
+  "receiptId": "Receipt Id",
+  "sourceTxn": "Source Txn Hash",
   "from": "Từ",
-  "destinationTxn": "Hash giao dịch đích",
-  "destinationAddress": "Địa chỉ đích",
+  "destinationTxn": "Destination Txn Hash",
+  "destinationAddress": "Destination Address",
   "filter": {
-    "placeholder": "Tìm theo địa chỉ, ví dụ Ⓝ..",
-    "placeholderForeign": "Tìm theo địa chỉ",
+    "placeholder": "Tìm kiếm theo address ví dụ Ⓝ..",
+    "placeholderForeign": "Tìm kiếm theo address",
     "filter": "Lọc",
     "clear": "Xóa",
     "by": "Lọc theo",
@@ -18,9 +18,9 @@
     "to": "Đến"
   },
   "age": "Tuổi",
-  "ageDT": "Ngày giờ (UTC)",
-  "noTxns": "Không có giao dịch",
-  "totalTxns": "Tổng giao dịch",
-  "volume": "Khối lượng (24h)",
-  "networks": "Mạng"
+  "ageDT": "Ngày Giờ (UTC)",
+  "noTxns": "Không có transactions",
+  "totalTxns": "Total Transactions",
+  "volume": "Volume(24h)",
+  "networks": "Networks"
 }

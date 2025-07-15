@@ -1,57 +1,57 @@
 {
   "header": {
     "menu": {
-      "home": "主页",
-      "blockchain": "区块链",
-      "viewBlocks": "查看区块",
-      "viewTxns": "查看交易",
+      "home": "首页",
+      "blockchain": "Blockchain",
+      "viewBlocks": "查看 Blocks",
+      "viewTxns": "查看 Txns",
       "languages": "语言",
-      "charts": "图表与统计",
-      "topAccounts": "顶级账户",
-      "tokens": "代币",
-      "toptoken": "热门代币",
-      "viewTokenTrasfers": "代币转账",
-      "topnft": "热门 NFT",
-      "viewNftTrasfers": "NFT 转账",
-      "nodeExplorer": "节点浏览器"
+      "charts": "Charts & Stats",
+      "topAccounts": "Top Accounts",
+      "tokens": "Tokens",
+      "toptoken": "Top Tokens",
+      "viewTokenTrasfers": "Token Transfers",
+      "topnft": "Top NFT Tokens",
+      "viewNftTrasfers": "NFT Token Transfers",
+      "nodeExplorer": "Node Explorer"
     }
   },
   "search": {
     "filters": {
-      "all": "所有筛选项",
-      "txns": "交易",
-      "blocks": "区块",
-      "token": "代币",
-      "addresses": "地址"
+      "all": "All Filters",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "token": "Tokens",
+      "addresses": "Addresses"
     },
-    "placeholder": "搜索地址 / 交易哈希 / 区块",
+    "placeholder": "按 Account ID / Txn Hash / Block 搜索",
     "list": {
-      "address": "账户",
-      "txns": "交易",
-      "blocks": "区块",
-      "tokens": "代币"
+      "address": "Account",
+      "txns": "Txns",
+      "blocks": "Blocks",
+      "tokens": "Tokens"
     },
-    "noResults": "无搜索结果"
+    "noResults": "无结果"
   },
   "footer": {
-    "description": "NEAR Blocks 是 NEAR 生态系统专属的领先区块链浏览器，由 NEAR 协议驱动。",
-    "poweredBy": "技术支持",
+    "description": "NEAR Blocks 是专门为 NEAR 生态系统服务的领先区块链浏览器。由 NEAR Protocol 提供支持。",
+    "poweredBy": "由...提供支持",
     "links": {
-      "explore": "浏览",
-      "blockExplorer": "区块浏览器",
-      "latestBlocks": "最新区块",
-      "latestTxns": "最新交易",
+      "explore": "探索",
+      "blockExplorer": "Block Explorer",
+      "latestBlocks": "Latest Blocks",
+      "latestTxns": "Latest Transactions",
       "company": "公司",
-      "about": "关于我们",
-      "advertise": "广告合作",
-      "contact": "联系我们",
-      "terms": "服务条款",
-      "charts": "图表与统计",
-      "api": "NEAR Indexer API",
-      "kb": "帮助中心",
+      "about": "关于",
+      "advertise": "广告",
+      "contact": "联系",
+      "terms": "条款",
+      "charts": "Charts & Stats",
+      "api": "NEAR Indexer APIs",
+      "kb": "Knowledge Base",
       "fundamentals": "基础知识",
-      "buySell": "买卖与交易",
-      "nearValidator": "NEAR 验证者列表"
+      "buySell": "买入、卖出和交易",
+      "nearValidator": "NEAR Validator 列表"
     }
   },
   "sponsored": "赞助",
@@ -60,22 +60,22 @@
     "last": "末页"
   },
   "validation": {
-    "required": "{field} 为必填项",
-    "invalid": "请输入有效的 {field}"
+    "required": "{field} 是必需的",
+    "invalid": "请提供有效的 {field}"
   },
   "chart": {
     "source": "来源：nearblocks.io"
   },
-  "trademark": "NearBlocks 是一个独立项目，不隶属于 NEAR 基金会，页面中展示的所有商标归其各自所有者所有。",
+  "trademark": "NearBlocks 完全独立运营。NearBlocks 与 The NEAR Foundation 无关，此网站上显示的每个许可商标均属于其各自的所有者。",
   "tags": {
     "service": "服务",
-    "pool": "矿池",
+    "pool": "Pool",
     "personal": "个人",
     "shop": "商店",
     "donation": "捐赠",
-    "centralisedExchange": "中心化交易所",
-    "decentralisedExchange": "去中心化交易所"
+    "centralisedExchange": "Centralised Exchange",
+    "decentralisedExchange": "Decentralised Exchange"
   },
-  "outofSync": "由于技术维护，NearBlocks 当前不同步。部分区块或交易数据可能会有延迟。",
-  "rpcRateLimitError": "您已达到 RPC 限制（{rpcUrl}）。请稍后重试或点击图标 {icon} 更换 RPC 提供者。"
+  "outofSync": "由于意外维护，Nearblocks 未同步。一些 blocks 或 transactions 可能会延迟。",
+  "rpcRateLimitError": "您已被当前 RPC ({rpcUrl}) 限制。请稍后重试或从下拉菜单 {icon} 中选择不同的 RPC 提供商。"
 }

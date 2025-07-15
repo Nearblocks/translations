@@ -1,82 +1,82 @@
 {
   "charts": {
-    "metaTitle": " 차트 및 통계 | 블록 근처 ",
-    "metaDescription": "Near는 가격, 공급, 시가총액, 거래 수수료 등 근거리 블록에 대한 모든 것을 추적하기 위한 실시간 근거리 데이터 차트 및 통계를 제공합니다.",
-    "heading": "차트 및 통계 근처",
-    "otherHeading": "기타 근거리 블록체인 차트 및 통계",
+    "metaTitle": "Near 차트 및 통계 | NearBlocks ",
+    "metaDescription": "Near는 NearBlocks의 모든 것을 추적하기 위한 실시간 Near 데이터 차트 및 통계 제품군을 제공합니다: 가격, 공급량, 시가총액, 거래 수수료 등.",
+    "heading": "Near 차트 및 통계",
+    "otherHeading": "기타 Near 블록체인 차트 및 통계",
     "nearPrice": {
-      "metaTitle": "근처 Ⓝ) 가격 오늘 : 정보, 차트, 블록 근처 통계 ",
-      "metaDescription": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near  블록 체인에서 직접 가져온 것입니다.",
-      "heading": "근처 일일 가격 (USD) 차트",
-      "description": "근처 일일 가격 (USD) 차트는 USD에서 가까운 일일 역사적 가격을 보여줍니다.",
-      "yLabel": "근처 가격 (USD)",
+      "metaTitle": "오늘의 Near 가격: 정보, 차트, 통계 | NearBlocks ",
+      "metaDescription": "Near 일일 가격(USD) 차트는 Near의 USD 일일 역사적 가격을 보여줍니다. 모든 데이터는 실시간이며 정확하고 Near 블록체인에서 직접 가져옵니다.",
+      "heading": "Near 일일 가격(USD) 차트",
+      "description": "Near 일일 가격(USD) 차트는 Near의 USD 일일 역사적 가격을 보여줍니다.",
+      "yLabel": "Near 가격(USD)",
       "statistics": {
-        "heading": "근가 통계",
-        "price": "근처 가격 (USD)",
+        "heading": "Near 가격 통계",
+        "price": "Near 가격(USD)",
         "marketCap": "시가총액",
         "volume": "거래량",
-        "volumeMarketCap": "볼륨 / 시가 총액",
-        "high24": "24h 높음",
-        "low24": "24h 로우",
-        "highAll": "역대 최고",
-        "lowAll": "All-Time Low"
+        "volumeMarketCap": "거래량 / 시가총액",
+        "high24": "24시간 최고가",
+        "low24": "24시간 최저가",
+        "highAll": "역사적 최고가",
+        "lowAll": "역사적 최저가"
       }
     }
   },
   "marketCapCharts": {
-    "metaTitle": "근처   시가 총액 차트 | 블록 근처 ",
-    "metaDescription": "  시가총액 차트는 현재 의외의 시가총액과 가격을 기록했습니다. 모든 데이터는 실시간으로 정확하며 Near   블록 체인에서 직접 가져온 것입니다.",
-    "heading": "근대시가총액 차트",
-    "description": "근로시가총액 차트는 거의 일일 시가총액과 가격의 역사적 붕괴를 보여줍니다.",
-    "yLabel": "근처 시가총액(USD)"
+    "metaTitle": "Near 시가총액 차트 | NearBlocks ",
+    "metaDescription": "Near 시가총액 차트는 Near 일일 시가총액과 가격의 역사적 분석을 보여줍니다. 모든 데이터는 실시간이며 정확하고 Near 블록체인에서 직접 가져옵니다.",
+    "heading": "Near 시가총액 차트",
+    "description": "Near 시가총액 차트는 Near 일일 시가총액과 가격의 역사적 분석을 보여줍니다.",
+    "yLabel": "Near 시가총액(USD)"
   },
   "nearSupplyCharts": {
-    "metaTitle": "Near  Supply Chart : Circulating, Total, Pre-farmed Near Blocks ",
-    "metaDescription": "Near blockchain  Supply Growth Chart shows a breakdown of daily block reward and the total Near  supply. All data is real-time, accurate and pulled directly from Near  blockchain.",
-    "heading": "Near Supply Growth Chart",
-    "description": "Near Supply Growth Chart shows a breakdown of daily block reward and the total Near supply.",
-    "yLabel": "Near Supply"
+    "metaTitle": "Near 공급량 차트: 유통량, 총 공급량 | NearBlocks ",
+    "metaDescription": "Near 블록체인 공급량 증가 차트는 일일 블록 보상과 Near 총 공급량의 분석을 보여줍니다. 모든 데이터는 실시간이며 정확하고 Near 블록체인에서 직접 가져옵니다.",
+    "heading": "Near 공급량 증가 차트",
+    "description": "Near 공급량 증가 차트는 일일 및 Near 총 공급량의 분석을 보여줍니다.",
+    "yLabel": "Near 공급량"
   },
   "txnsCharts": {
-    "metaTitle": "  거래 차트 근처 : 정보, 통계, 성장 | 블록 근처 ",
-    "metaDescription": "  거래 차트는 Near blockchain 블록 체인의 총 거래 수를 강조하며 총 트랜잭션, 총 블록 및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
-    "heading": "근처 일일 거래 차트",
-    "description": "차트는 Near blockchain의 총 거래 수를 강조하며, 총 블록및 총 신규 계정에 대한 일일 개별 분석이 표시됩니다.",
-    "yLabel": "일일 거래"
+    "metaTitle": "Near 거래 차트: 정보, 통계, 증가 | NearBlocks ",
+    "metaDescription": "Near 거래 차트는 Near 블록체인의 총 거래 수를 총 거래, 총 블록 및 확인된 새 계정 수의 일일 개별 분석과 함께 강조 표시합니다.",
+    "heading": "Near 일일 거래 차트",
+    "description": "차트는 Near 블록체인의 총 거래 수를 총 블록 및 확인된 새 계정 수의 일일 개별 분석과 함께 강조 표시합니다.",
+    "yLabel": "일일 거래 수"
   },
   "blocksCharts": {
-    "metaTitle": "근처   블록 카운트 차트 | 블록 근처 ",
-    "metaDescription": "블록체인 Ⓝ에 가까운 블록 카운트 차트는 근거리 블록체인에서 매일 생산되는 블록의 역사적 수를 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near   블록 체인에서 직접 가져온 것입니다.",
-    "heading": "블록 카운트 근처",
-    "description": "블록 카운트 차트 근처는 가까운 블록 체인에서 매일 생산 되는 블록의 역사적인 수를 보여줍니다.",
-    "yLabel": "일일 블록"
+    "metaTitle": "Near 블록 수 차트 | NearBlocks ",
+    "metaDescription": "Near 블록체인 블록 수 차트는 Near 블록체인에서 일일 생성되는 블록의 역사적 수를 보여줍니다. 모든 데이터는 실시간이며 정확하고 Near 블록체인에서 직접 가져옵니다.",
+    "heading": "Near 블록 수",
+    "description": "Near 블록 수 차트는 Near 블록체인에서 일일 생성되는 블록의 역사적 수를 보여줍니다.",
+    "yLabel": "일일 블록 수"
   },
   "addressesCharts": {
-    "metaTitle": "  고유 계정 차트 | 블록 근처 ",
-    "metaDescription": "블록체인  내 고유한 계정 차트는 근거리 블록체인의 계정 총 수와 매일 계정 수가 증가하는 것을 보여줍니다.",
-    "heading": "고유 계정 차트 에 가까운",
-    "description": "차트는 Near blockchain의 계정 의 총 고유 번호와 매일 계정 의 수를 증가 보여줍니다.",
-    "yLabel": "누적 계정 증가 근처"
+    "metaTitle": "Near 고유 계정 차트 | NearBlocks ",
+    "metaDescription": "Near 블록체인 고유 계정 차트는 Near 블록체인의 총 고유 계정 수와 일일 계정 수 증가를 보여줍니다.",
+    "heading": "Near 고유 계정 차트",
+    "description": "차트는 Near 블록체인의 총 고유 계정 수와 일일 계정 수 증가를 보여줍니다.",
+    "yLabel": "Near 누적 계정 증가"
   },
   "txnFeeCharts": {
-    "metaTitle": "거래수수료 내역에 가까운 : 거래수수료 | NearBlocks ",
-    "metaDescription": "Near 블록체인 거래 수수료 차트는 Near 블록체인(Ⓝ)에서 거래당 하루에 사용된 USD 금액을 보여줍니다. 모든 데이터는 실시간으로 정확하며 Near 블록체인에서 직접 가져온 것입니다.",
+    "metaTitle": "Near 거래 수수료 기록: 거래 수수료 | NearBlocks ",
+    "metaDescription": "Near 블록체인 거래 수수료 차트는 Near 블록체인(Ⓝ)에서 거래당 소비되는 일일 USD 금액을 보여줍니다. 모든 데이터는 실시간이며 정확하고 Near 블록체인에서 직접 가져옵니다.",
     "heading": "거래 수수료 차트",
-    "description": "이 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
+    "description": "차트는 Near 블록체인에서 거래당 소비되는 일일 USD 금액을 보여줍니다.",
     "yLabel": "거래 수수료(USD)"
   },
   "txnVolumeCharts": {
-    "metaTitle": "주변 거래량 차트 : 거래량 | NearBlocks ",
-    "metaDescription": "Near 블록체인 거래량 차트는 Near 블록체인에서 거래당 하루 USD로 지출된 금액을 보여줍니다.",
+    "metaTitle": "Near 거래량 차트: 거래량 | NearBlocks ",
+    "metaDescription": "Near 블록체인 거래량 차트는 Near 블록체인에서 거래당 소비되는 일일 USD 금액을 보여줍니다.",
     "heading": "거래량 차트",
-    "description": "차트는 Near 블록체인에서 거래당 USD로 하루 지출 금액을 보여줍니다.",
-    "yLabel": "Transaction Volume (USD) )"
+    "description": "차트는 Near 블록체인에서 거래당 소비되는 일일 USD 금액을 보여줍니다.",
+    "yLabel": "거래량(USD)"
   },
   "multichainTxns": {
-    "metaTitle": "멀티체인 트랜잭션 차트 | NearBlocks",
-    "metaDescription": "멀티체인 트랜잭션 차트는 Near 블록체인에서 멀티체인 트랜잭션의 총 수를 강조합니다.",
-    "heading": "멀티체인 트랜잭션 차트",
-    "description": "차트는 Near 블록체인에서 멀티체인 트랜잭션의 총 수를 강조합니다.",
-    "yLabel": "일일 멀티체인 트랜잭션"
+    "metaTitle": "멀티체인 거래 차트 | NearBlocks ",
+    "metaDescription": "멀티체인 거래 차트는 Near 블록체인의 총 멀티체인 거래 수를 강조 표시합니다.",
+    "heading": "멀티체인 거래 차트",
+    "description": "차트는 Near 블록체인의 총 멀티체인 거래 수를 강조 표시합니다.",
+    "yLabel": "일일 멀티체인 거래 수"
   }
 }

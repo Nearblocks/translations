@@ -1,10 +1,10 @@
 {
-  "metaTitle": "Reclamar cuenta | NearBlocks",
+  "metaTitle": "Reclamar Cuenta | NearBlocks",
   "metaDescription": "Reclama tu nombre, etiqueta y otra información.",
-  "heading": "Reclamar cuenta Ⓝ",
+  "heading": "Reclamar Cuenta Ⓝ",
   "form": {
     "heading": "Reclama tu nombre, etiqueta y otra información",
-    "content": "Reclama tu etiqueta de nombre y añade otra información relacionada con tu dirección Ⓝ completando el formulario a continuación. Para cada solicitud de edición, pediremos un depósito de {amount} Ⓝ para verificar la propiedad de tu dirección.",
+    "content": "Reclama tu Etiqueta de Nombre y agrega otra información relacionada con tu dirección Ⓝ completando el formulario a continuación. Para cada solicitud de edición, pediremos un depósito de {amount} Ⓝ para probar la propiedad de tu dirección.",
     "address": {
       "label": "Dirección Ⓝ"
     },
@@ -15,13 +15,13 @@
       "label": "Etiqueta"
     },
     "website": {
-      "label": "Sitio web"
+      "label": "Sitio Web"
     },
     "twitter": {
       "label": "Twitter"
     },
     "blog": {
-      "label": "Blog (o Medium)"
+      "label": "Blog (O Medium)"
     },
     "telegram": {
       "label": "Telegram"
@@ -33,11 +33,11 @@
       "label": "Keybase"
     },
     "info": {
-      "label": "Deposita {amount} Ⓝ en la siguiente dirección para demostrar tu propiedad:",
-      "tooltip": "La dirección de envío debe ser idéntica a la dirección a la que deseas añadir información."
+      "label": "Deposita {amount} Ⓝ a la siguiente dirección para probar tu propiedad:",
+      "tooltip": "La dirección de envío debe ser idéntica a la dirección a la que deseas agregar información."
     },
     "button": "Enviar",
-    "successMessage": "Gracias, revisaremos tu solicitud y la publicaremos una vez aprobada",
+    "successMessage": "Gracias, revisaremos tu solicitud y la listaremos después de que haya sido aprobada",
     "errorMessage": "¡Algo salió mal!"
   }
 }
