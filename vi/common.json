@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} là bắt buộc",
-    "invalid": "Vui lòng cung cấp {field} hợp lệ"
+    "invalid": "Vui lòng cung cấp {field} hợp lệ",
+    "rpcUrlFormat": "Vui lòng nhập URL hợp lệ",
+    "exists": "{field} này đã tồn tại"
   },
   "chart": {
     "source": "Nguồn: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "Do bảo trì bất ngờ, Nearblocks không đồng bộ. Một số blocks hoặc transactions có thể bị trễ.",
-  "rpcRateLimitError": "Bạn đã bị giới hạn tốc độ bởi RPC hiện tại ({rpcUrl}). Vui lòng thử lại sau hoặc chọn nhà cung cấp RPC khác từ menu dropdown {icon}."
+  "rpcRateLimitError": "Bạn đã bị giới hạn tốc độ bởi RPC hiện tại ({rpcUrl}). Vui lòng thử lại sau hoặc chọn nhà cung cấp RPC khác từ menu dropdown {icon}.",
+  "scrollForMore": "Cuộn để xem thêm",
+  "scrollToTop": "Cuộn lên đầu",
+  "rpcMenu": {
+      "addCustomRpc": "Thêm RPC Tùy chỉnh",
+      "rpcName": "Tên RPC",
+      "enterRpcName": "Nhập tên RPC",
+      "enterRpcUrl": "Nhập URL RPC",
+      "cancel": "Hủy",
+      "add": "Thêm",
+      "deleteCustomRpc": "Xóa RPC tùy chỉnh"
+  }
 }

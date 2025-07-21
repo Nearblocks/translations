@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} 是必需的",
-    "invalid": "請提供有效的 {field}"
+    "invalid": "請提供有效的 {field}",
+    "rpcUrlFormat": "請輸入有效的URL",
+    "exists": "此{field}已存在"
   },
   "chart": {
     "source": "來源：nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "由於意外維護，Nearblocks 未同步。一些 blocks 或 transactions 可能會延遲。",
-  "rpcRateLimitError": "您已被當前 RPC ({rpcUrl}) 限制。請稍後重試或從下拉菜單 {icon} 中選擇不同的 RPC 提供商。"
+  "rpcRateLimitError": "您已被當前 RPC ({rpcUrl}) 限制。請稍後重試或從下拉菜單 {icon} 中選擇不同的 RPC 提供商。",
+  "scrollForMore": "滾動查看更多",
+  "scrollToTop": "滾動到頂部",
+  "rpcMenu": {
+      "addCustomRpc": "添加自定義RPC",
+      "rpcName": "RPC名稱",
+      "enterRpcName": "輸入RPC名稱",
+      "enterRpcUrl": "輸入RPC URL",
+      "cancel": "取消",
+      "add": "添加",
+      "deleteCustomRpc": "刪除自定義RPC"
+    }
 }

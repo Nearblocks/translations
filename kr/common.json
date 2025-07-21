@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field}는 필수입니다",
-    "invalid": "유효한 {field}를 입력해주세요"
+    "invalid": "유효한 {field}를 입력해주세요",
+    "rpcUrlFormat": "유효한 URL을 입력하세요",
+    "exists": "이 {field}는 이미 존재합니다"
   },
   "chart": {
     "source": "출처: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "탈중앙화 거래소"
   },
   "outofSync": "예상치 못한 유지보수로 인해 Nearblocks가 동기화되지 않았습니다. 일부 블록이나 거래가 지연될 수 있습니다.",
-  "rpcRateLimitError": "현재 RPC ({rpcUrl})에 의해 속도 제한되었습니다. 나중에 다시 시도하거나 드롭다운 메뉴 {icon}에서 다른 RPC 제공자를 선택해주세요."
+  "rpcRateLimitError": "현재 RPC ({rpcUrl})에 의해 속도 제한되었습니다. 나중에 다시 시도하거나 드롭다운 메뉴 {icon}에서 다른 RPC 제공자를 선택해주세요.",
+  "scrollForMore": "더 보려면 스크롤",
+  "scrollToTop": "맨 위로 스크롤",
+  "rpcMenu": {
+      "addCustomRpc": "사용자 정의 RPC 추가",
+      "rpcName": "RPC 이름",
+      "enterRpcName": "RPC 이름 입력",
+      "enterRpcUrl": "RPC URL 입력",
+      "cancel": "취소",
+      "add": "추가",
+      "deleteCustomRpc": "사용자 정의 RPC 삭제"
+  }
 }

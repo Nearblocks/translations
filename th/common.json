@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} จำเป็น",
-    "invalid": "กรุณาระบุ {field} ที่ถูกต้อง"
+    "invalid": "กรุณาระบุ {field} ที่ถูกต้อง",
+    "rpcUrlFormat": "กรุณาใส่ URL ที่ถูกต้อง",
+    "exists": "{field} นี้มีอยู่แล้ว"
   },
   "chart": {
     "source": "แหล่งที่มา: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "เนื่องจากการบำรุงรักษาที่ไม่คาดคิด Nearblocks ไม่ซิงค์ Blocks หรือ transactions บางรายการอาจล่าช้า",
-  "rpcRateLimitError": "คุณถูก rate limit โดย RPC ปัจจุบัน ({rpcUrl}) กรุณาลองใหม่ภายหลังหรือเลือก RPC provider อื่นจากเมนู dropdown {icon}"
+  "rpcRateLimitError": "คุณถูก rate limit โดย RPC ปัจจุบัน ({rpcUrl}) กรุณาลองใหม่ภายหลังหรือเลือก RPC provider อื่นจากเมนู dropdown {icon}",
+  "scrollForMore": "เลื่อนดูเพิ่มเติม",
+  "scrollToTop": "เลื่อนขึ้นด้านบน",
+  "rpcMenu": {
+      "addCustomRpc": "เพิ่ม RPC ที่กำหนดเอง",
+      "rpcName": "ชื่อ RPC",
+      "enterRpcName": "ใส่ชื่อ RPC",
+      "enterRpcUrl": "ใส่ URL RPC",
+      "cancel": "ยกเลิก",
+      "add": "เพิ่ม",
+      "deleteCustomRpc": "ลบ RPC ที่กำหนดเอง"
+  }
 }

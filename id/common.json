@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} diperlukan",
-    "invalid": "Harap berikan {field} yang valid"
+    "invalid": "Harap berikan {field} yang valid",
+    "rpcUrlFormat": "Silakan masukkan URL yang valid",
+    "exists": "{field} ini sudah ada"
   },
   "chart": {
     "source": "Sumber: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Exchange Terdesentralisasi"
   },
   "outofSync": "Karena pemeliharaan tak terduga, Nearblocks tidak sinkron. Beberapa blok atau transaksi mungkin tertunda.",
-  "rpcRateLimitError": "Anda telah dibatasi oleh RPC saat ini ({rpcUrl}). Silakan coba lagi nanti atau pilih penyedia RPC yang berbeda dari menu dropdown {icon}."
+  "rpcRateLimitError": "Anda telah dibatasi oleh RPC saat ini ({rpcUrl}). Silakan coba lagi nanti atau pilih penyedia RPC yang berbeda dari menu dropdown {icon}.",
+  "scrollForMore": "Gulir untuk lebih banyak",
+  "scrollToTop": "Gulir ke Atas",
+  "rpcMenu": {
+      "addCustomRpc": "Tambahkan RPC Kustom",
+      "rpcName": "Nama RPC",
+      "enterRpcName": "Masukkan nama RPC",
+      "enterRpcUrl": "Masukkan URL RPC",
+      "cancel": "Batal",
+      "add": "Tambahkan",
+      "deleteCustomRpc": "Hapus RPC kustom"
+  }
 }

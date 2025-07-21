@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "Kailangan ang {field}",
-    "invalid": "Mangyaring magbigay ng wastong {field}"
+    "invalid": "Mangyaring magbigay ng wastong {field}",
+    "rpcUrlFormat": "Mangyaring maglagay ng wastong URL",
+    "exists": "Ang {field} na ito ay umiiral na"
   },
   "chart": {
     "source": "Pinagkunan: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralized Exchange"
   },
   "outofSync": "Dahil sa hindi inaasahang maintenance, ang Nearblocks ay hindi synchronized. Maaaring ma-delay ang ilang block o transaction.",
-  "rpcRateLimitError": "Na-rate limit ka ng kasalukuyang RPC ({rpcUrl}). Mangyaring subukan ulit mamaya o pumili ng ibang RPC provider mula sa dropdown menu {icon}."
+  "rpcRateLimitError": "Na-rate limit ka ng kasalukuyang RPC ({rpcUrl}). Mangyaring subukan ulit mamaya o pumili ng ibang RPC provider mula sa dropdown menu {icon}.",
+  "scrollForMore": "Mag-scroll para sa higit pa",
+  "scrollToTop": "Mag-scroll sa Tuktok",
+  "rpcMenu": {
+      "addCustomRpc": "Magdagdag ng Custom RPC",
+      "rpcName": "Pangalan ng RPC",
+      "enterRpcName": "Ilagay ang pangalan ng RPC",
+      "enterRpcUrl": "Ilagay ang RPC URL",
+      "cancel": "Kanselahin",
+      "add": "Magdagdag",
+      "deleteCustomRpc": "Burahin ang custom RPC"
+  }
 }
