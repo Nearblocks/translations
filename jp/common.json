@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field}は必須です",
-    "invalid": "有効な{field}を入力してください"
+    "invalid": "有効な{field}を入力してください",
+    "rpcUrlFormat": "有効なURLを入力してください",
+    "exists": "この{field}は既に存在します"
   },
   "chart": {
     "source": "ソース: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "分散型取引所"
   },
   "outofSync": "予期しないメンテナンスのため、Nearblocksは同期していません。一部のブロックや取引が遅れる可能性があります。",
-  "rpcRateLimitError": "現在のRPC ({rpcUrl}) によってレート制限されています。後でもう一度試すか、ドロップダウンメニュー{icon}から別のRPCプロバイダーを選択してください。"
+  "rpcRateLimitError": "現在のRPC ({rpcUrl}) によってレート制限されています。後でもう一度試すか、ドロップダウンメニュー{icon}から別のRPCプロバイダーを選択してください。",
+  "scrollForMore": "スクロールして詳細を表示",
+  "scrollToTop": "トップにスクロール",
+  "rpcMenu": {
+      "addCustomRpc": "カスタムRPCを追加",
+      "rpcName": "RPC名",
+      "enterRpcName": "RPC名を入力",
+      "enterRpcUrl": "RPC URLを入力",
+      "cancel": "キャンセル",
+      "add": "追加",
+      "deleteCustomRpc": "カスタムRPCを削除"
+  }
 }

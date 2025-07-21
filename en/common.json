@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} is required",
-    "invalid": "Please provide a valid {field}"
+    "invalid": "Please provide a valid {field}",
+    "rpcUrlFormat": "Please enter a valid URL",
+    "exists": "This {field} already exists"
   },
   "chart": {
     "source": "Source: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "Due to unexpected maintenance Nearblocks is out of sync. Some blocks or transactions may be delayed.",
-  "rpcRateLimitError": "You have been rate limited by the current RPC ({rpcUrl}). Please try again later or select a different RPC provider from the dropdown menu {icon}."
+  "rpcRateLimitError": "You have been rate limited by the current RPC ({rpcUrl}). Please try again later or select a different RPC provider from the dropdown menu {icon}.",
+  "scrollForMore": "Scroll for more",
+  "scrollToTop": "Scroll to Top",
+  "rpcMenu": {
+    "addCustomRpc": "Add Custom RPC",
+    "rpcName": "RPC Name",
+    "enterRpcName": "Enter RPC name",
+    "enterRpcUrl": "Enter RPC URL",
+    "cancel": "Cancel",
+    "add": "Add",
+    "deleteCustomRpc": "Delete custom RPC"
+  }
 }

@@ -61,7 +61,9 @@
   },
   "validation": {
     "required": "{field} обов'язкове",
-    "invalid": "Будь ласка, надайте дійсний {field}"
+    "invalid": "Будь ласка, надайте дійсний {field}",
+    "rpcUrlFormat": "Будь ласка, введіть дійсний URL",
+    "exists": "Цей {field} вже існує"
   },
   "chart": {
     "source": "Джерело: nearblocks.io"
@@ -77,5 +79,16 @@
     "decentralisedExchange": "Decentralised Exchange"
   },
   "outofSync": "Через несподіване обслуговування Nearblocks не синхронізований. Деякі blocks або transactions можуть бути затримані.",
-  "rpcRateLimitError": "Ви були обмежені поточним RPC ({rpcUrl}). Будь ласка, спробуйте пізніше або виберіть іншого RPC провайдера з випадаючого меню {icon}."
+  "rpcRateLimitError": "Ви були обмежені поточним RPC ({rpcUrl}). Будь ласка, спробуйте пізніше або виберіть іншого RPC провайдера з випадаючого меню {icon}.",
+  "scrollForMore": "Прокрутіть для перегляду",
+  "scrollToTop": "Прокрутити вгору",
+  "rpcMenu": {
+      "addCustomRpc": "Додати користувацький RPC",
+      "rpcName": "Ім'я RPC",
+      "enterRpcName": "Введіть ім'я RPC",
+      "enterRpcUrl": "Введіть URL RPC",
+      "cancel": "Скасувати",
+      "add": "Додати",
+      "deleteCustomRpc": "Видалити користувацький RPC"
+    }
 }
