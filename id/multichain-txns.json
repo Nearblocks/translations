@@ -22,5 +22,6 @@
   "noTxns": "Tidak ada transaksi",
   "totalTxns": "Total Transaksi",
   "volume": "Volume(24j)",
-  "networks": "Jaringan"
+  "networks": "Jaringan",
+  "destinationNetworkNotIndexed": "Jaringan tujuan tidak terindeks"
 }

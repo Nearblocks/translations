@@ -22,5 +22,6 @@
   "noTxns": "Нет транзакций",
   "totalTxns": "Всего транзакций",
   "volume": "Объём (24ч)",
-  "networks": "Сети"
+  "networks": "Сети",
+  "destinationNetworkNotIndexed": "Целевая сеть не проиндексирована"
 }

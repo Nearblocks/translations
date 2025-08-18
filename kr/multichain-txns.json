@@ -22,5 +22,6 @@
   "noTxns": "거래 없음",
   "totalTxns": "총 거래",
   "volume": "거래량(24시간)",
-  "networks": "네트워크"
+  "networks": "네트워크",
+  "destinationNetworkNotIndexed": "대상 네트워크가 색인되지 않았습니다"
 }

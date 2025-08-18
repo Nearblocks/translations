@@ -22,5 +22,6 @@
   "noTxns": "Walang mga transaction",
   "totalTxns": "Kabuuang Transaction",
   "volume": "Volume(24h)",
-  "networks": "Mga Network"
+  "networks": "Mga Network",
+  "destinationNetworkNotIndexed": "Hindi naka-index ang destination network"
 }

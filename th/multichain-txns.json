@@ -22,5 +22,6 @@
   "noTxns": "ไม่มี transactions",
   "totalTxns": "Total Transactions",
   "volume": "Volume(24h)",
-  "networks": "Networks"
+  "networks": "Networks",
+  "destinationNetworkNotIndexed": "เครือข่ายปลายทางยังไม่ได้จัดทำดัชนี"
 }

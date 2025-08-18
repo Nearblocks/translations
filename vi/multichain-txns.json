@@ -22,5 +22,6 @@
   "noTxns": "Không có transactions",
   "totalTxns": "Total Transactions",
   "volume": "Volume(24h)",
-  "networks": "Networks"
+  "networks": "Networks",
+  "destinationNetworkNotIndexed": "Mạng lưới đích chưa được lập chỉ mục"
 }

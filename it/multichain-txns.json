@@ -22,5 +22,6 @@
   "noTxns": "Nessuna transazione",
   "totalTxns": "Transazioni Totali",
   "volume": "Volume(24h)",
-  "networks": "Reti"
+  "networks": "Reti",
+  "destinationNetworkNotIndexed": "Rete di destinazione non indicizzata"
 }
