@@ -22,5 +22,6 @@
   "noTxns": "取引がありません",
   "totalTxns": "総取引数",
   "volume": "出来高（24時間）",
-  "networks": "ネットワーク"
+  "networks": "ネットワーク",
+  "destinationNetworkNotIndexed": "宛先ネットワークはインデックスされていません"
 }

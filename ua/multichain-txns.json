@@ -22,5 +22,6 @@
   "noTxns": "Немає transactions",
   "totalTxns": "Total Transactions",
   "volume": "Volume(24h)",
-  "networks": "Networks"
+  "networks": "Networks",
+  "destinationNetworkNotIndexed": "Цільова мережа не проіндексована"
 }
